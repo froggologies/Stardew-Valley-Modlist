@@ -1,0 +1,16 @@
+{
+    "GCMC.BasicSettings": "基础设置",
+    "GCMC.Enable": "启用",
+    "GCMC.Enable.Desc": "启用预测对礼物的反应。",
+    "GCMC.Distance": "距离",
+    "GCMC.Distance.Desc": "反应侦测范围。",
+    "GCMC.WaitingTime": "等待时间(秒)",
+    "GCMC.WaitingTime.Desc": "触发反应时NPC的等待时间。",
+    "GCMC.RequireGiftLog": "需要已送礼纪录",
+    "GCMC.RequireGiftLog.Desc": "没已送礼纪录不会显示礼物的反应。",
+    "GCMC.UnknownBubble": "显示未知",
+    "GCMC.UnknownBubble.Desc": "若需要已送礼纪录，未赠送过的礼物会显示问号。",
+    "GCMC.Compatibility": "相容性",
+    "GCMC.GiftWeekLimit": "每周赠礼上限",
+    "GCMC.GiftWeekLimit.Desc": "这个参数不会影响游戏NPC的每周礼物上限。\n假设你使用其他修改每周礼物上限的模组，Enable Predict Reaction To Gift的显示可能会不如你预期，那么就请在这里手动修改实际变动后的数值。"
+}
