@@ -1,0 +1,652 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Amaranth",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Amaranth.png",
+			"ToArea": { "X": 192, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Amaranth": true
+			}
+		},
+        {
+			"LogName": "Ancient Fruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/AncientFruit.png",
+			"ToArea": { "X": 352, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Ancient Fruit": true
+			}
+		},
+        {
+			"LogName": "Apple",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Apple.png",
+			"ToArea": { "X": 208, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Apple": true
+			}
+		},
+        {
+			"LogName": "Apricot",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Apricot.png",
+			"ToArea": { "X": 160, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Apricot": true
+			}
+		},
+        {
+			"LogName": "Artichoke",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Artichoke.png",
+			"ToArea": { "X": 160, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Artichoke": true
+			}
+		},
+        {
+			"LogName": "Banana",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Banana.png",
+			"ToArea": { "X": 304, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"CropsRedesign |contains= Banana": true
+			}
+		},
+        {
+			"LogName": "Bok Choy",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/BokChoy.png",
+			"ToArea": { "X": 224, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Bok Choy": true
+			}
+		},
+        {
+			"LogName": "Cauliflower",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Cauliflower.png",
+			"ToArea": { "X": 352, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Cauliflower": true
+			}
+		},
+        {
+			"LogName": "Cherry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Cherry.png",
+			"ToArea": { "X": 224, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Cherry": true
+			}
+		},
+        {
+			"LogName": "Coconut",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Coconut.png",
+			"ToArea": { "X": 256, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Coconut": true
+			}
+		},
+        {
+			"LogName": "Coffee Bean",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/CoffeeBean.png",
+			"ToArea": { "X": 16, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Coffee Bean": true
+			}
+		},
+        {
+			"LogName": "Cranberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Cranberry.png",
+			"ToArea": { "X": 288, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Cranberry": true
+			}
+		},
+        {
+			"LogName": "Eggplant",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Eggplant.png",
+			"ToArea": { "X": 128, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Eggplant": true
+			}
+		},
+        {
+			"LogName": "Garlic",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Garlic.png",
+			"ToArea": { "X": 128, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Garlic": true
+			}
+		},
+        {
+			"LogName": "Ginger",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Ginger.png",
+			"ToArea": { "X": 208, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"CropsRedesign |contains= Ginger": true
+			}
+		},
+        {
+			"LogName": "Hops",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Hops.png",
+			"ToArea": { "X": 256, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Hops": true
+			}
+		},
+        {
+			"LogName": "Hot Pepper",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/HotPepper.png",
+			"ToArea": { "X": 320, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Hot Pepper": true
+			}
+		},
+        {
+			"LogName": "Melon",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Melon.png",
+			"ToArea": { "X": 224, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Melon": true
+			}
+		},
+        {
+			"LogName": "Orange",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Orange.png",
+			"ToArea": { "X": 176, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Orange": true
+			}
+		},
+        {
+			"LogName": "Parsnip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Parsnip.png",
+			"ToArea": { "X": 0, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Parsnip": true
+			}
+		},
+        {
+			"LogName": "Peach",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Peach.png",
+			"ToArea": { "X": 192, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Peach": true
+			}
+		},
+        {
+			"LogName": "Pineapple",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Pineapple.png",
+			"ToArea": { "X": 256, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Pineapple": true
+			}
+		},
+        {
+			"LogName": "Pomegranate",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Pomegranate.png",
+			"ToArea": { "X": 208, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Pomegranate": true
+			}
+		},
+        {
+			"LogName": "Poppy",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Poppy.png",
+			"ToArea": { "X": 256, "Y": 240, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Poppy": true
+			}
+		},
+        {
+			"LogName": "Poppy Top",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Poppy_Top.png",
+			"ToArea": { "X": 272, "Y": 240, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Poppy": true
+			}
+		},
+        {
+			"LogName": "Potato",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Potato.png",
+			"ToArea": { "X": 0, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Potato": true
+			}
+		},
+        {
+			"LogName": "Pumpkin",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Pumpkin.png",
+			"ToArea": { "X": 192, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Pumpkin": true
+			}
+		},
+        {
+			"LogName": "Red Cabbage",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/RedCabbage.png",
+			"ToArea": { "X": 32, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Red Cabbage": true
+			}
+		},
+        {
+			"LogName": "Strawberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Strawberry.png",
+			"ToArea": { "X": 256, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Strawberry": true
+			}
+		},
+        {
+			"LogName": "Tomato",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Tomato.png",
+			"ToArea": { "X": 256, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Tomato": true
+			}
+		},
+        {
+			"LogName": "Unmilled Rice",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/UnmilledRice.png",
+			"ToArea": { "X": 112, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Unmilled Rice": true
+			}
+		},
+        {
+			"LogName": "Wheat",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Wheat.png",
+			"ToArea": { "X": 352, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Wheat": true
+			}
+		},
+        {
+			"LogName": "Yam",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/Yam.png",
+			"ToArea": { "X": 256, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"CropsRedesign |contains= Yam": true
+			}
+		},
+
+// CROPS WITH SC vs VT OPTION
+
+        {
+			"LogName": "Beet",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{BeetStyle}}/Beet.png",
+			"ToArea": { "X": 320, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Beet}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Beet}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Blueberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{BlueberryStyle}}/Blueberry.png",
+			"ToArea": { "X": 288, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Blueberry}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Blueberry}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Blue Jazz",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{BlueJazzStyle}}/BlueJazz.png",
+			"ToArea": { "X": 336, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Blue Jazz}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Blue Jazz}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Blue Jazz Top",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{BlueJazzStyle}}/BlueJazz_Top.png",
+			"ToArea": { "X": 352, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Blue Jazz}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Blue Jazz}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Cactus Fruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{CactusFruitStyle}}/CactusFruit.png",
+			"ToArea": { "X": 288, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Cactus Fruit}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Cactus Fruit}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Corn",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{CornStyle}}/Corn.png",
+			"ToArea": { "X": 96, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Corn}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Corn}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Fairy Rose",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{FairyRoseStyle}}/FairyRose.png",
+			"ToArea": { "X": 304, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Fairy Rose}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Fairy Rose}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Fairy Rose Top",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{FairyRoseStyle}}/FairyRose_Top.png",
+			"ToArea": { "X": 320, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Fairy Rose}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Fairy Rose}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Grapes",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{GrapesStyle}}/Grapes.png",
+			"ToArea": { "X": 224, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Grapes}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Grapes}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Green Bean",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{GreenBeanStyle}}/GreenBean.png",
+			"ToArea": { "X": 320, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Green Bean}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Green Bean}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Kale",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{KaleStyle}}/Kale.png",
+			"ToArea": { "X": 160, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Kale}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Kale}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Mango",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{MangoStyle}}/Mango.png",
+			"ToArea": { "X": 288, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Mango}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Mango}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Qi Bean",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{QiBeanStyle}}/QiBean.png",
+			"ToArea": { "X": 32, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Qi Bean}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Qi Bean}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Qi Fruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{QiFruitStyle}}/QiFruit.png",
+			"ToArea": { "X": 16, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Qi Fruit}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Qi Fruit}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Radish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{RadishStyle}}/Radish.png",
+			"ToArea": { "X": 0, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Radish}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Radish}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Rhubarb",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{RhubarbStyle}}/Rhubarb.png",
+			"ToArea": { "X": 192, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Rhubarb}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Rhubarb}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Starfruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{StarfruitStyle}}/Starfruit.png",
+			"ToArea": { "X": 64, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Starfruit}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Starfruit}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Summer Spangle",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{SummerSpangleStyle}}/SummerSpangle.png",
+			"ToArea": { "X": 272, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Summer Spangle}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Summer Spangle}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Summer Spangle Top",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{SummerSpangleStyle}}/SummerSpangle_Top.png",
+			"ToArea": { "X": 288, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Summer Spangle}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Summer Spangle}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Sunflower",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{SunflowerStyle}}/Sunflower.png",
+			"ToArea": { "X": 208, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Sunflower}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Sunflower}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Sweet Gem Berry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{SweetGemBerryStyle}}/SweetGemBerry.png",
+			"ToArea": { "X": 144, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Sweet Gem Berry}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Sweet Gem Berry}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Taro Root",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{TaroRootStyle}}/TaroRoot.png",
+			"ToArea": { "X": 224, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Taro Root}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Taro Root}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Tea Leaves",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{TeaLeavesStyle}}/TeaLeaves.png",
+			"ToArea": { "X": 368, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Tea Leaves}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Tea Leaves}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Tulip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{TulipStyle}}/Tulip.png",
+			"ToArea": { "X": 240, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Tulip}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Tulip}}' = 'true'": true
+			}
+		},
+        {
+			"LogName": "Tulip Top",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Crops/{{TulipStyle}}/Tulip_Top.png",
+			"ToArea": { "X": 256, "Y": 384, "Width": 16, "Height": 16 },
+			"When": 
+            {
+				"Query: '{{CropsRedesignVanillaTweaksStyle |contains= Tulip}}' = 'true' OR '{{CropsRedesignSunnyCropsStyle |contains= Tulip}}' = 'true'": true
+			}
+		}
+    ]
+}

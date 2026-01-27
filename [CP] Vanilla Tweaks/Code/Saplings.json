@@ -1,0 +1,95 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Apple",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Apple.png",
+			"ToArea": { "X": 144, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SaplingsRedesign |contains= Apple": true
+			}
+		},
+        {
+			"LogName": "Apricot",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Apricot.png",
+			"ToArea": { "X": 80, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SaplingsRedesign |contains= Apricot": true
+			}
+		},
+        {
+			"LogName": "Banana",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Banana.png",
+			"ToArea": { "X": 336, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"SaplingsRedesign |contains= Banana": true
+			}
+		},
+        {
+			"LogName": "Cherry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Cherry.png",
+			"ToArea": { "X": 64, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SaplingsRedesign |contains= Cherry": true
+			}
+		},
+        {
+			"LogName": "Mango",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Mango.png",
+			"ToArea": { "X": 304, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"SaplingsRedesign |contains= Mango": true
+			}
+		},
+        {
+			"LogName": "Orange",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Orange.png",
+			"ToArea": { "X": 96, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SaplingsRedesign |contains= Orange": true
+			}
+		},
+        {
+			"LogName": "Peach",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Peach.png",
+			"ToArea": { "X": 112, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SaplingsRedesign |contains= Peach": true
+			}
+		},
+        {
+			"LogName": "Pomegranate",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Saplings/Pomegranate.png",
+			"ToArea": { "X": 128, "Y": 416, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SaplingsRedesign |contains= Pomegranate": true
+			}
+		}
+    ]
+}

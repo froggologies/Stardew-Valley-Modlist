@@ -1,0 +1,516 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Ancient Fruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/AncientFruit.png",
+			"ToArea": { "X": 304, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Ancient Fruit": true
+			}
+		},
+        {
+			"LogName": "Fiber",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/Fiber.png",
+			"ToArea": { "X": 336, "Y": 576, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"SeedBagsRedesign |contains= Fiber": true
+			}
+		},
+        {
+			"LogName": "Mixed Seeds",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/MixedSeeds.png",
+			"ToArea": { "X": 32, "Y": 512, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Mixed Seeds": true
+			}
+		},
+        {
+			"LogName": "Rice Shoot",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/RiceShoot.png",
+			"ToArea": { "X": 144, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Rice Shoot": true
+			}
+		},
+        {
+			"LogName": "Sunflower",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/Sunflower.png",
+			"ToArea": { "X": 368, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Sunflower": true
+			}
+		},
+        {
+			"LogName": "Sweet Gem Berry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/SweetGemBerry.png",
+			"ToArea": { "X": 176, "Y": 224, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Sweet Gem Berry": true
+			}
+		},
+        {
+			"LogName": "Taro Tuber",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/TaroTuber.png",
+			"ToArea": { "X": 240, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"SeedBagsRedesign |contains= Taro Tuber": true
+			}
+		},
+        {
+			"LogName": "Tea Sapling",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/TeaSapling.png",
+			"ToArea": { "X": 176, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Tea Sapling": true
+			}
+		},
+
+// SEASONAL SEED BAGS
+
+        {
+			"LogName": "Spring Wild Seeds",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/WildSeeds_Spring.png",
+			"ToArea": { "X": 240, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Wild Seeds": true
+			}
+		},
+		{
+			"LogName": "Summer Wild Seeds",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/WildSeeds_Summer.png",
+			"ToArea": { "X": 256, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Wild Seeds": true
+			}
+		},
+		{
+			"LogName": "Fall Wild Seeds",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/WildSeeds_Fall.png",
+			"ToArea": { "X": 272, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Wild Seeds": true
+			}
+		},
+		{
+			"LogName": "Winter Wild Seeds",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/WildSeeds_Winter.png",
+			"ToArea": { "X": 288, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Wild Seeds": true
+			}
+		},
+		{
+			"LogName": "Amaranth",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Amaranth.png",
+			"ToArea": { "X": 176, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Artichoke",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Artichoke.png",
+			"ToArea": { "X": 144, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Beet",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Beet.png",
+			"ToArea": { "X": 224, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Blueberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Blueberry.png",
+			"ToArea": { "X": 16, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Blue Jazz",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/BlueJazz.png",
+			"ToArea": { "X": 336, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Bok Choy",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/BokChoy.png",
+			"ToArea": { "X": 176, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Cactus",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Cactus.png",
+			"ToArea": { "X": 160, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Cauliflower",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Cauliflower.png",
+			"ToArea": { "X": 288, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Corn",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Corn.png",
+			"ToArea": { "X": 112, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Cranberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Cranberry.png",
+			"ToArea": { "X": 208, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Eggplant",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Eggplant.png",
+			"ToArea": { "X": 128, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Fairy Rose",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/FairyRose.png",
+			"ToArea": { "X": 272, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Garlic",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Garlic.png",
+			"ToArea": { "X": 320, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Grapes",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Grapes.png",
+			"ToArea": { "X": 208, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Green Bean",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/GreenBean.png",
+			"ToArea": { "X": 272, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Hops",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Hops.png",
+			"ToArea": { "X": 224, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Hot Pepper",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/HotPepper.png",
+			"ToArea": { "X": 32, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Kale",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Kale.png",
+			"ToArea": { "X": 336, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Melon",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Melon.png",
+			"ToArea": { "X": 368, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Parsnip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Parsnip.png",
+			"ToArea": { "X": 256, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Pineapple",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Pineapple.png",
+			"ToArea": { "X": 272, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Poppy",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Poppy.png",
+			"ToArea": { "X": 336, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Potato",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Potato.png",
+			"ToArea": { "X": 304, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Pumpkin",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Pumpkin.png",
+			"ToArea": { "X": 160, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Radish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Radish.png",
+			"ToArea": { "X": 64, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Red Cabbage",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/RedCabbage.png",
+			"ToArea": { "X": 80, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Rhubarb",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Rhubarb.png",
+			"ToArea": { "X": 352, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Starfruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Starfruit.png",
+			"ToArea": { "X": 96, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Strawberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Strawberry.png",
+			"ToArea": { "X": 16, "Y": 496, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Summer Spangle",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/SummerSpangle.png",
+			"ToArea": { "X": 368, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Tomato",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Tomato.png",
+			"ToArea": { "X": 0, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Tulip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Tulip.png",
+			"ToArea": { "X": 304, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Wheat",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Wheat.png",
+			"ToArea": { "X": 48, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+		{
+			"LogName": "Yam",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/SeedBags/{{SeedBagStyle}}/{{SeasonalSeedBags}}/Yam.png",
+			"ToArea": { "X": 192, "Y": 320, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"SeedBagsRedesign |contains= Regular Seed Bags": true
+			}
+		},
+    ]
+}

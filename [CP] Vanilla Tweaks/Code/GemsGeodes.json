@@ -1,0 +1,137 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Amethyst",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Amethyst.png",
+			"ToArea": {"X": "288", "Y": "32", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Amethyst": true
+			}
+		},
+        {
+			"LogName": "Aquamarine",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Aquamarine.png",
+			"ToArea": {"X": "224", "Y": "32", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Aquamarine": true
+			}
+		},
+        {
+			"LogName": "Diamond",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Diamond.png",
+			"ToArea": {"X": "0", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Diamond": true
+			}
+		},
+        {
+			"LogName": "Emerald",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Emerald.png",
+			"ToArea": {"X": "192", "Y": "32", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Emerald": true
+			}
+		},
+        {
+			"LogName": "Jade",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Jade.png",
+			"ToArea": {"X": "352", "Y": "32", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Jade": true
+			}
+		},
+        {
+			"LogName": "Prismatic Shard",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/PrismaticShard.png",
+			"ToArea": {"X": "32", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Prismatic Shard": true
+			}
+		},
+        {
+			"LogName": "Ruby",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Ruby.png",
+			"ToArea": {"X": "256", "Y": "32", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Ruby": true
+			}
+		},
+        {
+			"LogName": "Topaz",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Topaz.png",
+			"ToArea": {"X": "320", "Y": "32", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Topaz": true
+			}
+		},
+        {
+			"LogName": "Geode",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/Geode.png",
+			"ToArea": {"X": "112", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Geode": true
+			}
+		},
+        {
+			"LogName": "Frozen Geode",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/FrozenGeode.png",
+			"ToArea": {"X": "128", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Frozen Geode": true
+			}
+		},
+        {
+			"LogName": "Magma Geode",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/MagmaGeode.png",
+			"ToArea": {"X": "144", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Magma Geode": true
+			}
+		},
+        {
+			"LogName": "Omni Geode",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/GemsGeodes/OmniGeode.png",
+			"ToArea": {"X": "80", "Y": "496", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"GemsGeodesRedesign |contains= Omni Geode": true
+			}
+		}
+    ]
+}

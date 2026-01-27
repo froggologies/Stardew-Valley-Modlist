@@ -1,0 +1,11 @@
+{
+	"Name": "Vanilla Tweaks",
+	"Author": "Tai, Lani & Airyn",
+	"Version": "1.1.0",
+	"Description": "Vanilla Tweaks, a massive texture pack to enhance your gameplay. Change the look of your crops, forage, seeds and more!",
+	"UniqueID": "Taiyo.VanillaTweaks",
+	"UpdateKeys": ["Nexus:10852"],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}

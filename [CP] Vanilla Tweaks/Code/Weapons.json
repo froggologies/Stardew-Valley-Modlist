@@ -1,0 +1,592 @@
+{
+    "Changes": 
+    [
+
+// CLUBS
+
+        {
+			"LogName": "Dragontooth Club",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/DragontoothClub.png",
+			"ToArea": { "X": 32, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Dragontooth Club": true
+			}
+		},
+        {
+			"LogName": "Dwarf Hammer",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/DwarfHammer.png",
+			"ToArea": { "X": 112, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Dwarf Hammer": true
+			}
+		},
+        {
+			"LogName": "Femur",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/Femur.png",
+			"ToArea": { "X": 112, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Femur": true
+			}
+		},
+        {
+			"LogName": "Galaxy Hammer",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/GalaxyHammer.png",
+			"ToArea": { "X": 80, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Galaxy Hammer": true
+			}
+		},
+        {
+			"LogName": "Infinity Gavel",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/InfinityGavel.png",
+			"ToArea": { "X": 112, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Infinity Gavel": true
+			}
+		},
+        {
+			"LogName": "Kudgel",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/Kudgel.png",
+			"ToArea": { "X": 96, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Kudgel": true
+			}
+		},
+        {
+			"LogName": "Lead Rod",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/LeadRod.png",
+			"ToArea": { "X": 32, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Lead Rod": true
+			}
+		},
+        {
+			"LogName": "The Slammer",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/TheSlammer.png",
+			"ToArea": { "X": 64, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= The Slammer": true
+			}
+		},
+        {
+			"LogName": "Wood Club",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/WoodClub.png",
+			"ToArea": { "X": 0, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Wood Club": true
+			}
+		},
+        {
+			"LogName": "Wood Mallet",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Clubs/WoodMallet.png",
+			"ToArea": { "X": 48, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Wood Mallet": true
+			}
+		},
+
+// DAGGERS
+
+		{
+			"LogName": "Broken Trident",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/BrokenTrident.png",
+			"ToArea": { "X": 48, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Broken Trident": true
+			}
+		},
+		{
+			"LogName": "Burglar's Shank",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/BurglarsShank.png",
+			"ToArea": { "X": 32, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Burglar's Shank": true
+			}
+		},
+		{
+			"LogName": "Carving Knife",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/CarvingKnife.png",
+			"ToArea": { "X": 0, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Carving Knife": true
+			}
+		},
+		{
+			"LogName": "Crystal Dagger",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/CrystalDagger.png",
+			"ToArea": { "X": 80, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Crystal Dagger": true
+			}
+		},
+		{
+			"LogName": "Dragontooth Shiv",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/DragontoothShiv.png",
+			"ToArea": { "X": 48, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Dragontooth Shiv": true
+			}
+		},
+		{
+			"LogName": "Dwarf Dagger",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/DwarfDagger.png",
+			"ToArea": { "X": 0, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Dwarf Dagger": true
+			}
+		},
+		{
+			"LogName": "Elf Blade",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/ElfBlade.png",
+			"ToArea": { "X": 64, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Elf Blade": true
+			}
+		},
+		{
+			"LogName": "Galaxy Dagger",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/GalaxyDagger.png",
+			"ToArea": { "X": 112, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Galaxy Dagger": true
+			}
+		},
+		{
+			"LogName": "Infinity Dagger",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/InfinityDagger.png",
+			"ToArea": { "X": 0, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Infinity Dagger": true
+			}
+		},
+		{
+			"LogName": "Iridium Needle",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/IridiumNeedle.png",
+			"ToArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Iridium Needle": true
+			}
+		},
+		{
+			"LogName": "Iron Dirk",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/IronDirk.png",
+			"ToArea": { "X": 16, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Iron Dirk": true
+			}
+		},
+		{
+			"LogName": "Shadow Dagger",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/ShadowDagger.png",
+			"ToArea": { "X": 48, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Shadow Dagger": true
+			}
+		},
+		{
+			"LogName": "Wicked Kris",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/WickedKris.png",
+			"ToArea": { "X": 80, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Wicked Kris": true
+			}
+		},
+		{
+			"LogName": "Wind Spire",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Daggers/WindSpire.png",
+			"ToArea": { "X": 96, "Y": 32, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Wind Spire": true
+			}
+		},
+
+// SWORDS
+
+		{
+			"LogName": "Claymore",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/Claymore.png",
+			"ToArea": { "X": 32, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Claymore": true
+			}
+		},
+		{
+			"LogName": "Cutlass",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/Cutlass.png",
+			"ToArea": { "X": 64, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Cutlass": true
+			}
+		},
+		{
+			"LogName": "Dark Sword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/DarkSword.png",
+			"ToArea": { "X": 32, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Dark Sword": true
+			}
+		},
+		{
+			"LogName": "Dragontooth Cutlass",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/DragontoothCutlass.png",
+			"ToArea": { "X": 16, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Dragontooth Cutlass": true
+			}
+		},
+		{
+			"LogName": "Dwarf Sword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/DwarfSword.png",
+			"ToArea": { "X": 96, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Dwarf Sword": true
+			}
+		},
+		{
+			"LogName": "Forest Sword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/ForestSword.png",
+			"ToArea": { "X": 112, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Forest Sword": true
+			}
+		},
+		{
+			"LogName": "Galaxy Sword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/GalaxySword.png",
+			"ToArea": { "X": 64, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Galaxy Sword": true
+			}
+		},
+		{
+			"LogName": "Infinity Blade",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/InfinityBlade.png",
+			"ToArea": { "X": 96, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Infinity Blade": true
+			}
+		},
+		{
+			"LogName": "Insect Head",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/InsectHead.png",
+			"ToArea": { "X": 80, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Insect Head": true
+			}
+		},
+		{
+			"LogName": "Iron Edge",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/IronEdge.png",
+			"ToArea": { "X": 96, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Iron Edge": true
+			}
+		},
+		{
+			"LogName": "Lava Katana",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/LavaKatana.png",
+			"ToArea": { "X": 16, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Lava Katana": true
+			}
+		},
+		{
+			"LogName": "Neptune's Glaive",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/NeptunesGlaive.png",
+			"ToArea": { "X": 96, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Neptune's Glaive": true
+			}
+		},
+		{
+			"LogName": "Obsidian Edge",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/ObsidianEdge.png",
+			"ToArea": { "X": 0, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Obsidian Edge": true
+			}
+		},
+		{
+			"LogName": "Ossified Blade",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/OssifiedBlade.png",
+			"ToArea": { "X": 64, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"WeaponsRedesign |contains= Ossified Blade": true
+			}
+		},
+		{
+			"LogName": "Pirate's Sword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/PiratesSword.png",
+			"ToArea": { "X": 48, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Pirate's Sword": true
+			}
+		},
+		{
+			"LogName": "Rusty Sword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/RustySword.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Rusty Sword": true
+			}
+		},
+		{
+			"LogName": "Silver Saber",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/SilverSaber.png",
+			"ToArea": { "X": 16, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Silver Saber": true
+			}
+		},
+		{
+			"LogName": "Steel Falchion",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/SteelFalchion.png",
+			"ToArea": { "X": 32, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Steel Falchion": true
+			}
+		},
+		{
+			"LogName": "Steel Smallsword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/SteelSmallsword.png",
+			"ToArea": { "X": 48, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Steel Smallsword": true
+			}
+		},
+		{
+			"LogName": "Tempered Broadsword",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/TemperedBroadsword.png",
+			"ToArea": { "X": 64, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Tempered Broadsword": true
+			}
+		},
+		{
+			"LogName": "Templar's Blade",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/TemplarsBlade.png",
+			"ToArea": { "X": 112, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Templar's Blade": true
+			}
+		},
+		{
+			"LogName": "Wooden Blade",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/WoodenBlade.png",
+			"ToArea": { "X": 64, "Y": 16, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Wooden Blade": true
+			}
+		},
+		{
+			"LogName": "Yeti Tooth",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Swords/YetiTooth.png",
+			"ToArea": { "X": 0, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Yeti Tooth": true
+			}
+		},
+
+// SCYTHES
+
+		{
+			"LogName": "Scythe",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Scythes/Scythe.png",
+			"ToArea": { "X": 112, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Scythe": true
+			}
+		},
+		{
+			"LogName": "Golden Scythe",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Scythes/GoldenScythe.png",
+			"ToArea": { "X": 80, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Golden Scythe": true
+			}
+		},
+		
+// SLINGSHOTS
+
+		{
+			"LogName": "Slingshot",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Slingshots/Slingshot.png",
+			"ToArea": { "X": 0, "Y": 64, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Slingshot": true
+			}
+		},
+		{
+			"LogName": "Master Slingshot",
+			"Action": "EditImage",
+			"Target": "TileSheets/weapons",
+			"FromFile": "assets/Weapons/Slingshots/MasterSlingshot.png",
+			"ToArea": { "X": 16, "Y": 64, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"WeaponsRedesign |contains= Master Slingshot": true
+			}
+		}
+    ]
+}

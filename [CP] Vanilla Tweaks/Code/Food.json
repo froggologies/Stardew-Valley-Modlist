@@ -1,0 +1,897 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Algae Soup",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/AlgaeSoup.png",
+			"ToArea": { "X": 0, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Algae Soup": true
+			}
+		},
+		{
+			"LogName": "Artichoke Dip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/ArtichokeDip.png",
+			"ToArea": { "X": 80, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Artichoke Dip": true
+			}
+		},
+		{
+			"LogName": "Autumn's Bounty",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/AutumnsBounty.png",
+			"ToArea": { "X": 304, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Autumn's Bounty": true
+			}
+		},
+        {
+			"LogName": "Baked Fish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/BakedFish.png",
+			"ToArea": { "X": 96, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Baked Fish": true
+			}
+		},
+		{
+			"LogName": "Banana Pudding",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/BananaPudding.png",
+			"ToArea": { "X": 256, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Banana Pudding": true
+			}
+		},
+        {
+			"LogName": "Bean Hotpot",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/BeanHotpot.png",
+			"ToArea": { "X": 240, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Bean Hotpot": true
+			}
+		},
+        {
+			"LogName": "Blackberry Cobbler",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/BlackberryCobbler.png",
+			"ToArea": { "X": 176, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Blackberry Cobbler": true
+			}
+		},
+        {
+			"LogName": "Blueberry Tart",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/BlueberryTart.png",
+			"ToArea": { "X": 288, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Blueberry Tart": true
+			}
+		},
+        {
+			"LogName": "Bread",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Bread_{{BreadDesign}}.png",
+			"ToArea": { "X": 0, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Bread": true
+			}
+		},
+        {
+			"LogName": "Bread Description Edit",
+			"Action": "EditData",
+			"Target": "Data/ObjectInformation",
+			"Fields": {
+				"216": 
+				{
+					"5": "A crusty loaf."
+				}
+			},
+			"When": 
+			{
+				"FoodRedesign |contains= Bread": true,
+				"BreadDesign": "Loaf"
+			}
+		},
+		{
+			"LogName": "Bruschetta",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Bruschetta.png",
+			"ToArea": { "X": 288, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Bruschetta": true
+			}
+		},
+        {
+			"LogName": "Bug Steak",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/BugSteak.png",
+			"ToArea": { "X": 160, "Y": 576, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Bug Steak": true
+			}
+		},
+        {
+			"LogName": "Carp Surprise",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CarpSurprise.png",
+			"ToArea": { "X": 272, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Carp Surprise": true
+			}
+		},
+        {
+			"LogName": "Cheese Cauliflower",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CheeseCauliflower.png",
+			"ToArea": { "X": 80, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Cheese Cauliflower": true
+			}
+		},
+        {
+			"LogName": "Chocolate Cake",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/ChocolateCake.png",
+			"ToArea": { "X": 64, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Chocolate Cake": true
+			}
+		},
+		{
+			"LogName": "Chowder",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Chowder.png",
+			"ToArea": { "X": 112, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Chowder": true
+			}
+		},
+		{
+			"LogName": "Coleslaw",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Coleslaw.png",
+			"ToArea": { "X": 0, "Y": 432, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Coleslaw": true
+			}
+		},
+        {
+			"LogName": "Complete Breakfast",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CompleteBreakfast.png",
+			"ToArea": { "X": 144, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Complete Breakfast": true
+			}
+		},
+        {
+			"LogName": "Cookie",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Cookie.png",
+			"ToArea": { "X": 112, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Cookie": true
+			}
+		},
+        {
+			"LogName": "Crab Cakes",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CrabCakes.png",
+			"ToArea": { "X": 192, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Crab Cakes": true
+			}
+		},
+        {
+			"LogName": "Cranberry Candy",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CranberryCandy.png",
+			"ToArea": { "X": 192, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Cranberry Candy": true
+			}
+		},
+        {
+			"LogName": "Cranberry Sauce",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CranberrySauce.png",
+			"ToArea": { "X": 352, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Cranberry Sauce": true
+			}
+		},
+        {
+			"LogName": "Crispy Bass",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/CrispyBass.png",
+			"ToArea": { "X": 352, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Crispy Bass": true
+			}
+		},
+        {
+			"LogName": "Dish O' The Sea",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/DishOTheSea.png",
+			"ToArea": { "X": 32, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Dish O' The Sea": true
+			}
+		},
+        {
+			"LogName": "Eggplant Parmesan",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/EggplantParmesan.png",
+			"ToArea": { "X": 240, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Eggplant Parmesan": true
+			}
+		},
+        {
+			"LogName": "Escargot",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Escargot.png",
+			"ToArea": { "X": 144, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Escargot": true
+			}
+		},
+        {
+			"LogName": "Farmer's Lunch",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FarmersLunch.png",
+			"ToArea": { "X": 0, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Farmer's Lunch": true
+			}
+		},
+        {
+			"LogName": "Fiddlehead Risotto",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FiddleheadRisotto.png",
+			"ToArea": { "X": 16, "Y": 432, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fiddlehead Risotto": true
+			}
+		},
+        {
+			"LogName": "Fish Stew",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FishStew.png",
+			"ToArea": { "X": 128, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fish Stew": true
+			}
+		},
+        {
+			"LogName": "Fish Taco",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FishTaco.png",
+			"ToArea": { "X": 336, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fish Taco": true
+			}
+		},
+        {
+			"LogName": "Fried Calamari",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FriedCalamari.png",
+			"ToArea": { "X": 160, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fried Calamari": true
+			}
+		},
+        {
+			"LogName": "Fried Eel",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FriedEel.png",
+			"ToArea": { "X": 144, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fried Eel": true
+			}
+		},
+        {
+			"LogName": "Fried Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FriedEgg.png",
+			"ToArea": { "X": 32, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fried Egg": true
+			}
+		},
+        {
+			"LogName": "Fried Mushroom",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FriedMushroom.png",
+			"ToArea": { "X": 208, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fried Mushroom": true
+			}
+		},
+        {
+			"LogName": "Fruit Salad",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/FruitSalad.png",
+			"ToArea": { "X": 160, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Fruit Salad": true
+			}
+		},
+        {
+			"LogName": "Ginger Ale",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/GingerAle.png",
+			"ToArea": { "X": 240, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Ginger Ale": true
+			}
+		},
+        {
+			"LogName": "Glazed Yams",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/GlazedYams.png",
+			"ToArea": { "X": 256, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Glazed Yams": true
+			}
+		},
+        {
+			"LogName": "Hashbrowns",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Hashbrowns.png",
+			"ToArea": { "X": 288, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Hashbrowns": true
+			}
+		},
+        {
+			"LogName": "Icecream",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Icecream.png",
+			"ToArea": { "X": 272, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Icecream": true
+			}
+		},
+        {
+			"LogName": "Lobster Bisque",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/LobsterBisque.png",
+			"ToArea": { "X": 160, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Lobster Bisque": true
+			}
+		},
+        {
+			"LogName": "Lucky Lunch",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/LuckyLunch.png",
+			"ToArea": { "X": 192, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Lucky Lunch": true
+			}
+		},
+        {
+			"LogName": "Maki Roll",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/MakiRoll.png",
+			"ToArea": { "X": 192, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Maki Roll": true
+			}
+		},
+        {
+			"LogName": "Mango Sticky Rice",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/MangoStickyRice.png",
+			"ToArea": { "X": 272, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Mango Sticky Rice": true
+			}
+		},
+        {
+			"LogName": "Maple Bar",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/MapleBar.png",
+			"ToArea": { "X": 176, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Maple Bar": true
+			}
+		},
+        {
+			"LogName": "Miners Treat",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/MinersTreat.png",
+			"ToArea": { "X": 48, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Miners Treat": true
+			}
+		},
+        {
+			"LogName": "Omelet",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Omelet.png",
+			"ToArea": { "X": 48, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Omelet": true
+			}
+		},
+        {
+			"LogName": "Pale Broth",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PaleBroth.png",
+			"ToArea": { "X": 16, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pale Broth": true
+			}
+		},
+        {
+			"LogName": "Pancakes",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Pancakes.png",
+			"ToArea": { "X": 304, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pancakes": true
+			}
+		},
+        {
+			"LogName": "Parsnip Soup",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/ParsnipSoup.png",
+			"ToArea": { "X": 112, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Parsnip Soup": true
+			}
+		},
+        {
+			"LogName": "Pepper Poppers",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PepperPoppers.png",
+			"ToArea": { "X": 368, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pepper Poppers": true
+			}
+		},
+        {
+			"LogName": "Pina Colada",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PinaColada.png",
+			"ToArea": { "X": 144, "Y": 576, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Pina Colada": true
+			}
+		},
+        {
+			"LogName": "Pink Cake",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PinkCake.png",
+			"ToArea": { "X": 80, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pink Cake": true
+			}
+		},
+        {
+			"LogName": "Pizza",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Pizza.png",
+			"ToArea": { "X": 224, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pizza": true
+			}
+		},
+        {
+			"LogName": "Plum Pudding",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PlumPudding.png",
+			"ToArea": { "X": 64, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Plum Pudding": true
+			}
+		},
+        {
+			"LogName": "Poi",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Poi.png",
+			"ToArea": { "X": 288, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Poi": true
+			}
+		},
+        {
+			"LogName": "Poppyseed Muffin",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PoppyseedMuffin.png",
+			"ToArea": { "X": 48, "Y": 432, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Poppyseed Muffin": true
+			}
+		},
+        {
+			"LogName": "Pumpkin Pie",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PumpkinPie.png",
+			"ToArea": { "X": 128, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pumpkin Pie": true
+			}
+		},
+        {
+			"LogName": "Pumpkin Soup",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/PumpkinSoup.png",
+			"ToArea": { "X": 320, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Pumpkin Soup": true
+			}
+		},
+        {
+			"LogName": "Radish Salad",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/RadishSalad.png",
+			"ToArea": { "X": 144, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Radish Salad": true
+			}
+		},
+        {
+			"LogName": "Red Plate",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/RedPlate.png",
+			"ToArea": { "X": 224, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Red Plate": true
+			}
+		},
+        {
+			"LogName": "Rhubarb Pie",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/RhubarbPie.png",
+			"ToArea": { "X": 96, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Rhubarb Pie": true
+			}
+		},
+        {
+			"LogName": "Rice Pudding",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/RicePudding.png",
+			"ToArea": { "X": 256, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Rice Pudding": true
+			}
+		},
+        {
+			"LogName": "Roasted Hazelnuts",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/RoastedHazelnuts.png",
+			"ToArea": { "X": 112, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Roasted Hazelnuts": true
+			}
+		},
+        {
+			"LogName": "Roots Platter",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/RootsPlatter.png",
+			"ToArea": { "X": 64, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Roots Platter": true
+			}
+		},
+        {
+			"LogName": "Salad",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Salad.png",
+			"ToArea": { "X": 64, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Salad": true
+			}
+		},
+        {
+			"LogName": "Salmon Dinner",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/SalmonDinner.png",
+			"ToArea": { "X": 320, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Salmon Dinner": true
+			}
+		},
+        {
+			"LogName": "Sashimi",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Sashimi.png",
+			"ToArea": { "X": 176, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Sashimi": true
+			}
+		},
+        {
+			"LogName": "Shrimp Cocktail",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/ShrimpCocktail.png",
+			"ToArea": { "X": 208, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Shrimp Cocktail": true
+			}
+		},
+        {
+			"LogName": "Spaghetti",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Spaghetti.png",
+			"ToArea": { "X": 128, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Spaghetti": true
+			}
+		},
+        {
+			"LogName": "Spicy Eel",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/SpicyEel.png",
+			"ToArea": { "X": 160, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Spicy Eel": true
+			}
+		},
+        {
+			"LogName": "Stirfry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Stirfry.png",
+			"ToArea": { "X": 96, "Y": 400, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Stirfry": true
+			}
+		},
+        {
+			"LogName": "Strange Bun",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/StrangeBun.png",
+			"ToArea": { "X": 176, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Strange Bun": true
+			}
+		},
+        {
+			"LogName": "Stuffing",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Stuffing.png",
+			"ToArea": { "X": 368, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Stuffing": true
+			}
+		},
+        {
+			"LogName": "Super Meal",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/SuperMeal.png",
+			"ToArea": { "X": 336, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Super Meal": true
+			}
+		},
+        {
+			"LogName": "Survival Burger",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/SurvivalBurger.png",
+			"ToArea": { "X": 16, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Survival Burger": true
+			}
+		},
+        {
+			"LogName": "Tom Kha Soup",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/TomKhaSoup.png",
+			"ToArea": { "X": 32, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Tom Kha Soup": true
+			}
+		},
+        {
+			"LogName": "Tortilla",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/Tortilla.png",
+			"ToArea": { "X": 208, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Tortilla": true
+			}
+		},
+        {
+			"LogName": "Tropical Curry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/TropicalCurry.png",
+			"ToArea": { "X": 304, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FoodRedesign |contains= Tropical Curry": true
+			}
+		},
+        {
+			"LogName": "Trout Soup",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/TroutSoup.png",
+			"ToArea": { "X": 48, "Y": 144, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Trout Soup": true
+			}
+		},
+        {
+			"LogName": "Vegetable Medley",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Food/VegetableMedley.png",
+			"ToArea": { "X": 128, "Y": 128, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FoodRedesign |contains= Vegetable Medley": true
+			}
+		}
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Golden Coconut",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Other/GoldenCoconut.png",
+			"ToArea": { "X": 368, "Y": 512, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"OtherRedesign |contains= Golden Coconut": true
+			}
+		},
+        {
+			"LogName": "Golden Pumpkin",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Other/GoldenPumpkin.png",
+			"ToArea": { "X": 208, "Y": 240, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"OtherRedesign |contains= Golden Pumpkin": true
+			}
+		},
+        {
+			"LogName": "Jack O' Lantern",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Other/JackOLantern.png",
+			"ToArea": { "X": 32, "Y": 496, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"OtherRedesign |contains= Jack O' Lantern": true
+			}
+		},
+        {
+			"LogName": "Stardrop",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Other/Stardrop.png",
+			"ToArea": { "X": 32, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"OtherRedesign |contains= Stardrop": true
+			}
+		}
+    ]
+}
