@@ -1,0 +1,72 @@
+{
+	"Changes": [
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.VincentSpring": {
+                    "Asset": "Portraits/Vincent_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.VincentSummer": {
+                    "Asset": "Portraits/Vincent_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.VincentFall": {
+                    "Asset": "Portraits/Vincent_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.VincentWinterIndoor": {
+                    "Asset": "Portraits/Vincent_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.VincentWinterOutdoor": {
+                    "Asset": "Portraits/Vincent_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.VincentFlowerDance": {
+                    "Asset": "Portraits/Vincent_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.VincentSpirit": {
+                    "Asset": "Portraits/Vincent_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.VincentBeach": {
+                    "Asset": "Portraits/Vincent_Beach",
+                    "Scale": 4
+                },
+			}
+		},
+	
+		{
+			"LogName": "Load Vincent's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Vincent_Spring, Portraits/Vincent_Summer, Portraits/Vincent_Fall, Portraits/Vincent_Winter_Outdoor, Portraits/Vincent_Winter_Indoor",
+			"FromFile": "assets/Portraits/Vincent/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Vincent's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Vincent_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Vincent_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Vincent's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Vincent_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Vincent_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Vincent's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Vincent_Beach",
+			"FromFile": "assets/Portraits/Beach/Adds/Vincent_Beach.png"
+		},			
+		
+	]
+}

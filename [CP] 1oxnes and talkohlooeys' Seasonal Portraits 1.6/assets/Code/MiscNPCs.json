@@ -1,0 +1,181 @@
+{
+	"Changes": [
+
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.Bear": {
+                    "Asset": "Portraits/Bear",
+                    "Scale": 4
+                },
+				"{{ModId}}.Birdie": {
+                    "Asset": "Portraits/Birdie",
+                    "Scale": 4
+                },
+				"{{ModId}}.Dwarf": {
+                    "Asset": "Portraits/Dwarf",
+                    "Scale": 4
+                },
+				"{{ModId}}.MrQi": {
+                    "Asset": "Portraits/MrQi",
+                    "Scale": 4
+                },				
+				"{{ModId}}.Krobus": {
+                    "Asset": "Portraits/Krobus",
+                    "Scale": 4
+                },
+				"{{ModId}}.KrobusTrenchcoat": {
+                    "Asset": "Portraits/Krobus_Trenchcoat",
+                    "Scale": 4
+                },				
+				"{{ModId}}.SafariGuy": {
+                    "Asset": "Portraits/SafariGuy",
+                    "Scale": 4
+                },	
+				"{{ModId}}.Fizz": {
+                    "Asset": "Portraits/Fizz",
+                    "Scale": 4
+                },						
+			}
+		},
+
+// Bear
+		{
+			"LogName": "Load Bear",
+			"Action": "Load",
+			"Target": "Portraits/Bear",
+			"FromFile": "assets/Portraits/Bear.png",
+			"When":
+			{
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterBear": "True",
+			},
+		},
+		{
+			"LogName": "Edit Bear",
+			"Action": "EditImage",
+			"Target": "Portraits/Bear",
+			"FromFile": "assets/Portraits/Bear.png",
+			"When":
+			{
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterBear": "True",
+			},
+		},
+// Birdie
+		{
+			"LogName": "Load Birdie",
+			"Action": "Load",
+			"Target": "Portraits/Birdie",
+			"FromFile": "assets/Portraits/Birdie.png",
+			"When":
+			{
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterBirdie": "True",
+			},
+		},
+		{
+			"LogName": "Edit Birdie",
+			"Action": "EditImage",
+			"Target": "Portraits/Birdie",
+			"FromFile": "assets/Portraits/Birdie.png",
+			"When":
+			{
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterBirdie": "True",
+			},
+		},
+
+// Fizz
+		{
+			"LogName": "Load Fizz",
+			"Action": "Load",
+			"Target": "Portraits/Fizz",
+			"FromFile": "assets/Portraits/Fizz.png",
+			"When":
+			{
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterFizz": "True",
+			},
+		},
+		{
+			"LogName": "Edit Fizz",
+			"Action": "EditImage",
+			"Target": "Portraits/Fizz",
+			"FromFile": "assets/Portraits/Fizz.png",
+			"When":
+			{
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterFizz": "True",
+			},
+		},
+		
+// Krobus
+		{
+            "LogName": "Load Krobus",
+            "Action": "Load",
+            "Target": "Portraits/Krobus, Portraits/Krobus_Trenchcoat",
+			"FromFile": "assets/{{Target}}.png",
+            "When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterKrobus": "True",
+            }        
+		},		
+		{
+            "LogName": "Edit Krobus",
+            "Action": "EditImage",
+            "Target": "Portraits/Krobus",
+            "FromFile": "assets/Portraits/Krobus.png",
+            "When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterKrobus": "True",
+            }        
+		},
+		
+// Mr Qi
+		{
+            "LogName": "Load Mr Qi",
+            "Action": "Load",
+            "Target": "Portraits/MrQi",
+            "FromFile": "assets/Portraits/MrQi.png",
+            "When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterMrQi": "True",
+            }        
+		},
+		{
+            "LogName": "Edit Mr Qi",
+            "Action": "EditImage",
+            "Target": "Portraits/MrQi",
+            "FromFile": "assets/Portraits/MrQi.png",
+            "When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterMrQi": "True",
+            }        
+		},
+		
+// Professor Snail
+		{
+            "LogName": "Load Professor Snail",
+            "Action": "Load",
+            "Target": "Portraits/SafariGuy",
+            "FromFile": "assets/Portraits/SafariGuy.png",
+            "When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterProfessorSnail": "True",
+            }        
+		},
+		{
+            "LogName": "Edit Professor Snail",
+            "Action": "EditImage",
+            "Target": "Portraits/SafariGuy",
+            "FromFile": "assets/Portraits/SafariGuy.png",
+            "When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,SlightlyCuterProfessorSnail": "True",
+            }        
+		},
+		{
+            "LogName": "Load Dwarf",
+            "Action": "Load",
+            "Target": "Portraits/Dwarf",
+            "FromFile": "assets/Portraits/Dwarf.png",     
+		},
+	
+	]
+}

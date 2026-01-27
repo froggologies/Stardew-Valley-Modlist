@@ -1,0 +1,79 @@
+{
+	"Changes": [
+	
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.PamSpring": {
+                    "Asset": "Portraits/Pam_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.PamSummer": {
+                    "Asset": "Portraits/Pam_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.PamFall": {
+                    "Asset": "Portraits/Pam_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.PamWinterIndoor": {
+                    "Asset": "Portraits/Pam_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.PamWinterOutdoor": {
+                    "Asset": "Portraits/Pam_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.PamFlowerDance": {
+                    "Asset": "Portraits/Pam_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.PamSpirit": {
+                    "Asset": "Portraits/Pam_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.PamBeach": {
+                    "Asset": "Portraits/Pam_Beach",
+                    "Scale": 4
+                },
+			}
+		},
+	
+		{
+			"LogName": "Load Pam's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Pam_Spring, Portraits/Pam_Summer, Portraits/Pam_Fall, Portraits/Pam_Winter_Outdoor, Portraits/Pam_Winter_Indoor",
+			"FromFile": "assets/Portraits/Pam/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Pam's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Pam_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Pam_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Pam's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Pam_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Pam_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Pam's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Pam_Beach",
+			"FromFile": "assets/Portraits/Beach/Pam_Beach.png"
+		},			
+		{
+			"LogName": "Edit Pam's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Pam_Beach",
+			"FromFile": "assets/Portraits/Beach/Pam_Beach.png"
+		},		
+		
+	]
+}

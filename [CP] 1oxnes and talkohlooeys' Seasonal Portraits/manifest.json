@@ -1,0 +1,21 @@
+{
+	"Name": "1oxnes and talkohlooeys' Seasonal Portraits",
+	"Author": "1oxnes and talkohlooeys",
+	"Version": "1.1.2",
+	"Description": "High-res portraits for Seasonal Cute Characters.",
+	"UniqueID": "talkohlooeys.SeasonalPortraits",
+	"UpdateKeys": [ "Nexus:11904" ],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher",
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "tlitookilakin.HDPortraits",
+			"IsRequired": true,
+		},
+		{
+			"UniqueID": "Poltergeister.SeasonalCuteCharacters",
+			"IsRequired": false,
+		},
+	],
+}

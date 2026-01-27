@@ -1,0 +1,70 @@
+{
+	"Changes": [
+	
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.Morris": {
+                    "Asset": "Portraits/Morris",
+                    "Scale": 4
+                },
+                "{{ModId}}.MorrisSpring": {
+                    "Asset": "Portraits/Morris_Spring",
+                    "Scale": 4
+                },
+                "{{ModId}}.MorrisSummer": {
+                    "Asset": "Portraits/Morris_Summer",
+                    "Scale": 4
+                },
+                "{{ModId}}.MorrisFall": {
+                    "Asset": "Portraits/Morris_Fall",
+                    "Scale": 4
+                },
+                "{{ModId}}.MorrisWinter": {
+                    "Asset": "Portraits/Morris_Winter",
+                    "Scale": 4
+                },
+                "{{ModId}}.MorrisWinter2": {
+                    "Asset": "Portraits/Morris_Winter2",
+                    "Scale": 4
+                },			
+			}
+		},	
+		{
+			"LogName": "Load Morris",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Morris",
+			"FromFile": "assets/Portraits/Morris/Morris_Spring.png",
+			"When":
+			{
+				"HasFile:{{FromFile}}": true,
+			},
+		},
+		{
+			"LogName": "Morris - Seasonal",
+			"Action": "EditImage",
+			"Target": "Portraits/Morris",
+			"FromFile": "assets/Portraits/Morris/Morris_{{season}}.png",
+			"When":
+			{
+				"HasFile:{{FromFile}}": true,
+			},
+		},	
+/*
+
+	
+		{
+			"LogName": "Load Morris's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Morris_Spring, Portraits/Morris_Summer, Portraits/Morris_Fall, Portraits/Morris_Winter, Portraits/Morris_Winter2",
+			"FromFile": "assets/Portraits/Morris/{{TargetWithoutPath}}.png"
+		},
+		
+		
+*/
+		
+	]
+}

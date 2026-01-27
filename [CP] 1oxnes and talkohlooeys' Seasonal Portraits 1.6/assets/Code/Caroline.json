@@ -1,0 +1,96 @@
+{
+	"Changes": [
+		
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.CarolineSpring": {
+                    "Asset": "Portraits/Caroline_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.CarolineSummer": {
+                    "Asset": "Portraits/Caroline_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.CarolineFall": {
+                    "Asset": "Portraits/Caroline_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.CarolineWinterIndoor": {
+                    "Asset": "Portraits/Caroline_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.CarolineWinterOutdoor": {
+                    "Asset": "Portraits/Caroline_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.CarolineFlowerDance": {
+                    "Asset": "Portraits/Caroline_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.CarolineSpirit": {
+                    "Asset": "Portraits/Caroline_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.CarolineBeach": {
+                    "Asset": "Portraits/Caroline_Beach",
+                    "Scale": 4
+                },
+				"{{ModId}}.CarolineAerobics": {
+                    "Asset": "Portraits/Caroline_Aerobics",
+                    "Scale": 4
+                }
+			}
+		},
+	
+		{
+			"LogName": "Load Caroline's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Caroline_Spring, Portraits/Caroline_Summer, Portraits/Caroline_Fall, Portraits/Caroline_Winter_Outdoor, Portraits/Caroline_Winter_Indoor, Portraits/Caroline_Aerobics",
+			"FromFile": "assets/Portraits/Caroline/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Caroline's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Caroline_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Caroline_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Caroline's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Caroline_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Caroline_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Caroline's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Caroline_Beach",
+			"FromFile": "assets/Portraits/Beach/Caroline_Beach.png"
+		},			
+		{
+			"LogName": "Edit Caroline's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Caroline_Beach",
+			"FromFile": "assets/Portraits/Beach/Caroline_Beach.png"
+		},	
+		
+		/*
+		{
+			"LogName": "Aerobics Caroline only during the day",
+			"Action": "EditImage",
+			"Target": "Portraits/Caroline_Spring, Portraits/Caroline_Summer, Portraits/Caroline_Fall, Portraits/Caroline_Winter_Outdoor, Portraits/Caroline_Winter_Indoor",
+			"FromFile": "assets/Portraits/Caroline/Caroline_Aerobics.png",
+			"When": {
+				"Time": "{{Range: 1100, 1500}}",
+				"LocationName": "SeedShop",
+				"Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,ExtraOutfits": "true",
+			},
+		},	
+		*/
+	]
+}

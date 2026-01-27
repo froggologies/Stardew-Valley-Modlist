@@ -1,0 +1,172 @@
+{
+	"Changes": [
+		
+		// OUTFIT LOADS
+	
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.HarveySpring": {
+                    "Asset": "Portraits/Harvey_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveySummer": {
+                    "Asset": "Portraits/Harvey_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyFall": {
+                    "Asset": "Portraits/Harvey_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyWinterIndoor": {
+                    "Asset": "Portraits/Harvey_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.HarveyWinterOutdoor": {
+                    "Asset": "Portraits/Harvey_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyEggFest": {
+                    "Asset": "Portraits/Harvey_EggF",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyFlowerDance": {
+                    "Asset": "Portraits/Harvey_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.HarveyLuau": {
+                    "Asset": "Portraits/Harvey_Luau",
+                    "Scale": 4
+                },	
+				"{{ModId}}.HarveyJellies": {
+                    "Asset": "Portraits/Harvey_Jellies",
+                    "Scale": 4
+                },				
+				"{{ModId}}.HarveyFair": {
+                    "Asset": "Portraits/Harvey_Fair",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveySpirit": {
+                    "Asset": "Portraits/Harvey_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.HarveyIceFestival": {
+                    "Asset": "Portraits/Harvey_Winter_IceF",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyWinterStar": {
+                    "Asset": "Portraits/Harvey_Winter_WinterStar",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyBeach": {
+                    "Asset": "Portraits/Harvey_Beach",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyDoctor": {
+                    "Asset": "Portraits/Harvey_Doctor",
+                    "Scale": 4
+                },
+				"{{ModId}}.HarveyAerobics": {
+                    "Asset": "Portraits/Harvey_Aerobics",
+                    "Scale": 4
+                }
+			}
+		},
+	
+		{
+			"LogName": "Load Harvey's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Harvey_Spring, Portraits/Harvey_Summer, Portraits/Harvey_Fall, Portraits/Harvey_Winter_Outdoor, Portraits/Harvey_Winter_Indoor, Portraits/Harvey_EggF, Portraits/Harvey_Fair, Portraits/Harvey_Jellies, Portraits/Harvey_Luau, Portraits/Harvey_Winter_IceF, Portraits/Harvey_Aerobics, Portraits/Harvey_Winter_WinterStar",
+			"FromFile": "assets/Portraits/Harvey/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Edit Harvey's Outfits",
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Spring, Portraits/Harvey_Summer, Portraits/Harvey_Fall, Portraits/Harvey_Winter_Outdoor, Portraits/Harvey_Winter_Indoor, Portraits/Harvey_EggF, Portraits/Harvey_Fair, Portraits/Harvey_Jellies, Portraits/Harvey_Luau, Portraits/Harvey_Winter_IceF, Portraits/Harvey_Aerobics, Portraits/Harvey_Winter_WinterStar",
+			"FromFile": "assets/Portraits/Harvey/{{TargetWithoutPath}}.png"
+		},		
+		{
+			"LogName": "Load Harvey's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Harvey_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Harvey_FlowerDance.png"
+		},		
+		{
+			"LogName": "Edit Harvey's Flower Dance Outfit",
+			"Action": "EditImage",		
+			"Target": "Portraits/Harvey_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Harvey_FlowerDance.png"
+		},			
+		{
+			"LogName": "Load Harvey's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Harvey_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Harvey_SpiritsEve.png"
+		},
+		{
+			"LogName": "Edit Harvey's Spirit's Eve Outfit",
+			"Action": "EditImage",	
+			"Target": "Portraits/Harvey_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Harvey_SpiritsEve.png"
+		},		
+		{
+			"LogName": "Load Harvey's Hospital Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Harvey_Doctor",
+			"FromFile": "assets/Portraits/Harvey/Harvey_Hospital.png"
+		},
+		{
+			"LogName": "Edit Harvey's Hospital Outfit",
+			"Action": "EditImage",		
+			"Target": "Portraits/Harvey_Doctor",
+			"FromFile": "assets/Portraits/Harvey/Harvey_Hospital.png"
+		},			
+		{
+			"LogName": "Load Harvey's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Portraits/Beach/Harvey_Beach.png"
+		},			
+		{
+			"LogName": "Edit Harvey's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Portraits/Beach/Harvey_Beach.png"
+		},	
+
+	
+		
+		// MUSTACHE OVERLAY
+		
+		{
+            "LogName": "Harvey - Mustache Overlay",
+            "Action": "EditImage",
+            "Target": "Portraits/Harvey_Spring, Portraits/Harvey_Summer, Portraits/Harvey_Fall, Portraits/Harvey_Winter_Outdoor, Portraits/Harvey_Winter_Indoor, Portraits/Harvey_FlowerDance, Portraits/Harvey_SpiritsEve, Portraits/Harvey_EggF, Portraits/Harvey_Fair, Portraits/Harvey_Jellies, Portraits/Harvey_Luau, Portraits/Harvey_Winter_IceF, Portraits/Harvey_Winter_WinterStar, Portraits/Harvey_Doctor, Portraits/Harvey_Aerobics",
+            "FromFile": "assets/Portraits/Harvey/MustacheOverlay.png",
+            "PatchMode": "Overlay",
+			"When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,HarveyFacialHair": "True",
+            },
+        },
+		
+        {
+            "LogName": "Harvey - Mustache Overlay Beach",
+            "Action": "EditImage",
+            "Target": "Portraits/Harvey_Beach",
+            "FromFile": "assets/Portraits/Beach/Harvey_Beach_MustacheOverlay.png",
+            "PatchMode": "Overlay",
+			"When":
+            {
+                "Spiderbuttons.CMCT/Config: Poltergeister.SeasonalCuteCharacters,HarveyFacialHair": "True",
+            },
+        },
+		
+	]
+}

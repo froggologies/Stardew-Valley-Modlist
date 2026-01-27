@@ -1,0 +1,34 @@
+{
+	"Changes": [
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.WizardSpring": {
+                    "Asset": "Portraits/Wizard_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.WizardSummer": {
+                    "Asset": "Portraits/Wizard_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.WizardFall": {
+                    "Asset": "Portraits/Wizard_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.WizardWinterIndoor": {
+                    "Asset": "Portraits/Wizard_Winter",
+                    "Scale": 4
+                },								
+			}
+		},
+	
+		{
+			"LogName": "Load Wizard's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Wizard_Spring, Portraits/Wizard_Summer, Portraits/Wizard_Fall, Portraits/Wizard_Winter",
+			"FromFile": "assets/Portraits/Wizard/{{TargetWithoutPath}}.png"
+		},
+	]
+}

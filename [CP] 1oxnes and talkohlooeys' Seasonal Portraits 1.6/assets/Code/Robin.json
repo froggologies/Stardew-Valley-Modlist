@@ -1,0 +1,82 @@
+{
+	"Changes": [
+		
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.RobinSpring": {
+                    "Asset": "Portraits/Robin_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.RobinSummer": {
+                    "Asset": "Portraits/Robin_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.RobinFall": {
+                    "Asset": "Portraits/Robin_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.RobinWinterIndoor": {
+                    "Asset": "Portraits/Robin_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.RobinWinterOutdoor": {
+                    "Asset": "Portraits/Robin_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.RobinFlowerDance": {
+                    "Asset": "Portraits/Robin_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.RobinSpirit": {
+                    "Asset": "Portraits/Robin_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.RobinBeach": {
+                    "Asset": "Portraits/Robin_Beach",
+                    "Scale": 4
+                },
+				"{{ModId}}.RobinAerobics": {
+                    "Asset": "Portraits/Robin_Aerobics",
+                    "Scale": 4
+                }
+			}
+		},
+	
+		{
+			"LogName": "Load Robin's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Robin_Spring, Portraits/Robin_Summer, Portraits/Robin_Fall, Portraits/Robin_Winter_Outdoor, Portraits/Robin_Winter_Indoor, Portraits/Robin_Aerobics",
+			"FromFile": "assets/Portraits/Robin/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Robin's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Robin_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Robin_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Robin's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Robin_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Robin_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Robin's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Robin_Beach",
+			"FromFile": "assets/Portraits/Beach/Robin_Beach.png"
+		},			
+		{
+			"LogName": "Edit Robin's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Robin_Beach",
+			"FromFile": "assets/Portraits/Beach/Robin_Beach.png"
+		},	
+	]
+}

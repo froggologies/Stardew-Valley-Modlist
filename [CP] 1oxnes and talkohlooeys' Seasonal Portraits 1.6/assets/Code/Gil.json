@@ -1,0 +1,36 @@
+{
+	"Changes": [
+		
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.Gil": {
+                    "Asset": "Portraits/Gil",
+                    "Scale": 4
+                },			
+			}
+		},	
+		{
+			"LogName": "Load Gil",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Gil",
+			"FromFile": "assets/Portraits/Gil/Gil_Spring.png",
+			"When":
+			{
+				"HasFile:{{FromFile}}": true,
+			},
+		},
+		{
+			"LogName": "Gil - Seasonal",
+			"Action": "EditImage",
+			"Target": "Portraits/Gil",
+			"FromFile": "assets/Portraits/Gil/Gil_{{season}}.png",
+			"When":
+			{
+				"HasFile:{{FromFile}}": true,
+			},
+		},				
+	]
+}

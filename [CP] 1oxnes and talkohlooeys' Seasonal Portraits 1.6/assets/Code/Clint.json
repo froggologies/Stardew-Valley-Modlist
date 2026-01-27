@@ -1,0 +1,97 @@
+{
+	"Changes": [
+
+		// OUTFIT LOADS
+	
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.ClintSpring": {
+                    "Asset": "Portraits/Clint_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.ClintSummer": {
+                    "Asset": "Portraits/Clint_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.ClintFall": {
+                    "Asset": "Portraits/Clint_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.ClintWinterIndoor": {
+                    "Asset": "Portraits/Clint_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.ClintWinterOutdoor": {
+                    "Asset": "Portraits/Clint_Winter_Outdoor",
+                    "Scale": 4
+                },
+               "{{ModId}}.ClintSpringWork": {
+                    "Asset": "Portraits/Clint_Spring_Work",
+                    "Scale": 4
+                },
+				"{{ModId}}.ClintSummerWork": {
+                    "Asset": "Portraits/Clint_Summer_Work",
+                    "Scale": 4
+                },
+				"{{ModId}}.ClintFallWork": {
+                    "Asset": "Portraits/Clint_Fall_Work",
+                    "Scale": 4
+                },
+				"{{ModId}}.ClintWinterWork": {
+                    "Asset": "Portraits/Clint_Winter_Work",
+                    "Scale": 4
+                },					
+				"{{ModId}}.ClintFlowerDance": {
+                    "Asset": "Portraits/Clint_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.ClintSpirit": {
+                    "Asset": "Portraits/Clint_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.ClintBeach": {
+                    "Asset": "Portraits/Clint_Beach",
+                    "Scale": 4
+                },
+			}
+		},
+	
+		{
+			"LogName": "Load Clint's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Clint_Spring, Portraits/Clint_Summer, Portraits/Clint_Fall, Portraits/Clint_Winter_Outdoor, Portraits/Clint_Winter_Indoor, Portraits/Clint_Spring_Work, Portraits/Clint_Summer_Work, Portraits/Clint_Fall_Work, Portraits/Clint_Winter_Work",
+			"FromFile": "assets/{{TargetPathOnly}}/Clint/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Clint's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Clint_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/{{TargetWithoutPath}}.png"
+		},		
+		{
+			"LogName": "Load Clint's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Clint_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Clint's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Clint_Beach",
+			"FromFile": "assets/Portraits/Beach/{{TargetWithoutPath}}.png"
+		},			
+		{
+			"LogName": "Edit Clint's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Clint_Beach",
+			"FromFile": "assets/Portraits/Beach/{{TargetWithoutPath}}.png"
+		},	
+		
+	]
+}

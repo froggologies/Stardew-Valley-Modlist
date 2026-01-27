@@ -1,0 +1,73 @@
+{
+	"Changes": [
+		
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.JasSpring": {
+                    "Asset": "Portraits/Jas_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.JasSummer": {
+                    "Asset": "Portraits/Jas_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.JasFall": {
+                    "Asset": "Portraits/Jas_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.JasWinterIndoor": {
+                    "Asset": "Portraits/Jas_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.JasWinterOutdoor": {
+                    "Asset": "Portraits/Jas_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.JasFlowerDance": {
+                    "Asset": "Portraits/Jas_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.JasSpirit": {
+                    "Asset": "Portraits/Jas_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.JasBeach": {
+                    "Asset": "Portraits/Jas_Beach",
+                    "Scale": 4
+                },
+			}
+		},
+	
+		{
+			"LogName": "Load Jas's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Jas_Spring, Portraits/Jas_Summer, Portraits/Jas_Fall, Portraits/Jas_Winter_Outdoor, Portraits/Jas_Winter_Indoor",
+			"FromFile": "assets/Portraits/Jas/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Jas's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Jas_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Jas_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Jas's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Jas_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Jas_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Jas's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Jas_Beach",
+			"FromFile": "assets/Portraits/Beach/Adds/Jas_Beach.png"
+		},			
+			
+	]
+}

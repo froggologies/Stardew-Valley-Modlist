@@ -1,0 +1,102 @@
+{
+	"Changes": [
+
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.AlexSpring": {
+                    "Asset": "Portraits/Alex_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexSummer": {
+                    "Asset": "Portraits/Alex_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexFall": {
+                    "Asset": "Portraits/Alex_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexWinterIndoor": {
+                    "Asset": "Portraits/Alex_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.AlexWinterOutdoor": {
+                    "Asset": "Portraits/Alex_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexEggFest": {
+                    "Asset": "Portraits/Alex_EggF",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexFlowerDance": {
+                    "Asset": "Portraits/Alex_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.AlexLuau": {
+                    "Asset": "Portraits/Alex_Luau",
+                    "Scale": 4
+                },	
+				"{{ModId}}.AlexJellies": {
+                    "Asset": "Portraits/Alex_Jellies",
+                    "Scale": 4
+                },				
+				"{{ModId}}.AlexFair": {
+                    "Asset": "Portraits/Alex_Fair",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexSpirit": {
+                    "Asset": "Portraits/Alex_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.AlexIceFestival": {
+                    "Asset": "Portraits/Alex_Winter_IceF",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexWinterStar": {
+                    "Asset": "Portraits/Alex_Winter_WinterStar",
+                    "Scale": 4
+                },
+				"{{ModId}}.AlexBeach": {
+                    "Asset": "Portraits/Alex_Beach",
+                    "Scale": 4
+                }
+			}
+		},
+	
+		{
+			"LogName": "Load Alex's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Alex_Spring, Portraits/Alex_Summer, Portraits/Alex_Fall, Portraits/Alex_Winter_Outdoor, Portraits/Alex_Winter_Indoor, Portraits/Alex_EggF, Portraits/Alex_Fair, Portraits/Alex_Jellies, Portraits/Alex_Luau, Portraits/Alex_Winter_IceF, Portraits/Alex_Winter_WinterStar",
+			"FromFile": "assets/Portraits/Alex/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Alex's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Alex_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Alex_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Alex's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Alex_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Alex_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Alex's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Alex_Beach",
+			"FromFile": "assets/Portraits/Beach/Alex_Beach.png"
+		},			
+		{
+			"LogName": "Edit Alex's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Alex_Beach",
+			"FromFile": "assets/Portraits/Beach/Alex_Beach.png"
+		},	
+	]
+}

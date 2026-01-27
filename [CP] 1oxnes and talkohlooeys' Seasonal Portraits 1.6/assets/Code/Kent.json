@@ -1,0 +1,73 @@
+{
+	"Changes": [
+		
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.KentSpring": {
+                    "Asset": "Portraits/Kent_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.KentSummer": {
+                    "Asset": "Portraits/Kent_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.KentFall": {
+                    "Asset": "Portraits/Kent_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.KentWinterIndoor": {
+                    "Asset": "Portraits/Kent_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.KentWinterOutdoor": {
+                    "Asset": "Portraits/Kent_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.KentFlowerDance": {
+                    "Asset": "Portraits/Kent_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.KentSpirit": {
+                    "Asset": "Portraits/Kent_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.KentBeach": {
+                    "Asset": "Portraits/Kent_Beach",
+                    "Scale": 4
+                },
+			}
+		},
+	
+		{
+			"LogName": "Load Kent's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Kent_Spring, Portraits/Kent_Summer, Portraits/Kent_Fall, Portraits/Kent_Winter_Outdoor, Portraits/Kent_Winter_Indoor",
+			"FromFile": "assets/Portraits/Kent/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Kent's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Kent_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Kent_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Kent's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Kent_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Kent_SpiritsEve.png"
+		},
+		{
+			"LogName": "Load Kent's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Kent_Beach",
+			"FromFile": "assets/Portraits/Beach/Adds/Kent_Beach.png"
+		},			
+		
+	]
+}

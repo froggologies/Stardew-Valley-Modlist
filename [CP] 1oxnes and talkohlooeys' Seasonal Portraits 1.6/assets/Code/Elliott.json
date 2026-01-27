@@ -1,0 +1,102 @@
+{
+	"Changes": [
+
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.ElliottSpring": {
+                    "Asset": "Portraits/Elliott_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottSummer": {
+                    "Asset": "Portraits/Elliott_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottFall": {
+                    "Asset": "Portraits/Elliott_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottWinterIndoor": {
+                    "Asset": "Portraits/Elliott_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.ElliottWinterOutdoor": {
+                    "Asset": "Portraits/Elliott_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottEggFest": {
+                    "Asset": "Portraits/Elliott_EggF",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottFlowerDance": {
+                    "Asset": "Portraits/Elliott_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.ElliottLuau": {
+                    "Asset": "Portraits/Elliott_Luau",
+                    "Scale": 4
+                },	
+				"{{ModId}}.ElliottJellies": {
+                    "Asset": "Portraits/Elliott_Jellies",
+                    "Scale": 4
+                },				
+				"{{ModId}}.ElliottFair": {
+                    "Asset": "Portraits/Elliott_Fair",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottSpirit": {
+                    "Asset": "Portraits/Elliott_SpiritsEve",
+                    "Scale": 4
+                },				
+				"{{ModId}}.ElliottIceFestival": {
+                    "Asset": "Portraits/Elliott_Winter_IceF",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottWinterStar": {
+                    "Asset": "Portraits/Elliott_Winter_WinterStar",
+                    "Scale": 4
+                },
+				"{{ModId}}.ElliottBeach": {
+                    "Asset": "Portraits/Elliott_Beach",
+                    "Scale": 4
+                }
+			}
+		},
+	
+		{
+			"LogName": "Load Elliott's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Elliott_Spring, Portraits/Elliott_Summer, Portraits/Elliott_Fall, Portraits/Elliott_Winter_Outdoor, Portraits/Elliott_Winter_Indoor, Portraits/Elliott_EggF, Portraits/Elliott_Fair, Portraits/Elliott_Jellies, Portraits/Elliott_Luau, Portraits/Elliott_Winter_IceF, Portraits/Elliott_Winter_WinterStar",
+			"FromFile": "assets/{{TargetPathOnly}}/Elliott/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Elliott's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Elliott_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/{{TargetWithoutPath}}.png"
+		},		
+		{
+			"LogName": "Load Elliott's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Elliott_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Elliott's Beach Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Elliott_Beach",
+			"FromFile": "assets/Portraits/Beach/{{TargetWithoutPath}}.png"
+		},			
+		{
+			"LogName": "Edit Elliott's Beach Outfit",
+			"Action": "EditImage",
+			"Target": "Portraits/Elliott_Beach",
+			"FromFile": "assets/Portraits/Beach/{{TargetWithoutPath}}.png"
+		},	
+	]
+}

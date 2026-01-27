@@ -1,0 +1,61 @@
+{
+	"Changes": [
+		
+		{
+            "Action": "EditData",
+            "Target": "{{Platonymous.ScaleUp/Assets}}",
+            "Entries": {
+                "{{ModId}}.WillySpring": {
+                    "Asset": "Portraits/Willy_Spring",
+                    "Scale": 4
+                },
+				"{{ModId}}.WillySummer": {
+                    "Asset": "Portraits/Willy_Summer",
+                    "Scale": 4
+                },
+				"{{ModId}}.WillyFall": {
+                    "Asset": "Portraits/Willy_Fall",
+                    "Scale": 4
+                },
+				"{{ModId}}.WillyWinterIndoor": {
+                    "Asset": "Portraits/Willy_Winter_Indoor",
+                    "Scale": 4
+                },				
+				"{{ModId}}.WillyWinterOutdoor": {
+                    "Asset": "Portraits/Willy_Winter_Outdoor",
+                    "Scale": 4
+                },
+				"{{ModId}}.WillyFlowerDance": {
+                    "Asset": "Portraits/Willy_FlowerDance",
+                    "Scale": 4
+                },		
+				"{{ModId}}.WillySpirit": {
+                    "Asset": "Portraits/Willy_SpiritsEve",
+                    "Scale": 4
+                },				
+			}
+		},
+	
+		{
+			"LogName": "Load Willy's Outfits",
+			"Action": "Load",
+			"Priority": "High",
+			"Target": "Portraits/Willy_Spring, Portraits/Willy_Summer, Portraits/Willy_Fall, Portraits/Willy_Winter_Outdoor, Portraits/Willy_Winter_Indoor",
+			"FromFile": "assets/Portraits/Willy/{{TargetWithoutPath}}.png"
+		},
+		{
+			"LogName": "Load Willy's Flower Dance Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Willy_FlowerDance",
+			"FromFile": "assets/Portraits/Festivals/FlowerDance/Willy_FlowerDance.png"
+		},		
+		{
+			"LogName": "Load Willy's Spirit's Eve Outfit",
+			"Action": "Load",
+			"Priority": "High",			
+			"Target": "Portraits/Willy_SpiritsEve",
+			"FromFile": "assets/Portraits/Festivals/SpiritsEve/Willy_SpiritsEve.png"
+		},		
+	]
+}
