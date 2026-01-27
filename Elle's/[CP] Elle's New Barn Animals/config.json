@@ -1,8 +1,8 @@
 {
   "BrownCow": "SpottedBrown",
   "WhiteCow": "SpottedGrey",
-  "Goat": "SolidBlonde",
-  "Sheep": "SolidCream",
+  "Goat": "PointedBlonde",
+  "Sheep": "PointedBlonde",
   "Pig": "SolidPink",
   "Ostrich": "Black",
   "ShopIcons": "true",

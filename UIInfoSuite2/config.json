@@ -1,8 +1,8 @@
 {
   "ShowOptionsTabInMenu": true,
   "ApplyDefaultSettingsFromThisSave": "JohnDoe_123456789",
-  "OpenCalendarKeybind": "B",
-  "OpenQuestBoardKeybind": "H",
-  "ShowOneRange": "LeftControl",
-  "ShowAllRange": "LeftControl + LeftAlt"
+  "OpenCalendarKeybind": "None",
+  "OpenQuestBoardKeybind": "None",
+  "ShowOneRange": "F4",
+  "ShowAllRange": "F5"
 }
