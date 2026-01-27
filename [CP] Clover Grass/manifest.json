@@ -1,0 +1,19 @@
+{
+"Name": "Anette's Clover Grass",
+"Author": "Azrashar/itsanette",
+"Version": "1.1.0",
+"Description": "Experimental grass replacer! Brings clover lawns to Stardew Valley",
+"UniqueID": "Az.CloverGrass",
+"MinimumApiVersion": "1.19.1",
+"UpdateKeys": [ "Nexus:21359" ],
+"Dependencies": [{"UniqueID": "grapeponta.VibrantPastoralRecolor",
+                "IsRequired": false
+                },
+                {"UniqueID": "DaisyNiko.EarthyRecolour",
+                "IsRequired": false
+                }
+                ],
+"ContentPackFor": {"UniqueID": "Pathoschild.ContentPatcher",
+                "MinimumVersion": "1.9"
+                }
+}
