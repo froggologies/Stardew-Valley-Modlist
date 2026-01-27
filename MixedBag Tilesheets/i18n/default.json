@@ -1,0 +1,12 @@
+{
+  //CONFIG
+  "config.RoundedCorners.name": "Rounded Corners",
+  "config.BlueSpring.name": "Blue Spring Grass",
+  "config.LightDirt.name": "Light Dirt",
+  "config.ExtraFixes.name": "Extra Fixes",
+  "config.RoundedCorners.description": "Toggles roundness of pathway corners.",
+  "config.BlueSpring.description": "Toggles grass colour to blue during spring.",
+  "config.LightDirt.description": "Toggles light dirt colours.",
+  "config.ExtraFixes.description": "Toggles fixing of partially recoloured tiles.",
+  "config.section.Pathways.name": "Pathways"
+}

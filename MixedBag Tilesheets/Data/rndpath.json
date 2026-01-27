@@ -1,0 +1,10 @@
+{
+	"Changes": [
+	//Asset Load
+        {
+			"Action": "Load",
+			"Target": "Maps/fall_z_rndpath, Maps/spring_z_rndpath, Maps/summer_z_rndpath, Maps/winter_z_rndpath",
+			"FromFile": "assets/{{Variant}}/{{TargetWithoutPath}}.png",
+        }
+	]
+}

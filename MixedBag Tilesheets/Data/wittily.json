@@ -1,0 +1,157 @@
+{
+	"Changes": [
+	//Light Dirt
+		//z_dirtpath
+		{
+			"LogName": "Dirt Path LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_z_dirtpath, Maps/spring_z_dirtpath, Maps/summer_z_dirtpath",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay"
+		},
+		{
+			"LogName": "ots 200 201 202 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 16 },
+			"ToArea": { "X": 0, "Y": 128, "Width": 48, "Height": 16 }
+		},
+		{
+			"LogName": "ots 178 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 48, "Y": 0, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 48, "Y": 112, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots 655 656 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 16, "Y": 16, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 80, "Y": 416, "Width": 32, "Height": 16 }
+		},
+		{
+			"LogName": "ots 632 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 48, "Y": 16, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 400, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots 252 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 64, "Y": 16, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 32, "Y": 160, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots 706 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 80, "Y": 16, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 96, "Y": 448, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots 204 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet, Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 64, "Y": 32, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 64, "Y": 128, "Width": 16, "Height": 16 }
+		},
+		//outdoorsTileSheet2
+		{
+			"LogName": "ots2 743 759 775 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 112, "Width": 16, "Height": 48 },
+			"ToArea": { "X": 112, "Y": 736, "Width": 16, "Height": 48 }
+		},
+		{
+			"LogName": "ots2 742 758 774 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 16, "Y": 112, "Width": 16, "Height": 48 },
+			"ToArea": { "X": 96, "Y": 736, "Width": 16, "Height": 48 }
+		},
+		{
+			"LogName": "ots2 804 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots2 788 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots2 806 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 96, "Y": 112, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 96, "Y": 800, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots2 790 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 112, "Y": 112, "Width": 16, "Height": 16 },
+			"ToArea": { "X": 96, "Y": 784, "Width": 16, "Height": 16 }
+		},
+		{
+			"LogName": "ots2 789 805 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 96, "Y": 128, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 80, "Y": 784, "Width": 16, "Height": 32 }
+		},
+		{
+			"LogName": "ots2 791 807 LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 112, "Y": 128, "Width": 16, "Height": 32 },
+			"ToArea": { "X": 112, "Y": 784, "Width": 16, "Height": 32 }
+		}
+		//z_rndpath
+		{
+			"LogName": "Rounded and Diagonal Path LD",
+			"Action": "EditImage",
+			"Target": "Maps/fall_z_rndpath, Maps/spring_z_rndpath, Maps/summer_z_rndpath",
+			"FromFile": "assets/Wittily/light dirt/L_z_dirtpath.png",
+			"PatchMode": "Overlay"
+		}
+	]
+}

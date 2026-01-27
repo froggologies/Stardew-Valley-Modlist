@@ -1,0 +1,51 @@
+{
+	"Changes": [
+	//Asset Load
+        {
+			"Action": "Load",
+			"Target": "Maps/fall_z_grasspath, Maps/spring_z_grasspath, Maps/summer_z_grasspath, Maps/winter_z_grasspath",
+			"FromFile": "assets/{{Variant}}/{{TargetWithoutPath}}.png",
+        },
+	//Maps
+		//Town (fall)
+		{
+			"LogName": "Town Path fall",
+			"Action": "EditImage",
+			"Target": "Maps/fall_town",
+			"FromFile": "assets/{{Variant}}/fall_z_grasspath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 }
+		},
+		//Town (spring)
+		{
+			"LogName": "Town Path spring",
+			"Action": "EditImage",
+			"Target": "Maps/spring_town",
+			"FromFile": "assets/{{Variant}}/spring_z_grasspath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 }
+		},
+		//Town (summer)
+		{
+			"LogName": "Town Path summer",
+			"Action": "EditImage",
+			"Target": "Maps/summer_town",
+			"FromFile": "assets/{{Variant}}/summer_z_grasspath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 }
+		},
+		//Town (winter)
+		{
+			"LogName": "Town Path winter",
+			"Action": "EditImage",
+			"Target": "Maps/winter_town",
+			"FromFile": "assets/{{Variant}}/winter_z_grasspath.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 }
+		}
+	]
+}

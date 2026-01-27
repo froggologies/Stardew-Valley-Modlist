@@ -1,0 +1,199 @@
+{
+	"Changes": [
+	//Rounded Corners
+		//z_dirtpath
+		{
+			"LogName": "Dirt Path Rounded #1",
+			"Action": "EditImage",
+			"Target": "Maps/fall_z_dirtpath, Maps/spring_z_dirtpath, Maps/summer_z_dirtpath, Maps/winter_z_dirtpath",
+			"FromFile": "assets/{{RCVariant}}/rounded/{{TargetWithoutPath}}_rnd.png",
+			"PatchMode": "Overlay",
+			"When": { "HasFile:{{FromFile}}": true }
+		},
+		{
+			"LogName": "Dirt Path Rounded #2",
+			"Action": "EditImage",
+			"Target": "Maps/fall_z_dirtpath, Maps/spring_z_dirtpath, Maps/summer_z_dirtpath, Maps/winter_z_dirtpath",
+			"FromFile": "assets/{{RCVariant}}/rounded/z_dirtpath_rnd.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"HasFile:{{FromFile}}": true,
+				"HasFile:{{TargetWithoutPath}}_rnd": false
+				}
+		},
+			//outdoorsTileSheet2 (fall)
+			{
+				"LogName": "ots2 804 Rounded #1 fall",
+				"Action": "EditImage",
+				"Target": "Maps/fall_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/fall_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			{
+				"LogName": "ots2 788 Rounded #1 fall",
+				"Action": "EditImage",
+				"Target": "Maps/fall_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/fall_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			//outdoorsTileSheet2 (spring)
+			{
+				"LogName": "ots2 804 Rounded #1 spring",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/spring_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			{
+				"LogName": "ots2 788 Rounded #1 spring",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/spring_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			//outdoorsTileSheet2 (summer)
+			{
+				"LogName": "ots2 804 Rounded #1 summer",
+				"Action": "EditImage",
+				"Target": "Maps/summer_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/summer_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			{
+				"LogName": "ots2 788 Rounded #1 summer",
+				"Action": "EditImage",
+				"Target": "Maps/summer_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/summer_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			//outdoorsTileSheet2 (winter)
+			{
+				"LogName": "ots2 804 Rounded #1 winter",
+				"Action": "EditImage",
+				"Target": "Maps/winter_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/winter_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			{
+				"LogName": "ots2 788 Rounded #1 winter",
+				"Action": "EditImage",
+				"Target": "Maps/winter_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/winter_z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 },
+				"When": { "HasFile:{{FromFile}}": true }
+			},
+			//outdoorsTileSheet2
+			{
+				"LogName": "ots2 804 Rounded #2",
+				"Action": "EditImage",
+				"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2, Maps/winter_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 },
+				"When": {
+					"HasFile:{{FromFile}}": true,
+					"HasFile:{{TargetWithoutPath}}_rnd": false
+					}
+			},
+			{
+				"LogName": "ots2 788 Rounded #2",
+				"Action": "EditImage",
+				"Target": "Maps/fall_outdoorsTileSheet2, Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2, Maps/winter_outdoorsTileSheet2",
+				"FromFile": "assets/{{RCVariant}}/rounded/z_dirtpath_rnd.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 },
+				"When": {
+					"HasFile:{{FromFile}}": true,
+					"HasFile:{{TargetWithoutPath}}_rnd": false
+					}
+			},
+		//z_grasspath
+		{
+			"LogName": "Town Path Rounded #1",
+			"Action": "EditImage",
+			"Target": "Maps/{{Season}}_town",
+			"FromFile": "assets/{{RCVariant}}/rounded/{{TargetWithoutPath}}_rnd.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 },
+			"When": { "HasFile:{{FromFile}}": true }
+		},
+		{
+			"LogName": "Town Path Rounded #2",
+			"Action": "EditImage",
+			"Target": "Maps/{{Season}}_town",
+			"FromFile": "assets/{{RCVariant}}/rounded/z_grasspath_rnd.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 },
+			"When": {
+				"HasFile:{{FromFile}}": true,
+				"HasFile:{{TargetWithoutPath}}_rnd": false
+				}
+		},
+		{
+			"LogName": "Grass Path Rounded #1",
+			"Action": "EditImage",
+			"Target": "Maps/{{Season}}_z_grasspath",
+			"FromFile": "assets/{{RCVariant}}/rounded/{{TargetWithoutPath}}_rnd.png",
+			"PatchMode": "Overlay",
+			"When": { "HasFile:{{FromFile}}": true }
+		},
+		{
+			"LogName": "Grass Path Rounded #2",
+			"Action": "EditImage",
+			"Target": "Maps/{{Season}}_z_grasspath",
+			"FromFile": "assets/{{RCVariant}}/rounded/z_grasspath_rnd.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"HasFile:{{FromFile}}": true,
+				"HasFile:{{TargetWithoutPath}}_rnd": false
+				}
+		},
+		//z_rndpath
+		{
+			"LogName": "Rounded and Diagonal Path Rounded #1",
+			"Action": "EditImage",
+			"Target": "Maps/{{Season}}_z_rndpath",
+			"FromFile": "assets/{{RCVariant}}/rounded/{{TargetWithoutPath}}_rnd.png",
+			"PatchMode": "Overlay",
+			"When": { "HasFile:{{FromFile}}": true }
+		},
+		{
+			"LogName": "Rounded and Diagonal Path Rounded #2",
+			"Action": "EditImage",
+			"Target": "Maps/{{Season}}_z_rndpath",
+			"FromFile": "assets/{{RCVariant}}/rounded/z_rndpath_rnd.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"HasFile:{{FromFile}}": true,
+				"HasFile:{{TargetWithoutPath}}_rnd": false
+				}
+		}
+	]
+}
