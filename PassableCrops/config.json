@@ -7,11 +7,15 @@
   "PassableTreeGrowth": 3,
   "PassableFruitTreeGrowth": 2,
   "PassableWeeds": true,
-  "PassableByAll": false,
+  "PassableByAll": true,
   "SlowDownWhenPassing": true,
   "ShakeWhenPassing": true,
   "PlaySoundWhenPassing": true,
   "UseCustomDrawing": true,
-  "IncludeObjects": [],
-  "ExcludeObjects": []
+  "IncludeObjects": [
+    ""
+  ],
+  "ExcludeObjects": [
+    ""
+  ]
 }

@@ -4,5 +4,5 @@
   "WalletOnRightOfSkillPage": false,
   "SupportAllProfessionsMod": true,
   "SocialInteractions_AlwaysTrigger": false,
-  "SocialInteractions_TriggerModifier": "LeftControl"
+  "SocialInteractions_TriggerModifier": "None"
 }
