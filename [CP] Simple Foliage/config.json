@@ -5,11 +5,11 @@
   "TileBushes": "true",
   "FruitTrees": "true",
   "Bushes": "true",
-  "ManualRecolor": "Wittily",
+  "ManualRecolor": "",
   "WinterLeaves": "true",
-  "AltBush": "false",
+  "AltBush": "true",
   "BushFlowers": "true",
   "VPRFallColor": "orange",
-  "StarbluePinkTrees": "true",
+  "StarbluePinkTrees": "false",
   "StarblueWhiteTrees": "false"
 }
