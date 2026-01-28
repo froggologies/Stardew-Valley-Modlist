@@ -23,7 +23,7 @@
   "ModiferKey": "LeftShift, RightTrigger",
   "FavoriteKey": "F, ControllerBack",
   "BulkCraftKey": "None",
-  "SearchKey": "F2",
+  "SearchKey": "F5",
   "LeftClick": "Craft",
   "RightClick": "BulkCraft",
   "RecycleClickToggle": false,

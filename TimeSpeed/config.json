@@ -22,9 +22,9 @@
   },
   "LetFarmhandsManageTime": true,
   "Keys": {
-    "FreezeTime": "F5",
+    "FreezeTime": "F6",
     "IncreaseTickInterval": "OemPeriod",
     "DecreaseTickInterval": "OemComma",
-    "ReloadConfig": "F6"
+    "ReloadConfig": "F7"
   }
 }
