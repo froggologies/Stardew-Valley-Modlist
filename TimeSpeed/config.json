@@ -3,10 +3,10 @@
   "LocationNotify": false,
   "SecondsPerMinute": {
     "Indoors": 1.4,
-    "Outdoors": 0.7,
-    "Mines": 0.7,
-    "SkullCavern": 0.9,
-    "VolcanoDungeon": 0.9,
+    "Outdoors": 1.4,
+    "Mines": 1.4,
+    "SkullCavern": 1.4,
+    "VolcanoDungeon": 1.4,
     "ByLocationName": {}
   },
   "FreezeTime": {
@@ -22,9 +22,9 @@
   },
   "LetFarmhandsManageTime": true,
   "Keys": {
-    "FreezeTime": "N",
+    "FreezeTime": "F5",
     "IncreaseTickInterval": "OemPeriod",
     "DecreaseTickInterval": "OemComma",
-    "ReloadConfig": "B"
+    "ReloadConfig": "F6"
   }
 }

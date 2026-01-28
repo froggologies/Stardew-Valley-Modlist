@@ -1,7 +1,7 @@
 {
   "EnableDebugFeatures": false,
   "Controls": {
-    "ToggleDebug": "F3",
+    "ToggleDebug": "F7",
     "DebugPrevTexture": "LeftControl",
     "DebugNextTexture": "RightControl"
   }
