@@ -1,8 +1,8 @@
 {
   "changeKey": "P",
-  "menuKey": "M",
-  "fixPortraitKey": "O",
-  "styleChangeKey": "I",
+  "menuKey": "",
+  "fixPortraitKey": "",
+  "styleChangeKey": "",
   "ShowPortraitsAboveBox": false,
   "MaxAbovePortraitPercent": 80,
   "SideLoadHDPWhenNotInstalled": false,
