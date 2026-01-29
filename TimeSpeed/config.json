@@ -2,11 +2,11 @@
   "EnableOnFestivalDays": true,
   "LocationNotify": false,
   "SecondsPerMinute": {
-    "Indoors": 1.4,
-    "Outdoors": 1.4,
-    "Mines": 1.4,
-    "SkullCavern": 1.4,
-    "VolcanoDungeon": 1.4,
+    "Indoors": 1.0,
+    "Outdoors": 1.0,
+    "Mines": 1.0,
+    "SkullCavern": 1.0,
+    "VolcanoDungeon": 1.0,
     "ByLocationName": {}
   },
   "FreezeTime": {
