@@ -1,0 +1,42 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "{{ModId}}_Spider/texture_0,{{ModId}}_Spider/texture_1,{{ModId}}_Spider/texture_2,{{ModId}}_Spider/texture_3,{{ModId}}_Spider/texture_4,{{ModId}}_Spider/texture_5",
+      "FromFile": "Textures/Spider/{{TargetWithoutPath}}.png"
+    },
+    {
+      "Action": "EditData",
+      "Target": "mushymato.MonsterVariety/Data",
+      "Entries": {
+        "{{ModId}}_Spider": {
+          "Id": "{{ModId}}_Spider",
+          "MonsterName": "Spider",
+          "Varieties": {
+            "{{ModId}}_Spider/texture_0": {
+              "Sprite": "{{ModId}}_Spider/texture_0"
+            },
+            "{{ModId}}_Spider/texture_1": {
+              "Sprite": "{{ModId}}_Spider/texture_1"
+            },
+            "{{ModId}}_Spider/texture_2": {
+              "Sprite": "{{ModId}}_Spider/texture_2"
+            },
+            "{{ModId}}_Spider/texture_3": {
+              "Sprite": "{{ModId}}_Spider/texture_3"
+            },
+            "{{ModId}}_Spider/texture_4": {
+              "Sprite": "{{ModId}}_Spider/texture_4"
+            },
+            "{{ModId}}_Spider/texture_5": {
+              "Sprite": "{{ModId}}_Spider/texture_5"
+            },
+            "Default": {
+              "Sprite": "Characters/Monsters/Spider"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

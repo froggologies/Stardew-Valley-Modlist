@@ -1,0 +1,22 @@
+{
+  /*
+   | This file is automatically updated by ModManifestBuilder
+   | when the project is compiled.
+   | 
+   | Changes made to this file may be overwritten.
+   | 
+   */
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "mushymato.MonsterVariety",
+  "Name": "Monster Variety",
+  "Author": "mushymato",
+  "Version": "0.7.0",
+  "Description": "Add skins to monsters.",
+  "MinimumApiVersion": "4.3.2",
+  "MinimumGameVersion": "1.6.15",
+  "EntryDll": "MonsterVariety.dll",
+  "UpdateKeys": [
+    "Nexus:32241",
+    "GitHub:Mushymato/MonsterVariety"
+  ]
+}
