@@ -1,0 +1,20 @@
+{
+  "enable": true,
+  "enableIndoors": true,
+  "enableInMines": true,
+  "enableInEvents": true,
+  "directionalFading": true,
+  "directionalFadingTime": 0.5,
+  "directionalFadingMin": 0.0,
+  "directionalFadingDuringEvents": true,
+  "blurRadius": 4,
+  "blurOffset": 0.25,
+  "effectStregth": 1.0,
+  "passes": 2,
+  "sampleOffset": 1.4,
+  "disableOnWorkaround": false,
+  "shaderType": "Chex",
+  "shaderMethod": "Automatic",
+  "debug": false,
+  "sigma": 5.0
+}
