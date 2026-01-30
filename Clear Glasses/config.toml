@@ -1,5 +1,5 @@
 [Config]
-ConfigVersion = ""
+ConfigVersion = "0.4.2.0"
 # Should Clear Glasses be enabled? Unsetting this will disable _all_ Clear Glasses functionality.
 Enabled = true
 # Button to toggle Clear Glasses
@@ -27,7 +27,7 @@ Enabled = true
 #	RightThumbstickUp, RightThumbstickDown, RightThumbstickRight, 
 #	RightThumbstickLeft, LeftThumbstickUp, LeftThumbstickDown, LeftThumbstickRight
 # ]
-ToggleButton = "F8"
+ToggleButton = "F11"
 # The preferred maximum texture edge length, if allowed by the hardware
 PreferredMaxTextureDimension = 16384
 ShowIntroMessage = false
