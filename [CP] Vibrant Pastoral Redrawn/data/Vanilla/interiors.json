@@ -77,6 +77,15 @@
 			"PatchMode": "Overlay",
 			"Priority": "Early"
 		},
+		//Floors
+		{
+			"LogName": "Floors",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Floors",
+			"FromFile": "assets/{{Target}}.png",
+			"PatchMode": "Overlay",
+			"Priority": "Early"
+		},
 		//Floors 2
 		{
 			"LogName": "Floors 2",

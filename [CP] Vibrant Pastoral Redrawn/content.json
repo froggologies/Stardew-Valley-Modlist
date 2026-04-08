@@ -1,5 +1,5 @@
 {
-	"Format": "2.6.0",
+	"Format": "2.9.0",
 	"ConfigSchema": {
 		"Buildings": {
 			"AllowValues": "farm, outskirts, town",
@@ -280,115 +280,119 @@
 		{
 			"Name": "SnOverlay",
 			"Value": "{{LocationContext}}",
-            "When": {
+			"When": {
 				"VibrantPastoral.C/SnOverlay": true,
 				"Season": "winter"
-            }
+			}
 		}
 	],
 	"Changes": [
 	//Inclusions
 		//0Main
-        {
-            "Action": "Include",
-            "FromFile": "data/{{Version}}/0main.json"
-        },
+		{
+			"Action": "Include",
+			"FromFile": "data/{{Version}}/0main.json"
+		},
 		//Buildings:Farm
-        {
-            "Action": "Include",
-            "FromFile": "data/buildings.json, data/masks.json",
-			"When": { "Buildings |contains=farm": true }
-        },
+		{
+			"Action": "Include",
+			"FromFile": "data/buildings.json, data/masks.json",
+			"Update": "OnLocationChange",
+			"When": {
+				"Buildings |contains=farm": true,
+				"LocationName": "Farm, ScienceHouse, AnimalShop, WizardHouse"
+				}
+		},
 		//Fences
-        {
-            "Action": "Include",
-            "FromFile": "data/fences.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/fences.json",
 			"When": { "Fences": true }
-        },
+		},
 		//Grass
-        {
-            "Action": "Include",
-            "FromFile": "data/grass.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/grass.json",
 			"When": { "Grass |contains=false": false }
-        },
+		},
 		//Vegetation
-        {
-            "Action": "Include",
-            "FromFile": "data/vegetation.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/vegetation.json",
 			"When": { "VibrantPastoral.C/Vegetation": true }
-        },
+		},
 		//Mail
-        {
-            "Action": "Include",
-            "FromFile": "data/mail.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/mail.json",
 			"When": { "VibrantPastoral.C/EdNygma": true }
-        },
+		},
 		//Patches
-        {
-            "Action": "Include",
-            "FromFile": "data/{{Version}}/patches.json"
-        },
+		{
+			"Action": "Include",
+			"FromFile": "data/{{Version}}/patches.json"
+		},
 		//Seasonal Cute Characters
-        {
-            "Action": "Include",
-            "FromFile": "data/compat/SeasonalCuteCharacters.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/compat/SeasonalCuteCharacters.json",
 			"When": { "HasMod": "Poltergeister.SeasonalCuteCharacters" }
-        },
+		},
 		//SnOverlay
-        {
-            "Action": "Include",
-            "FromFile": "data/snoverlay.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/snoverlay.json",
 			"Update": "OnLocationChange",
 			"When": { "SnOverlay": "Default" }
-        },
+		},
 		//Build on/Buildable Ginger Island
-        {
-            "Action": "Include",
-            "FromFile": "data/compat/BuildGingerIsland.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/compat/BuildGingerIsland.json",
 			"Update": "OnLocationChange",
 			"When": {
 				"Buildings |contains=farm": true,
 				"Query: {{HasMod |contains=Sexynes.CP.BuildOnGingerIslandFarm}} OR {{HasMod |contains=mouahrara.BuildableGingerIslandFarm}}": true,
 				"LocationName": "IslandWest"
 			}
-        },
+		},
 		//NPC Map Locations
-        {
-            "Action": "Include",
-            "FromFile": "data/compat/NPCMapLocations.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/compat/NPCMapLocations.json",
 			"When": {
 				"HasMod": "Bouhm.NPCMapLocations",
 				"HasMod |contains=VibrantPastoral.Expanded": false
 			}
-        },
+		},
 		//Floors Extra
-        {
-            "Action": "Include",
-            "FromFile": "data/flooring.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/flooring.json",
 			"When": { "VibrantPastoral.C/Interiors": true }
-        },
+		},
 		//Furniture
-        {
-            "Action": "Include",
-            "FromFile": "data/{{Version}}/furniture.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/{{Version}}/furniture.json",
 			"When": { "VibrantPastoral.C/Furniture": true }
-        },
+		},
 		//Interiors
-        {
-            "Action": "Include",
-            "FromFile": "data/{{Version}}/interiors.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/{{Version}}/interiors.json",
 			"When": { "VibrantPastoral.C/Interiors": true }
-        },
+		},
 		//Data Strings
-        {
-            "Action": "Include",
-            "FromFile": "data/strings.json"
-        },
+		{
+			"Action": "Include",
+			"FromFile": "data/strings.json"
+		},
 		//Loca Edits
-        {
-            "Action": "Include",
-            "FromFile": "data/Locale/{{Language}}.json",
+		{
+			"Action": "Include",
+			"FromFile": "data/Locale/{{Language}}.json",
 			"When": { "HasFile:{{FromFile}}": true }
-        }
+		}
 	]
 }
