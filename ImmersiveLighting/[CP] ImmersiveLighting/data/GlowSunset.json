@@ -1,0 +1,50 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/Glows.png",
+      "PatchMode": "Replace",
+      "Update": "OnDayStart, OnLocationChange, OnTimeChange",
+      "FromArea": {
+        "X": 48,
+        "Y": 0,
+        "Width": 48,
+        "Height": 64
+      },
+      "ToArea": {
+        "X": 16,
+        "Y": 1696,
+        "Width": 48,
+        "Height": 64
+      },
+      "When": {
+        "Time": "{{Range: {{SunsetStart}}, {{SunsetEnd}}}}",
+        "Weather": "Sun, Wind, Kana.NatureWonders_BloodMoon, Kana.NatureWonders_BlueMoon, Kana.NatureWonders_HarvestMoon, Kana.NatureWonders_Eclipse"
+      }
+    }
+    //{
+    //  "Action": "EditImage",
+    //  "Target": "LooseSprites/Cursors",
+    //  "FromFile": "assets/Blank.png",
+    //  "PatchMode": "Replace",
+    //  "Update": "OnDayStart, OnLocationChange, OnTimeChange",
+    //  "FromArea": {
+    //    "X": 0,
+    //    "Y": 0,
+    //    "Width": 48,
+    //    "Height": 32
+    //  },
+    //  "ToArea": {
+    //    "X": 80,
+    //    "Y": 1776,
+    //    "Width": 48,
+    //    "Height": 32
+    //  },
+    //  "When": {
+    //    "Time": "{{Range: 1700, 2000}}",
+    //    "Weather": "Sun, Wind, Kana.NatureWonders_BloodMoon, Kana.NatureWonders_BlueMoon, Kana.NatureWonders_HarvestMoon, Kana.NatureWonders_Eclipse"
+    //  }
+    //}
+  ]
+}
