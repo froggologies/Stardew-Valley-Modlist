@@ -1,0 +1,114 @@
+{
+	"Name": "IguanaMarineSwimming_WA",
+	"Type": "Walking",
+	"EnableSpawnAtDayStart": false,
+	"EnableCharacterCollision": false,
+	"EnableFarmerCollision": false,
+	"EnableShadow": true,
+	"Shadow": {
+		"OffsetX": 2,
+		"OffsetY": 40,
+		"Scale": 1,
+		"Alpha": 200
+	},
+	"TravelSpeed": 2,
+	"MaxIdleDistance": -1,
+	"MaxDistanceBeforeTeleport": -1,
+	"IdleBehavior": "Wander",
+	"IdleArguments": [ 5, 5000 ],
+	"AppearUnderwater": true,
+	"FrameSizeWidth": 32,
+	"FrameSizeHeight": 32,
+
+	// This plays when the companion travels upwards
+	"UpAnimation": {
+		"StartingFrame": 36,
+		"NumberOfFrames": 4,
+		"Duration": 300,
+	"IdleAnimation": {
+		"StartingFrame": 36,
+		"NumberOfFrames": 4,
+		"Duration": 300
+	}
+	},
+	// This plays when the companion travels downwards
+	"DownAnimation": {
+		"StartingFrame": 28,
+		"NumberOfFrames": 4,
+		"Duration": 300,
+	"IdleAnimation": {
+		"StartingFrame": 28,
+		"NumberOfFrames": 4,
+		"Duration": 300
+	}
+	},
+	// This plays when the companion travels left
+	"LeftAnimation": {
+		"ManualFrames": [
+		{
+		"Frame": 32,
+		"Duration": 300,
+		"Flip": true
+		},
+		{
+		"Frame": 33,
+		"Duration": 300,
+		"Flip": true
+		},
+		{
+		"Frame": 34,
+		"Duration": 300,
+		"Flip": true
+		},
+		{
+		"Frame": 35,
+		"Duration": 300,
+		"Flip": true
+		}
+		],
+    "IdleAnimation": {
+		"ManualFrames": [
+		{
+		"Frame": 32,
+		"Duration": 300,
+		"Flip": true
+		},
+		{
+		"Frame": 33,
+		"Duration": 300,
+		"Flip": true
+		},
+		{
+		"Frame": 34,
+		"Duration": 300,
+		"Flip": true
+		},
+		{
+		"Frame": 35,
+		"Duration": 300,
+		"Flip": true
+		},
+    ],
+    }
+  },
+	// This plays when the companion travels right
+	"RightAnimation": {
+		"StartingFrame": 32,
+		"NumberOfFrames": 4,
+		"Duration": 300,
+	"IdleAnimation": {
+		"StartingFrame": 32,
+		"NumberOfFrames": 4,
+		"Duration": 300
+	}
+	},
+
+"Sounds": [
+	{
+	"SoundName": "grunt",
+	"WhenToPlay": "Idle",
+	"TimeBetweenSound": 5000,
+	"ChanceOfPlaying": 0.1
+	}
+]  
+}
