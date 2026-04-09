@@ -3,33 +3,34 @@ TRUE,AutomaticGates
 TRUE,BetterCrafting
 TRUE,Clear Glasses
 TRUE,CommunityCenterHelper
-TRUE,ConsoleCommands
 TRUE,ContentPatcher
 TRUE,[CP] Better Water
 TRUE,[CP] DaisyNiko's Earthy Interface
 TRUE,[CP] Seasonal Cute Characters
 TRUE,[CP] Simple Foliage
 TRUE,[CP] Vanilla Tweaks
-TRUE,[CP] Vibrant Pastoral Redrawn
 FALSE,[CP] Visual Enemy Variety
+TRUE,CustomCompanions
 TRUE,DynamicReflections
 TRUE,Elle's
 TRUE,GenericModConfigMenu
 TRUE,GiftTasteHelper
 TRUE,MixedBag Tilesheets
 FALSE,MonsterVariety
+TRUE,MoreNightlyEvents
 TRUE,PassableCrops
 TRUE,Portraiture
 TRUE,PortraiturePlus
 TRUE,PredictReactionToGift
 TRUE,RealisticWindEffects
 TRUE,RunningLate
-TRUE,SaveBackup
 TRUE,SitnRelax
 TRUE,SkillfulClothes
+TRUE,SMAPI
 TRUE,StardewNotification
 TRUE,Tilt-Shift - Native Effect Shader
 TRUE,TimeSpeed
 TRUE,UIInfoSuite2
-TRUE,VibrantPastoral
+TRUE,Vibrant Pastoral
 TRUE,VisibleFish
+TRUE,Wild Animals Lite
