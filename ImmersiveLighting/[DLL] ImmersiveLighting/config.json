@@ -2,5 +2,5 @@
   "EnableSunRays": true,
   "EnableCustomWindows": true,
   "EnableNightTint": true,
-  "SubtleSunrise": false
+  "SubtleSunrise": true
 }
