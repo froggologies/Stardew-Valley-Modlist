@@ -1,0 +1,12 @@
+{
+    "*Soupir*... J’en peux plus de préparer ces échantillons.": "Hospital_7_Maru_Maru_event1",
+    "Ah! Oh, non !...": "Hospital_7_Maru_Maru_event2",
+    "Tout l'échantillon est fichu... Harvey va me tuer...": "Hospital_7_Maru_Maru_event3",
+    "@, que dois-je faire ?": "Hospital_7_Maru_Maru_event4",
+    "Que s’est-il passé ? J’ai entendu quelque chose casser.": "Hospital_7_Maru_Harvey_event1",
+    "J’ai accidentellement laissé tomber l’un des échantillons... Je suis vraiment désolée.": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@ a claqué la porte si fort en entrant que ça m’a fait sursauter. J’ai fait tomber l’échantillon par terre.": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "Tu ne devrais pas laisser les autres porter le blâme pour tes propres erreurs, Maru.": "Hospital_7_Maru_Harvey_event2",
+    "*Soupir*... Je vais devoir rappeler le patient pour qu’il revienne nous donner un nouvel échantillon.": "Hospital_7_Maru_Harvey_event3",
+    "Ça va certainement nous mettre dans le rouge pour le mois prochain.": "Hospital_7_Maru_Harvey_event3_sv1"
+}

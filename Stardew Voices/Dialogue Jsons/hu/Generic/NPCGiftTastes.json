@@ -1,0 +1,206 @@
+{
+      "Alex": {
+            "Hé, ez menő! Imádom ezt a cuccost!": [
+                  "AlexGiftTaste_1"
+            ],
+            "Ez királyság! Köszi.": [
+                  "AlexGiftTaste_2"
+            ],
+            "Őőő... Oké. Köszi.": [
+                  "AlexGiftTaste_3"
+            ],
+            "Ez most komoly? Ez csak szemét.": [
+                  "AlexGiftTaste_4"
+            ],
+            "Köszönöm!": [
+                  "AlexGiftTaste_5"
+            ]
+      },
+      "Elliott": {
+            "@, ez egy varázslatos ajándék! Hálás vagyok érte!": [
+                  "ElliottGiftTaste_1"
+            ],
+            "Ez az enyém? Csodálatos!": [
+                  "ElliottGiftTaste_2"
+            ],
+            "Hmm... Nem igazán rajongok érte.": [
+                  "ElliottGiftTaste_3"
+            ],
+            "Ennek a dolognak rossz kisugárzása van. Meg kell szabadulnom tőle.": [
+                  "ElliottGiftTaste_4"
+            ],
+            "Ó, egy ajándék! Hálás köszönetem!": [
+                  "ElliottGiftTaste_5"
+            ]
+      },
+      "Harvey": {
+            "Ez az enyém? Ez a kedvencem! Mintha olvasnál a gondolataimban.": [
+                  "HarveyGiftTaste_1"
+            ],
+            "Ez egy kedves ajándék. Köszönöm!": [
+                  "HarveyGiftTaste_2"
+            ],
+            "Hmm... Biztos, hogy ez egészséges?": [
+                  "HarveyGiftTaste_3"
+            ],
+            "...Azt hiszem erre allergiás vagyok.": [
+                  "HarveyGiftTaste_4"
+            ],
+            "Köszönöm. Ez nagyon kedves tőled.": [
+                  "HarveyGiftTaste_5"
+            ]
+      },
+      "Sam": {
+            "Ezaz! Ez a nagy kedvencem!": [
+                  "SamGiftTaste_1"
+            ],
+            "Köszönöm! Ezt nagyon szeretem.": [
+                  "SamGiftTaste_2"
+            ],
+            "Hmm... ez... érdekes.": [
+                  "SamGiftTaste_3"
+            ],
+            "Semmit se értesz, ugye?": [
+                  "SamGiftTaste_4"
+            ],
+            "Ezt nekem hoztad? Köszönöm!": [
+                  "SamGiftTaste_5"
+            ]
+      },
+      "Sebastian": {
+            "Ezt nagyon szeretem. Honnan tudtad?": [
+                  "SebastianGiftTaste_1"
+            ],
+            "Köszönöm, ezt szeretem.": [
+                  "SebastianGiftTaste_2"
+            ],
+            "...?": [
+                  "SebastianGiftTaste_3"
+            ],
+            "...Ezt utálom.": [
+                  "SebastianGiftTaste_4"
+            ],
+            "...köszi.": [
+                  "SebastianGiftTaste_5"
+            ]
+      },
+      "Shane": {
+            "Ó, váó, @! Honnan tudtad, hogy ez a kedvencem?": [
+                  "ShaneGiftTaste_1"
+            ],
+            "Ez nagyszerű! Köszönöm!": [
+                  "ShaneGiftTaste_2"
+            ],
+            "Ezt nem igazán szeretem.": [
+                  "ShaneGiftTaste_3"
+            ],
+            "Miért adod nekem a szemetedet?": [
+                  "ShaneGiftTaste_4"
+            ],
+            "Ó, hoztál nekem valamit? Köszönöm!": [
+                  "ShaneGiftTaste_5"
+            ]
+      },
+      "Abigail": {
+            "Ezt nagyon csípem! Te vagy a legjobb, @!": [
+                  "AbigailGiftTaste_1"
+            ],
+            "Hé, honnan tudtad, hogy éhes vagyok? Ez finomnak néz ki!": [
+                  "AbigailGiftTaste_2"
+            ],
+            "Ezzel meg mégis mit csináljak?": [
+                  "AbigailGiftTaste_3"
+            ],
+            "Mit képzeltél? Ez borzalmas!": [
+                  "AbigailGiftTaste_4"
+            ],
+            "Hoztál nekem ajándékot? Köszönöm.": [
+                  "AbigailGiftTaste_5"
+            ]
+      },
+      "Emily": {
+            "Ez az ajándék mesébe illő! Annyira köszönöm!": [
+                  "EmilyGiftTaste_1"
+            ],
+            "Köszönöm! Ebből pozitív energiát érzek.": [
+                  "EmilyGiftTaste_2"
+            ],
+            "Sajnálom, @. Ez nem tetszik.": [
+                  "EmilyGiftTaste_3"
+            ],
+            "Ennek az ajándéknak erős negatív energiája van. Nem bírom elviselni.": [
+                  "EmilyGiftTaste_4"
+            ],
+            "Köszönöm!": [
+                  "EmilyGiftTaste_5"
+            ]
+      },
+      "Haley": {
+            "Ó egek, ez a kedvencem!": [
+                  "HaleyGiftTaste_1"
+            ],
+            "*meghökken* ...ez az enyém? Köszönöm!": [
+                  "HaleyGiftTaste_2"
+            ],
+            "Uhh ...ez egy olyan ostoba ajándék.": [
+                  "HaleyGiftTaste_3"
+            ],
+            "Undorító!": [
+                  "HaleyGiftTaste_4"
+            ],
+            "Köszönöm. Szeretem az ajándékokat.": [
+                  "HaleyGiftTaste_5"
+            ]
+      },
+      "Leah": {
+            "Ó! Pont ez az, amire vágytam! Köszönöm!": [
+                  "LeahGiftTaste_1"
+            ],
+            "Ez tényleg nagyszerű ajándék! Köszönöm!": [
+                  "LeahGiftTaste_2"
+            ],
+            "Hmm... Azt hiszem mindenkinek más az ízlése.": [
+                  "LeahGiftTaste_3"
+            ],
+            "Ez egy elég szörnyű ajándék, nem gondolod?": [
+                  "LeahGiftTaste_4"
+            ],
+            "Köszönöm.": [
+                  "LeahGiftTaste_5"
+            ]
+      },
+      "Maru": {
+            "Csak nem...? Ó váó, @! Ez látványos!": [
+                  "MaruGiftTaste_1"
+            ],
+            "Ez egy szuper ajándék! Köszönöm!": [
+                  "MaruGiftTaste_2"
+            ],
+            "Ó... Ez az enyém? Akkor most iderakom...": [
+                  "MaruGiftTaste_3"
+            ],
+            "Fúj! Azt gondoltad, hogy ez tetszene nekem?": [
+                  "MaruGiftTaste_4"
+            ],
+            "Köszönöm.": [
+                  "MaruGiftTaste_5"
+            ]
+      },
+      "Penny": {
+            "Köszönöm! Ezt nagyon szeretem!": [
+                  "PennyGiftTaste_1"
+            ],
+            "Köszönöm! Ez különlegesnek tűnik.": [
+                  "PennyGiftTaste_2"
+            ],
+            "Öhm, ez az enyém? ...Köszönöm.": [
+                  "PennyGiftTaste_3"
+            ],
+            "Uhhh... Sajnálom, de ezt szívből gyűlölöm.": [
+                  "PennyGiftTaste_4"
+            ],
+            "Köszönöm, ez jól néz ki.": [
+                  "PennyGiftTaste_5"
+            ]
+      }
+}

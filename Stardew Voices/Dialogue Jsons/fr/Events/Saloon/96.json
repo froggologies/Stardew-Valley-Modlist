@@ -1,0 +1,18 @@
+{
+    "Oh, bonjour, mon pote.": "Saloon_96_Gus_Gus_event1_male_farmer",
+    "Salut, @.": "Saloon_96_Gus_Gus_event1_female_farmer",
+    "*Soupir*... Je calcule les ardoises du mois dernier... et ça ne se présente pas très bien, @.": "Saloon_96_Gus_Gus_event2",
+    "La pire ardoise est celle de... Je déteste de devoir dire ça parce qu’elle est mon amie... mais c’est celle de Pam ! Elle n’a pas payé son ardoise depuis des semaines !": "Saloon_96_Gus_Gus_event2_sv1",
+    "... Mais je ne peux pas lui demander de le faire. Je sais qu’elle va se braquer, et je ne veux pas blesser ses sentiments.": "Saloon_96_Gus_Gus_event2_sv2",
+    "@, tu dois m’aider !": "Saloon_96_Gus_Gus_event3",
+    "Salut !": "Saloon_96_Gus_Pam_event1",
+    "Gus... Je meurs de soif, si tu vois ce que je veux dire.": "Saloon_96_Gus_Pam_event1_sv1",
+    "Euh... oui Pam.": "Saloon_96_Gus_Gus_event4",
+    "@, que se passe-t-il ici ?": "Saloon_96_Gus_Pam_event2",
+    "....": "Saloon_96_Gus_Pam_event3",
+    "*Soupir *... Eh bien, je ferais mieux de payer cette ardoise, alors.": "Saloon_96_Gus_Pam_event3_sv1",
+    "Merci, Pam !": "Saloon_96_Gus_Gus_event5",
+    "Et merci, @.": "Saloon_96_Gus_Gus_event6",
+    "Laisse-moi t'offrir un verre, Pam.": "Saloon_96_Gus_Gus_event7",
+    "Merci pour ton aide, @. Cet argent va être d’une grande aide pour le bar.": "Saloon_96_Gus_Gus_endDialogue8"
+}

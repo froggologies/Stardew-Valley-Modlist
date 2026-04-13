@@ -1,0 +1,18 @@
+{
+    "好，乔治。我要你深吸一口气。": "JoshHouse_56_George_Harvey_event1",
+    "嗯……请转过身来。": "JoshHouse_56_George_Harvey_event2",
+    "乔治，我跟你说实话吧。你如果想健康长寿的话，就得改改你的生活方式。": "JoshHouse_56_George_Harvey_event3",
+    "你得减少食盐的摄入量，并且适量锻炼一下你的手臂。": "JoshHouse_56_George_Harvey_event3_sv1",
+    "嗯……我知道怎么做最好。你以为你是谁啊，敢对我的生活指手画脚？": "JoshHouse_56_George_George_event1",
+    "你问我是谁……我是你的医生，乔治。": "JoshHouse_56_George_Harvey_event4",
+    "而我学了 8 年医，就是为了帮人们保持健康。": "JoshHouse_56_George_Harvey_event4_sv1",
+    "噢！": "JoshHouse_56_George_Harvey_event5",
+    "对不起，你不能待在这里……检查时闲人免进。": "JoshHouse_56_George_Harvey_event5_sv1",
+    "别着急！我还要再听听这个年轻人的意见。": "JoshHouse_56_George_George_event2_male_farmer",
+    "别着急！我还要再听听这位年轻女士的意见。": "JoshHouse_56_George_George_event2_female_farmer",
+    "那好……": "JoshHouse_56_George_Harvey_event6",
+    "@你觉得乔治该怎么做？": "JoshHouse_56_George_Harvey_event7",
+    "好。我就照你说的做，医生。": "JoshHouse_56_George_George_event3",
+    "谢谢你的帮助，@。我很感激。": "JoshHouse_56_George_Harvey_event8_prereq_1",
+    "你最好不要误导我的病人，@。请你以后记住这一点。": "JoshHouse_56_George_Harvey_event8_prereq_2"
+}

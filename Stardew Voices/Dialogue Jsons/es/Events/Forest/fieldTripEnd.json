@@ -1,0 +1,8 @@
+{
+    "Ya es suficiente por hoy. Podéis ir a jugar.": "response_Forest_fieldTripEnd_Penny_event1",
+    "Cuidar de estos dos da mucho trabajo...": "response_Forest_fieldTripEnd_Penny_event2",
+    "Pero no me importa. Disfruto viéndolos aprender... y espero poder educarlos para que sean buenas personas.": "response_Forest_fieldTripEnd_Penny_event2_sv1",
+    "¿Te gustaría formar una familia algún día, @?": "response_Forest_fieldTripEnd_Penny_event3",
+    "Bueno, me alegro de que vinieras, @. Creo que los niños se lo han pasado muy bien.": "response_Forest_fieldTripEnd_Penny_event4",
+    "Gracias por hacer que mi excursión haya sido un éxito.": "response_Forest_fieldTripEnd_Penny_endDialogue5"
+}

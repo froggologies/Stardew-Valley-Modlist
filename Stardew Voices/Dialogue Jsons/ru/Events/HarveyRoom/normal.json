@@ -1,0 +1,11 @@
+{
+    "Прости, я весь растрепанный... Я не знал, что ты придешь.": "response_HarveyRoom_normal_Harvey_event1",
+    "Ой! Я, кажется, слышу самолет...": "response_HarveyRoom_normal_Harvey_event2",
+    "@, подойди сюда!": "response_HarveyRoom_normal_Harvey_event3",
+    "Смотри!": "response_HarveyRoom_normal_Harvey_event4",
+    "В детстве я всегда мечтал стать пилотом.": "response_HarveyRoom_normal_Harvey_event5",
+    "... Но эта мечта угасла со временем из-за моего зрения и чрезвычайной боязни высоты.": "response_HarveyRoom_normal_Harvey_event6",
+    "Ничего страшного... Не огорчайся.": "response_HarveyRoom_normal_Harvey_event7",
+    "Я уже смирился со своим местом в жизни. Не каждый может достигнуть мечты... Так уж устроен мир.": "response_HarveyRoom_normal_Harvey_event7_sv1",
+    "О, а давай я покажу тебе свои модели самолетов. Я как раз недавно собрал элитный набор «ТР-Старберд».": "response_HarveyRoom_normal_Harvey_event8"
+}

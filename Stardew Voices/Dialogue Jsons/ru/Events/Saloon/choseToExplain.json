@@ -1,0 +1,10 @@
+{
+    "Сомневаюсь...": "response_Saloon_choseToExplain_Shane_textAboveHeadEvent1",
+    "Вранье!": "response_Saloon_choseToExplain_Sam_textAboveHeadEvent1",
+    "Еще какое!": "response_Saloon_choseToExplain_Alex_textAboveHeadEvent1",
+    "Не перекладывай вину на других! Так мы тебя еще меньше будем уважать...": "response_Saloon_choseToExplain_Elliott_event1",
+    "... И мы все вместе решили... Ведь так, парни?": "response_Saloon_choseToExplain_Sam_event2",
+    "Да.": "response_Saloon_choseToExplain_Harvey_event1",
+    "Без вариантов.": "response_Saloon_choseToExplain_Sebastian_event1",
+    "Мы все решили на тебя обидеться!": "response_Saloon_choseToExplain_Sam_event3"
+}

@@ -1,0 +1,206 @@
+{
+      "Alex": {
+            "Que incrível! Eu amei isto!": [
+                  "AlexGiftTaste_1"
+            ],
+            "Isso é muito legal! Obrigado!": [
+                  "AlexGiftTaste_2"
+            ],
+            "Hã... Tá. Obrigado.": [
+                  "AlexGiftTaste_3"
+            ],
+            "Você está falando sério? Isso é um lixo.": [
+                  "AlexGiftTaste_4"
+            ],
+            "Obrigado!": [
+                  "AlexGiftTaste_5"
+            ]
+      },
+      "Elliott": {
+            "@, que presente lindo! Obrigado!": [
+                  "ElliottGiftTaste_1"
+            ],
+            "Isto é para mim? Maravilhoso!": [
+                  "ElliottGiftTaste_2"
+            ],
+            "Huum... Não sou muito fã disto.": [
+                  "ElliottGiftTaste_3"
+            ],
+            "Este item me dá uma sensação terrível. Vou ter que me desfazer dele.": [
+                  "ElliottGiftTaste_4"
+            ],
+            "Ah, um presente! Obrigado!": [
+                  "ElliottGiftTaste_5"
+            ]
+      },
+      "Harvey": {
+            "Para mim? Meu favorito! É como se você pudesse ler minha mente.": [
+                  "HarveyGiftTaste_1"
+            ],
+            "Que presente maravilhoso! Obrigado!": [
+                  "HarveyGiftTaste_2"
+            ],
+            "Huum... Tem certeza que isto é saudável?": [
+                  "HarveyGiftTaste_3"
+            ],
+            "Acho que sou alérgico a isto.": [
+                  "HarveyGiftTaste_4"
+            ],
+            "Obrigado. É muito gentil da sua parte.": [
+                  "HarveyGiftTaste_5"
+            ]
+      },
+      "Sam": {
+            "Isso aí! O meu favorito!": [
+                  "SamGiftTaste_1"
+            ],
+            "Obrigado! Adoro isto.": [
+                  "SamGiftTaste_2"
+            ],
+            "Hã... é... interessante.": [
+                  "SamGiftTaste_3"
+            ],
+            "Você não entende mesmo, não é?": [
+                  "SamGiftTaste_4"
+            ],
+            "Hã? Para mim? Obrigado!": [
+                  "SamGiftTaste_5"
+            ]
+      },
+      "Sebastian": {
+            "Gostei muito. Como você sabia?": [
+                  "SebastianGiftTaste_1"
+            ],
+            "Obrigado, eu gostei muito disso.": [
+                  "SebastianGiftTaste_2"
+            ],
+            "?...": [
+                  "SebastianGiftTaste_3"
+            ],
+            "Eu odeio isso.": [
+                  "SebastianGiftTaste_4"
+            ],
+            "Obrigado.": [
+                  "SebastianGiftTaste_5"
+            ]
+      },
+      "Shane": {
+            "Nossa, @! Como você sabia que este era meu presente favorito?": [
+                  "ShaneGiftTaste_1"
+            ],
+            "Isso é ótimo! Obrigado!": [
+                  "ShaneGiftTaste_2"
+            ],
+            "Eu não gosto muito disso.": [
+                  "ShaneGiftTaste_3"
+            ],
+            "Por que você está me dando o seu lixo?": [
+                  "ShaneGiftTaste_4"
+            ],
+            "Ah, você tem algo para mim? Obrigado!": [
+                  "ShaneGiftTaste_5"
+            ]
+      },
+      "Abigail": {
+            "Amei isto! Você é o máximo, @!": [
+                  "AbigailGiftTaste_1"
+            ],
+            "Como você sabia que eu estava com fome? Isso parece delicioso!": [
+                  "AbigailGiftTaste_2"
+            ],
+            "O que devo fazer com isto?": [
+                  "AbigailGiftTaste_3"
+            ],
+            "O que você estava pensando? Isso é terrível!": [
+                  "AbigailGiftTaste_4"
+            ],
+            "Você me trouxe um presente? Obrigada.": [
+                  "AbigailGiftTaste_5"
+            ]
+      },
+      "Emily": {
+            "Que presente fabuloso! Muito obrigada!": [
+                  "EmilyGiftTaste_1"
+            ],
+            "Obrigada! Estou sentindo uma energia positiva emanando desse presente.": [
+                  "EmilyGiftTaste_2"
+            ],
+            "Desculpe, @. Não gostei disto.": [
+                  "EmilyGiftTaste_3"
+            ],
+            "Esse presente emana uma energia negativa muito forte. Não consigo nem vê-lo.": [
+                  "EmilyGiftTaste_4"
+            ],
+            "Obrigada!": [
+                  "EmilyGiftTaste_5"
+            ]
+      },
+      "Haley": {
+            "Meu Deus! Meu favorito!": [
+                  "HaleyGiftTaste_1"
+            ],
+            "*Suspira!* Para mim? Obrigada!": [
+                  "HaleyGiftTaste_2"
+            ],
+            "Hã... que presente idiota.": [
+                  "HaleyGiftTaste_3"
+            ],
+            "Que nojo!": [
+                  "HaleyGiftTaste_4"
+            ],
+            "Obrigada. Amo presentes.": [
+                  "HaleyGiftTaste_5"
+            ]
+      },
+      "Leah": {
+            "Ah! É exatamente o que eu queria! Obrigada!": [
+                  "LeahGiftTaste_1"
+            ],
+            "Que presente maravilhoso! Obrigada!": [
+                  "LeahGiftTaste_2"
+            ],
+            "Huum... Acho que todos possuem gostos diferentes.": [
+                  "LeahGiftTaste_3"
+            ],
+            "Este é um present horrível.": [
+                  "LeahGiftTaste_4"
+            ],
+            "Obrigada.": [
+                  "LeahGiftTaste_5"
+            ]
+      },
+      "Maru": {
+            "Isso é?... Nossa, @! Que espetacular!": [
+                  "MaruGiftTaste_1"
+            ],
+            "Este é um superpresente! Obrigada!": [
+                  "MaruGiftTaste_2"
+            ],
+            "Ah... Isso é para mim? Vou colocar ali...": [
+                  "MaruGiftTaste_3"
+            ],
+            "Eca! Você achou que eu gostaria disso?": [
+                  "MaruGiftTaste_4"
+            ],
+            "Obrigada!": [
+                  "MaruGiftTaste_5"
+            ]
+      },
+      "Penny": {
+            "Obrigada! Amei!": [
+                  "PennyGiftTaste_1"
+            ],
+            "Obrigada! Parece especial.": [
+                  "PennyGiftTaste_2"
+            ],
+            "Hã... é para mim? Obrigada.": [
+                  "PennyGiftTaste_3"
+            ],
+            "Eca! Desculpe, mas eu odiei.": [
+                  "PennyGiftTaste_4"
+            ],
+            "Obrigada. Parece ótimo.": [
+                  "PennyGiftTaste_5"
+            ]
+      }
+}

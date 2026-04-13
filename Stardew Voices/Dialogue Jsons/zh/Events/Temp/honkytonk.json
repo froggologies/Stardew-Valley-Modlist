@@ -1,0 +1,20 @@
+{
+    "嗨，大家好。我们是来自鹈鹕镇的……呃……别人叫我们“苜蓿人”。": "response_Temp_honkytonk_Sam_event1",
+    "这首歌写的是做耕种、采矿和砍木头。": "response_Temp_honkytonk_Sam_event2",
+    "这首歌写的是一座海中城市。": "response_Temp_honkytonk_Sam_event2_sv1",
+    "这首歌写的是火车。": "response_Temp_honkytonk_Sam_event2_sv2",
+    "开始！": "response_Temp_honkytonk_Sam_event2_sv3",
+    "哇哦！这电音很不错啊！": "response_Temp_honkytonk_Emily_event1_prereq_1",
+    "哇！这太棒了。": "response_Temp_honkytonk_Emily_event1_prereq_2",
+    "做得不错！这简直是全新的酒吧音乐典范！": "response_Temp_honkytonk_Leah_event1_prereq_1",
+    "你们太厉害了！": "response_Temp_honkytonk_Leah_event1_prereq_2",
+    "我特别喜欢结尾的处理。": "response_Temp_honkytonk_Shane_event1_prereq_1",
+    "我特别喜欢低音的部分。": "response_Temp_honkytonk_Shane_event1_prereq_2",
+    "谢谢大家！": "response_Temp_honkytonk_Sam_event3",
+    "但你们真正应该感谢的是@！没有他": "response_Temp_honkytonk_Sam_event3_sv1_male_farmer",
+    "她}帮助，我们根本就不知该去做哪种类型的音乐！": "response_Temp_honkytonk_Sam_event3_sv1_female_farmer",
+    "这么说，你就是这个乐队的荣誉成员喽？": "response_Temp_honkytonk_Penny_event1",
+    "噢！走之前别忘了买一盘我们的试听磁带……只要 10 金！": "response_Temp_honkytonk_Sam_event4",
+    "太顺利了！再次感谢你陪我们一起来！": "response_Temp_honkytonk_Sam_event5",
+    "喂。演出大获成功！再次谢谢你了，@。": "response_Temp_honkytonk_Sam_endDialogue6"
+}

@@ -1,0 +1,20 @@
+{
+    "Oh, @! It's perfect timing that you showed up.": "Forest_181928_19_Penny_event1",
+    "I brought the children on a little field trip into the countryside.": "Forest_181928_19_Penny_event2",
+    "You know all about life in the country, right?": "Forest_181928_19_Penny_event2_sv1",
+    "So I was thinking... could you be my guest speaker today?": "Forest_181928_19_Penny_event3",
+    "Jas! Vincent! May I have your attention please!": "Forest_181928_19_Penny_event4",
+    "I have a very special guest here to talk to you today... our very own local farmer, @.": "Forest_181928_19_Penny_event5",
+    "He has first-hand experience living in the countryside... so he knows all about the valley's 'natural resources'!": "Forest_181928_19_Penny_event5_sv1_male_farmer",
+    "She has first-hand experience living in the countryside... so she knows all about the valley's 'natural resources'!": "Forest_181928_19_Penny_event5_sv1_female_farmer",
+    "Can anyone tell me what a 'natural resource' is?": "Forest_181928_19_Penny_event6",
+    "Jas?": "Forest_181928_19_Penny_event7",
+    "A natural resource is a material source of wealth that occurs in a natural state and has economic value.": "Forest_181928_19_Jas_event1",
+    "Very good! That's worth two star points, Jas.": "Forest_181928_19_Penny_event8",
+    "Yesss!": "Forest_181928_19_Jas_event2",
+    "Okay, now let's give @ our full attention.": "Forest_181928_19_Penny_event9",
+    "Yes, Vincent?": "Forest_181928_19_Penny_event10",
+    "Mr. @, are you going to marry Miss Penny?": "Forest_181928_19_Vincent_event1_male_farmer",
+    "Ms. @... Um, do you have a boyfriend?": "Forest_181928_19_Vincent_event1_female_farmer",
+    "Vincent! That's not an appropriate question! Behave yourself, or I'll have to take away all your star points for the day.": "Forest_181928_19_Penny_event11"
+}

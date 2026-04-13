@@ -1,0 +1,330 @@
+{
+      "Festival delle uova": [
+            "spring13_name"
+      ],
+      "Wow, guarda quante uova!": [
+            "spring13_afterEggHunt_Lewis_event1",
+            "spring13_afterEggHunt_y2_Lewis_event1"
+      ],
+      "E ora, il vincitore della caccia all'uovo di quest'anno...": [
+            "spring13_afterEggHunt_Lewis_event2"
+      ],
+      "Ecco il tuo premio! Goditelo.": [
+            "spring13_afterEggHunt_Lewis_event3"
+      ],
+      "Bene, il Festival delle uova di quest'anno finisce qui. Grazie a tutti per essere venuti!": [
+            "spring13_afterEggHunt_Lewis_event4",
+            "spring13_AbbyWin_Lewis_event2",
+            "spring13_afterEggHunt_y2_Lewis_event4"
+      ],
+      "Ecco il tuo premio, Abigail. Goditelo!": [
+            "spring13_AbbyWin_Lewis_event1"
+      ],
+      "È il momento del pezzo forte della festa di oggi... L'annuale Caccia all'Uovo Primaverile!": [
+            "spring13_mainEvent_Lewis_event1"
+      ],
+      "Calmi, bimbi. Vi servirà tutta la vostra energia, se sperate di trovare più uova degli altri e portarvi a casa il premio esclusivo.": [
+            "spring13_mainEvent_Lewis_event2"
+      ],
+      "Dunque... Tutti pronti?": [
+            "spring13_mainEvent_Lewis_event3"
+      ],
+      "Che la caccia all'uovo abbia inizio!": [
+            "spring13_mainEvent_Lewis_event4",
+            "spring13_mainEvent_y2_Lewis_event4"
+      ],
+      "Ed ora, il vincitore della caccia all'uovo di quest'anno...": [
+            "spring13_afterEggHunt_y2_Lewis_event2"
+      ],
+      "Ecco il tuo premio! Congratulazioni.": [
+            "spring13_afterEggHunt_y2_Lewis_event3"
+      ],
+      "È il momento del grande evento della festa di oggi... L'annuale Caccia all'uovo di primavera!": [
+            "spring13_mainEvent_y2_Lewis_event1"
+      ],
+      "Calma, calma, ragazzi. Vi servirà tutta la vostra energia se sperate di trovare più uova di tutti e portare a casa il premio esclusivo.": [
+            "spring13_mainEvent_y2_Lewis_event2"
+      ],
+      "Dunque... Siete tutti pronti?": [
+            "spring13_mainEvent_y2_Lewis_event3"
+      ],
+      "Contando insieme le uova raccolte da ciascuno... Jas e Vincent!": [
+            "spring13_Event_cs_1862"
+      ],
+      "Vai via, siamo concorrenti finché la caccia non è conclusa!": [
+            "spring13_Abigail_spouse"
+      ],
+      "Non ho mai avuto molti amici in paese, per cui questi eventi sono sempre un po' una noia, per me. Il buffet mi piace, però.": [
+            "spring13_Leah_spouse"
+      ],
+      "Sto giusto rimontando su Penny. Tu hai trovato parecchie uova?": [
+            "spring13_Maru_spouse"
+      ],
+      "Maru vuole convincermi a mangiare un uovo alla diavola. È che non sono sicura che mi regga lo stomaco...": [
+            "spring13_Penny_spouse"
+      ],
+      "Avevo intenzione di mangiare qualche uovo, ma poi mi sono ricordata la mia dieta di primavera.": [
+            "spring13_Haley_spouse"
+      ],
+      "Farò il tifo per te nella caccia all'uovo.": [
+            "spring13_Sebastian_spouse"
+      ],
+      "La banda è la stessa di sempre. Tu ti stai divertendo?": [
+            "spring13_Sam_spouse"
+      ],
+      "Ungh... Mi sa che ho mangiato una dozzina di uova sode di troppo...": [
+            "spring13_Alex_spouse"
+      ],
+      "Che si racconta in giro? Io mi sto solo prendendo una piccola pausa. Sono curioso di vederti nella caccia all'uovo!": [
+            "spring13_Harvey_spouse"
+      ],
+      "Mi rasserena vedere che ti rilassi, anima mia.": [
+            "spring13_Elliott_spouse"
+      ],
+      "Cercare le uova è come una caccia al tesoro.": [
+            "spring13_Abigail"
+      ],
+      "La primavera è una stagione piena d'impegni... per cui è bello avere un giorno libero per rivedersi con gli amici.": [
+            "spring13_Robin"
+      ],
+      "Uova... che strane cose da mangiare.": [
+            "spring13_Demetrius"
+      ],
+      "Aspetto sempre con ansia questi eventi... La valle sembra una vera comunità, in queste occasioni.": [
+            "spring13_Maru"
+      ],
+      "Una volta lanciavamo le uova marce...": [
+            "spring13_Sebastian"
+      ],
+      "Il sindaco Lewis c'ha fatto smettere in fretta.": [
+            "spring13_Sebastian_sv1"
+      ],
+      "Nessuno parla con me, in realtà... Vengo solo per le uova alla diavola.": [
+            "spring13_Linus"
+      ],
+      "Ehi! Come hai fatto ad arrivare qua dietro?": [
+            "spring13_Pierre"
+      ],
+      "Non toccare niente.": [
+            "spring13_Pierre_sv1"
+      ],
+      "Abby ha sempre adorato la caccia all'uovo, fin da bambina.": [
+            "spring13_Caroline"
+      ],
+      "Cerco di mangiare almeno tre uova al giorno.": [
+            "spring13_Alex"
+      ],
+      "Mi servono le proteine per le gambe.": [
+            "spring13_Alex_sv1"
+      ],
+      "Cos'avranno tutti, da essere felici? Hmmph...": [
+            "spring13_George"
+      ],
+      "Uova... perché uova?": [
+            "spring13_George_sv1"
+      ],
+      "Questo festival è una tradizione da sempre, per quel che ricordo.": [
+            "spring13_Evelyn"
+      ],
+      "Le tradizioni ci mettono in connessione sia col passato sia col futuro... è confortante.": [
+            "spring13_Evelyn_sv1"
+      ],
+      "Ti stai divertendo, @?": [
+            "spring13_Lewis"
+      ],
+      "Ce l'abbiamo altro cibo?": [
+            "spring13_Clint"
+      ],
+      "I bambini scalpitano da settimane per questo festival.": [
+            "spring13_Penny"
+      ],
+      "Hehe... Ho messo una cosa carina nel punch.": [
+            "spring13_Pam"
+      ],
+      "Shhh... questo resta fra noi due, giovane.": [
+            "spring13_Pam_sv1"
+      ],
+      "Sono sveglia a colorare uova dall'alba... È sempre la mia parte preferita della stagione.": [
+            "spring13_Emily"
+      ],
+      "Questo festival è a posto... ma quello che aspetto davvero è il Ballo dei fiori.": [
+            "spring13_Haley"
+      ],
+      "Vincent adora questo festival... È una gioia vederlo felice.": [
+            "spring13_Jodi"
+      ],
+      "Non sono un grande amante delle uova, a dire il vero.": [
+            "spring13_Kent"
+      ],
+      "Anche con la mia gamba guasta, non mi perdo mai un festival del paese.": [
+            "spring13_Marlon"
+      ],
+      "*sniff*... ub... il bio dazo... le allergie...": [
+            "spring13_Sam"
+      ],
+      "Mmmm... Questo punch di frutta è insolitamente buono.": [
+            "spring13_Leah"
+      ],
+      "Le nostre galline hanno fatto gli straordinari per prepararsi a questo festival.": [
+            "spring13_Shane"
+      ],
+      "Stasera si meritano il meglio... ciotole strapiene di dolce mais giallo!": [
+            "spring13_Shane_sv1"
+      ],
+      "Ti do il benvenuto al Festival delle uova... omaggio della mia magnifica covata di galline.": [
+            "spring13_Marnie"
+      ],
+      "Prendersi una pausa dal lavoro può rendere più proficui, sulla lunga distanza.": [
+            "spring13_Elliott"
+      ],
+      "Spero che il cibo stia piacendo a tutti... Sono giorni che cucino per avere tutto pronto.": [
+            "spring13_Gus"
+      ],
+      "Uova fritte, uova sode, uova in camicia, uova alla diavola, uova strapazzate, uova di cioccolato... Dimmene una, ce l'ho!": [
+            "spring13_Gus_sv1"
+      ],
+      "Dici che piove in superficie? *sussulta*": [
+            "spring13_Dwarf"
+      ],
+      "La pioggia... Per noi è quasi un mito. Alcuni non ne fanno mai esperienza per tutta la vita.": [
+            "spring13_Dwarf_sv1"
+      ],
+      "Hmm... E delle uova crude di lucertola spolverate di midollo annerito?": [
+            "spring13_Wizard"
+      ],
+      "Le uova hanno senz'altro un loro posto in una dieta bilanciata.": [
+            "spring13_Harvey"
+      ],
+      "Ops... Dovrei togliermi il camice da medico almeno per oggi.1": [
+            "spring13_Harvey_sv1"
+      ],
+      "Ho sentito che a casa sta piovendo. È per quello che sei qui?": [
+            "spring13_Sandy"
+      ],
+      "Un po' mi manca la pioggia, in realtà...": [
+            "spring13_Sandy_sv1"
+      ],
+      "Spero di trovare qualche uovo prima che Vincent se le prenda tutte...": [
+            "spring13_Jas"
+      ],
+      "Quando comincia la caccia all'uovo?! Sono così eccitato!!": [
+            "spring13_Vincent"
+      ],
+      "Certe volte un uovo lo nascondo troppo bene e non lo trova nessuno...": [
+            "spring13_Willy"
+      ],
+      "Beh, finché non arriva l'estate. Poi l'aria calda comincia a far uscire l'odore di marcio... Hehe.": [
+            "spring13_Willy_sv1"
+      ],
+      "Ah, l'acqua delle fogne scorre in fretta, oggi. Diventerà bello umido qua dentro... proprio come piace a me.": [
+            "spring13_???"
+      ],
+      "L'idea di una caccia all'uovo mi fa un po' strano... ma comunque le uova non appartengono a nessun membro della mia famiglia...": [
+            "spring13_Leo"
+      ],
+      "Oh beh, ci sto, dai!": [
+            "spring13_Leo_sv1"
+      ],
+      "Pensi che sia troppo grande per la caccia all'uovo?": [
+            "spring13_Abigail_y2"
+      ],
+      "Hmmph... mi sembra di sentire mia madre!": [
+            "spring13_Abigail_y2__Sì__response"
+      ],
+      "Esatto, lo penso anch'io. Se continuo a divertirmi, perché smettere?'": [
+            "spring13_Abigail_y2__No__response"
+      ],
+      "È una gran bella sensazione tornare all'aperto dopo il lungo freddo invernale, vero?": [
+            "spring13_Robin_y2"
+      ],
+      "Ehi @, hai assaggiato la mia torta salata alle uova di carpa?": [
+            "spring13_Demetrius_y2"
+      ],
+      "...Che c'è? È il festival delle 'uova', no?": [
+            "spring13_Demetrius_y2_sv1"
+      ],
+      "Pensi che vincerai la caccia all'uovo, quest'anno?": [
+            "spring13_Maru_y2"
+      ],
+      "Sai una cosa? Un po' mi manca l'inverno... È una stagione più semplice, in un certo senso.": [
+            "spring13_Sebastian_y2"
+      ],
+      "Mi intrufolerò più tardi a prendere qualcosa da mangiare. Ho messo gli occhi su quella torta salata, sembra squisita!": [
+            "spring13_Linus_y2"
+      ],
+      "Cerchi di fare un accordo sottobanco, eh? Hah! Ammiro la tua intraprendenza.": [
+            "spring13_Pierre_y2"
+      ],
+      "Forse ci si annoia un po', ma questi festival sono delle buone occasioni per legare con i nostri vicini.": [
+            "spring13_Caroline_y2"
+      ],
+      "Chissà come mi diventerebbero le gambe e le braccia se mangiassi trenta uova al giorno?": [
+            "spring13_Alex_y2"
+      ],
+      "Oggi sono di buon umore, Evelyn ha fatto uova e porri a colazione.": [
+            "spring13_George_y2"
+      ],
+      "Hai delle galline alla fattoria?": [
+            "spring13_Evelyn_y2"
+      ],
+      "Oh, bene! Sono sicura che depongono delle uova fantastiche...": [
+            "spring13_Evelyn_y2__Sì__response"
+      ],
+      "La primavera sarebbe il momento perfetto per cominciare ad allevare dei polli, non credi?'": [
+            "spring13_Evelyn_y2__No__response"
+      ],
+      "Oh no... *gulp*... Quest'anno c'è soprattutto insalata...": [
+            "spring13_Clint_y2"
+      ],
+      "Spero che Vincent riesca a trovare un uovo quest'anno...": [
+            "spring13_Penny_y2"
+      ],
+      "Gli farebbe bene sentirsi un concorrente valido.": [
+            "spring13_Penny_y2_sv1"
+      ],
+      "Ehi... Se vuoi darmi da mangiare delle uova, avrò bisogno di un po' di salsa piccante, giovane!": [
+            "spring13_Pam_y2"
+      ],
+      "Quest'anno ho cucito dei pantaloncini e dei cappellini per alcune uova. Sono adorabili!": [
+            "spring13_Emily_y2"
+      ],
+      "Oh! Devo ancora farmi fotografare nella sagoma del coniglio. Ho i capelli a posto?": [
+            "spring13_Haley_y2"
+      ],
+      "Kent ha sempre l'aria un po' ansiosa quando è in mezzo a tanta gente...": [
+            "spring13_Jodi_y2"
+      ],
+      "Ti è mai capitato di andare a caccia di uova di melma? Quella sì che è una vera sfida...": [
+            "spring13_Marlon_y2"
+      ],
+      "Hmm... Il punch non è buono come quello dell'anno scorso. Gli manca qualcosa!": [
+            "spring13_Leah_y2"
+      ],
+      "Alcune di queste uova sono state deposte giusto stamattina. Vedi? Sono ancora calde!": [
+            "spring13_Shane_y2"
+      ],
+      "Le galline fanno le uova, ma anche i galli hanno un ruolo importante... Proteggono le galline e impediscono che litighino tra loro!": [
+            "spring13_Marnie_y2"
+      ],
+      "E questo significa galline più felici e uova migliori...": [
+            "spring13_Marnie_y2_sv1"
+      ],
+      "Bada di non prendere accidentalmente un uovo di corvo. Ti porteranno rancore fino alla fine dei giorni!": [
+            "spring13_Elliott_y2"
+      ],
+      "Shh... non dirlo a nessuno, ma quest'anno ho provato una cosa un po' diversa... Crema pasticcera con le uova d'anatra!": [
+            "spring13_Gus_y2"
+      ],
+      "Non ho niente contro le uova, ma non consiglio a nessuno di mangiarne trenta al giorno!": [
+            "spring13_Harvey_y2"
+      ],
+      "Quest'anno farò del mio meglio per vincere!": [
+            "spring13_Jas_y2"
+      ],
+      "Voglio vivere dentro un uovo gigante!": [
+            "spring13_Vincent_y2"
+      ],
+      "Sissi... quando piove, puoi trova' pesci gatto in 'ste acque. Sono duri da acchiappare, ma ne vale la pena!": [
+            "spring13_Willy_y2"
+      ]
+}

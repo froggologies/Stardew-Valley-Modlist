@@ -1,0 +1,12 @@
+{
+    "*sóhaj*... Annyira unom már ezeknek a mintáknak az előállítását...": "Hospital_7_Maru_Maru_event1",
+    "Agh! Jaj ne!...": "Hospital_7_Maru_Maru_event2",
+    "Tönkretettem a mintát... Harvey meg fog ölni...": "Hospital_7_Maru_Maru_event3",
+    "@, most mit tegyek?": "Hospital_7_Maru_Maru_event4",
+    "Mi történt? Mintha eltört volna valami.": "Hospital_7_Maru_Harvey_event1",
+    "Véletlenül leejtettem egy mintát a földre... Annyira sajnálom.": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@ bejött és olyan hangosan csapta be maga után az ajtót, hogy ettől elejtettem ezt a mintát.": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "Ne másokat okolj a saját hibáidért, Maru.": "Hospital_7_Maru_Harvey_event2",
+    "*sóhaj*... Vissza kell hívnom a pácienst, hogy ismét mintát vegyek tőle.": "Hospital_7_Maru_Harvey_event3",
+    "Ettől ismét vörösbe fog menni ez a havunk is...": "Hospital_7_Maru_Harvey_event3_sv1"
+}

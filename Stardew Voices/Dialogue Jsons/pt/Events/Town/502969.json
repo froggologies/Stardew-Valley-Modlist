@@ -1,0 +1,21 @@
+{
+    "Grr... parece que aqueles guaxinins voltaram. Pestes imundas...": "Town_502969_2400_George_event1",
+    "Ah, você chegou no momento certo, filho.": "Town_502969_2400_George_event2_male_farmer",
+    "Ah, você chegou no momento certo, moça.": "Town_502969_2400_George_event2_female_farmer",
+    "Você poderia fazer um favor a um velho como eu? Você poderia ir lá na esquina e assustar aqueles guaxinins para mim? Eles estão fazendo uma verdadeira bagunça.": "Town_502969_2400_George_event2_sv1",
+    "Obrigado. Certifique-se de assustá-los para que nunca voltem.": "Town_502969_2400_George_event2_sv2",
+    "Fui eu... Desculpe.": "Town_502969_2400_Linus_event1",
+    "Eu acho bastante comida quentinha e fresca nessas latas... coisas que irão para o lixo se eu não comê-las.": "Town_502969_2400_Linus_event2",
+    "Você acha que tem algo errado com o que estou fazendo?": "Town_502969_2400_Linus_event3",
+    "Talvez seja nojento para você. Para mim, esse é um estilo de vida. E ainda não fiquei doente. Só como coisas que parecem frescas.": "Town_502969_2400_Linus_event3__Sim__é_nojento___response",
+    "Obrigado, @. Sabia que você era mente aberta. Sinto-me bem com o que estou fazendo. Não estou machucando ninguém.": "Town_502969_2400_Linus_event3__Não__É_uma_vergonha_que_essa_comida_vá_para_o_lixo___response",
+    "Não acredito em 'propriedade privada'. Além disso, o que você quer que eu faça? Preciso desta comida para sobreviver. Por favor, tenha coração.": "Town_502969_2400_Linus_event3__Sim__é_ilegal__Esta_é_a_propriedade_privada_do_George___response",
+    "Suspiro... Nem todo mundo consegue viver neste mundo, @. Você não sabe como é ser eu. Não estou machucando ninguém. Só quero viver a vida do meu jeito. Isso é tão errado?'": "Town_502969_2400_Linus_event3__Não__Procure_um_emprego_e_pare_de_parasitar_os_outros___response",
+    "Você pode ir para casa. Prometo que não vou mais mexer no lixo do George.": "Town_502969_2400_Linus_event4",
+    "Diga a ele que você espantou os guaxinins de vez.": "Town_502969_2400_Linus_event4_sv1",
+    "Espere.": "Town_502969_2400_Gus_event1",
+    "Eu sei o que você estava fazendo, Linus.": "Town_502969_2400_Gus_event2",
+    "Se quiser comida... é só pedir. Não quero que ninguém na Vila Pelicanos morra de fome.": "Town_502969_2400_Gus_event3",
+    "Aqui. Tenho uma cesta de abobrinhas fritas para você. Coma-os com meu molho à marinara!": "Town_502969_2400_Gus_event4",
+    "Vamos... experimente.": "Town_502969_2400_Gus_event4_sv1"
+}

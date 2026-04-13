@@ -1,0 +1,11 @@
+{
+    "Du bist 'K'? Ich... Ich dachte, es wäre irgendjemand mit viel Geld, der meine Kunst wirklich schätzt.": "response_Forest_choseInternet_Leah_event1",
+    "Igitt, nenn mich nicht so!": "response_Forest_choseInternet_Leah_event2",
+    "Du hast meine Kunst noch nie unterstützt... und jetzt, wo ich ein wenig Erfolg habe, willst du mich zurück? Du machst mich krank.": "response_Forest_choseInternet_Leah_event2_sv1",
+    "Oh mein Gott!": "response_Forest_choseInternet_Leah_event3",
+    "Ich meine, ihm geht's gut... aber das war ziemlich brutal, @.": "response_Forest_choseInternet_Leah_event4_male_farmer",
+    "Ihr geht's gut... aber das war ziemlich brutal, @.": "response_Forest_choseInternet_Leah_event4_female_farmer",
+    "Lass uns von hier verschwinden. Ich denke nicht, dass Kel uns wieder belästigen wird.": "response_Forest_choseInternet_Leah_event5",
+    "Lass uns das nächste Mal einen etwas abgelegeneren Ort finden...": "response_Forest_choseInternet_Leah_event6",
+    "Nun, das Picknick lief nicht ganz so, wie ich es mir vorgestellt hatte.": "response_Forest_choseInternet_Leah_endDialogue7"
+}

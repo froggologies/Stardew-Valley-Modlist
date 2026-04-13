@@ -1,0 +1,10 @@
+{
+    "Bonjour, @.": "SebastianRoom_27_Sebastian_Sebastian_event1",
+    "Sam et moi allions jouer à 'Chroniques de Solarion'... Tu te joins à nous ? C'est mieux à trois de toute façon.": "SebastianRoom_27_Sebastian_Sebastian_event2",
+    "OK, c'est parti... Je vais tirer les cartes de scénario.": "SebastianRoom_27_Sebastian_Sebastian_event3",
+    "Mmm... La quête d'aujourd'hui nous emmène à la tour du Nécromancien... pour essayer d'y récupérer le Bâton de Solarion des griffes du terrible Seigneur Xarth.": "SebastianRoom_27_Sebastian_Sebastian_event4",
+    "Cool... @, tu choisis ton personnage ?": "SebastianRoom_27_Sebastian_Sam_event1",
+    "Hé ! C'est ce que j'allais choisir !": "SebastianRoom_27_Sebastian_Sebastian_event5",
+    "Bon, alors je prends le guérisseur.": "SebastianRoom_27_Sebastian_Sebastian_event5_sv1",
+    "Cool. C'est le guerrier que je préfère, de toute façon.": "SebastianRoom_27_Sebastian_Sam_event2"
+}

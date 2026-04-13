@@ -1,0 +1,19 @@
+{
+    "Herkese merhaba. Biz Pelikan Kasabası'ndan geliyoruz... Şey... Grubumuzun adı, 'Pelikanlar'.": "response_Temp_poppy_Sam_event1",
+    "Bu şarkı çiftçilik yapmak, kazı yapmak ve odun kesmek ile alakalı.": "response_Temp_poppy_Sam_event2",
+    "Bu şarkı, denizdeki bir şehir hakkında.": "response_Temp_poppy_Sam_event2_sv1",
+    "Bu şarkı, trenler hakkında.": "response_Temp_poppy_Sam_event2_sv2",
+    "Başlıyoruz...": "response_Temp_poppy_Sam_event2_sv3",
+    "Vay canına! Elektronik sesler bayağı sağlamdı!": "response_Temp_poppy_Emily_event1_prereq_1",
+    "Vay be! Harikaydı!": "response_Temp_poppy_Emily_event1_prereq_2",
+    "Bu muhteşemdi! Âdeta yeni bir klasikti!": "response_Temp_poppy_Leah_event1_prereq_1",
+    "Güzel iş çıkardınız çocuklar!": "response_Temp_poppy_Leah_event1_prereq_2",
+    "Sondaki şu ani çöküntüyü çok beğendim.": "response_Temp_poppy_Shane_event1_prereq_1",
+    "Ben bas gitarı çok sevdim.": "response_Temp_poppy_Shane_event1_prereq_2",
+    "Herkese teşekkürler!": "response_Temp_poppy_Sam_event3",
+    "Ama alkışlamanız gereken isim @! Onun yardımı olmasaydı, daha hangi müzik türünü yapacağımızı tartışıyor olurduk!": "response_Temp_poppy_Sam_event3_sv1",
+    "Yani sen grubun onur üyesi gibi bir şeysin, ha?": "response_Temp_poppy_Penny_event1",
+    "Ah! Çıkarken demo kasetlerimizden almayı unutmayın! 10g karşılığında veriyoruz!": "response_Temp_poppy_Sam_event4",
+    "Bu çok güzeldi! Bizimle geldiğin için yeniden teşekkürler.": "response_Temp_poppy_Sam_event5",
+    "Hey. Gösteri gerçekten çok başarılıydı! Tekrar teşekkürler, @.": "response_Temp_poppy_Sam_endDialogue6"
+}

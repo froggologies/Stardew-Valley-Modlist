@@ -1,0 +1,894 @@
+{
+      "Dışarıda yağmur yağıyor. Dikkatli ol, nezle olabilirsin.": [
+            "Rainy_Day_0"
+      ],
+      "Mümkün olduğunca dışarı çıkma.": [
+            "Rainy_Day_0_sv1"
+      ],
+      "Bazen senin için endişeleniyorum!": [
+            "Rainy_Day_0_sv2"
+      ],
+      "Yağmur yağıyor! Bu, bugün bitkileri sulamak zorunda olmadığımız anlamına geliyor.": [
+            "Rainy_Day_1"
+      ],
+      "Doğa bazen bize böyle büyük yardımlarda bulunabiliyor.": [
+            "Rainy_Day_1_sv1"
+      ],
+      "Hayvanların yemini verdin mi tatlım?": [
+            "Rainy_Day_1_sv2"
+      ],
+      "Günaydın! Yağmurun sesinden erken uyandım ve sana kahvaltı yaptım.": [
+            "Rainy_Day_2"
+      ],
+      "Üşüme, çok da çalışma. Senin sağlıklı olmanı istiyorum.": [
+            "Rainy_Day_2_sv1"
+      ],
+      "Bugün ne yapmayı düşünüyorsun canım?": [
+            "Rainy_Day_3"
+      ],
+      "Bu havalarda dışarı çıkmak istemiyorum... Evde yapacak işlerim var.": [
+            "Rainy_Day_3_sv1"
+      ],
+      "Belki akşam yemeğin için sıcak bir şeyler yaparım.": [
+            "Rainy_Day_3_sv2"
+      ],
+      "Akşam yemeği için bir isteğin var mı?": [
+            "Rainy_Day_4"
+      ],
+      "Sahip olduğumuz tüm teknolojiye rağmen, bitkileri sulamanın en iyi yolu hâlâ daha yağan yağmuru kullanmak.": [
+            "Rainy_Day_Maru"
+      ],
+      "Kırsal, böyle bir günde sence de daha güzel görünmüyor mu?": [
+            "Rainy_Day_Abigail"
+      ],
+      "Belki bugün fırında bir şeyler pişiririm.": [
+            "Rainy_Day_Penny"
+      ],
+      "Belki bugün biraz balık tutmak veya madencilik yapmak istersin, ha?": [
+            "Rainy_Day_Leah"
+      ],
+      "Hım. Eğer böyle yağmaya devam ederse yüzüm solacak.": [
+            "Rainy_Day_Haley"
+      ],
+      "Bugün ıslanmamaya çalış canım. Hipotermi olmanı istemem.": [
+            "Rainy_Day_Harvey"
+      ],
+      "Şafaktan hemen önce kalktım ve çiftliğin etrafında yürüyüşe çıktım. O saat gerçekten çok huzurlu oluyor.": [
+            "Rainy_Day_Sebastian"
+      ],
+      "Hım... Sanırım bugün içeride kalıp şınav ve mekik çekmek zorundayım.": [
+            "Rainy_Day_Alex"
+      ],
+      "Yağmur bana denizin orada yaşadığım eski zamanlarımı hatırlatıyor.": [
+            "Rainy_Day_Elliott"
+      ],
+      "Değişim hayatın bir parçası. Sorun yok.": [
+            "Rainy_Day_Elliott_sv1"
+      ],
+      "Belki bugün çatı ve pencerelerdeki sızıntıları tamir etmeye çalışırım.": [
+            "Rainy_Day_Sam"
+      ],
+      "İşini sevip yapmak istediğini biliyorum ama bugün fazla aşırıya kaçma. Olur mu, tatlım?": [
+            "Rainy_Day_Emily"
+      ],
+      "Çatı sızdırıyor mu? Pekâlâ... azıcık küf kimseyi incitmez.": [
+            "Rainy_Day_Shane"
+      ],
+      "Yağmur sanki hepimiz yalnızmışız gibi hissettiriyor.": [
+            "Rainy_Night_0"
+      ],
+      "Üşüyorum... Yatağa girmeye hazır mısın?": [
+            "Rainy_Night_0_sv1"
+      ],
+      "Sıcak tutacak bir şey giymeyi unutma. Hasta olmanı istemem.": [
+            "Rainy_Night_1"
+      ],
+      "Çatıya düşen yağmurun sesini duyuyor musun, @?": [
+            "Rainy_Night_1_sv1"
+      ],
+      "Ah... Yağmurun sakinleştirici sesi... Bu gece rahat uyuyacağım.": [
+            "Rainy_Night_2"
+      ],
+      "Yağmurun yağışı evimizi çok konforlu hissettiriyor.": [
+            "Rainy_Night_3_male_farmer"
+      ],
+      "Böyle gecelerde sağlam bir çatımız olduğuna şükrediyorum.": [
+            "Rainy_Night_3_female_farmer"
+      ],
+      "Akşam yemeğinde çorba yaptım.": [
+            "Rainy_Night_4"
+      ],
+      "Böyle bir günde sıcak yemekler yemek gerek!": [
+            "Rainy_Night_4_sv1"
+      ],
+      "Eve döndüğüne sevindim... İçeride kalmak için iyi bir gece.": [
+            "Rainy_Night_5"
+      ],
+      "Günün verimli geçti mi tatlım?": [
+            "Rainy_Night_Maru"
+      ],
+      "Ben evdeki bazı şeyleri onarmaya çalıştım... Bilirsin işte, ufak tefek şeyleri.": [
+            "Rainy_Night_Maru_sv1"
+      ],
+      "Ne zaman istersen yatağa atlamaya hazırım. Yağmurun sesi bizi dosdoğru uyutacak.": [
+            "Rainy_Night_Abigail"
+      ],
+      "Ah... koku mu? Fırınla yemek pişirmeye çalıştım... pek de umduğum gibi gitmedi.": [
+            "Rainy_Night_Penny"
+      ],
+      "Bugün günün nasıl geçti canım? Çamurlu mu?": [
+            "Rainy_Night_Leah"
+      ],
+      "Selam tatlım. Eve geldiğine çok sevindim. Tam da yapayalnız olduğumu düşünmeye başlamıştım.": [
+            "Rainy_Night_Haley"
+      ],
+      "Merhaba, seni görmek çok güzel.": [
+            "Rainy_Night_Harvey"
+      ],
+      "Ben günümü tıp dergilerine göz gezdirmekle geçirdim.": [
+            "Rainy_Night_Harvey_sv1"
+      ],
+      "Yağmurdan asla bıkmayacağım... özellikle burada, kırsal kesimde.": [
+            "Rainy_Night_Sebastian"
+      ],
+      "Büyükannem böyle gecelerde hep sıcak yahni yapardı.": [
+            "Rainy_Night_Alex"
+      ],
+      "Otur, rahatla! Bütün gün çamurla uğraştıktan sonra yorulmuş olmalısın.": [
+            "Rainy_Night_Elliott"
+      ],
+      "Vincent aradı. Beni özlediğini söyledi, sana da selam söyledi.": [
+            "Rainy_Night_Sam"
+      ],
+      "Daha demin Jas ve Marnie ile konuşuyordum. Bensiz oldukça iyi zaman geçiriyorlar gibi.": [
+            "Rainy_Night_Shane"
+      ],
+      "Bazı ruhlar sadece yağmurda ortaya çıkar. Belki ağlamalarını duymuşsundur...": [
+            "Rainy_Night_Emily"
+      ],
+      "Günaydın ~<": [
+            "Indoor_Day_0"
+      ],
+      "Zor bir güne hazır mısın? Ben hazırım.": [
+            "Indoor_Day_0_sv1"
+      ],
+      "Selam tatlım! Güzel kokuyor, değil mi? Sana kahvaltı yaptım!": [
+            "Indoor_Day_1"
+      ],
+      "Gün boyu dinç kalmak için yemelisin.": [
+            "Indoor_Day_1_sv1"
+      ],
+      "İyi uyudun mu?": [
+            "Indoor_Day_2"
+      ],
+      "Burada yapacak bazı işlerim var.": [
+            "Indoor_Day_2_sv1"
+      ],
+      "Dün gece garip rüyalar gördün mü?": [
+            "Indoor_Day_3"
+      ],
+      "Ben gördüm, ama hatırlayabildiğim tek şey rüyanın bir %adj %noun ile alakalı olduğu. Garip.": [
+            "Indoor_Day_3_sv1"
+      ],
+      "Hehe. Rüyalar bir şey ifade etmiyor... değil mi hayatım?": [
+            "Indoor_Day_3_sv2"
+      ],
+      "Pekâlâ, tüm günü böyle konuşup harcayamayız. Yapacak işlerin var!": [
+            "Indoor_Day_3_sv3"
+      ],
+      "Günaydın sevgilim. Çiftlik işleri ile dolu başka bir gün, ha?": [
+            "Indoor_Day_4"
+      ],
+      "Seni neşelendiriyor olacağım.<": [
+            "Indoor_Day_4_sv1"
+      ],
+      "Hasat verimini nasıl artıracağını veya başka bir şey hakkında konuşmak istersen her zaman bana gelebilirsin!": [
+            "Indoor_Day_Maru"
+      ],
+      "Çiftliğimizde her zaman yeni bir şeyler oluyor... Bunu seviyorum.": [
+            "Indoor_Day_Abigail"
+      ],
+      "Burası römorkla kıyaslandığında çok büyük, boğuluyormuş gibi hissediyorum... İyi bir şekilde!": [
+            "Indoor_Day_Penny"
+      ],
+      "Buradaki ahşap işçiliğine biraz kendi mimari yeteneğimden eklesem sıkıntı olur mu? Keski elim kaşınıyor!": [
+            "Indoor_Day_Leah"
+      ],
+      "Güneşli bir günde hep mutlu oluyorum.": [
+            "Indoor_Day_Haley"
+      ],
+      "Gökyüzü bugün harika görünüyor... apaçık!": [
+            "Indoor_Day_Harvey"
+      ],
+      "Şu andan itibaren sadece randevum olduğunda sağlık ocağına gideceğim. Aksi halde evden çalışabilirim!": [
+            "Indoor_Day_Harvey_sv1"
+      ],
+      "Burası benim eski bodruma bin basar. Sence basmaz mı?": [
+            "Indoor_Day_Sebastian"
+      ],
+      "Güneş parlıyor, bense enerji saçıyorum! Dikkat etsen iyi olur! Hehe.": [
+            "Indoor_Day_Alex"
+      ],
+      "Yanına taşındığımdan beri günlük tutuyorum. Artık bir hayatım olduğuna göre yazacak çok şeyim var.": [
+            "Indoor_Day_Elliott"
+      ],
+      "Bu yılları hatırlayacağımdan emin olmak istiyorum.": [
+            "Indoor_Day_Elliott_sv1"
+      ],
+      "Bugün yapmak istediğim çok şey var... Belki de sadece televizyon izlerim.": [
+            "Indoor_Day_Sam"
+      ],
+      "Topluluğa taze, sağlıklı ürünler sunarak harika bir hizmette bulunuyoruz!": [
+            "Indoor_Day_Emily"
+      ],
+      "Havada bir şeyler kokuyor... *koklar*... bu ne? Ah...": [
+            "Indoor_Day_Shane"
+      ],
+      "Alt tarafı birkaç hafta önce cebime koyduğum mısır yongasıymış. *ezilir*": [
+            "Indoor_Day_Shane_sv1"
+      ],
+      "Bugün her şeyi halettin mi, @?": [
+            "Indoor_Night_0"
+      ],
+      "Ben ev işlerini yaptım... Çok yorgunum.": [
+            "Indoor_Night_0_sv1"
+      ],
+      "Yatmaya hazır olduğunda beni de hazır sayabilirsin.": [
+            "Indoor_Night_0_sv2"
+      ],
+      "Vay be, bugün çok iş yapmış gibi duruyorsun.": [
+            "Indoor_Night_1"
+      ],
+      "Rahatla ve gecenin tadını çıkar.": [
+            "Indoor_Night_1_sv1"
+      ],
+      "Eve döndüğüne sevindim.": [
+            "Indoor_Night_2"
+      ],
+      "Geceleri yalnızken biraz korkuyorum.": [
+            "Indoor_Night_2_sv1_male_farmer"
+      ],
+      "Geceleri yalnız olduğumu hissediyorum...": [
+            "Indoor_Night_2_sv1_female_farmer"
+      ],
+      "...": [
+            "Indoor_Night_2_sv2",
+            "Indoor_Night_4_sv2"
+      ],
+      "Gün içinde yapacağın işleri bitirdin mi? Ben eğlenmeye hazırım.": [
+            "Indoor_Night_3"
+      ],
+      "Ama eğer yorgunsan, anlarım.": [
+            "Indoor_Night_3_sv1"
+      ],
+      "*öfler*! Ev işlerini yeni bitirdim. Şimdi biraz birlikte vakit geçirebiliriz.": [
+            "Indoor_Night_4"
+      ],
+      "Pekâlâ, bana gününden bahset.": [
+            "Indoor_Night_4_sv1"
+      ],
+      "Yatmak için hazır gibisin, @. Seni son projemin teknik detayları ile yatıştırmamı ister misin?": [
+            "Indoor_Night_Maru"
+      ],
+      "*esner*... Dürüst olmak gerekirse, ben de biraz uykuluyum.": [
+            "Indoor_Night_Maru_sv1"
+      ],
+      "Yatmaya hazır mısın? Bizim için elektrikli battaniyeyi açtım...": [
+            "Indoor_Night_Abigail"
+      ],
+      "Merhaba canım. Evde sessiz bir akşam geçirmeye hazır mısınız?": [
+            "Indoor_Night_Penny"
+      ],
+      "Akşamları çok sessiz ve huzurlu. İnsanı yaşamın güzelliğinden uzaklaştırabilecek hiçbir şey yok.": [
+            "Indoor_Night_Leah"
+      ],
+      "Çok çalışıyor gibisin canım. Seni rahatlatmama izin ver.": [
+            "Indoor_Night_Haley"
+      ],
+      "Bu gece iyi bir masaja ihtiyacın var gibi.": [
+            "Indoor_Night_Harvey"
+      ],
+      "Doktorun emirleri... Kan dolaşımına iyi gelir hem!": [
+            "Indoor_Night_Harvey_sv1"
+      ],
+      "Yalnız takılan biri olabilirim, ama sen etraftayken hep mutlu oluyorum.": [
+            "Indoor_Night_Sebastian_chance_1"
+      ],
+      "Merhaba, @. Seni görmek güzel. Etrafta olman beni rahatlatıyor.": [
+            "Indoor_Night_Sebastian_chance_2"
+      ],
+      "Kollarım biraz ağrıyor... Şöyle güzel, derin bir masaja ne dersin?": [
+            "Indoor_Night_Alex_male_farmer"
+      ],
+      "Yorgun hissediyorum... Bu iyiye işaret! Bugün yeterince sıkı çalıştığımı gösteriyor.": [
+            "Indoor_Night_Alex_female_farmer"
+      ],
+      "Yorucu bir günün ardından bile çok güzel kokuyorsun. Doğuştan mis gibi kokuyorsun!": [
+            "Indoor_Night_Elliott_chance_1_male_farmer"
+      ],
+      "Harika kokuyorsun canım. Baharatlı çayda sürüklenen petek gibisin.": [
+            "Indoor_Night_Elliott_chance_1_female_farmer"
+      ],
+      "Gel de sırtına masaj yapayım. Gergin görünüyorsun.": [
+            "Indoor_Night_Elliott_chance_2_male_farmer"
+      ],
+      "Güzel kokuyorsun hayatım. Yaz esintisinde uçan tarçın yapraklar gibisin.": [
+            "Indoor_Night_Elliott_chance_2_female_farmer"
+      ],
+      "Acaba ay bu gece gökyüzünde gözükür mü?": [
+            "Indoor_Night_Sam_chance_1"
+      ],
+      "Bugün çiftlikteki tüm işlerini halledebildin mi? Eğer yapmadıysan kızmayacağım!": [
+            "Indoor_Night_Sam_chance_2"
+      ],
+      "Çok konforlu bir ev... burayı seviyorum.": [
+            "Indoor_Night_Emily"
+      ],
+      "Günün nasıldı? Benimki oldukça iyiydi.": [
+            "Indoor_Night_Shane"
+      ],
+      "Çok güzel bir gün, değil mi?": [
+            "Outdoor_0"
+      ],
+      "Böyle günler işlerimizi biraz daha keyifli hale getiriyor.": [
+            "Outdoor_0_sv1"
+      ],
+      "Bugün biraz dinlenip çiftliği kontrol edeceğim, tamam mı?": [
+            "Outdoor_1"
+      ],
+      "Çiftliğimiz çok güzel görünüyor.": [
+            "Outdoor_1_sv1"
+      ],
+      "Selam tatlım! Çiftlik işiyle ilgili daha fazla şey bilseydim, sana daha fazla yardım ederdim. Üzgünüm!": [
+            "Outdoor_2"
+      ],
+      "Seni düşünüyor olacağım.": [
+            "Outdoor_2_sv1"
+      ],
+      "Şuraların tozunu alacağım. Bunun sana yardımı dokunur, değil mi?": [
+            "Outdoor_3"
+      ],
+      "*öfler*... Burası çok sıcak.": [
+            "Outdoor_3_sv1"
+      ],
+      "Kendini fazla yorma hayatım.": [
+            "Outdoor_4"
+      ],
+      "Arada bir mola ver ve bir şeyler ye.": [
+            "Outdoor_4_sv1"
+      ],
+      "Dışarıda olmayı seviyorum. Dışarısı, yeni icatlar düşünmek için mükemmel.": [
+            "Outdoor_Maru"
+      ],
+      "İşine yarayacak bir şey yapmaya çalışıyorum.": [
+            "Outdoor_Maru_sv1"
+      ],
+      "Burada biraz takılacağım, tamam mı?": [
+            "Outdoor_Abigail"
+      ],
+      "Etrafta bir sürü ilginç böcek ve başka şeyler var. *kıkırdar*": [
+            "Outdoor_Abigail_sv1"
+      ],
+      "Bronzlaşmam için iyi bir güne benziyor. Sence de öyle değil mi tatlım?": [
+            "Outdoor_Haley"
+      ],
+      "Vay be, harika! Çiftlik hayatından gerçekten zevk almaya başlıyorum, @.": [
+            "Outdoor_Leah"
+      ],
+      "Hep hayalini kurduğum hayatmış meğer.": [
+            "Outdoor_Leah_sv1"
+      ],
+      "Küçük çiftliğimizde gerçekten mutluyum, @.": [
+            "Outdoor_Penny"
+      ],
+      "Eski hayatımdan çok farklı ama gerçekten hoşuma gitmeye başladı.": [
+            "Outdoor_Sebastian"
+      ],
+      "Gerçekten buraya aitmiş gibi hissediyorum.": [
+            "Outdoor_Sebastian_sv1"
+      ],
+      "Bu, tüm gün sağlık ocağında tıkılı kalmaktan çok daha güzel.": [
+            "Outdoor_Harvey"
+      ],
+      "Seni çiftlikte izlemeyi çok seviyorum... hehe": [
+            "Outdoor_Harvey_sv1"
+      ],
+      "Bugün yeni romanımı yazmaya devam edeceğim. Harika çiftliğimizden daha iyi bir yer var mı?": [
+            "Outdoor_Elliott"
+      ],
+      "Burası mükemmel.": [
+            "Outdoor_Elliott_sv1"
+      ],
+      "Bugün bir sürü egzersiz yapacağım! Haha! Çiftlik yaşamını seviyorum.": [
+            "Outdoor_Alex"
+      ],
+      "Tatlım, gökyüzündeki kabarık bulutlara baksana!": [
+            "Outdoor_Sam"
+      ],
+      "Eğer dert etmezsen, bir süre onları izleyeceğim.": [
+            "Outdoor_Sam_sv1"
+      ],
+      "Akciğerlerim bu taze, serin havayı kaldırabilir mi bilmiyorum. Hâlâ o Joja havasına alışığım.": [
+            "Outdoor_Shane"
+      ],
+      "Harika iş çıkarıyorsun, @. Aynen böyle devam et.": [
+            "Outdoor_Emily"
+      ],
+      "Bugün sağlık ocağına gitmeliyim. İyi bir gün geçir, olur mu?": [
+            "jobLeave_Harvey"
+      ],
+      "Bugün kasabaya gitmeliyim. Çok çalışma ve öğle yemeğinde güzel bir şeyler ye!": [
+            "jobLeave_Penny"
+      ],
+      "Birazdan işe gideceğim. Akşama görüşürüz. Seni düşünüyor olacağım!": [
+            "jobLeave_Maru"
+      ],
+      "Merhaba tatlım. Günün nasıl geçti?": [
+            "jobReturn_Harvey_chance_1"
+      ],
+      "*öfler*... Yoruldum...": [
+            "jobReturn_Harvey_chance_2"
+      ],
+      "Hastalarımın hepsi hâlâ sağlıklı, bu yüzden güzel bir gündü.": [
+            "jobReturn_Harvey_sv1"
+      ],
+      "İyi akşamlar. Günüm iyiydi, teşekkürler! Seninki nasıldı?": [
+            "jobReturn_Penny_chance_1"
+      ],
+      "Jas ve Vincent bugün pek iyi değildi. Hâlâ gerginim.": [
+            "jobReturn_Penny_chance_2"
+      ],
+      "Sağlık ocağında sıkıcı bir gün daha geçirdim işte.": [
+            "jobReturn_Maru_chance_1"
+      ],
+      "Hey, günün benimkinden daha heyecanlı geçti mi bari? Umarım geçmiştir.": [
+            "jobReturn_Maru_chance_2"
+      ],
+      "Biraz geriye yaslanıp dinlenme vakti. Bana yemek ayırdın mı?": [
+            "jobReturn_Maru_chance_1"
+      ],
+      "Yatmak için sabırsızlanıyorum.": [
+            "jobReturn_Maru_chance_2"
+      ],
+      "Bugün %kid1 ile hiç vakit geçirdin mi?": [
+            "OneKid_0"
+      ],
+      "Acaba %kid1 büyüyünce senin gibi bir çiftçi mi olacak?": [
+            "OneKid_1"
+      ],
+      "Endişelenme, bugün %kid1 doyacak. Sen çiftliğe odaklanabilirsin.": [
+            "OneKid_2"
+      ],
+      "Artık bir çocuğumuz var. Hayat aynı olmayacak.": [
+            "OneKid_3"
+      ],
+      "%kid1 ve %kid2 çoktan kahvaltılarını yaptılar. Oldukça açlardı!": [
+            "TwoKids_0"
+      ],
+      "%kid1 ve %kid2 arasında herhangi bir kıskançlık oluşmaması için özen göstermeliyiz. İkisine de aynı ilgi ve alakayı göstermeliyiz.": [
+            "TwoKids_1"
+      ],
+      "Bence %kid2 burnunu senden almış.": [
+            "TwoKids_2"
+      ],
+      "Güzel bir ev, iki harika çocuk ve de güzel bir arsa. Başka ne isteyebilirim ki?": [
+            "TwoKids_3"
+      ],
+      "Evlendiğimize inanmak zor...": [
+            "Good_0"
+      ],
+      "Biliyor musun, bir gün beraber olacağımızı hissetmiştim.": [
+            "Good_1"
+      ],
+      "Evliliğin tadını çıkartıyor musun, @?": [
+            "Good_2"
+      ],
+      "Ben çıkartıyorum.": [
+            "Good_2_sv1"
+      ],
+      "Vay be, bugün çok yakışıklısın!": [
+            "Good_3_male_farmer"
+      ],
+      "Vay be, bugün çok güzelsin.": [
+            "Good_3_female_farmer"
+      ],
+      "Artık evim burası... burada mutluyum.": [
+            "Good_4"
+      ],
+      "Düğün tılsımımı çok seviyorum... Kabuğu kusursuz. Sana bir servete mal olmuş olmalı!": [
+            "Good_5"
+      ],
+      "Dışarıda dikkatli ol! Bazen maden kuyusuna düşeceksin diye korkuyorum.": [
+            "Good_6"
+      ],
+      "@, sadece evimiz için yaptığın tüm zor işleri takdir ettiğimi söylemek istiyorum.": [
+            "Good_7"
+      ],
+      "Benim için endişelenme... Evin dışında pek çok sorumluluğun olduğunu biliyorum. Burada yalnız başıma iyiyim!": [
+            "Good_8"
+      ],
+      "Ah, sıkılmıyorum... Burada sahip olduğumuz şeylerden zevk alıyorum.": [
+            "Good_9"
+      ],
+      "Basit bir hayatımız var ama ben de bunu seviyorum işte.": [
+            "Good_9_sv1"
+      ],
+      "Ben yaşlanıp saçlarım beyazladığında umarım hâlâ beni seviyor olursun.": [
+            "Neutral_0"
+      ],
+      "Sence büyükbaban burada yaptığın işten gurur duyar mıydı?": [
+            "Neutral_1"
+      ],
+      "Mola vermek mi? Çiftçi olmak düşündüğümden daha kolay galiba...": [
+            "Neutral_2"
+      ],
+      "Eğer kasabaya gidersen herkese benden selam söyle.": [
+            "Neutral_3"
+      ],
+      "Yarın sabah sen kalkmadan çamaşırları yıkayacağım... Zamanın aksamamış olacak.": [
+            "Neutral_4"
+      ],
+      "Para sıkıntımız var mı, @?": [
+            "Neutral_5"
+      ],
+      "Kasabadaki herkes ne yapıyordur acaba?": [
+            "Neutral_6"
+      ],
+      "Bugün hiçbir şey yapmak istemiyorum.": [
+            "Neutral_7"
+      ],
+      "Ne kadar temizlersem temizleyeyim, ev kirlenip duruyor.": [
+            "Neutral_8"
+      ],
+      "Sanırım çiftlikler böyle sürekli pis olabiliyor.": [
+            "Neutral_8_sv1"
+      ],
+      "Acaba hayatımızın sonuna dek burada mı yaşayacağız?": [
+            "Neutral_9"
+      ],
+      "...Beni hâlâ seviyor musun?": [
+            "Bad_0"
+      ],
+      "*iç çeker*... Belki de çok genç yaşta evlendik.": [
+            "Bad_1"
+      ],
+      "Benimle birlikte olmaktan hâlâ mutlu musun?": [
+            "Bad_2"
+      ],
+      "Ben yanlış bir şey mi yaptım? Son zamanlarda farklı davranıyorsun.": [
+            "Bad_3"
+      ],
+      "Oralarda başka nelerin olabileceğini hiç düşündün mü?": [
+            "Bad_4"
+      ],
+      "Eskiden romantik biriydin... ne oldu?": [
+            "Bad_5"
+      ],
+      "Eskisi kadar genç olmadığımı biliyorum... benimle genç olduğun için mi evlendin?": [
+            "Bad_5_sv1"
+      ],
+      "Yaşamak için alt tarafı kısacık bir hayatımız var... Onu da böyle mi geçirmeliyiz yani?": [
+            "Bad_6"
+      ],
+      "Eskiden senin tatlındım... şimdilerde sadece sana sıcak yemek yaptığımda etrafımda oluyorsun.": [
+            "Bad_7"
+      ],
+      "Son zamanlarda bana karşı çok soğuksun...": [
+            "Bad_8"
+      ],
+      "Daha iyi olabilir miydim, merak ediyorum.": [
+            "Bad_9"
+      ],
+      "Pekâlâ, yeni sezon açılıyor. Bu sene başarmayı planladığın bir şey var mı?": [
+            "spring_1"
+      ],
+      "Ben yeni sezona umutla bakıyorum.": [
+            "spring_1_sv1"
+      ],
+      "Artık kış da bitti, önümüzde bize verim katacak havalar var.": [
+            "spring_8"
+      ],
+      "Umarım dans hareketlerini çalışmışsındır... çiçek dansı yarın!": [
+            "spring_23"
+      ],
+      "Dikkat et, güneş çarpmasın canım.": [
+            "summer_1"
+      ],
+      "Bol bol su iç ve fazla çalışma.": [
+            "summer_1_sv1"
+      ],
+      "Kokuyorsam üzgünüm... bu sıcakta tüm gece terledim.": [
+            "summer_8"
+      ],
+      "Yaz mevsimindeyiz... bu evin sineklerle dolu olduğu anlamına geliyor.": [
+            "summer_15"
+      ],
+      "Endişelenme, onlarla ben ilgileneceğim.": [
+            "summer_15_sv1"
+      ],
+      "Yaz sıcağının ardından bu hava bir harika.": [
+            "fall_1"
+      ],
+      "Kış neredeyse geldi. Isıtma sistemini iki kez kontrol etmeli, vanaları kapatmalı ve evin yalıtımına bakmalıyız.": [
+            "fall_8"
+      ],
+      "Endişelenme, hepsiyle ilgileneceğim.": [
+            "fall_8_sv1"
+      ],
+      "Yarın ki çiftlik sergisi için ne kullanacağını düşündün mü?": [
+            "fall_15"
+      ],
+      "Yarın geceki Ruhluk Arefesi'ne gidecek miyiz?": [
+            "fall_26"
+      ],
+      "Uff... Soğuk. Sonunda kış geliverdi.": [
+            "winter_1"
+      ],
+      "Yarınki balık tutma yarışmasına katılacak mısın?": [
+            "winter_7"
+      ],
+      "Geçirdiğimiz bu harika yıl için teşekkürler, @. Önümüzdeki yılı birlikte geçirmek için sabırsızlanıyorum.": [
+            "winter_28"
+      ],
+      "Yeni bir çiftlik yılı için heyecanlıyım, @!": [
+            "spring_Maru"
+      ],
+      "Soğuk havayı daha fazla seviyorum ama sonunda baharın geldiğini görmek beni mutlu ediyor.": [
+            "spring_Abigail"
+      ],
+      "Kışın bittiğine sevinmedin mi tatlım? Artık her şey daha umutlu bir şekilde bakabiliriz.": [
+            "spring_Haley"
+      ],
+      "Gitmişken yabani bayır turpu, pırasa ve karahindiba almayı unutma!": [
+            "spring_Leah"
+      ],
+      "Kara kıştan sonra etrafta yeşillik görmek çok güzel.": [
+            "spring_Penny"
+      ],
+      "Vay be, cildim solmuş... Bu dönem sana çiftlik işlerinde yardım etsem iyi olacak.": [
+            "spring_Sebastian"
+      ],
+      "Bu bahar sağlıklı sebzeler ekelim.": [
+            "spring_Harvey"
+      ],
+      "%farm çiftliğinde güzel bir yıl daha geçirmeyi sabırsızlıkla bekliyorum.": [
+            "spring_Elliott"
+      ],
+      "Hey, @. Bugün sıkı çalışalım!": [
+            "spring_Alex"
+      ],
+      "*burnunu çeker*... Bu alerjiler beni mahvediyor.": [
+            "spring_Sam"
+      ],
+      "Belki bu sene yeni bir beceri öğrenirim...": [
+            "spring_Shane"
+      ],
+      "Yıldızları izlemek için yılın güzel zamanları.": [
+            "summer_Maru"
+      ],
+      "Ah... Şu anda çikolatalı pasta ne güzel giderdi.": [
+            "summer_Abigail"
+      ],
+      "Şimdiye kadar anlamışsındır, yaz benim en sevdiğim mevsim.": [
+            "summer_Haley"
+      ],
+      "Yaza hiçbir şey, güzel tatlı bir şaraptan daha çok yakışamaz. Sence de öyle değil mi hayatım?": [
+            "summer_Leah"
+      ],
+      "Bu yaz kavun yetiştirecek misin?": [
+            "summer_Penny"
+      ],
+      "Bu yaz mümkün olduğunca içeride kalacağım.": [
+            "summer_Sebastian"
+      ],
+      "Güneşte yanmamaya dikkat et tatlım... Cildine ciddi şekilde zarar verebilir.": [
+            "summer_Harvey"
+      ],
+      "Deniz ile ilgili en çok özlediğim şeylerden biri de taze balıklar.": [
+            "summer_Elliott"
+      ],
+      "Yaz aylarında her zaman daha çok enerjim oluyor.": [
+            "summer_Alex"
+      ],
+      "Yaz, canımı hep daha çok barbekü çektiriyor.": [
+            "summer_Sam"
+      ],
+      "Of! Hava hem çok sıcak, hem de harika, değil mi?": [
+            "summer_Emily"
+      ],
+      "Belki bugün vahşi papağan görürüz.": [
+            "summer_Emily_sv1"
+      ],
+      "Bugün ne yapacaktım... Hım...": [
+            "summer_Shane"
+      ],
+      "Sanırım ufukta baharatlı pretzel ve birkaç tane soğuk bira var.": [
+            "summer_Shane_sv1"
+      ],
+      "Hala sağlık ocağında çalıştığım için mutluyum... Topluluğumuz için önemli bir hizmette bulunuyorum.": [
+            "fall_Maru"
+      ],
+      "Umarım bu yıl bal kabağı yetiştiririz.": [
+            "fall_Abigail"
+      ],
+      "Canım aşırı pasta çekti.": [
+            "fall_Haley"
+      ],
+      "Ama öyle sıradan değil... pembe olmak zorunda.": [
+            "fall_Haley_sv1"
+      ],
+      "Derin nefes al... kokusunu alabiliyor musun? Bu koku bana mantar mevsiminin geldiğini söylüyor.": [
+            "fall_Leah"
+      ],
+      "Burada hayat çok huzurlu. Doğayı daha önce hiç böyle taktir etmemiştim.": [
+            "fall_Penny"
+      ],
+      "Güzde annem bana hep o lezzetli kabak çorbasından yapardı": [
+            "fall_Sebastian"
+      ],
+      "Biraz şarap alsam iyi olacak.": [
+            "fall_Harvey"
+      ],
+      "Ah... Güz. Sıcak güneş gökyüzünde alçaktan sürüklenirken, altın renginde tarlalar üzerinde uzun gölgeler yaratır..": [
+            "fall_Elliott"
+      ],
+      "Yılın en güzel zamanlarından, sence?": [
+            "fall_Elliott_sv1"
+      ],
+      "Zayıf hissediyorum... Proteine ihtiyacım var.": [
+            "fall_Alex"
+      ],
+      "Dünyanın geri kalanında neler olup bittiğini merak ediyorum. Burada gerçekten gözlerden uzak kalıyoruz.": [
+            "fall_Sam"
+      ],
+      "Bu sabah süper bir şey içtim ve ha-ri-ka hissediyorum!": [
+            "fall_Emily"
+      ],
+      "Mini buzdolabımın arkasında büyüyen yeni bir mantar türü olabileceğini düşünüyorum.": [
+            "fall_Shane"
+      ],
+      "Ah neyse, sonuçta büyüme dönemi, değil mi?": [
+            "fall_Shane_sv1"
+      ],
+      "Bahar yakında geliyor. Uşkun turtası için sabırsızlanıyorum.": [
+            "winter_Maru"
+      ],
+      "Şu 'Çayır Kralı' oyununu odamda oynadığımız zamanları hatırlıyor musun? Güzel zamanlardı.": [
+            "winter_Abigail"
+      ],
+      "Turşu kavanozunu açmama yardım ettiğin zamanı düşünüyordum da...": [
+            "winter_Haley"
+      ],
+      "O zamandan buralara çok yol katettik.": [
+            "winter_Haley_sv1"
+      ],
+      "Her kışın canım salata çekiyor... Alakasız olduğunun farkındayım.": [
+            "winter_Leah"
+      ],
+      "Bu kış çok kitap okuyacağım.": [
+            "winter_Penny"
+      ],
+      "Acaba Sam nasıl? Eskiden çok iyi arkadaştık.": [
+            "winter_Sebastian"
+      ],
+      "Kış grip mevsimidir, bu yüzden iş muhtemelen çok daha stresli olacak. Eğer huysuzluk edersem, şimdiden özür dilerim.": [
+            "winter_Harvey"
+      ],
+      "Sanırım bu kış yazmaya odaklanabilirim. Zaten yapacak pek bir şey de yok.": [
+            "winter_Elliott"
+      ],
+      "Umarım büyükannem ve büyükbabam iyidirler. Çoğu zaman benim yardımıma ihtiyaç duyuyorlardı. Bilirsin, ağır şeyleri kaldırmak gibi.": [
+            "winter_Alex"
+      ],
+      "Müzisyen olma hayalimden vazgeçtim. Artık aile babası olacağım!": [
+            "winter_Sam"
+      ],
+      "Eyvahlar olsun, saçlarım yine dondu.": [
+            "winter_Emily"
+      ],
+      "Dışarıda geniş, kocaman bir dünya var... ama ben odamda kalmayı tercih ediyorum.": [
+            "winter_Shane"
+      ],
+      "Yıldızları izlemek için erkenden kalktım.": [
+            "spouseRoom_Maru_chance_1"
+      ],
+      "Umarım bugün projelerimde biraz zaman geçirirmemin sakıncası yoktur tatlım.": [
+            "spouseRoom_Maru_chance_2"
+      ],
+      "Senden biraz daha önce uyanıp Küçük David'i besledim. Sabahları çok aktif oluyor.": [
+            "spouseRoom_Abigail_chance_1"
+      ],
+      "Umarım kobay kokusunu önemsemezsin.": [
+            "spouseRoom_Abigail_chance_2"
+      ],
+      "Sen devam et ve güne başla hayatım. Makyajımı yapıyorum.": [
+            "spouseRoom_Haley_chance_1"
+      ],
+      "Bugün için planın var mı?": [
+            "spouseRoom_Haley_chance_2"
+      ],
+      "Günlerden birinde resmini yapacağım.": [
+            "spouseRoom_Leah_chance_1"
+      ],
+      "Buranın manzarası ilham verici, sence de öyle değil mi?": [
+            "spouseRoom_Leah_chance_2"
+      ],
+      "Hep kendi kütüphanem olsun istemiştim. Büyüleyici gerçekten.": [
+            "spouseRoom_Penny_chance_1"
+      ],
+      "Sabah ilk iş olarak kitap okumak güzel olacak. Beynimi güne hazırlayacağım.": [
+            "spouseRoom_Penny_chance_2"
+      ],
+      "Çalışsam mı yoksa tüm gün çizgi roman mı okusam, buna karar vermeye çalışıyorum.": [
+            "spouseRoom_Sebastian_chance_1"
+      ],
+      "Hey, dondurucuda pizzamız var mı? Açım.": [
+            "spouseRoom_Sebastian_chance_2"
+      ],
+      "Bu sabah hava trafiği yok tatlım. Ekipmanı açmak yine de eğlenceli oluyor.": [
+            "spouseRoom_Harvey_chance_1"
+      ],
+      "Yeni bir uçak maketiyle uğraşıyorum. Burası benim eski evimden çok daha rahatlatıcı.": [
+            "spouseRoom_Harvey_chance_2"
+      ],
+      "Sanırım bugün biraz yazı yazacağım.": [
+            "spouseRoom_Elliott_chance_1"
+      ],
+      "Benim yardımım olmadan idare edersin, değil mi?": [
+            "spouseRoom_Elliott_chance_2"
+      ],
+      "Asla tembellik yapmama izin verme. Karşına harika bir vücutla çıkmak istiyorum!": [
+            "spouseRoom_Alex_chance_1"
+      ],
+      "Egzersizlerimi yapabileceğim çok yer var. Her zamankinden daha çok ilerleme kaydediyorum!": [
+            "spouseRoom_Alex_chance_2"
+      ],
+      "Eski gitarım... Artık çalasım gelmiyor. Sorun değil ama.": [
+            "spouseRoom_Sam_chance_1"
+      ],
+      "Bugün ne yapmayı düşünüyorsun?": [
+            "spouseRoom_Sam_chance_2"
+      ],
+      "Bugün papağanla biraz zaman geçireceğim. Bir daha asla uçamayacak olması kalbimi kırıyor.": [
+            "spouseRoom_Emily"
+      ],
+      "Bira mı yoksa elma şarabı mı? Bazen hayat zor olabilir.": [
+            "spouseRoom_Shane_chance_1"
+      ],
+      "Merhaba, @. Bugün burada takılacağım ve... yerleri falan süpüreceğim.": [
+            "spouseRoom_Shane_chance_2"
+      ],
+      "Ah, yağmur yağınca nem bastı... İyicene rahatladım diyebilirim.": [
+            "Rainy_Day_Krobus"
+      ],
+      "Yağmurun sesi bana lağımı hatırlatıyor... İçimi rahatlatıyor.": [
+            "Rainy_Night_Krobus"
+      ],
+      "Lağım sığınağımdı... Orada güvendeydim. Meraklanma sakın... Yeni evimde de güvende hissediyorum.": [
+            "Rainy_Night_Krobus_sv1"
+      ],
+      "Keşke sana çiftlik işlerinde yardım edebilsem ama gün ışığına çıkamıyorum işte...": [
+            "Indoor_Day_Krobus"
+      ],
+      "Merhaba, @. Evimize hoş geldin. Bugün sıkı çalışmış gibisin!": [
+            "Indoor_Night_Krobus"
+      ],
+      "Böyle günlerde evin dışarısında birlikte vakit geçirebiliriz. Bu gerçekten çok hoş!": [
+            "Outdoor_Krobus"
+      ],
+      "Birisi gelirse haber et de saklanayım ama.": [
+            "Outdoor_Krobus_sv1"
+      ],
+      "Nerede yatacağız...?": [
+            "NoBed_0"
+      ],
+      "Dün gece uyuyamadım...": [
+            "NoBed_1"
+      ],
+      "Dün gece yerde yatmam gerekti...": [
+            "NoBed_2"
+      ],
+      "Yatağımıza bir şey mi oldu...?": [
+            "NoBed_3"
+      ]
+}

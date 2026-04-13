@@ -1,0 +1,365 @@
+{
+      "Vigilia degli spiriti": [
+            "fall27_name"
+      ],
+      "Dimmi tu cosa viene dopo, io non riesco a proseguire... i ragni...": [
+            "fall27_Abigail_spouse"
+      ],
+      "Potrei aver esagerato col liquore di zucca...": [
+            "fall27_Leah_spouse"
+      ],
+      "Sono confusa... Tu va' pure avanti, intanto io ci ragiono.": [
+            "fall27_Maru_spouse"
+      ],
+      "Oh... Questi vapori... Hmmm... Stai bene, stasera.": [
+            "fall27_Penny_spouse"
+      ],
+      "Mi spavento facilmente... Credo proprio che non mi muoverò da qui.": [
+            "fall27_Haley_spouse"
+      ],
+      "Sarebbe interessante averne uno alla fattoria.": [
+            "fall27_Sebastian_spouse"
+      ],
+      "Ehi, mi chiedevo quando ti avrei visto arrivare!": [
+            "fall27_Sam_spouse"
+      ],
+      "Ciao... Ci speravo, che mi trovassi qui...": [
+            "fall27_Harvey_spouse"
+      ],
+      "Mmph... Temo d'aver ingerito qualche fetta di crostata di zucca di troppo.": [
+            "fall27_Elliott_spouse"
+      ],
+      "Non ce la faccio... i ragni...": [
+            "fall27_Abigail"
+      ],
+      "Beh, l'inverno è alle porte. È il momento perfetto per fare scorta di legna e pietre.": [
+            "fall27_Robin"
+      ],
+      "Sono ore che non vedo Maru... Spero stia bene.": [
+            "fall27_Demetrius"
+      ],
+      "Mi sa che sono già passata di qua... no, aspetta...": [
+            "fall27_Maru"
+      ],
+      "Mi sono persa...": [
+            "fall27_Maru_sv1"
+      ],
+      "Non ho idea di come facciano a camminare, questi scheletri... Inquietante.": [
+            "fall27_Sebastian"
+      ],
+      "Forte, però.": [
+            "fall27_Sebastian_sv1"
+      ],
+      "??": [
+            "fall27_Pierre"
+      ],
+      "Mi spavento molto facilmente, io. Il labirinto infestato lo lascio ai più giovani.": [
+            "fall27_Caroline"
+      ],
+      "Bello spettacolo, vecchio amico.": [
+            "fall27_Linus"
+      ],
+      "C'è qualcosa di strano da quella parte. Ma come ci arrivo?": [
+            "fall27_Alex"
+      ],
+      "Qua intorno dev'esserci un passaggio segreto.": [
+            "fall27_Alex_sv1"
+      ],
+      "Hmm... coscia di tacchino affumicato? Qualcosa di questo festival si salva, suppongo.": [
+            "fall27_George"
+      ],
+      "Vorrei che Gus includesse un'opzione vegetariana. Spiedini di zucchine, magari?": [
+            "fall27_Evelyn"
+      ],
+      "Buonasera, @. Hai già affrontato il labirinto infestato? Mette dei bei brividi.": [
+            "fall27_Lewis"
+      ],
+      "L'ha messo su da solo quell'uomo strano che vive nella torre. Non ha lasciato avvicinare nessuno, mentre ci lavorava.": [
+            "fall27_Lewis_sv1"
+      ],
+      "Una delle mie mazze infuse d'iridio si sbarazzerebbe in un attimo di questi cosi.": [
+            "fall27_Clint"
+      ],
+      "Ti piacciono le lanterne-zucca? Le ho intagliate io stessa.": [
+            "fall27_Emily"
+      ],
+      "Il vapore di questo calderone... mi fa girare la testa, ma non riesco ad allontanarmi...": [
+            "fall27_Penny"
+      ],
+      "Se si mangia gratis, io ci sono! Nel labirinto infestato non mi ci vedrai mai, però.": [
+            "fall27_Pam"
+      ],
+      "Iiihh! Ho troppa paura.": [
+            "fall27_Haley"
+      ],
+      "Vincent se l'è presa perché non lo lascio entrare nel labirinto infestato... ma è soltanto un bambino!": [
+            "fall27_Jodi"
+      ],
+      "Ehi, @. Bella serata, vero?": [
+            "fall27_Kent"
+      ],
+      "Che strano... Questo è un vicolo cieco.": [
+            "fall27_Sam"
+      ],
+      "Ma avrei giurato di avere qualcuno davanti, quando ho percorso il labirinto. Che fine avrà fatto?": [
+            "fall27_Sam_sv1"
+      ],
+      "Mm, ciao. Scusa... ho la bocca piena di more.": [
+            "fall27_Leah"
+      ],
+      "Ciao, @. Hai avuto un autunno proficuo?": [
+            "fall27_Marnie"
+      ],
+      "Comincia davvero a fare freddo... Le colture non reggeranno ancora a lungo.": [
+            "fall27_Marnie_sv1"
+      ],
+      "Ma salve, @. Fa freddino, non trovi?": [
+            "fall27_Elliott"
+      ],
+      "Mi diverto un mondo a cucinare le zucche. Sono un frutto interessantissimo.": [
+            "fall27_Gus"
+      ],
+      "Dici che piove in superficie? *sussulta*": [
+            "fall27_Dwarf"
+      ],
+      "La pioggia... Per noi è quasi un mito. Alcuni non ne fanno mai esperienza per tutta la vita.": [
+            "fall27_Dwarf_sv1"
+      ],
+      "Gli affari della gente mondana hanno poca importanza per me, ma agli elementali piace avere occasione di vedervi da vicino.": [
+            "fall27_Wizard"
+      ],
+      "È per loro che ho creato questo sciocco labirinto.": [
+            "fall27_Wizard_sv1"
+      ],
+      "Oh! Mi hai trovato...": [
+            "fall27_Harvey"
+      ],
+      "La verità è che avevo troppa paura e sono venuto a nascondermi qui. Non dirlo a nessuno.": [
+            "fall27_Harvey_sv1"
+      ],
+      "Perché non c'è altro liquore di zucca?": [
+            "fall27_Shane"
+      ],
+      "Ho sentito che a casa sta piovendo. È per quello che sei qui?": [
+            "fall27_Sandy"
+      ],
+      "Un po' mi manca la pioggia, in realtà...": [
+            "fall27_Sandy_sv1"
+      ],
+      "Ma zia Marnie! Voglio andare nel labirinto! Non ho paura!": [
+            "fall27_Jas"
+      ],
+      "Mamma non mi lascia entrare nel labirinto. *singhiozza*": [
+            "fall27_Vincent"
+      ],
+      "Non avvicinarti troppo alla gabbia.": [
+            "fall27_Marlon"
+      ],
+      "%Leo tiene gli occhi incollati allo schermo, senza nemmeno sbattere le palpebre. Non riesci ad attirare la sua attenzione.": [
+            "fall27_Leo"
+      ],
+      "BO 113 5000 1 O 746 750 5 BL 746 2000 1 BO 47 350 -1 F 2870 4000 -1": [
+            "fall27_shop_y2"
+      ],
+      "Hai mai combattuto contro qualcuno di questi mostri?": [
+            "fall27_Abigail_spouse_y2"
+      ],
+      "Anche contro... i r-ragni?": [
+            "fall27_Abigail_spouse_y2_sv1"
+      ],
+      "Devo aver bevuto troppo liquore di zucca prima di entrare nel labirinto.": [
+            "fall27_Leah_spouse_y2"
+      ],
+      "Tu vai pure avanti. Ci ritroviamo dopo.": [
+            "fall27_Leah_spouse_y2_sv1"
+      ],
+      "Prendi un piatto e siediti con la famiglia!": [
+            "fall27_Maru_spouse_y2"
+      ],
+      "*fiù* Mi ero persa nel labirinto...": [
+            "fall27_Penny_spouse_y2"
+      ],
+      "Avevo paura di rimanere intrappolata da sola mentre tutti tornavano a casa!2": [
+            "fall27_Penny_spouse_y2_sv1"
+      ],
+      "*risatina* Sapevo che avresti trovato il modo di arrivare qui.": [
+            "fall27_Emily_spouse_y2"
+      ],
+      "Hah! Non c'è niente di reale.": [
+            "fall27_Haley_spouse_y2"
+      ],
+      ".... giusto, @? Non è reale... giusto?2": [
+            "fall27_Haley_spouse_y2_sv1"
+      ],
+      "Ehi, hai superato le mani inquietanti.": [
+            "fall27_Alex_spouse_y2"
+      ],
+      "Mi pare di aver sentito qualcuno chiedere aiuto, qua vicino.": [
+            "fall27_Alex_spouse_y2_sv1"
+      ],
+      "Ehi, potresti... darmi una mano? Hehehe...": [
+            "fall27_Sebastian_spouse_y2"
+      ],
+      "Queste lapidi starebbero bene alla fattoria, non credi?": [
+            "fall27_Sebastian_spouse_y2_sv1"
+      ],
+      "Io e il mio fratellino abbiamo fatto parecchia strada, ma poi ci siamo bloccati.": [
+            "fall27_Sam_spouse_y2"
+      ],
+      "Tu vai pure avanti... trova quel tesoro per noi!": [
+            "fall27_Sam_spouse_y2_sv1"
+      ],
+      "Mi chiedevo quando ti avrei visto.": [
+            "fall27_Harvey_spouse_y2"
+      ],
+      "Non fare caso a me. Mi prendo un momento di respiro.": [
+            "fall27_Harvey_spouse_y2_sv1"
+      ],
+      "Rabbrividisco al pensiero di cosa avverrebbe se si liberassero...%noturn": [
+            "fall27_Elliott_spouse_y2"
+      ],
+      "Non temere, anima mia! Trapasserei il maledetto obbrobrio da parte a parte, prima che potesse sfiorarti con un dito.": [
+            "fall27_Elliott_spouse_y2_sv1"
+      ],
+      "Ho convinto Marnie a farmi portare Jas nel labirinto. Penso che sia abbastanza grande.": [
+            "fall27_Shane_spouse_y2"
+      ],
+      "Procediamo molto lentamente, però. Vai avanti senza di noi!": [
+            "fall27_Shane_spouse_y2_sv1"
+      ],
+      "Hai visto le decorazioni sulla nostra casa? A me non piacciono...": [
+            "fall27_Abigail_y2"
+      ],
+      "Immagino che non vedrai l'ora di rallentare un po' col lavoro. L'inverno è dietro l'angolo.": [
+            "fall27_Robin_y2"
+      ],
+      "Sapevi che... uno studio sul Periodico di Fisiologia Antropologica ha scoperto che la cadenza, il tempo e la chiave della musica possono avere un impatto misurabile sui livelli di cortisolo?": [
+            "fall27_Demetrius_y2"
+      ],
+      "Ehm... C'è del gelato alla vaniglia per accompagnare la torta di more?": [
+            "fall27_Demetrius_y2_sv1"
+      ],
+      "Appena ho finito di mangiare, mi tuffo subito nel labirinto!": [
+            "fall27_Maru_y2"
+      ],
+      "Questo è il mio angolino.": [
+            "fall27_Sebastian_y2"
+      ],
+      "Ah, @, direttamente dalla fattoria! Stasera ho una bella selezione di merci. Dai un'occhiata!": [
+            "fall27_Pierre_y2"
+      ],
+      "Dovrei prendere un piatto di cibo per mio marito. È tutta la sera che sta dietro al negozio.": [
+            "fall27_Caroline_y2"
+      ],
+      "Haha! Un'altra creazione niente male, mio vecchio amico.": [
+            "fall27_Linus_y2"
+      ],
+      "Mi è sembrato di sentire una ragazza che urlava... Ha bisogno di me!": [
+            "fall27_Alex_y2"
+      ],
+      "Se non fossi bloccato su questa sedia del cavolo, farei mangiare la polvere a tutti in quel labirinto!": [
+            "fall27_George_y2"
+      ],
+      "Tesoro, mi passeresti le frittelle di zucchine, per favore?": [
+            "fall27_Evelyn_y2"
+      ],
+      "Buonasera, @. Ancora una volta, abbiamo avuto la fortuna di ricevere un labirinto infestato, costruito in segreto dall'eccentrico individuo che vive nel folto della foresta.": [
+            "fall27_Lewis_y2"
+      ],
+      "Dicono che quest'anno sia più grande. Buona fortuna se osi avventurarti nei suoi meandri...": [
+            "fall27_Lewis_y2_sv1"
+      ],
+      "Ho già superato il labirinto... Ora è il momento di rilassarmi col liquore di zucca!": [
+            "fall27_Clint_y2"
+      ],
+      "...Faccio del mio meglio per ignorare l'infestazione di ragni alle mie spalle.": [
+            "fall27_Clint_y2_sv1"
+      ],
+      "Ooooh. Anche tu hai trovato l'entrata segreta!": [
+            "fall27_Emily_y2"
+      ],
+      "Sono stata nel labirinto per un po', ma poi mi è venuta fame.": [
+            "fall27_Penny_y2"
+      ],
+      "Sembra che mamma si stia divertendo.": [
+            "fall27_Penny_y2_sv1"
+      ],
+      "Passatemi un'altra bottiglia di liquore di zucca!... *hic*": [
+            "fall27_Pam_y2"
+      ],
+      "Non è che hai visto mia sorella?": [
+            "fall27_Haley_y2"
+      ],
+      "Emily! Mi senti?": [
+            "fall27_Haley_y2_sv1"
+      ],
+      "Sam ha portato Vincent nel labirinto. Spero che stiano bene...": [
+            "fall27_Jodi_y2"
+      ],
+      "Questi cosi non sembrano così terribili.": [
+            "fall27_Kent_y2"
+      ],
+      "Sono Sam o no? Heh, heh, heh...1": [
+            "fall27_Sam_y2"
+      ],
+      "Sarà da questa parte? O magari di qua?": [
+            "fall27_Leah_y2"
+      ],
+      "Spero che Jas stia bene là dentro.": [
+            "fall27_Marnie_y2"
+      ],
+      "Com'è andato il raccolto di quest'anno, @?": [
+            "fall27_Marnie_y2_sv1"
+      ],
+      "Oh miserabile obbrobrio... in quale fetida spelonca si cela il tuo regno?%noturn": [
+            "fall27_Elliott_y2"
+      ],
+      "Talvolta, bisogna scrutare nell'abisso per riscuotere una musa languida...": [
+            "fall27_Elliott_y2_sv1"
+      ],
+      "Intagliare le zucche è un mio piccolo talento. Sono io, di solito, a preparare per gli altri quasi tutte le Zucche-lanterna del paese.": [
+            "fall27_Gus_y2"
+      ],
+      "In cambio chiedo solo di tenere i semi... Spolveraci sopra un po' di zucchero alla cannella e diventano uno spuntino coi fiocchi!": [
+            "fall27_Gus_y2_sv1"
+      ],
+      "Questo posto è proprio strano...": [
+            "fall27_Dwarf_y2"
+      ],
+      "Le sfide continuano... Ogni mago deve avere un apprendista...": [
+            "fall27_Wizard_y2"
+      ],
+      "Purtroppo devo ammettere di essermi bloccato qui...": [
+            "fall27_Harvey_y2"
+      ],
+      "Restami sempre accanto, Jas. Non allontanarti!%noturn": [
+            "fall27_Shane_y2"
+      ],
+      "Ho sentito che a casa sta piovendo. È per questo che sei qua?": [
+            "fall27_Sandy_y2"
+      ],
+      "In realtà, la pioggia mi manca un po'...": [
+            "fall27_Sandy_y2_sv1"
+      ],
+      "Andiamo da questa parte!%noturn": [
+            "fall27_Jas_y2"
+      ],
+      "Guardati le spalle, giovinotto... In quel labirinto ci sta qualcosa di orribile...": [
+            "fall27_Willy_y2_male_farmer"
+      ],
+      "Guardati le spalle, signorina... In quel labirinto ci sta qualcosa di orribile...": [
+            "fall27_Willy_y2_female_farmer"
+      ],
+      "Abbiamo finito il labirinto? Dov'è il premio?": [
+            "fall27_Vincent_y2"
+      ],
+      "Quest'anno ho accalappiato più mostri. Non avvicinarti troppo alle gabbie.": [
+            "fall27_Marlon_y2"
+      ],
+      "Questo è un labirinto dentro un labirinto... Mi gira la testa...": [
+            "fall27_Leo_y2"
+      ],
+      "Co-cosa ci fai qui?": [
+            "fall27_Krobus_y2"
+      ]
+}

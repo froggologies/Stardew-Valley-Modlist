@@ -1,0 +1,11 @@
+{
+    "¿Tú eres «Sr. K»? Yo... Pensaba que sería algún ricachón al que le encantaba mi arte.": "response_Forest_choseInternet_Leah_event1",
+    "¡Argh! No vuelvas a llamarme así.": "response_Forest_choseInternet_Leah_event2",
+    "Nunca me apoyaste con el arte... ¿Y ahora que tengo algo de éxito me pides que volvamos? Me das asco.": "response_Forest_choseInternet_Leah_event2_sv1",
+    "¡Dios mío!": "response_Forest_choseInternet_Leah_event3",
+    "Bueno, sobrevivirá... Pero te has pasado de la raya con él, @.": "response_Forest_choseInternet_Leah_event4_male_farmer",
+    "Bueno, se recuperará... Pero te has pasado de la raya con ella, @.": "response_Forest_choseInternet_Leah_event4_female_farmer",
+    "Salgamos de aquí. No creo que Kel vuelva a molestarnos.": "response_Forest_choseInternet_Leah_event5",
+    "La próxima vez vayamos a un lugar más resguardado...": "response_Forest_choseInternet_Leah_event6",
+    "Bueno, el picnic no ha salido como esperaba.": "response_Forest_choseInternet_Leah_endDialogue7"
+}

@@ -1,0 +1,18 @@
+{
+    "Vamos, George. Quiero que respires bien hondo.": "JoshHouse_56_George_Harvey_event1",
+    "Mmhmm... Date la vuelta, por favor.": "JoshHouse_56_George_Harvey_event2",
+    "George, seré sincero contigo. Necesitas hacer algunos cambios en tu estilo de vida para seguir sano.": "JoshHouse_56_George_Harvey_event3",
+    "Me gustaría que redujeras la ingesta de sodio e hicieras ejercicio moderado con los brazos.": "JoshHouse_56_George_Harvey_event3_sv1",
+    "Hmmph... Yo sé lo que es mejor para mí. ¿Quién te crees que eres para decirme cómo vivir mi vida?": "JoshHouse_56_George_George_event1",
+    "Soy tu médico, George. Eso soy...": "JoshHouse_56_George_Harvey_event4",
+    "Y estudié durante 8 años para ayudar a las personas a mantenerse sanas.": "JoshHouse_56_George_Harvey_event4_sv1",
+    "¡Oh!": "JoshHouse_56_George_Harvey_event5",
+    "Lo siento, pero no deberías estar aquí... Se supone que estos chequeos son privados.": "JoshHouse_56_George_Harvey_event5_sv1",
+    "¡No tan deprisa! Me gustaría tener una segunda opinión. La de este joven.": "JoshHouse_56_George_George_event2_male_farmer",
+    "¡No tan deprisa! Me gustaría tener una segunda opinión. La de esta señorita.": "JoshHouse_56_George_George_event2_female_farmer",
+    "Muy bien...": "JoshHouse_56_George_Harvey_event6",
+    "@, ¿qué crees que debería hacer George?": "JoshHouse_56_George_Harvey_event7",
+    "Vale. Haré lo que usted diga, doctor.": "JoshHouse_56_George_George_event3",
+    "Gracias por tu ayuda, @. Te lo agradezco mucho.": "JoshHouse_56_George_Harvey_event8_prereq_1",
+    "Es mejor no confundir a los pacientes, @. Por favor, recuérdalo de cara al futuro.": "JoshHouse_56_George_Harvey_event8_prereq_2"
+}

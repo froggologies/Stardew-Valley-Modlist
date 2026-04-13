@@ -1,0 +1,15 @@
+{
+    "Ой, привет, @. Я вот собирался перекусить.": "SamHouse_46_Sam_Sam_event1",
+    "Сейчас и тебе что-нибудь достану.": "SamHouse_46_Sam_Sam_event2",
+    "О нет... Разбил.": "SamHouse_46_Sam_Sam_event3",
+    "Что за шум?": "SamHouse_46_Sam_Jodi_event1",
+    "Ах!": "SamHouse_46_Sam_Jodi_event2",
+    "Какой ужас! Что случилось?": "SamHouse_46_Sam_Jodi_event3",
+    "... Скажи ей, @.": "SamHouse_46_Sam_Sam_event4",
+    "Спасибо за правду, @. Ничего страшного.": "SamHouse_46_Sam_Jodi_event4_prereq_1",
+    "Прости, ЧТО ты сделал, Сэм?! Что за муха тебя укусила?!": "SamHouse_46_Sam_Jodi_event4_prereq_2",
+    "Прости, мам. Я сейчас все уберу.": "SamHouse_46_Sam_Sam_event5",
+    "Спасибо!": "SamHouse_46_Sam_Jodi_event5",
+    "Я очень на тебя зол. Не понимаю, зачем было так врать?": "SamHouse_46_Sam_Sam_endDialogue6_prereq_1",
+    "Прости, что так получилось.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_2"
+}

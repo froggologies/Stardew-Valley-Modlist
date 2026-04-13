@@ -1,0 +1,865 @@
+{
+  "dialogue": {
+    "Oh... you're that new farmer boy, aren't you?": [
+      "Introduction_male_farmer"
+    ],
+    "Oh... You're that new farmer girl, or whatever. Aren't you?": [
+      "Introduction_female_farmer"
+    ],
+    "Huh? Oh... I'm Haley.": ["Introduction_sv1"],
+    "Hmm... If it weren't for those horrendous clothes you might actually be cute.": [
+      "Introduction_sv2_male_farmer"
+    ],
+    "Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, never mind.": [
+      "Introduction_sv2_female_farmer"
+    ],
+    "Oh... you want to dance with *me*, do you?3": [
+      "FlowerDance_Accept_male_farmer"
+    ],
+    "Oh? Sure! I'll dance with you!": ["FlowerDance_Accept_female_farmer"],
+    "Hehe... of course. I'd love to be your partner.": [
+      "FlowerDance_Accept_sv1_male_farmer"
+    ],
+    "We'll have a great time!": ["FlowerDance_Accept_sv1_female_farmer"],
+    "Hmm... I admire your confidence. Most guys are too shy to ask me.": [
+      "FlowerDance_Accept_sv2_male_farmer"
+    ],
+    "You look so pretty today!": ["FlowerDance_Accept_sv2_female_farmer"],
+    "*gasp*... You got this for me? Wow, @, this is the best birthday gift ever!": [
+      "AcceptBirthdayGift_Loved"
+    ],
+    "Awwwww, you got me a birthday gift? Well, I really like it!": [
+      "AcceptBirthdayGift_Liked"
+    ],
+    "Gross! You got me this on my birthday? What's wrong with you!": [
+      "AcceptBirthdayGift_Negative"
+    ],
+    "For me? Ooooh... I can't decide if I should drink it, or use it as shampoo...": [
+      "AcceptGift_StardropTea"
+    ],
+    "Is that... coconut? I love this!": ["AcceptGift_88_chance_1"],
+    "Mmm.... coconuts remind me of warm, sunny days at the beach. When I hold one, I feel like I'm there... even when it's raining.": [
+      "AcceptGift_88_chance_2"
+    ],
+    "Wow, they're beautiful! These are my absolute favorite.": [
+      "AcceptGift_421"
+    ],
+    "I don't think I've ever set foot in this place. It's actually kind of cozy!": [
+      "GreenRain"
+    ],
+    "Oh, I'm not worried about the rain. I'm sure it'll pass.": [
+      "GreenRain_sv1"
+    ],
+    "Wake me up when there's a pink rain... Or better yet, a pink cake rain!": [
+      "GreenRain_2"
+    ],
+    "It was fun taking pictures, but I had to shower for two hours to get the mud out of my hair!": [
+      "eventSeen_14"
+    ],
+    "%Haley greets you with a smile. You notice that she's wearing her Great-Grandma's bracelet.": [
+      "eventSeen_13_memory_oneweek"
+    ],
+    "Wow, looks like someone's read the latest issue of 'Super Fashion Girl'... muddy boots are totally in right now!": [
+      "eventSeen_12_memory_oneweek"
+    ],
+    "My parents sent another postcard... I guess they're in the middle of a cruise down the Gem Sea Coast.": [
+      "eventSeen_12_memory_twoweeks"
+    ],
+    "They said me and Emily could join them at any point, but let's be honest... who wants to go on vacation with their parents?": [
+      "eventSeen_12_memory_twoweeks_sv1"
+    ],
+    "The other day, Emily baked something called a 'squirrel loaf'...": [
+      "eventSeen_11_memory_oneweek"
+    ],
+    "How'd it taste? Um... well, if my tail was a little bushier I probably would've loved it.": [
+      "eventSeen_11_memory_oneweek_sv1"
+    ],
+    "Did you see last night's episode of 'Tears'? *sob*... I can't believe Kyle and Amy broke up...": [
+      "eventSeen_11_memory_twoweeks"
+    ],
+    "My name means 'field of hay', but I like to imagine it as a meadow full of sunflowers...": [
+      "cropMatured_421"
+    ],
+    "I was waiting for you to ask me that.": ["dating_Haley"],
+    "You look really handsome today.": [
+      "dating_Haley_memory_oneday_male_farmer"
+    ],
+    "You look really pretty today.": [
+      "dating_Haley_memory_oneday_female_farmer"
+    ],
+    "Well, I guess this makes you my 'brother-in-law', huh? That's funny to think about.": [
+      "married_Emily_male_farmer"
+    ],
+    "Hey, I guess we're kind of like sisters now!": [
+      "married_Emily_female_farmer"
+    ],
+    "Things didn't work out between you and Emily, huh? Well... It happens.": [
+      "divorced_Emily"
+    ],
+    "It *is* kind of awkward that you're both still living in this tiny town, though.": [
+      "divorced_Emily_sv1"
+    ],
+    "So, what's the idea here... am I just going to be your 'girlfriend' forever...?": [
+      "dating_Haley_memory_oneyear"
+    ],
+    "Is Emily settling into the farm life?": ["married_Emily_memory_oneweek"],
+    "You know, I was starting to wonder if Emily would ever get married...": [
+      "married_Emily_memory_oneweek_sv1"
+    ],
+    "I saw a dolphin on the way in!": ["Resort_Entering"],
+    "There's something about the sun that just makes me feel good.": [
+      "Resort_Leaving"
+    ],
+    "It's strange the places life can take you... who knows what other lands are out there?": [
+      "Resort_Shore"
+    ],
+    "Wow, look at how the sunlight sparkles on the horizon!": [
+      "Resort_Shore_2"
+    ],
+    "I bet the sunsets here would make for an amazing photo.": [
+      "Resort_Shore_2_sv1"
+    ],
+    "I have to remember to bring my camera next time.": ["Resort_Shore_2_sv2"],
+    "Getting the perfect tan is an art form...": ["Resort_Towel"],
+    "It's kind of like toasting a marshmallow... you have to rotate the body just right.": [
+      "Resort_Towel_sv1"
+    ],
+    "Laying out on a tropical beach.": ["Resort_Towel_2"],
+    "*sigh* I think I've finally found my place in the universe.": [
+      "Resort_Towel_2_sv1"
+    ],
+    "But I guess Stardew Valley's not such a bad place either!": [
+      "Resort_Towel_2_sv2"
+    ],
+    "Emily's friend had this swimsuit shipped to me from all the way out in Zuzu City.": [
+      "Resort_Towel_3"
+    ],
+    "City fashion is on a whole different level, isn't it?": [
+      "Resort_Towel_3_sv1"
+    ],
+    "I painted my toenails blue to match the sea. What do you think? *wiggle* *wiggle*": [
+      "Resort_Chair"
+    ],
+    "Gus made a cute, fruity drink just for me!": ["Resort_Bar"],
+    "This is such a perfect beach. I'd stay here forever if I could!": [
+      "Resort"
+    ],
+    "*sigh*... My days of being Flower Queen are over... so it's a bittersweet dance for me.": [
+      "FlowerDance_Accept_Spouse"
+    ],
+    "But, yes...": ["FlowerDance_Accept_Spouse_sv1"],
+    "Ew... No.": ["FlowerDance_Decline"],
+    "I'll be fine on my own...": ["divorced"],
+    "Thanks for the memories.": ["divorced_sv1"],
+    "Why are you still clinging to me? Go live your own life.": [
+      "divorced_sv2"
+    ],
+    "Agh!": ["breakUp"],
+    "Oh... hmph. Beat me to it, huh? Alright...": ["breakUp_sv1"],
+    "I've got nothing to say to you!": ["dumped_Girls"],
+    "Alright, alright... I'm done giving you the cold shoulder. Just promise me you'll never, ever lie to me again.": [
+      "secondChance_Girls"
+    ],
+    "This town is so small. It sucks.": ["Mon"],
+    "I have to drive, like, twenty miles to buy any decent clothes.": [
+      "Mon_sv1"
+    ],
+    "That's why I usually just order online.": ["Mon_sv2"],
+    "What?": ["Mon_sv3"],
+    "Nice shoes.": ["Tue_male_farmer"],
+    "Nice makeup.": ["Tue_female_farmer"],
+    "Are those made out of plastic?": ["Tue_sv1_male_farmer"],
+    "Or wait... Are you even wearing any?": ["Tue_sv1_female_farmer"],
+    "I'm bored.": ["Tue_sv2"],
+    "The only thing I like about this town is the beach.": ["Wed"],
+    "I've decided I am going to organize my clothes today. I'll have to throw out all of last year's styles to make room for the new ones!": [
+      "Thu_chance_1"
+    ],
+    "*sigh* I could really go for a cupcake right now.": ["Thu_chance_2"],
+    "Do you need something?": ["Thu_sv1"],
+    "%Haley is ignoring you.": ["Fri"],
+    "Don't you get tired of running around on that farm all day, or whatever it is you do?": [
+      "Fri2"
+    ],
+    "I couldn't stand getting all dirty like that.": ["Fri2_sv1"],
+    "You probably get a nice tan, though.": ["Fri2_sv2"],
+    "I'm feeling an urge to go shopping. Ugh! I wish there was a mall here.": [
+      "Sat"
+    ],
+    "My sister is so weird. Sometimes I wonder if we're actually related.": [
+      "Sun"
+    ],
+    "There are only two things I like about this town.": ["Wed8"],
+    "One of them is the beach.": ["Wed8_sv1"],
+    "The other one is a secret! *giggle*": ["Wed8_sv2"],
+    "I wonder if any nice shells washed up on the beach this morning?": [
+      "Tue2"
+    ],
+    "This isn't the best time of year for shells, though.": ["Tue2_sv1"],
+    "I'm glad that the flowers are starting to bloom.": ["Wed4"],
+    "Those pink ones smell so good.": ["Wed4_sv1"],
+    "I need to find some kind of hobby other than shopping.": ["Fri6"],
+    "I've decided I want to expand my horizons.": ["Fri6_sv1"],
+    "Maybe I should learn to play the mini-harp?": ["Fri6_sv2"],
+    "I used to complain about this town being so small, but I've grown to like it.": [
+      "Mon6"
+    ],
+    "If it was much bigger it wouldn't feel like a community.": ["Mon6_sv1"],
+    "I cooked dinner last night. It actually turned out okay!": ["Thu6"],
+    "But I did make a huge mess in the kitchen...": ["Thu6_sv1"],
+    "I'm thinking about donating a bunch of clothes... I must have a hundred pairs of shoes.": [
+      "Sun6"
+    ],
+    "Yesterday I found a seagull with her wing caught in a net. I set her free, of course. She looked so helpless, the poor thing.": [
+      "Sat8_chance_1"
+    ],
+    "You know, I should probably start exercising more... this youthful metabolism won't last forever.": [
+      "Sat8_chance_2"
+    ],
+    "@, can we go on a camping trip someday?": ["Fri10"],
+    "The most exotic place I've been is Zuzu city.": ["Fri10_sv1"],
+    "*sigh*...": ["Event_clean1"],
+    "NO!! I'm not going to do it!": ["Event_clean2"],
+    "You guys are both stupid!%fork": ["Event_clean2_sv1"],
+    "She should take the 'high road'? What's that supposed to mean?": [
+      "Event_clean3"
+    ],
+    "You think I'm being a baby, huh?%fork": ["Event_clean3_sv1"],
+    "Great, then you shouldn't have any problem opening this jar for me!": [
+      "Event_jar1"
+    ],
+    "Oh... you aren't? Hmmm...": ["Event_jar2"],
+    "Well could you try opening this jar for me anyways?": ["Event_jar2_sv1"],
+    "Aw, thanks!": ["Event_darkroom1", "Event_darkroom4"],
+    "Oh! I thought you knew.": ["Event_darkroom2", "Event_darkroom5"],
+    "This room's for developing photos.": [
+      "Event_darkroom2_sv1",
+      "Event_darkroom5_sv1"
+    ],
+    "Is that so...?": ["Event_darkroom3", "Event_darkroom6"],
+    "No, you won't! This bracelet was passed down to me by my great-grandmother!": [
+      "Event_beach1"
+    ],
+    "*sigh*": ["Event_beach2"],
+    "...Maybe it'll wash up on another shore. I can't bear to think of it at the bottom of the ocean.": [
+      "Event_beach2_sv1"
+    ],
+    "Him? No!": ["Event_room1"],
+    "...Well, I guess I used to like Alex. But not anymore! He's immature.": [
+      "Event_room1_sv1"
+    ],
+    "What? That sounds fun, but I wouldn't want to leave Stardew Valley right now...": [
+      "Event_room2"
+    ],
+    "Huh? What's an android?": ["Event_room3"],
+    "I'm going to get such a nice tan this summer.": ["summer_Mon"],
+    "Ew, you're all dirty.": ["summer_Tue"],
+    "Um... Yes?": ["summer_Wed"],
+    "I didn't hear you, I'm thinking about something else.": ["summer_Wed_sv1"],
+    "Do you have baby bunnies on your farm? Bunnies are SO cute! <": [
+      "summer_10"
+    ],
+    "If you stay in the sun a lot it'll make your hair lighter.": [
+      "summer_Thu"
+    ],
+    "It's a good thing to know!": ["summer_Thu_sv1"],
+    "I wonder what Alex is doing today...": ["summer_Fri"],
+    "Huh? I didn't notice you standing there.": ["summer_Fri_sv1"],
+    "Farming sounds so boring...": ["summer_Sat"],
+    "What do you even do all day?": ["summer_Sat_sv1"],
+    "Hey, you better not be snooping around in my room anymore!": [
+      "summer_Sat_old_prereq_1"
+    ],
+    "But I guess it could get you in pretty good shape.": [
+      "summer_Sat_old_prereq_2"
+    ],
+    "Hmm... sounds like a lot of work.": ["summer_Sat_12"],
+    "What? You'd better not be doing that!": ["summer_Sat_13"],
+    "Emily usually cooks dinner... But she makes weird stuff like quinoa.": [
+      "summer_Sun"
+    ],
+    "Do you wear those clothes every day?": ["summer_Tue2"],
+    "Hey I found this new tool to open jars with. So you won't need to help me anymore.": [
+      "summer_Tue4_prereq_1"
+    ],
+    "There's not a cloud in the sky today.": ["summer_Tue4_prereq_2"],
+    "It's so hot today!": ["summer_Wed4"],
+    "I wish I had some ice cream.": ["summer_Wed4_sv1"],
+    "I spent 3 hours practicing my signature today.": ["summer_Fri4"],
+    "I guess that's pretty silly, huh?": ["summer_Fri4_sv1"],
+    "If you stay in the sun a lot it will make your hair lighter... But you don't want to get sunburnt, either.": [
+      "summer_Thu6"
+    ],
+    "I just want a healthy amount of sunlight. Everything in moderation, right?": [
+      "summer_Thu6_sv1"
+    ],
+    "I should start reading some books instead of magazines.": ["summer_Mon6"],
+    "It's good to learn things, isn't it?": ["summer_Mon6_sv1"],
+    "I only ever look at the pictures.": ["summer_Mon6_sv2"],
+    "I talked to my sister for a while last night. I actually enjoyed it quite a bit.": [
+      "summer_Sun6_chance_1"
+    ],
+    "You know, Emily's not actually that weird. I guess we have more in common than I used to think.": [
+      "summer_Sun6_chance_2"
+    ],
+    "Don't tell her I said so.": ["summer_Sun6_sv1"],
+    "It seems like a good day to go swimming.": ["summer_Sat6"],
+    "I guess living in the country isn't so bad.": ["summer_Tue8"],
+    "If I lived in the city I might start to miss all the trees.": [
+      "summer_Tue8_sv1"
+    ],
+    "@, I think I've been hanging out with you too much.": ["summer_Tue8_sv2"],
+    "Oh, hi @!": ["summer_Fri10"],
+    "Do you like kids?": ["summer_Fri10_sv1"],
+    "It's fall already?": ["fall_1"],
+    "It's gross when all these fallen leaves get slimy.": ["fall_Mon"],
+    "Hmm... Something smells weird...": ["fall_Tue"],
+    "You've been working on the farm, huh?": ["fall_Tue_sv1"],
+    "Oh, hi. Did you want something?": ["fall_Wed"],
+    "I feel the urge to go shopping. *sigh*": ["fall_Thu"],
+    "Is that a grass stain on your knee?": ["fall_Fri"],
+    "Sorry, I'm allergic to grass.": ["fall_Fri_sv1"],
+    "It's too cold to go to the beach anymore.": ["fall_Sat"],
+    "*sigh*...what do you think I should do today?": ["fall_Sat_sv1"],
+    "I'll probably take a nap later.": ["fall_Sat_old"],
+    "Hmm... That's a pretty good idea, actually.": ["fall_Sat_12"],
+    "Get away from me, you stupid jerk.": ["fall_Sat_13"],
+    "I've never been to the forest. It's muddy and I could get a blister on my foot.": [
+      "fall_Sun"
+    ],
+    "Something smells earthy...": ["fall_Tue2"],
+    "Oh, right. You work on a farm.": ["fall_Tue2_sv1"],
+    "You look like you've been doing a lot of hard work.": ["fall_Fri4"],
+    "Why don't you take the rest of the day off?": ["fall_Fri4_sv1"],
+    "If you're ever bored, come say hi.": ["fall_Wed4"],
+    "Shopping just doesn't sound as fun as it used to.": ["fall_Thu6"],
+    "What's happening to me?": ["fall_Thu6_sv1"],
+    "Hmm...": ["fall_Thu6_sv2"],
+    "Did I ever tell you I found another one of my great-grandma's bracelets in the attic?": [
+      "fall_Mon6_prereq_1"
+    ],
+    "See this bracelet? It belonged to my great-grandmother.": [
+      "fall_Mon6_prereq_2"
+    ],
+    "She was a really interesting lady.": ["fall_Mon6_prereq_2_sv1"],
+    "I've never been to the forest, you know.": ["fall_Sun6"],
+    "It might be interesting to explore it some day.": ["fall_Sun6_sv1"],
+    "I'm starting to like the smell of dirt. Isn't that weird?": ["fall_Tue8"],
+    "I think it's because you're around all the time.": ["fall_Tue8_sv1"],
+    "@, I'm happy to see you today.": ["fall_Mon10"],
+    "I want to move somewhere warmer.": ["winter_Mon"],
+    "Hi. Do you need something from me?": ["winter_Tue"],
+    "...": ["winter_Tue_sv1", "winter_Sun10_sv1"],
+    "Hmm. What brand is your shirt?": ["winter_9"],
+    "Oh. Um, never mind.": ["winter_9_sv1"],
+    "I wish someone would bring me a peppermint coffee.": ["winter_Wed"],
+    "Don't even bother, I know you won't be able to make one.": [
+      "winter_Wed_sv1"
+    ],
+    "I'm going to start writing a list of all the clothes I need for next spring.": [
+      "winter_Thu"
+    ],
+    "Do you have a pony on your farm?": ["winter_Fri"],
+    "Oh. That's disappointing...": ["winter_Fri_sv1"],
+    "The only good thing about winter is that I get to sleep more.": [
+      "winter_Sat"
+    ],
+    "I like at least 10 hours of sleep every night.": ["winter_Sat_sv1"],
+    "Will you say hi to Alex for me?": ["winter_Sun"],
+    "Thanks.": ["winter_Sun_sv1", "winter_Sun6_sv1"],
+    "Your name is @, right?": ["winter_Tue2"],
+    "I keep forgetting.": ["winter_Tue2_sv1"],
+    "Hi @.": ["winter_Tue4"],
+    "Is anything exciting happening on your farm?": ["winter_Tue4_sv1"],
+    "I think I'm starting to realize that clothes aren't the most important thing. Right?": [
+      "winter_Wed6"
+    ],
+    "I still like clothes, though. I mean, what's wrong with expressing yourself a little?": [
+      "winter_Wed6_sv1"
+    ],
+    "Maybe I'll donate some of my skirts to a charity this spring.": [
+      "winter_Thu6"
+    ],
+    "I mean, I do have over 1,000 skirts.": ["winter_Thu6_sv1"],
+    "...what?": ["winter_Thu6_sv2"],
+    "Um, if you see Alex could you tell him I'm busy today?": ["winter_Sun6"],
+    "I wish it were warmer here in Stardew Valley.": ["winter_Mon8"],
+    "I could move somewhere else, but...": ["winter_Mon8_sv1"],
+    "Do you think you'll ever have a pony on your farm?": ["winter_Fri8"],
+    "I'm glad you have less work to do in the winter.": ["winter_Sat8"],
+    "It must be nice to have a break, huh?": ["winter_Sat8_sv1"],
+    "@, you look rugged today. I like it.": ["winter_Sun10_male_farmer"],
+    "@, you look pretty today.": ["winter_Sun10_female_farmer"]
+  },
+  "marriage_dialogue": {
+    "I've changed a lot over the years, but I still prefer sunny weather.": [
+      "Rainy_Day_0"
+    ],
+    "Sometimes I daydream about our retirement... relaxing on the sunny beaches of the Fern Islands!": [
+      "Rainy_Day_1"
+    ],
+    "Do you ever think about the future, @?": ["Rainy_Day_1_sv1"],
+    "Good morning! I got up early and baked something sweet for you!": [
+      "Rainy_Day_2"
+    ],
+    "I know you're strong, but you still need to eat well to stay at your best!": [
+      "Rainy_Day_2_sv1"
+    ],
+    "I can't go outside today... my hair will go limp. Forgive me, dear.": [
+      "Rainy_Day_3"
+    ],
+    "I want to look my best for you.": ["Rainy_Day_3_sv1"],
+    "Are you going out in this weather? Just make sure to wipe your boots on the way back in, honey.": [
+      "Rainy_Day_4"
+    ],
+    "I'll just stay here and do some housework.": ["Rainy_Day_4_sv1"],
+    "Say 'goat cheese'!": ["patio_Haley"],
+    "Oh no... If this weather keeps up I'll get so pale.": ["Rainy_Day_Haley"],
+    "Oh, I'm glad you're back. It's so cold in here by myself... Are you almost ready to shut off the lights?": [
+      "Rainy_Night_0"
+    ],
+    "I hope it's nice and sunny tomorrow morning. Too much rain can make me moody.": [
+      "Rainy_Night_1"
+    ],
+    "I hope Emily isn't too lonely all by herself. I should visit her again soon.": [
+      "Rainy_Night_2"
+    ],
+    "Rain is horrible for a photographer. The lighting is awful, and you can't go outside without ruining your equipment!": [
+      "Rainy_Night_3"
+    ],
+    "I made a hot meal for you, honey. Lots of spice, just how you like it. Enjoy!": [
+      "Rainy_Night_4"
+    ],
+    "I never thought I'd say this, but the country lifestyle really suits me.": [
+      "Rainy_Night_5"
+    ],
+    "Hi, honey. I'm so glad you're home. I was starting to get kind of lonely.": [
+      "Rainy_Night_Haley"
+    ],
+    "Good morning! Did you sleep well?": ["Indoor_Day_0"],
+    "I think I might break out the old camera today... the lighting is just perfect.": [
+      "Indoor_Day_0_sv1"
+    ],
+    "Good morning, dear! Smells good, doesn't it? I made you breakfast!": [
+      "Indoor_Day_1"
+    ],
+    "I know you're busy with your work. I'm here to support you in any way I can!": [
+      "Indoor_Day_1_sv1"
+    ],
+    "Did you sleep okay? You were snoring a little.": ["Indoor_Day_2"],
+    "I've got some chores to do in here. Have a good day.": [
+      "Indoor_Day_2_sv1"
+    ],
+    "I'm glad I've learned to enjoy cleaning! The house gets dirty very easily.0": [
+      "Indoor_Day_3"
+    ],
+    "It's satisfying to get everything squeaky clean.": ["Indoor_Day_3_sv1"],
+    "Can I have a kiss before you leave?1": ["Indoor_Day_3_sv2"],
+    "Good morning, dear. Another day of farm chores, huh?": ["Indoor_Day_4"],
+    "I'll be thinking of you. <": ["Indoor_Day_4_sv1"],
+    "I felt like I had no direction in life before I met you. Now I have exactly what I want.": [
+      "Indoor_Day_Haley"
+    ],
+    "You look like you've been working hard, dear. Let me help you de-stress.": [
+      "Indoor_Night_Haley"
+    ],
+    "I always feel best when I'm outside, breathing fresh air.": ["Outdoor_0"],
+    "Don't get me wrong, your grandpa's old cottage is very nice! But nothing beats this beautiful landscape.": [
+      "Outdoor_0_sv1"
+    ],
+    "We've got to make sure the farm is cute! That might be important... right, honey?": [
+      "Outdoor_1"
+    ],
+    "Hi, honey! If I knew more about farm work I'd help you out more. Sorry!": [
+      "Outdoor_2"
+    ],
+    "I'll be thinking of you.": ["Outdoor_2_sv1"],
+    "I'm just going to do some dusting over here. That should help you out, right?": [
+      "Outdoor_3"
+    ],
+    "*phew*... it's hot out here.": ["Outdoor_3_sv1"],
+    "Don't overwork yourself, dear.": ["Outdoor_4"],
+    "Make sure and take a break every now and then, or get something to eat.": [
+      "Outdoor_4_sv1"
+    ],
+    "Looks like a good day to work on my tan, don't you think, sweetheart?": [
+      "Outdoor_Haley"
+    ],
+    "I'm going to socialize in town for a bit today.": ["funLeave_Haley"],
+    "It was nice seeing everyone in town. Did you have a good day, dear?": [
+      "funReturn_Haley"
+    ],
+    "Isn't it strange? I'm not used to being a mother.": ["OneKid_3"],
+    "Isn't %kid2 a very good-looking baby?": ["TwoKids_2"],
+    "A big house, two kids, and a beautiful plot of land. I'm not sure what else I could ask for.": [
+      "TwoKids_3"
+    ],
+    "So, what are we planting this season?": ["spring_2"],
+    "Now that winter's over, we've got lots of sunny weather to look forward to. I'm excited.": [
+      "spring_1"
+    ],
+    "Sorry if I don't look my best... the air is just so humid that my hair doesn't hold up too well.": [
+      "summer_3"
+    ],
+    "It's summer... that means the house is full of flies and ants... yuck.": [
+      "summer_15"
+    ],
+    "I already miss summer...": ["fall_2"],
+    "Fall is kind of sad for me... everything is dying.": ["fall_1"],
+    "My skin feels so dry in this weather.": ["winter_14"],
+    "For some reason, the snowy weather gives me cravings for pink cake...": [
+      "winter_2"
+    ],
+    "Aren't you glad winter's over, honey? Things seem more hopeful now.": [
+      "spring_Haley"
+    ],
+    "I love watching the fireflies on a hot summer's night. It's the closest I'll ever come to visiting the stars.": [
+      "summer_Haley"
+    ],
+    "Even though I prefer summer, fall might be the best season to take pictures. Those long, low shadows...": [
+      "fall_Haley"
+    ],
+    "I was just thinking about the time you helped me open a jar of pickles. Remember that?": [
+      "winter_Haley"
+    ],
+    "We've come a long way since then.": ["winter_Haley_sv1"]
+  },
+  "gift_tastes": {
+    "Oh my god, this is my favorite thing!!": ["HaleyGiftTaste_1"],
+    "*gasp*...for me? Thank you!": ["HaleyGiftTaste_2"],
+    "Ugh...that's such a stupid gift.": ["HaleyGiftTaste_3"],
+    "Gross!": ["HaleyGiftTaste_4"],
+    "Thank you. I love presents.": ["HaleyGiftTaste_5"]
+  },
+  "misc": {
+    "Hey.": ["SummitEvent_Intro_Spouse"],
+    "It's so beautiful up here...": ["SummitEvent_Intro2_Spouse"],
+    "*giggle*...": ["SummitEvent_Dialogue3_Haley_Haley_event1"],
+    "Oh, it's just that...": ["SummitEvent_Dialogue3_Haley_Haley_event2"],
+    "As a little girl, I always dreamed that one day, I would climb to the summit with my true love, and share a kiss.": [
+      "SummitEvent_Dialogue3_Haley_Haley_event3"
+    ],
+    "Oooh... date night, huh? Let me just freshen up a little and I'll meet you at the theater.": [
+      "MovieInvite_Spouse_Haley"
+    ],
+    "Mmm... It's nice and warm in here. Winter is my favorite time to go to the movies.": [
+      "Haley_winter_movie_1_BeforeMovie"
+    ],
+    "That was very romantic.": ["Haley_winter_movie_1_AfterMovie"],
+    "I'm glad there was a good ending!": ["Haley_winter_movie_0_AfterMovie"],
+    "Oh, is this one of those 'fantasy' movies?": ["Haley_dislike_BeforeMovie"],
+    "*yawn*... What? Oh... what was that movie about, again?": [
+      "Haley_dislike_AfterMovie"
+    ],
+    "Everyone's talking about this movie, so I've been wanting to see it.": [
+      "Haley_like_BeforeMovie"
+    ],
+    "That last scene... what did they mean by that?": ["Haley_like_AfterMovie"],
+    "The movie theater isn't open on festival days!": ["MovieInvite_Festival"],
+    "The movie theater is closed for the night...": ["MovieInvite_Closed"],
+    "You're the new farmer, aren't you?": ["WipedMemory"],
+    "You seem... no. I'm sure we've never met.": ["WipedMemory_sv1"],
+    "If you smell something good, it's the coconut oil I rubbed all over my skin.": [
+      "DesertFestival_Haley"
+    ],
+    " I'm going 'all in' with the desert feeling.": [
+      "DesertFestival_Haley_sv1"
+    ],
+    "Hey... looks like someone's got a nice tan going... *pinch*": [
+      "DesertFestival_Haley_marriage"
+    ],
+    "%Your wife is taking a nap.": ["DesertFestival_Haley2_marriage"],
+    "You'd better go find more eggs so you can buy all my stuff!": [
+      "Shop_Haley"
+    ],
+    "Hey, @. I'm your secret gift-giver this year.": ["Event_cs_1499"],
+    "Here, open it.": ["Event_cs_1499_sv1"],
+    "It's not much, but I hope you like it.": ["Event_cs_1500"],
+    "Hi. So, I'm your secret gift-giver this year.": ["Event_cs_1501"],
+    "Well? Open it!": ["Event_cs_1501_sv1"],
+    "It's nothing fancy, but it's the best I could afford.": ["Event_cs_1504"],
+    "Oh! So it's you?": ["Event_cs_1801"],
+    "Ah... {1} {0}! Thanks.": ["Event_cs_1801_sv1"],
+    "Of course I'll dance with you!": ["Event_cs_1632"],
+    "You want to be my partner for the flower dance?": ["Event_cs_1634"],
+    "Okay. I look forward to it.": ["Event_cs_1633_sv1"],
+    "Okay! I'd love to.": ["Event_cs_1634_sv1"],
+    "I'm sorry... I already have a partner.": ["Event_cs_1635"],
+    "Yes, dear?": ["Event_cs_1736"],
+    "...Yes?": ["Event_cs_1738"],
+    "The wedding was wonderful... wasn't it, dear?": ["Game1_cs_2782"],
+    "Well, we can't forget about the farm... time to get to work.": [
+      "Game1_cs_2782_sv1"
+    ],
+    "Umm... I don't think so.": ["NPC_cs_3956"],
+    "Is this a joke? I don't get it.": ["NPC_cs_3957"],
+    "...I don't really know you well enough...": ["NPC_cs_3958"],
+    "Uh... This is awkward. Look, I don't really know you that well...": [
+      "NPC_cs_3959"
+    ],
+    "Oh? ...Sorry... I'm not ready for that.": ["NPC_cs_3960"],
+    "...I didn't know. Uh... Sorry. No.": ["NPC_cs_3961"],
+    "...You want to get more serious? I feel the same way.": ["NPC_cs_3963"],
+    "I'm kind of nervous. Aren't you?": ["NPC_cs_3963_sv1"],
+    "You just got engaged! What are you thinking?": ["NPC_cs_3965"],
+    "What? Didn't you just ask someone else to marry you? You're crazy!": [
+      "NPC_cs_3966"
+    ],
+    "Um, aren't you already married?": ["NPC_cs_3967"],
+    "You're already married, you weirdo!": ["NPC_cs_3968"],
+    "You're strange.": ["NPC_cs_3970"],
+    "Heh. Funny joke.": ["NPC_cs_3971"],
+    "Oh!! ...": ["NPC_cs_3972"],
+    "@... I'm sorry, but no. I won't marry you right now.": ["NPC_cs_3972_sv1"],
+    "!! Er... I'm sorry, I don't feel that way about you...": ["NPC_cs_3973"],
+    "Look. I already told you no! Leave me alone.": ["NPC_cs_3974"],
+    "You already asked me that. What part of 'NO' don't you understand?!": [
+      "NPC_cs_3975"
+    ],
+    "...!!!": ["NPC_cs_3980"],
+    "I accept!!": ["NPC_cs_3980_sv1"],
+    "I'll set everything up. We'll have the ceremony in 3 days, okay?": [
+      "NPC_cs_3980_sv3"
+    ],
+    "So...I heard you secretly gave {0} a gift today...": ["NPC_cs_3985"],
+    "Do I have to be suspicious of you?": ["NPC_cs_3985_sv1"],
+    "Honey... I wanted to give you that fruit as a symbol of my love.": [
+      "NPC_cs_4001"
+    ],
+    "I just feel like sleeping today.": ["NPC_cs_4406"],
+    "*sigh*...": ["NPC_cs_4420"],
+    "I'm bored...": ["NPC_cs_4421"],
+    "Sometimes I wonder if I'm doing the right thing with my life...": [
+      "NPC_cs_4422"
+    ],
+    "Huh? Nothing's wrong... I'm fine.": ["NPC_cs_4423"],
+    "I just don't have any energy today.": ["NPC_cs_4424"],
+    "Life sure is different since we got married...": ["NPC_cs_4425"],
+    "What... you want me to clean? Make you a sandwich? *sigh*...": [
+      "NPC_cs_4426"
+    ],
+    "*sigh*... my skin looks horrible today.": ["NPC_cs_4427"],
+    "It does... I can tell by the way you're looking at me.": [
+      "NPC_cs_4429_sv1"
+    ],
+    "*sigh*... my hair looks horrible today.": ["NPC_cs_4429"],
+    "Don't you ever feel trapped?": ["NPC_cs_4431_sv1"],
+    "*grumble*... chores...": ["NPC_cs_4432"],
+    "Don't you have work to do?": ["NPC_cs_4433"],
+    "I was going to make you breakfast, but I changed my mind.": [
+      "NPC_cs_4455"
+    ],
+    "I was going to do some decorating today, but I changed my mind.": [
+      "NPC_cs_4490"
+    ],
+    "*sigh*... sometimes I miss my old life.": ["NPC_cs_4498"],
+    "The weather's too gloomy to get out of bed.": ["NPC_cs_4499"],
+    "You could have cleaned up in here a little while I was gone...": [
+      "NPC_cs_4500"
+    ],
+    "It's not very nice to have to wade through a bunch of junk after a hard day's work.": [
+      "NPC_cs_4500_sv1"
+    ],
+    "I got up early and watered some crops for you. I hope it makes your job a little easier today.": [
+      "NPC_cs_4462"
+    ],
+    "I also filled {0}'s water bowl.": ["NPC_cs_4463_sv1"],
+    "I also filled the pets' water bowls.": ["MultiplePetBowls_watered_sv1"],
+    "Hi {0}!": ["NPC_cs_4465"],
+    "Good Morning, {0}!": ["NPC_cs_4466"],
+    "I got up early to water some crops and they were already done! You've really got this place under control.": [
+      "NPC_cs_4470"
+    ],
+    "I got up early and fed all the farm animals. I hope that makes your job a little easier today.": [
+      "NPC_cs_4474"
+    ],
+    "I spent the morning repairing a few of the fences. They should be as good as new.": [
+      "NPC_cs_4481"
+    ],
+    "What do you think, {0}?": ["NPC_cs_4486"],
+    "I ordered this the other day and it just arrived.": ["NPC_cs_4488"],
+    "I figured the room could use a little more decoration.": ["NPC_cs_4489"],
+    "What do you think of the new wallpaper I chose?": ["NPC_cs_4496"],
+    "What do you think of the new flooring I chose?": ["NPC_cs_4497"],
+    "I wonder how much the new baby will change things?": ["NPC_cs_4439"],
+    "I'm pregnant... can't you make your own breakfast?": ["NPC_cs_4443"],
+    "Ugh... I feel a little nauseated this morning.": ["NPC_cs_4442"],
+    "I just feel like sleeping today. Don't worry about it.": ["NPC_cs_4446"],
+    "{0}, I hope our adoption request gets approved. I want a baby.": [
+      "NPC_cs_4440"
+    ],
+    "{0}, I filed our adoption papers. Now all we can do is cross our fingers and wait.": [
+      "NPC_cs_4441"
+    ],
+    "{0}, we're going to have a baby soon.": ["NPC_cs_4447"],
+    "{0}, I'm pregnant. Isn't it wonderful?": ["NPC_cs_4445"],
+    "{0}, can't you tell? You're pregnant.": ["NPC_cs_4448"],
+    "Being a parent is annoying, sometimes...  I just don't feel like getting up.": [
+      "NPC_cs_4449"
+    ],
+    "I need some alone time... Why don't you take care of the kids for a change?": [
+      "NPC_cs_4452"
+    ],
+    "What the...?": ["FarmHouse_SpouseAttacked1"],
+    "Ahh!!": ["FarmHouse_SpouseAttacked2"],
+    "&@!": ["FarmHouse_SpouseAttacked3"],
+    "Aiii!": ["FarmHouse_SpouseAttacked4"],
+    "Die!": ["FarmHouse_SpouseAttacked5"],
+    "Get out!": ["FarmHouse_SpouseAttacked6"],
+    "Yuck!": ["FarmHouse_SpouseAttacked7"],
+    "Take that!": ["FarmHouse_SpouseAttacked8"],
+    "Help!": ["FarmHouse_SpouseAttacked9"],
+    "Get your sword!": ["FarmHouse_SpouseAttacked10"],
+    "Agh!": ["FarmHouse_SpouseAttacked11"],
+    "Gahh!": ["FarmHouse_SpouseAttacked12"],
+    "Hi...": ["NPC_cs_4058"],
+    "Hi!": ["NPC_cs_4059"],
+    "Hello.": ["NPC_cs_4060"],
+    "Hi.": ["NPC_cs_4072"],
+    "Hello!": ["NPC_cs_4062"],
+    "Good morning": ["NPC_cs_4063"],
+    "Good afternoon": ["NPC_cs_4064"],
+    "Good evening": ["NPC_cs_4065"],
+    "{0}!": ["NPC_cs_4066"],
+    "Hi, {0}!": ["NPC_cs_4068"],
+    "Hi, {0}": ["NPC_cs_4071"],
+    "my {0}": ["NPC_cs_4080"],
+    "Did you know that {0}": ["NPC_cs_4083"],
+    "loves '{0}'?": ["NPC_cs_4084"],
+    "{0} loves '{1}'!": ["NPC_cs_4086"],
+    "He told me.": ["NPC_cs_4088"],
+    "She told me.": ["NPC_cs_4089"],
+    "Here's a secret, {0} loves '{1}'.": ["NPC_cs_4091"],
+    "If you want {0} to like you, give him '{1}'.": ["NPC_cs_4094"],
+    "If you want {0} to like you, give her '{1}'.": ["NPC_cs_4097"],
+    "If you want to get on {0}'s good side, give him '{1}'.": ["NPC_cs_4100"],
+    "If you want to get on {0}'s good side, give her '{1}'.": ["NPC_cs_4103"],
+    "If you want to make friends with {0}, you can't go wrong with '{1}'.": [
+      "NPC_cs_4106"
+    ],
+    "It's his favorite.": ["NPC_cs_4109"],
+    "It's her favorite.": ["NPC_cs_4111"],
+    "He loves it.": ["NPC_cs_4113"],
+    "He loves that stuff.": ["NPC_cs_4114"],
+    "She loves it.": ["NPC_cs_4115"],
+    "She loves that stuff.": ["NPC_cs_4116"],
+    "I gave it to him one year and he wouldn't stop talking about it.": [
+      "NPC_cs_4118"
+    ],
+    "I gave it to her one year and she wouldn't stop talking about it.": [
+      "NPC_cs_4120"
+    ],
+    "It would make a great gift.": ["NPC_cs_4125"],
+    "You could really make him happy with that.": ["NPC_cs_4126"],
+    "You could really make her happy with that.": ["NPC_cs_4128"],
+    "hates '{0}'? He finds it absolutely {1}.": ["NPC_cs_4135"],
+    "hates '{0}'? She finds it absolutely {1}.": ["NPC_cs_4138"],
+    "{0} really hates '{1}'! He told me.": ["NPC_cs_4141"],
+    "{0} really hates '{1}'! She told me.": ["NPC_cs_4144"],
+    "A word of warning": ["NPC_cs_4146"],
+    "{0} really hates '{1}'.": ["NPC_cs_4147"],
+    "If you want {0} to dislike you, give him '{1}'. He hates it with a passion.": [
+      "NPC_cs_4149"
+    ],
+    "If you want {0} to dislike you, give him '{1}'. He hates that stuff with a passion.": [
+      "NPC_cs_4152"
+    ],
+    "If you want {0} to dislike you, give her '{1}'. She hates it with a passion.": [
+      "NPC_cs_4153"
+    ],
+    "If you want {0} to dislike you, give her '{1}'. She hates that stuff with a passion.": [
+      "NPC_cs_4154"
+    ],
+    "If you want to play a cruel joke on {0}, give him '{1}'. He might not forgive you, though.": [
+      "NPC_cs_4161"
+    ],
+    "If you want to play a cruel joke on {0}, give her '{1}'. She might not forgive you, though.": [
+      "NPC_cs_4164"
+    ],
+    "I learned that one the hard way.": ["NPC_cs_4170"],
+    "I'm not sure why.": ["NPC_cs_4171"],
+    "Just the thought of it can make him depressed.": ["NPC_cs_4172"],
+    "Just the thought of it can make her depressed.": ["NPC_cs_4174"],
+    "I think he might be allergic.": ["NPC_cs_4176"],
+    "I think she might be allergic.": ["NPC_cs_4178"],
+    "I guess everyone has their hang-ups.": ["NPC_cs_4180"],
+    "{0} hates '{1}'. You don't want to know the details. Trust me.": [
+      "NPC_cs_4182"
+    ],
+    "You remembered my birthday? I'm impressed. Thanks.": ["NPC_cs_4274"],
+    "A birthday gift? That's very kind of you! I love it.": ["NPC_cs_4275"],
+    "You remembered my birthday! Thank you. This is great.": ["NPC_cs_4277"],
+    "For my birthday? Thanks.": ["NPC_cs_4280"],
+    "Ow! I can't believe you would do that to me!": ["NPC_cs_4293"],
+    "That hurt! What's your problem?": ["NPC_cs_4294"],
+    "You brought me the item I asked for!": ["ItemDeliveryQuest_cs_13532"],
+    "So you saw the bulletin I posted?": ["ItemDeliveryQuest_cs_13534"],
+    "So you saw the notice I posted?": ["ItemDeliveryQuest_cs_13535"],
+    "So you saw the ad I posted?": ["ItemDeliveryQuest_cs_13536"],
+    "Thanks so much!": ["ItemDeliveryQuest_cs_13538"],
+    "I really appreciate it.": ["ItemDeliveryQuest_cs_13539"],
+    "It looks perfect.": ["ItemDeliveryQuest_cs_13540"],
+    "": ["ItemDeliveryQuest_cs_13544"],
+    "Here's a little something for your trouble.": [
+      "ItemDeliveryQuest_cs_13542_sv1"
+    ],
+    "Here's your payment, as promised.": ["ItemDeliveryQuest_cs_13543_sv1"],
+    "...Let's see. Here's what I owe you.": ["ItemDeliveryQuest_cs_13544_sv1"],
+    "Sorry, I've already got plans to see a movie today, but maybe you can join us there?": [
+      "MovieInvite_InvitedBySomeoneElse"
+    ],
+    "I don't feel like going to the movies again just yet...": [
+      "MovieInvite_FarmerAlreadySeen"
+    ],
+    "Sorry, I've already seen a movie this week...": [
+      "MovieInvite_AlreadySeen"
+    ],
+    "A movie? Sure. I'll meet you at the theater.": ["MovieInvite_Invited"],
+    "A movie? Yeah, whatever, sounds good. See you at the theater...": [
+      "MovieInvite_Invited_Rude"
+    ],
+    "Sorry, I'm not in the mood to see a movie right now...": [
+      "MovieInvite_Reject"
+    ]
+  },
+  "schedule": {
+    "It's nothing serious... I'm just here for my annual check-up.": [
+      "winter_9_000"
+    ],
+    "Well... my nose has been a little runny, Doctor. But otherwise I'm doing fine!": [
+      "winter_9_001"
+    ],
+    "It's too cold to get out of bed.": ["winter"],
+    "Hi, honey! I'm mostly just here to visit Emily.": ["marriage_Mon"],
+    "The weather's too horrible to get out of bed.": ["rain"],
+    "The cold air isn't so bad if you bundle up!": ["winter_16_001"]
+  },
+  "continuation_dialogue": {
+    "continuation_dialogue": [
+      "fall27_haley_spouse_y2",
+      "summer11_haley_spouse_y2",
+      "FlowerDance_Accept_male_farmer",
+      "FlowerDance_Accept_female_farmer",
+      "FlowerDance_Accept_sv1_male_farmer",
+      "FlowerDance_Accept_sv1_female_farmer",
+      "Resort_Shore_2",
+      "Resort_Towel_2",
+      "FlowerDance_Accept_Spouse",
+      "breakUp",
+      "Tue_male_farmer",
+      "Tue_female_farmer",
+      "Tue_sv1_male_farmer",
+      "Tue_sv1_female_farmer",
+      "Wed8",
+      "summer_Sat",
+      "summer_Sat_sv1",
+      "fall_Sat",
+      "fall_Sat_sv1",
+      "fall_Tue2",
+      "fall_Fri4",
+      "Outdoor_0",
+      "SummitEvent_Dialogue3_Haley_Haley_event1",
+      "DesertFestival_Haley"
+    ]
+  }
+}

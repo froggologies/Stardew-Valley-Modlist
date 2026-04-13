@@ -1,0 +1,7 @@
+{
+    "Ой, тебе уже пора?": "response_Temp_leave_Haley_event1",
+    "Ну... Ладно. Пока.": "response_Temp_leave_Haley_event1_sv1",
+    "Вот это да... Не думала, что он такой тупой": "response_Temp_leave_Haley_event2_male_farmer",
+    "что она такая тупая}": "response_Temp_leave_Haley_event2_female_farmer",
+    "Я думала, у тебя было что-то важное...": "response_Temp_leave_Haley_endDialogue3"
+}

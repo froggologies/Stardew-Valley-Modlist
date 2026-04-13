@@ -1,0 +1,15 @@
+{
+    "Oh, ciao @. Stavo giusto per farmi uno spuntino.": "SamHouse_46_Sam_Sam_event1",
+    "Ecco, fammi prendere qualcosa per te.": "SamHouse_46_Sam_Sam_event2",
+    "Oh no... Che macello.": "SamHouse_46_Sam_Sam_event3",
+    "Cos'era quel rumore?": "SamHouse_46_Sam_Jodi_event1",
+    "*sussulta*": "SamHouse_46_Sam_Jodi_event2",
+    "È assolutamente terribile! Cos'è accaduto?": "SamHouse_46_Sam_Jodi_event3",
+    "...Diglielo, @.": "SamHouse_46_Sam_Sam_event4",
+    "Grazie per aver detto la verità, @. Non è poi così grave.": "SamHouse_46_Sam_Jodi_event4_prereq_1",
+    "Tu hai fatto COSA, Sam?! Ma che ti è preso?!": "SamHouse_46_Sam_Jodi_event4_prereq_2",
+    "Mi dispiace, mamma. Pulisco io.": "SamHouse_46_Sam_Sam_event5",
+    "Grazie, caro.": "SamHouse_46_Sam_Jodi_event5",
+    "Mi hai fatto arrabbiare. Proprio non capisco perché hai mentito.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_1",
+    "Scusa per quello che è successo prima.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_2"
+}

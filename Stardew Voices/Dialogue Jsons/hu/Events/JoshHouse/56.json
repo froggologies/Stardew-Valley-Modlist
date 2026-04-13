@@ -1,0 +1,18 @@
+{
+    "Rendben, George. Azt akarom, hogy vegyél egy nagy levegőt.": "JoshHouse_56_George_Harvey_event1",
+    "Mmhmm... most fordulj meg, kérlek!": "JoshHouse_56_George_Harvey_event2",
+    "George, őszinte leszek veled. Változtatnod kell az életstílusodon, ha jó formában szeretnél maradni.": "JoshHouse_56_George_Harvey_event3",
+    "Kevesebb nátriumot kell fogyasztanod, és edzened kellene egy kicsit a karjaidat.": "JoshHouse_56_George_Harvey_event3_sv1",
+    "Hmm... Én tudom, hogy mi a jó számomra. Mégis kinek képzeled magad, hogy megmondd nekem, hogyan éljem le a saját életemet?": "JoshHouse_56_George_George_event1",
+    "Az orvosod vagyok, George. Az vagyok...": "JoshHouse_56_George_Harvey_event4",
+    "És 8 évig jártam iskolába, hogy megtanuljam hogyan segíthetek az embereknek egészségesnek maradni.": "JoshHouse_56_George_Harvey_event4_sv1",
+    "Ó!": "JoshHouse_56_George_Harvey_event5",
+    "Elnézést, de nem volna szabad itt lenned... ezek a vizsgálatok privátok szoktak lenni.": "JoshHouse_56_George_Harvey_event5_sv1",
+    "Ne olyan hevesen! Még ki szeretném kérni a véleményem ettől a fiatal úrtól.": "JoshHouse_56_George_George_event2_male_farmer",
+    "Ne olyan hevesen! Még ki szeretném kérmi a véleményem ettől a fiatal hölgytől.": "JoshHouse_56_George_George_event2_female_farmer",
+    "Legyen hát...": "JoshHouse_56_George_Harvey_event6",
+    "@, szerinted mit kellene Georgenak tennie?": "JoshHouse_56_George_Harvey_event7",
+    "Rendben. Azt teszem amit mond, doktor úr.": "JoshHouse_56_George_George_event3",
+    "Köszönöm a segítséget, @. Értékelem.": "JoshHouse_56_George_Harvey_event8_prereq_1",
+    "Jobb nem összezavarni a pácienseimet, @. Kérlek ezt a jövőben jegyezd meg.": "JoshHouse_56_George_Harvey_event8_prereq_2"
+}

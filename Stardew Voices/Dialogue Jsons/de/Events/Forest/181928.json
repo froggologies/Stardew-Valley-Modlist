@@ -1,0 +1,20 @@
+{
+    "Oh, @! Du kommst wie gerufen.": "Forest_181928_19_Penny_event1",
+    "Ich habe die Kinder für einen kleinen Schulausflug aufs Land gebracht.": "Forest_181928_19_Penny_event2",
+    "Du weißt alles über das Landleben, richtig?": "Forest_181928_19_Penny_event2_sv1",
+    "Also dachte ich mir... du könntest heute unser Gastredner sein?": "Forest_181928_19_Penny_event3",
+    "Jas! Vincent! Bitte passt kurz gut auf!": "Forest_181928_19_Penny_event4",
+    "Wir haben heute jemand ganz Besonderes als Gastredner, und zwar den ansässigen Hofbesitzer @.": "Forest_181928_19_Penny_event5",
+    "Er kennt das Landleben aus erster Hand... also weiß er alles über die 'Naturgüter' des Tals!": "Forest_181928_19_Penny_event5_sv1_male_farmer",
+    "Sie kennt das Landleben aus erster Hand... also weiß sie alles über die 'Naturgüter' des Tals!": "Forest_181928_19_Penny_event5_sv1_female_farmer",
+    "Kann mir jemand sagen, was ein 'Naturgut' ist?": "Forest_181928_19_Penny_event6",
+    "Jas?": "Forest_181928_19_Penny_event7",
+    "Ein Naturgut ist eine materielle Quelle des Wohlstands, die in einem natürlichen Zustand auftritt und einen ökonomischen Wert besitzt.": "Forest_181928_19_Jas_event1",
+    "Sehr gut! Das ist zwei Sternenpunkte wert, Jas.": "Forest_181928_19_Penny_event8",
+    "Jaaaaa!": "Forest_181928_19_Jas_event2",
+    "Okay, jetzt lasst uns alle @ unsere volle Aufmerksamkeit schenken.": "Forest_181928_19_Penny_event9",
+    "Ja, Vincent?": "Forest_181928_19_Penny_event10",
+    "Herr @, wirst du Frau Penny heiraten?": "Forest_181928_19_Vincent_event1_male_farmer",
+    "Frau @, ähm... hast du einen Freund?": "Forest_181928_19_Vincent_event1_female_farmer",
+    "Vincent! So eine Frage gehört sich nicht! Benimm dich, oder ich muss dir all deine Sternenpunkte für den Tag wegnehmen.": "Forest_181928_19_Penny_event11"
+}

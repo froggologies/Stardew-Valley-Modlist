@@ -1,0 +1,18 @@
+{
+    "오, 안녕한가, 친구.": "Saloon_96_Gus_Gus_event1_male_farmer",
+    "안녕, @.": "Saloon_96_Gus_Gus_event1_female_farmer",
+    "*한숨*...지금 지난달 수입을 다시 보고 있는데... 좋아 보이진 않아, @.": "Saloon_96_Gus_Gus_event2",
+    "제일 최악인 건... 친구라서 이렇게 말하기는 싫은데... 팸이야! 몇 주째 술값을 지불하지 않았어!": "Saloon_96_Gus_Gus_event2_sv1",
+    "하지만 강요할 수가 없어. 분명 그럼 방어적으로 나올 거고, 기분을 상하게 하고 싶진 않아.": "Saloon_96_Gus_Gus_event2_sv2",
+    "@, 제발 나 좀 도와줘!": "Saloon_96_Gus_Gus_event3",
+    "안녕!": "Saloon_96_Gus_Pam_event1",
+    "거스... 나 너무 목이 말라, 뭔 말인지 알겠지?": "Saloon_96_Gus_Pam_event1_sv1",
+    "어... 음, 알았어 팸.": "Saloon_96_Gus_Gus_event4",
+    "@, 무슨 일이야?": "Saloon_96_Gus_Pam_event2",
+    "....": "Saloon_96_Gus_Pam_event3",
+    "*한숨* ...그래, 그럼 내 술값을 지불해야겠네.": "Saloon_96_Gus_Pam_event3_sv1",
+    "고마워, 팸!": "Saloon_96_Gus_Gus_event5",
+    "그리고 고마워, @.": "Saloon_96_Gus_Gus_event6",
+    "자, 이제 네가 마실 걸 가져와보자.": "Saloon_96_Gus_Gus_event7",
+    "도와줘서 정말 고마워, @. 이 돈은 주점에 큰 도움이 될 거야.": "Saloon_96_Gus_Gus_endDialogue8"
+}

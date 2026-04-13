@@ -1,0 +1,1405 @@
+{
+      "dialogue": {
+            "Oh... tu es le nouveau fermier, n’est-ce pas ?": [
+                  "Introduction_male_farmer"
+            ],
+            "Oh... tu es la nouvelle fermière, n’est-ce pas ?": [
+                  "Introduction_female_farmer"
+            ],
+            "Hein ? Oh... je suis Haley.": [
+                  "Introduction_sv1"
+            ],
+            "Mmm... Si tu ne portais pas ces vêtements horribles, je te trouverais plutôt mignon.": [
+                  "Introduction_sv2_male_farmer"
+            ],
+            "Mmm... Si tu ne portais pas ces vêtements horribles, tu serais plutôt mignonne... Mais peu importe.": [
+                  "Introduction_sv2_female_farmer"
+            ],
+            "Ho... tu veux danser avec moi ?3": [
+                  "FlowerDance_Accept_male_farmer"
+            ],
+            "Ho ? Bien sûr ! J’aimerais beaucoup danser avec toi !": [
+                  "FlowerDance_Accept_female_farmer"
+            ],
+            "Hé, hé... bien sûr. J’adorerais danser avec toi !": [
+                  "FlowerDance_Accept_sv1_male_farmer"
+            ],
+            "On va bien s’amuser !": [
+                  "FlowerDance_Accept_sv1_female_farmer"
+            ],
+            "Hmm... J’admire ta confiance en toi. La plupart des hommes sont trop timides pour m’inviter à danser.": [
+                  "FlowerDance_Accept_sv2_male_farmer"
+            ],
+            "Tu es si jolie aujourd’hui !": [
+                  "FlowerDance_Accept_sv2_female_farmer"
+            ],
+            "*sursaute*... C’est pour moi ? Wouah, @, c’est le meilleur cadeau d’anniversaire de tous les temps !": [
+                  "AcceptBirthdayGift_Loved"
+            ],
+            "Hooooo, tu m’as acheté un cadeau d’anniversaire ? Je l’adore !": [
+                  "AcceptBirthdayGift_Liked"
+            ],
+            "C’est dégoutant ! Tu m’as acheté ça pour mon anniversaire ? C’est quoi ton problème ?": [
+                  "AcceptBirthdayGift_Negative"
+            ],
+            "C’est pour moi ? Hoooo... Je n’arrive pas à décider si je dois le boire ou l’utiliser comme shampoing...": [
+                  "AcceptGift_StardropTea"
+            ],
+            "C’est de la noix de coco ? J’adore ça !": [
+                  "AcceptGift_88_chance_1"
+            ],
+            "Ça me rappelle les journées chaudes et ensoleillées à la plage. Quand j’en tiens une dans mes mains, j’ai l’impression d’y être... même quand il pleut.": [
+                  "AcceptGift_88_chance_2"
+            ],
+            "Wouah, elles sont magnifiques ! Ce sont mes préférées.": [
+                  "AcceptGift_421"
+            ],
+            "Je ne crois pas avoir jamais mis les pieds ici. C’est plutôt confortable ici !": [
+                  "GreenRain"
+            ],
+            "Ho, je ne m’inquiète pas pour cette pluie. Je suis certaine que ça va passer.": [
+                  "GreenRain_sv1"
+            ],
+            "Réveille-moi quand il y aura une pluie rose... Ou mieux encore, une pluie de gâteaux roses !": [
+                  "GreenRain_2"
+            ],
+            "C’était sympa de prendre des photos, mais j’ai dû me doucher pendant deux heures pour enlever la boue dans mes cheveux !": [
+                  "eventSeen_14"
+            ],
+            "%Haley vous accueille avec un sourire. Vous remarquez qu’elle porte le bracelet de son arrière grand-mère.": [
+                  "eventSeen_13_memory_oneweek"
+            ],
+            "On dirait bien que quelqu’un a lu le dernier numéro de \"Super Fille Fashion\"... les bottes boueuses sont à la mode en ce moment !": [
+                  "eventSeen_12_memory_oneweek"
+            ],
+            "Mes parents m’ont envoyé une autre carte postale... Ils sont en croisière sur la côte de la mer de Gemmes.": [
+                  "eventSeen_12_memory_twoweeks"
+            ],
+            "Ils ont écrit qu’Emily et moi pouvions les rejoindre à tout moment, mais soyons honnêtes... qui veut partir en vacances avec ses parents ?": [
+                  "eventSeen_12_memory_twoweeks_sv1"
+            ],
+            "L’autre jour, Emily a préparé ce qu’on appelle un \"pain d’écureuil\"...": [
+                  "eventSeen_11_memory_oneweek"
+            ],
+            "Si j’ai aimé ? Euh... Disons que si j’avais une queue et qu’elle était un peu plus touffue, j’aurais probablement adoré.": [
+                  "eventSeen_11_memory_oneweek_sv1"
+            ],
+            "As-tu regardé l’épisode d’hier soir de \"Larmes\" ? *renifle*... Je n’arrive pas à croire que Kyle et Amy aient rompu...": [
+                  "eventSeen_11_memory_twoweeks"
+            ],
+            "Mon nom signifie \"champ de foin\", mais je préfère croire que ça ressemble plus à une prairie pleine de tournesols...": [
+                  "cropMatured_421"
+            ],
+            "J’attendais que tu me demandes ça...": [
+                  "dating_Haley"
+            ],
+            "Tu es très beau aujourd’hui.": [
+                  "dating_Haley_memory_oneday_male_farmer"
+            ],
+            "Tu es très jolie aujourd’hui.": [
+                  "dating_Haley_memory_oneday_female_farmer"
+            ],
+            "Eh bien, je crois que ça fait de toi mon \"beau-frère\"! C’est drôle quand on y réfléchit.": [
+                  "married_Emily_male_farmer"
+            ],
+            "Hé, j’imagine que nous sommes un peu comme des sœurs maintenant !": [
+                  "married_Emily_female_farmer"
+            ],
+            "Les choses n’ont pas marché entre toi et Emily, n’est-ce pas ? Eh bien... Ce sont des choses qui arrivent.": [
+                  "divorced_Emily"
+            ],
+            "C’est juste un peu gênant pour vous deux de vivre dans cette petite ville.": [
+                  "divorced_Emily_sv1"
+            ],
+            "Alors, c’est quoi l’idée... est-ce que je vais être ta \"petite amie\" pour le reste de notre vie... ?": [
+                  "dating_Haley_memory_oneyear"
+            ],
+            "Est-ce qu’Emily s’adapte à la vie à la ferme ?": [
+                  "married_Emily_memory_oneweek"
+            ],
+            "Tu sais, je commençais à me demander si Emily se marierait un jour...": [
+                  "married_Emily_memory_oneweek_sv1"
+            ],
+            "J’ai vu un dauphin en arrivant !": [
+                  "Resort_Entering"
+            ],
+            "Il y a quelque chose de spécial avec les rayons de soleil qui me font me sentir tellement bien.": [
+                  "Resort_Leaving"
+            ],
+            "C’est tellement étrange où la vie vous mène parfois... Je me demande à quoi ressemble le reste du monde.": [
+                  "Resort_Shore"
+            ],
+            "Waouh, regarde comment la lumière du soleil scintille sur l’eau à l’horizon !": [
+                  "Resort_Shore_2"
+            ],
+            "Je parie que les couchers de soleil ici feraient une photo incroyable.": [
+                  "Resort_Shore_2_sv1"
+            ],
+            "Je ne dois pas oublier d’apporter mon appareil photo la prochaine fois.": [
+                  "Resort_Shore_2_sv2"
+            ],
+            "Obtenir le bronzage parfait est une forme d’art...": [
+                  "Resort_Towel"
+            ],
+            "C’est un peu comme griller de la guimauve... Il faut faire pivoter le corps juste comme il faut.": [
+                  "Resort_Towel_sv1"
+            ],
+            "Bronzer sur une plage tropicale.": [
+                  "Resort_Towel_2"
+            ],
+            "*Soupir* Je pense que j’ai enfin trouvé ma place dans l’univers.": [
+                  "Resort_Towel_2_sv1"
+            ],
+            "Mais Stardew Valley n’est pas mal non plus !": [
+                  "Resort_Towel_2_sv2"
+            ],
+            "L’ami d’Emily m’a envoyé ce maillot de bain de Zuzu Ville.": [
+                  "Resort_Towel_3"
+            ],
+            "La mode urbaine est à un tout autre niveau, n’est-ce pas ?": [
+                  "Resort_Towel_3_sv1"
+            ],
+            "J’ai peint mes ongles en bleu pour être assortie à la couleur de la mer. Qu’est-ce que tu en penses ? *Tortille* *Tortille*": [
+                  "Resort_Chair"
+            ],
+            "Gus a préparé une boisson fruitée juste pour moi qui était superbe !": [
+                  "Resort_Bar"
+            ],
+            "Cette plage est parfaite. Je resterais ici pour toujours si je le pouvais !": [
+                  "Resort"
+            ],
+            "*Soupir*... Mes jours en tant que reine des fleurs sont terminés... c’est donc une triste danse pour moi.": [
+                  "FlowerDance_Accept_Spouse"
+            ],
+            "Mais, oui...": [
+                  "FlowerDance_Accept_Spouse_sv1"
+            ],
+            "Euh... Non.": [
+                  "FlowerDance_Decline"
+            ],
+            "Je me débrouillerai toute seule...": [
+                  "divorced"
+            ],
+            "Merci pour tous ces bons souvenirs.": [
+                  "divorced_sv1"
+            ],
+            "Pourquoi tu t’accroches à moi comme ça ? Vis ta vie et laisse-moi vivre la mienne.": [
+                  "divorced_sv2"
+            ],
+            "Agh !": [
+                  "breakUp"
+            ],
+            "Oh... humm. Tu as été plus rapide que moi ! Bon, eh bien...": [
+                  "breakUp_sv1"
+            ],
+            "Je n’ai rien à te dire !": [
+                  "dumped_Girls"
+            ],
+            "D’accord, d’accord... J’arrête de t’ignorer. Mais promets-moi de ne plus jamais me mentir.": [
+                  "secondChance_Girls"
+            ],
+            "Ce village est si petit. C’est nul.": [
+                  "Mon"
+            ],
+            "Je dois conduire environ 30 kilomètres pour acheter des vêtements décents.": [
+                  "Mon_sv1"
+            ],
+            "C’est pour ça que j’ai pris l’habitude de commander en ligne.": [
+                  "Mon_sv2"
+            ],
+            "Quoi ?": [
+                  "Mon_sv3"
+            ],
+            "Jolies chaussures.": [
+                  "Tue_male_farmer"
+            ],
+            "Joli maquillage.": [
+                  "Tue_female_farmer"
+            ],
+            "Est-ce qu’elles sont en plastique ?": [
+                  "Tue_sv1_male_farmer"
+            ],
+            "Attends... est-ce que tu es maquillée ?": [
+                  "Tue_sv1_female_farmer"
+            ],
+            "Je m’ennuie.": [
+                  "Tue_sv2"
+            ],
+            "La seule chose que j’aime dans ce village, c’est la plage.": [
+                  "Wed"
+            ],
+            "J’ai décidé de faire un peu de rangement dans mes vêtements aujourd’hui. Je vais jeter tous mes vétements démodés de l’année dernière pour faire de la place aux nouveaux !": [
+                  "Thu_chance_1"
+            ],
+            "*Soupir* Je mangerais bien un muffin.": [
+                  "Thu_chance_2"
+            ],
+            "Tu voulais quelque chose ?": [
+                  "Thu_sv1"
+            ],
+            "%Haley t’ignore.": [
+                  "Fri"
+            ],
+            "Ne te lasses-tu pas de courir toute la journée dans ta ferme ?": [
+                  "Fri2"
+            ],
+            "Je ne supporterai pas de salir mes vêtements comme ça.": [
+                  "Fri2_sv1"
+            ],
+            "En revanche, tu dois avoir un bronzage impeccable.": [
+                  "Fri2_sv2"
+            ],
+            "J’ai tellement envie de faire du shopping. Ahhhhh ! Si seulement il y avait un centre commercial ici.": [
+                  "Sat"
+            ],
+            "Ma soeur est tellement bizarre. Parfois, je me demande si nous sommes réellement de la même famille.": [
+                  "Sun"
+            ],
+            "Il n’y a que deux choses que j’aime dans ce village.": [
+                  "Wed8"
+            ],
+            "L’une d’elles est la plage.": [
+                  "Wed8_sv1"
+            ],
+            "L’autre est un secret ! *Glousse*": [
+                  "Wed8_sv2"
+            ],
+            "Je me demande s’il y a de beaux coquillages sur la plage ce matin !": [
+                  "Tue2"
+            ],
+            "Ce n’est pas la meilleure période de l’année pour les coquillages.": [
+                  "Tue2_sv1"
+            ],
+            "Je suis contente que les fleurs aient commencé à éclore.": [
+                  "Wed4"
+            ],
+            "Les roses sentent trop bon.": [
+                  "Wed4_sv1"
+            ],
+            "Il faut que je me trouve un autre passe-temps que le shopping.": [
+                  "Fri6"
+            ],
+            "J’ai décidé d’élargir mon horizon.": [
+                  "Fri6_sv1"
+            ],
+            "Je pourrais peut-être apprendre à jouer de la mini-harpe ?": [
+                  "Fri6_sv2"
+            ],
+            "Je me plaignais tout le temps que ce village était trop petit, mais je l’aime de plus en plus.": [
+                  "Mon6"
+            ],
+            "S’il était plus grand, ce ne serait pas à une véritable communauté.": [
+                  "Mon6_sv1"
+            ],
+            "J’ai préparé le dîner hier soir. C’était pas trop mal !": [
+                  "Thu6"
+            ],
+            "Mais j’ai mis une sacrée pagaille dans la cuisine...": [
+                  "Thu6_sv1"
+            ],
+            "J’envisage de donner certains de mes vêtements... Je dois avoir une centaine de paires de chaussures.": [
+                  "Sun6"
+            ],
+            "Hier, j’ai trouvé une mouette dont l’aile était coincée dans un filet. Je l’ai libérée, bien sûr. Elle avait l’air sans défense, la pauvre.": [
+                  "Sat8_chance_1"
+            ],
+            "Tu sais, je devrais probablement commencer à faire un peu plus de sport... Mon métabolisme ne sera pas jeune éternellement.": [
+                  "Sat8_chance_2"
+            ],
+            "@, est-ce tu voudrais partir en camping un de ces jours ?": [
+                  "Fri10"
+            ],
+            "L’endroit le plus exotique que je connaisse est Zuzu Ville.": [
+                  "Fri10_sv1"
+            ],
+            "*Soupir*...": [
+                  "Event_clean1"
+            ],
+            "NON !!! Je ne vais pas le faire !": [
+                  "Event_clean2"
+            ],
+            "Vous êtes tous les deux stupides !%fork": [
+                  "Event_clean2_sv1"
+            ],
+            "Elle devrait être au-dessus de tout ça ? Qu’est-ce que ça veut dire ?": [
+                  "Event_clean3"
+            ],
+            "Tu crois que je fais le bébé, hein ?%fork": [
+                  "Event_clean3_sv1"
+            ],
+            "Génial, tu ne devrais pas avoir de mal à ouvrir ce bocal pour moi !": [
+                  "Event_jar1"
+            ],
+            "Oh... non ? Mmm...": [
+                  "Event_jar2"
+            ],
+            "Eh bien, peux-tu quand même essayer de m’ouvrir ce bocal ?": [
+                  "Event_jar2_sv1"
+            ],
+            "Ah, merci !": [
+                  "Event_darkroom1",
+                  "Event_darkroom4"
+            ],
+            "Oh ! Je croyais que tu le savais.": [
+                  "Event_darkroom2",
+                  "Event_darkroom5"
+            ],
+            "Cette pièce sert à développer des photos.": [
+                  "Event_darkroom2_sv1",
+                  "Event_darkroom5_sv1"
+            ],
+            "Ah bon...?": [
+                  "Event_darkroom3",
+                  "Event_darkroom6"
+            ],
+            "Non, pas question ! Ce bracelet m’a été offert par mon arrière-grand-mère !": [
+                  "Event_beach1"
+            ],
+            "*Soupir*": [
+                  "Event_beach2"
+            ],
+            "... Peut-être qu’il échouera sur un autre rivage. Je ne peux pas supporter l’idée que c’est tout au fond de la mer.": [
+                  "Event_beach2_sv1"
+            ],
+            "Lui ? Non !": [
+                  "Event_room1"
+            ],
+            "... Eh bien, je suppose que j’aimais bien Alex. Mais plus maintenant ! Il est trop immature.": [
+                  "Event_room1_sv1"
+            ],
+            "Quoi ? Ça a l’air amusant, mais je ne veux pas quitter Stardew Valley pour le moment...": [
+                  "Event_room2"
+            ],
+            "Hein ? C’est quoi un androïde ?": [
+                  "Event_room3"
+            ],
+            "Je vais avoir un superbe bronzage cet été.": [
+                  "summer_Mon"
+            ],
+            "Beurk, tu es si sale.": [
+                  "summer_Tue"
+            ],
+            "Euh... Oui ?": [
+                  "summer_Wed"
+            ],
+            "Je ne t’avais pas entendu, je pensais à autre chose.": [
+                  "summer_Wed_sv1"
+            ],
+            "As-tu des bébés lapins sur ta ferme ? Les lapins sont TELLEMENT mignons ! <": [
+                  "summer_10"
+            ],
+            "Si tu restes souvent au soleil, tes cheveux s’éclaircissent.": [
+                  "summer_Thu"
+            ],
+            "C’est une bonne chose à savoir !": [
+                  "summer_Thu_sv1"
+            ],
+            "Je me demande ce qu’Alex fait aujourd’hui...": [
+                  "summer_Fri"
+            ],
+            "Hein ? Je n’avais pas remarqué que tu étais là.": [
+                  "summer_Fri_sv1"
+            ],
+            "La vie à la ferme semble si ennuyeuse...": [
+                  "summer_Sat"
+            ],
+            "Que fais-tu toute la journée ?": [
+                  "summer_Sat_sv1"
+            ],
+            "Hé, tu n’as plus intérêt à fouiner dans ma chambre !": [
+                  "summer_Sat_old_prereq_1"
+            ],
+            "J’imagine que ça t’aide à rester en forme.": [
+                  "summer_Sat_old_prereq_2"
+            ],
+            "Mmm... ça semble être à beaucoup de travail.": [
+                  "summer_Sat_12"
+            ],
+            "Quoi ? Tu ferais mieux de ne pas faire ça !": [
+                  "summer_Sat_13"
+            ],
+            "C’est Emily qui prépare habituellement le dîner... Mais elle fait des trucs bizarres comme du quinoa.": [
+                  "summer_Sun"
+            ],
+            "Tu portes ces vêtements tous les jours ?": [
+                  "summer_Tue2"
+            ],
+            "Hé, j’ai trouvé cet outil qui sert à ouvrir des bocaux. Tu n’auras donc plus besoin de m’aider.": [
+                  "summer_Tue4_prereq_1"
+            ],
+            "Il n’y a pas un seul nuage dans le ciel aujourd’hui.": [
+                  "summer_Tue4_prereq_2"
+            ],
+            "Il fait si chaud aujourd’hui !": [
+                  "summer_Wed4"
+            ],
+            "J’aimerais bien manger une bonne glace.": [
+                  "summer_Wed4_sv1"
+            ],
+            "J’ai passé 3 heures à m’entraîner sur ma signature aujourd’hui.": [
+                  "summer_Fri4"
+            ],
+            "Ça doit paraître un peu idiot, non ?": [
+                  "summer_Fri4_sv1"
+            ],
+            "Si tu restes souvent au soleil, tes cheveux s’éclaircissent... mais attention aux coups de soleil.": [
+                  "summer_Thu6"
+            ],
+            "Je veux juste une bonne dose de soleil pour rester en bonne santé. Avec modération, bien sûr !": [
+                  "summer_Thu6_sv1"
+            ],
+            "Je devrais lire des livres plutôt que des magazines.": [
+                  "summer_Mon6"
+            ],
+            "C’est bien d’apprendre de nouvelles choses, n’est-ce pas ?": [
+                  "summer_Mon6_sv1"
+            ],
+            "Moi, je regarde que les images.": [
+                  "summer_Mon6_sv2"
+            ],
+            "J’ai parlé avec ma soeur cette nuit. Et je dois dire que j’ai beaucoup apprécié notre conversation.": [
+                  "summer_Sun6_chance_1"
+            ],
+            "Tu sais, Emily n’est pas si étrange que ça. Je suppose que nous avons plus de choses en commun que je ne le pensais.": [
+                  "summer_Sun6_chance_2"
+            ],
+            "Ne lui dis pas que je t’ai dit ça.": [
+                  "summer_Sun6_sv1"
+            ],
+            "C’est une bonne journée pour aller nager.": [
+                  "summer_Sat6"
+            ],
+            "Je suppose que vivre à la campagne n’est pas si horrible.": [
+                  "summer_Tue8"
+            ],
+            "Si je vivais en ville, les arbres me manqueraient surement.": [
+                  "summer_Tue8_sv1"
+            ],
+            "@, je crois que je passe trop de temps avec toi.": [
+                  "summer_Tue8_sv2"
+            ],
+            "Oh, salut @ !": [
+                  "summer_Fri10"
+            ],
+            "Tu aimes les enfants ?": [
+                  "summer_Fri10_sv1"
+            ],
+            "C’est déjà l’automne ?": [
+                  "fall_1"
+            ],
+            "C’est dégoûtant quand toutes ces feuilles mortes deviennent visqueuses.": [
+                  "fall_Mon"
+            ],
+            "Mmm... Il y a une drôle d’odeur...": [
+                  "fall_Tue"
+            ],
+            "Tu as travaillé à la ferme aujourd’hui, non ?": [
+                  "fall_Tue_sv1"
+            ],
+            "Oh salut. Tu as besoin de quelque chose ?": [
+                  "fall_Wed"
+            ],
+            "J’ai tellement envie de faire du shopping. *Soupir*": [
+                  "fall_Thu"
+            ],
+            "C’est une tache d’herbe sur ton genou ?": [
+                  "fall_Fri"
+            ],
+            "Je suis désolée, mais je suis allergique à l’herbe.": [
+                  "fall_Fri_sv1"
+            ],
+            "Il fait trop froid pour aller à la plage.": [
+                  "fall_Sat"
+            ],
+            "*Soupir* ... À ton avis, qu’est-ce que je pourrais faire aujourd’hui ?": [
+                  "fall_Sat_sv1"
+            ],
+            "Je ferai probablement une sieste plus tard.": [
+                  "fall_Sat_old"
+            ],
+            "Mmm... C’est une très bonne idée.": [
+                  "fall_Sat_12"
+            ],
+            "Laisse-moi tranquille, espèce d’andouille.": [
+                  "fall_Sat_13"
+            ],
+            "Je ne suis jamais allée dans la forêt. C’est boueux et je pourrais me faire une ampoule au pied.": [
+                  "fall_Sun"
+            ],
+            "Il y a une odeur de terre...": [
+                  "fall_Tue2"
+            ],
+            "Ah ben oui. Tu travailles dans une ferme.": [
+                  "fall_Tue2_sv1"
+            ],
+            "Tu as l’air d’avoir beaucoup travaillé.": [
+                  "fall_Fri4"
+            ],
+            "Pourquoi ne fais-tu pas une pause pour le reste de la journée ?": [
+                  "fall_Fri4_sv1"
+            ],
+            "Si jamais tu t’ennuies, viens me dire bonjour.": [
+                  "fall_Wed4"
+            ],
+            "Le shopping ne me parait plus aussi amusant qu’avant.": [
+                  "fall_Thu6"
+            ],
+            "Qu’est-ce qui m’arrive ?": [
+                  "fall_Thu6_sv1"
+            ],
+            "Mmm...": [
+                  "fall_Thu6_sv2"
+            ],
+            "Est-ce que je t’ai déjà dit que j’ai trouvé un autre bracelet de mon arrière-grand-mère dans le grenier ?": [
+                  "fall_Mon6_prereq_1"
+            ],
+            "Tu vois ce bracelet ? Il appartenait à mon arrière-grand-mère.": [
+                  "fall_Mon6_prereq_2"
+            ],
+            "C’était une femme très intéressante.": [
+                  "fall_Mon6_prereq_2_sv1"
+            ],
+            "Tu sais, je ne suis jamais allée dans la forêt.": [
+                  "fall_Sun6"
+            ],
+            "Ce serait intéressant d’aller l’explorer un de ces jours.": [
+                  "fall_Sun6_sv1"
+            ],
+            "Je commence à apprécier l’odeur de la terre. N’est-ce pas bizarre ?": [
+                  "fall_Tue8"
+            ],
+            "Je pense que c’est parce que tu es là tout le temps.": [
+                  "fall_Tue8_sv1"
+            ],
+            "@, je suis contente de te voir aujourd’hui.": [
+                  "fall_Mon10"
+            ],
+            "Je veux déménager dans un endroit plus chaud.": [
+                  "winter_Mon"
+            ],
+            "Salut. Tu voulais me demander quelque chose ?": [
+                  "winter_Tue"
+            ],
+            "...": [
+                  "winter_Tue_sv1",
+                  "winter_Sun10_sv1"
+            ],
+            "Mmm. C’est quoi la marque de ta chemise ?": [
+                  "winter_9"
+            ],
+            "Oh ! Euh, peu importe.": [
+                  "winter_9_sv1"
+            ],
+            "J’aimerais bien qu’on m’apporte un café à la menthe.": [
+                  "winter_Wed"
+            ],
+            "Ne t’embête pas avec ça, je sais que tu ne sais pas en préparer un.": [
+                  "winter_Wed_sv1"
+            ],
+            "Je vais commencer à écrire une liste de tous les vêtements dont j’ai besoin pour le printemps prochain.": [
+                  "winter_Thu"
+            ],
+            "Est-ce que tu as un poney dans ta ferme ?": [
+                  "winter_Fri"
+            ],
+            "Oh. Quel dommage...": [
+                  "winter_Fri_sv1"
+            ],
+            "La seule chose que j’apprécie en hiver, c’est que je peux dormir plus longtemps.": [
+                  "winter_Sat"
+            ],
+            "J’aime bien dormir au moins 10 heures par nuit.": [
+                  "winter_Sat_sv1"
+            ],
+            "Passe le bonjour pour moi à Alex.": [
+                  "winter_Sun"
+            ],
+            "Merci.": [
+                  "winter_Sun_sv1",
+                  "winter_Sun6_sv1"
+            ],
+            "Tu t’appelles @, n’est-ce pas ?": [
+                  "winter_Tue2"
+            ],
+            "Je n’arrête pas d’oublier ton prénom.": [
+                  "winter_Tue2_sv1"
+            ],
+            "Salut @.": [
+                  "winter_Tue4"
+            ],
+            "Il se passe quelque chose d’intéressant dans ta ferme en ce moment ?": [
+                  "winter_Tue4_sv1"
+            ],
+            "Je pense que je commence à me rendre compte que les vêtements ne sont pas la chose la plus importante. Pas vrai ?": [
+                  "winter_Wed6"
+            ],
+            "J’aime toujours les vêtements. Après tout, il n’y a pas de mal à s’exprimer un peu.": [
+                  "winter_Wed6_sv1"
+            ],
+            "Je donnerai peut-être quelques-unes de mes jupes à une oeuvre de charité au printemps.": [
+                  "winter_Thu6"
+            ],
+            "Je dois en avoir plus de 1 000.": [
+                  "winter_Thu6_sv1"
+            ],
+            "... Quoi ?": [
+                  "winter_Thu6_sv2"
+            ],
+            "Euh, si tu vois Alex, peux-tu lui dire que je suis occupée aujourd’hui ?": [
+                  "winter_Sun6"
+            ],
+            "J’aimerais qu’il fasse plus chaud à Stardew Valley.": [
+                  "winter_Mon8"
+            ],
+            "Je pourrais toujours aller m’installer ailleurs, mais...": [
+                  "winter_Mon8_sv1"
+            ],
+            "Crois-tu que tu auras un poney dans ta ferme, un jour ?": [
+                  "winter_Fri8"
+            ],
+            "Je suis contente que tu aies moins de travail à faire en hiver.": [
+                  "winter_Sat8"
+            ],
+            "Ça doit être sympa de faire une petite pause, non ?": [
+                  "winter_Sat8_sv1"
+            ],
+            "@, tu as l’air en forme aujourd’hui. J’aime ça.": [
+                  "winter_Sun10_male_farmer"
+            ],
+            "@, tu es très jolie aujourd’hui.": [
+                  "winter_Sun10_female_farmer"
+            ]
+      },
+      "marriage_dialogue": {
+            "J’ai beaucoup changé au fil des ans, mais je préfère toujours le temps ensoleillé.": [
+                  "Rainy_Day_0"
+            ],
+            "Parfois, je pense à notre retraite... sur les plages ensoleillées des îles Fern !": [
+                  "Rainy_Day_1"
+            ],
+            "Tu ne penses jamais à l’avenir, @ ?": [
+                  "Rainy_Day_1_sv1"
+            ],
+            "Bonjour ! Je me suis levée tôt et je t'ai préparé une petite douceur à manger !": [
+                  "Rainy_Day_2"
+            ],
+            "Je sais que tu es en pleine forme, mais tu dois quand même bien manger pour le rester !": [
+                  "Rainy_Day_2_sv1"
+            ],
+            "Je ne peux pas sortir aujourd’hui... ma coiffure ne tiendra pas avec ce temps. Pardonne-moi, mon amour.": [
+                  "Rainy_Day_3"
+            ],
+            "Je veux rester belle pour toi.": [
+                  "Rainy_Day_3_sv1"
+            ],
+            "Tu vas sortir par ce temps ? Pense à bien essuyer tes bottes en rentrant, mon amour.": [
+                  "Rainy_Day_4"
+            ],
+            "Je vais rester à la maison et faire un brin de ménage.": [
+                  "Rainy_Day_4_sv1"
+            ],
+            "Dis \"petite souris\" !": [
+                  "patio_Haley"
+            ],
+            "Oh non... Si le mauvais temps continue comme ça, je vais devenir toute pâle.": [
+                  "Rainy_Day_Haley"
+            ],
+            "Oh, je suis contente que tu sois de retour. Il fait si froid ici toute seule... Est-ce qu'on va bientôt pouvoir éteindre les lumières ?": [
+                  "Rainy_Night_0"
+            ],
+            "J’espère qu’il fera beau demain matin. Trop de pluie peut me rendre maussade.": [
+                  "Rainy_Night_1"
+            ],
+            "J’espère qu’Emily ne se sent pas trop seule. Je devrais aller lui rendre visite bientôt.": [
+                  "Rainy_Night_2"
+            ],
+            "Pour une photographe, il n'y a rien de pire que la pluie. L’éclairage est affreux et c’est impossible de sortir sans abîmer son équipement !": [
+                  "Rainy_Night_3"
+            ],
+            "J’ai préparé un repas chaud pour toi, mon amour. Avec plein d'épices, juste comme tu aimes. Bon appétit !": [
+                  "Rainy_Night_4"
+            ],
+            "Je n’aurais jamais pensé dire ça un jour, mais la vie à la campagne me convient parfaitement.": [
+                  "Rainy_Night_5"
+            ],
+            "Bonjour, mon amour. Je suis tellement contente que tu sois à la maison. Je commençais à me sentir un peu seule.": [
+                  "Rainy_Night_Haley"
+            ],
+            "Bonjour ! Tu as bien dormi ?": [
+                  "Indoor_Day_0"
+            ],
+            "Je pense que je vais ressortir mon vieil appareil photo aujourd’hui... la lumière est tout simplement sublime.": [
+                  "Indoor_Day_0_sv1"
+            ],
+            "Bonjour, mon amour ! Ça sent bon, n’est-ce pas ? Je t’ai préparé un petit-déjeuner !": [
+                  "Indoor_Day_1"
+            ],
+            "Je sais que ton travail te préoccupe beaucoup. Je suis là pour t'aider autant que possible !": [
+                  "Indoor_Day_1_sv1"
+            ],
+            "Tu as bien dormi ? Tu as ronflé un petit peu.": [
+                  "Indoor_Day_2"
+            ],
+            "J’ai des tâches ménagères à faire à la maison. Passe une bonne journée.": [
+                  "Indoor_Day_2_sv1"
+            ],
+            "Je suis contente d'avoir appris à aimer le ménage ! La maison se salit très vite.0": [
+                  "Indoor_Day_3"
+            ],
+            "C'est très satisfaisant de tout nettoyer à la perfection.": [
+                  "Indoor_Day_3_sv1"
+            ],
+            "Fais-moi un bisou avant de partir !1": [
+                  "Indoor_Day_3_sv2"
+            ],
+            "Bonjour, mon amour. Une autre journée de travail à la ferme, hein ?": [
+                  "Indoor_Day_4"
+            ],
+            "Je penserai à toi. <": [
+                  "Indoor_Day_4_sv1"
+            ],
+            "Ma vie n'avait pas vraiment de sens avant que je te rencontre. Maintenant, j’ai exactement ce que je veux.": [
+                  "Indoor_Day_Haley"
+            ],
+            "Tu as travaillé dur, mon amour. Laisse-moi t’aider à te détendre.": [
+                  "Indoor_Night_Haley"
+            ],
+            "Je me sens toujours mieux quand je suis dehors, à respirer l'air frais.": [
+                  "Outdoor_0"
+            ],
+            "Ne te méprends pas, le vieux chalet de ton grand-père est très agréable ! Mais rien ne vaut ce magnifique paysage.": [
+                  "Outdoor_0_sv1"
+            ],
+            "Nous devons maintenir une ferme magnifique ! Cela pourrait être important... tu ne crois pas, mon amour ?": [
+                  "Outdoor_1"
+            ],
+            "Bonjour, mon amour ! Si j’en savais plus sur l'agriculture, je pourrais t’aider davantage. Désolée !": [
+                  "Outdoor_2"
+            ],
+            "Je penserai à toi.": [
+                  "Outdoor_2_sv1"
+            ],
+            "Je vais juste faire un peu de poussière. Ça devrait t’aider un peu, non ?": [
+                  "Outdoor_3"
+            ],
+            "*Pfiou*... il fait chaud ici.": [
+                  "Outdoor_3_sv1"
+            ],
+            "Ne travaille pas trop, mon amour.": [
+                  "Outdoor_4"
+            ],
+            "Pense à faire une pause de temps en temps et n’oublie pas de manger quelque chose.": [
+                  "Outdoor_4_sv1"
+            ],
+            "C’est une journée idéal pour bronzer un peu, tu ne penses pas, mon amour ?": [
+                  "Outdoor_Haley"
+            ],
+            "Je vais aller dire bonjour aux gens du village aujourd’hui.": [
+                  "funLeave_Haley"
+            ],
+            "C’était agréable de voir tout le monde au village. Tu as passé une bonne journée, mon amour ?": [
+                  "funReturn_Haley"
+            ],
+            "C'est curieux, non ? Je ne suis pas encore habituée à être maman.": [
+                  "OneKid_3"
+            ],
+            "%kid2 est un bébé tellement adorable, n’est-ce pas ?": [
+                  "TwoKids_2"
+            ],
+            "Une grande maison, deux enfants et un magnifique lopin de terre. Que peut-on demander de plus !": [
+                  "TwoKids_3"
+            ],
+            "Alors, qu’allons-nous cultiver cette saison ?": [
+                  "spring_2"
+            ],
+            "Maintenant que l’hiver est terminé, le temps va redevenir clément. J'ai tellement hâte.": [
+                  "spring_1"
+            ],
+            "Désolée si je ne suis pas très présentable... l'air est trop humide pour mes cheveux.": [
+                  "summer_3"
+            ],
+            "C’est l’été... ça veut dire que la maison va être envahie de mouches et de fourmis... Beurk.": [
+                  "summer_15"
+            ],
+            "L’été me manque déjà...": [
+                  "fall_2"
+            ],
+            "L’automne est un peu triste pour moi... tout se meurt.": [
+                  "fall_1"
+            ],
+            "Ma peau est tellement sèche par ce temps.": [
+                  "winter_14"
+            ],
+            "Je ne sais pas pourquoi, mais quand le temps est à la neige, j'ai envie de gâteaux roses...": [
+                  "winter_2"
+            ],
+            "C'est génial que l’hiver soit fini, non ? C'est comme si l'espoir renaissait.": [
+                  "spring_Haley"
+            ],
+            "J’aime regarder les lucioles pendant les chaudes nuits d'été. C'est le meilleur moyen de se sentir proche des étoiles.": [
+                  "summer_Haley"
+            ],
+            "Même si je préfère l’été, l’automne est peut-être la meilleure saison pour prendre des photos. Ces ombres et cette lumière...": [
+                  "fall_Haley"
+            ],
+            "Je pensais justement à la fois où tu m'as aidée à ouvrir un pot de cornichons. Tu t’en souviens ?": [
+                  "winter_Haley"
+            ],
+            "Il s'en est passé des choses, depuis.": [
+                  "winter_Haley_sv1"
+            ]
+      },
+      "gift_tastes": {
+            "Oh, mon dieu, j’adore ça !!!": [
+                  "HaleyGiftTaste_1"
+            ],
+            "*Cri de surprise *... c’est pour moi ? Merci !": [
+                  "HaleyGiftTaste_2"
+            ],
+            "Beurk... c’est un cadeau vraiment stupide.": [
+                  "HaleyGiftTaste_3"
+            ],
+            "Dégoutant !": [
+                  "HaleyGiftTaste_4"
+            ],
+            "Merci. J’adore les cadeaux.": [
+                  "HaleyGiftTaste_5"
+            ]
+      },
+      "misc": {
+            "Hé... Quelqu’un a un beau bronzage... *pince le bras*": [
+                  "DesertFestival_Haley_marriage"
+            ],
+            "%Votre femme fait la sieste.": [
+                  "DesertFestival_Haley2_marriage"
+            ],
+            "Si tu sens une bonne odeur, c’est celle de l’huile de noix de coco que j’ai appliquée sur ma peau.": [
+                  "DesertFestival_Haley"
+            ],
+            "Je suis passionnée sur tout ce qui touche le désert !": [
+                  "DesertFestival_Haley_sv1"
+            ],
+            "%Haley brille sous les rayons de soleil.": [
+                  "DesertFestival_Haley2"
+            ],
+            "Tu ferais mieux d’aller chercher d’autres œufs pour pouvoir acheter tout mon inventaire !": [
+                  "Shop_Haley"
+            ],
+            "Tu es le nouveau fermier, n’est-ce pas ?": [
+                  "WipedMemory_male_farmer"
+            ],
+            "Tu es la nouvelle fermière, n’est-ce pas ?": [
+                  "WipedMemory_female_farmer"
+            ],
+            "Vous avez l’air... non. On ne se connaît pas, c’est sûr.": [
+                  "WipedMemory_sv1"
+            ],
+            "Le cinéma n’est pas ouvert les jours de festival !": [
+                  "MovieInvite_Festival"
+            ],
+            "Le cinéma est fermé pour la nuit...": [
+                  "MovieInvite_Closed"
+            ],
+            "Vous avez déjà prévu d’aller au cinéma avec {0} aujourd’hui !": [
+                  "MovieInvite_AlreadyInvitedSomeone"
+            ],
+            "{0} à l’air perplexe...": [
+                  "MovieInvite_NoTheater"
+            ],
+            "Vous ne pouvez pas inviter {0} au cinéma.": [
+                  "MovieInvite_CantInvite"
+            ],
+            "J’ai déjà prévu d’aller au cinéma aujourd’hui, mais tu pourrais me rejoindre là-bas si tu veux ?": [
+                  "MovieInvite_InvitedBySomeoneElse"
+            ],
+            "Je n’ai pas envie d’aller au cinéma pour l’instant...": [
+                  "MovieInvite_FarmerAlreadySeen"
+            ],
+            "Je suis déjà allé au cinéma cette semaine...": [
+                  "MovieInvite_AlreadySeen"
+            ],
+            "Un film ? OK. Je te retrouve au cinéma.": [
+                  "MovieInvite_Invited"
+            ],
+            "Un film ? Ouais, peu importe... pourquoi pas ! On se retrouve là-bas...": [
+                  "MovieInvite_Invited_Rude"
+            ],
+            "Un film ? Oui ! On se retrouve là-bas !": [
+                  "MovieInvite_Invited_Child"
+            ],
+            "Je ne crois pas que j’ai le droit d’aller voir ça...": [
+                  "MovieInvite_Reject_Child"
+            ],
+            "Je ne suis pas vraiment d’humeur pour aller voir un film en ce moment...": [
+                  "MovieInvite_Reject"
+            ],
+            "Ho... une soirée romantique ? Je dois d’abord me refaire une petite beauté. Je te retrouve au cinéma.": [
+                  "MovieInvite_Spouse_Haley",
+                  "MovieInvite_Spouse_Haley"
+            ],
+            "Mmm... C’est sympa ici et il fait bien chaud. L’hiver est la période de l’année que je préfère pour aller au cinéma.": [
+                  "Haley_winter_movie_1_BeforeMovie",
+                  "Haley_winter_movie_0_BeforeMovie"
+            ],
+            "C’était très romantique.": [
+                  "Haley_winter_movie_1_AfterMovie"
+            ],
+            "Je suis contente que le film se termine sur une note positive !": [
+                  "Haley_winter_movie_0_AfterMovie"
+            ],
+            "Oh, est-ce l’un de ces films \"fantastique\" ?": [
+                  "Haley_dislike_BeforeMovie"
+            ],
+            "*Bâille*... Quoi ? Oh... de quoi parlait le film ?": [
+                  "Haley_dislike_AfterMovie"
+            ],
+            "Tout le monde parle de ce film, donc j’ai vraiment envie d’aller le voir.": [
+                  "Haley_like_BeforeMovie"
+            ],
+            "Je n’ai pas compris la dernière scène du film... et toi ?": [
+                  "Haley_like_AfterMovie"
+            ],
+            "Bien sûr que je veux danser avec toi !": [
+                  "Event_cs_1632"
+            ],
+            "Tu veux m’accompagner à la danse des fleurs ?": [
+                  "Event_cs_1633",
+                  "Event_cs_1634"
+            ],
+            "D’accord. J’ai hâte d’y être.": [
+                  "Event_cs_1633_sv1"
+            ],
+            "D’accord ! J’adorerais ça.": [
+                  "Event_cs_1634_sv1"
+            ],
+            "Pardon mais... j’ai déjà un partenaire.": [
+                  "Event_cs_1635"
+            ],
+            "Le mariage était magnifique... n’est-ce pas, mon coeur ?": [
+                  "Game1_cs_2782"
+            ],
+            "Eh bien, nous ne pouvons pas oublier la ferme... il est temps de remettre au travail.": [
+                  "Game1_cs_2782_sv1"
+            ],
+            "Mmm... il paraît que tu as secrètement donné un cadeau à {0} aujourd’hui...": [
+                  "NPC_cs_3985"
+            ],
+            "Faut-il que je me méfie de toi ?": [
+                  "NPC_cs_3985_sv1"
+            ],
+            "...": [
+                  "NPC_cs_3985_sv2",
+                  "NPC_cs_4431"
+            ],
+            "Mon amour... Je voulais te donner ce fruit comme symbole de mon amour.": [
+                  "NPC_cs_4001"
+            ],
+            "Salut...": [
+                  "NPC_cs_4058"
+            ],
+            "Salut !": [
+                  "NPC_cs_4059"
+            ],
+            "Bonjour.": [
+                  "NPC_cs_4060",
+                  "NPC_cs_4062"
+            ],
+            "Salut.": [
+                  "NPC_cs_4061",
+                  "NPC_cs_4072"
+            ],
+            "Bonjour": [
+                  "NPC_cs_4063",
+                  "NPC_cs_4064"
+            ],
+            "Bonsoir": [
+                  "NPC_cs_4065"
+            ],
+            "{0} !": [
+                  "NPC_cs_4066"
+            ],
+            "Salut, {0} !": [
+                  "NPC_cs_4068"
+            ],
+            "Salut, {0}": [
+                  "NPC_cs_4071"
+            ],
+            "{0}": [
+                  "NPC_cs_4079",
+                  "NPC_cs_4080"
+            ],
+            "Est-ce que tu savais que {0}": [
+                  "NPC_cs_4083"
+            ],
+            "aime \"{0}\" ?": [
+                  "NPC_cs_4084"
+            ],
+            "{0} aime \"{1}\" !": [
+                  "NPC_cs_4086"
+            ],
+            "Il me l’a dit.": [
+                  "NPC_cs_4088"
+            ],
+            "Elle me l’a dit.": [
+                  "NPC_cs_4089"
+            ],
+            "J’ai un secret à te confier, {0} aime \"{1}\".": [
+                  "NPC_cs_4091"
+            ],
+            "Si tu veux que {0} t’apprécie, offre-lui \"{1}\".": [
+                  "NPC_cs_4094",
+                  "NPC_cs_4097"
+            ],
+            "Si tu veux t’attirer les faveurs de {0}, offre-lui \"{1}\".": [
+                  "NPC_cs_4100",
+                  "NPC_cs_4103"
+            ],
+            "Si tu veux devenir ami": [
+                  "NPC_cs_4106_male_farmer"
+            ],
+            "amie}avec {0}, tu n’as qu’à lui offrir '{1}'.": [
+                  "NPC_cs_4106_female_farmer"
+            ],
+            "C’est ce qu’il préfère.": [
+                  "NPC_cs_4109"
+            ],
+            "C’est ce qu’elle préfère.": [
+                  "NPC_cs_4111"
+            ],
+            "Il adore ça.": [
+                  "NPC_cs_4113"
+            ],
+            "Il adore ce genre de chose.": [
+                  "NPC_cs_4114"
+            ],
+            "Elle adore ça.": [
+                  "NPC_cs_4115"
+            ],
+            "Elle adore ce genre de chose.": [
+                  "NPC_cs_4116"
+            ],
+            "Je le lui ai offert l’an dernier et il n’arrêtait pas d’en parler.": [
+                  "NPC_cs_4118"
+            ],
+            "Je le lui ai offert l’an dernier et elle n’arrêtait pas d’en parler.": [
+                  "NPC_cs_4120"
+            ],
+            "Ça ferait un beau cadeau.": [
+                  "NPC_cs_4125"
+            ],
+            "Tu lui ferais vraiment plaisir avec ça.": [
+                  "NPC_cs_4126",
+                  "NPC_cs_4128"
+            ],
+            "déteste '{0}' ? Il trouve ça absolument {1}.": [
+                  "NPC_cs_4135"
+            ],
+            "déteste '{0}' ? Elle trouve ça absolument {1}.": [
+                  "NPC_cs_4138"
+            ],
+            "{0} déteste vraiment '{1}' ! Il me l’a dit.": [
+                  "NPC_cs_4141"
+            ],
+            "{0} déteste vraiment '{1}' ! Elle me l’a dit.": [
+                  "NPC_cs_4144"
+            ],
+            "Un petit avertissement :": [
+                  "NPC_cs_4146"
+            ],
+            "{0} déteste vraiment \"{1}\".": [
+                  "NPC_cs_4147"
+            ],
+            "Si tu veux que {0} ne t’apprécie pas, offre-lui \"{1}\". Il a horreur de ça.": [
+                  "NPC_cs_4149"
+            ],
+            "Si tu veux que {0} ne t’apprécie pas, offre-lui \"{1}\". Il a horreur de ce genre de choses.": [
+                  "NPC_cs_4152"
+            ],
+            "Si tu veux que {0} ne t’apprécie pas, offre-lui \"{1}\". Elle a horreur de ça.": [
+                  "NPC_cs_4153"
+            ],
+            "Si tu veux que {0} ne t’apprécie pas, offre-lui \"{1}\". Elle a horreur de ce genre de choses.": [
+                  "NPC_cs_4154"
+            ],
+            "Si tu veux jouer un très mauvais tour à {0}, offre-lui \"{1}\". Mais il risque de ne pas te le pardonner.": [
+                  "NPC_cs_4161"
+            ],
+            "Si tu veux jouer un très mauvais tour à {0}, offre-lui \"{1}\". Mais elle risque de ne pas te le pardonner.": [
+                  "NPC_cs_4164"
+            ],
+            "Je l’ai appris à mes dépens.": [
+                  "NPC_cs_4170"
+            ],
+            "Je ne sais pas pourquoi.": [
+                  "NPC_cs_4171"
+            ],
+            "Rien que d’y penser, ça risque de le déprimer.": [
+                  "NPC_cs_4172"
+            ],
+            "Rien que d’y penser, ça risque de la déprimer.": [
+                  "NPC_cs_4174"
+            ],
+            "Je crois qu’il y est allergique.": [
+                  "NPC_cs_4176"
+            ],
+            "Je crois qu’elle y est allergique.": [
+                  "NPC_cs_4178"
+            ],
+            "Je suppose que tout le monde a ses petits problèmes.": [
+                  "NPC_cs_4180"
+            ],
+            "{0} déteste \"{1}\". Tu ne veux pas connaître les détails. Crois-moi.": [
+                  "NPC_cs_4182"
+            ],
+            "Tu te souviens de la date de mon anniversaire ? Impressionnant. Merci.": [
+                  "NPC_cs_4274"
+            ],
+            "Un cadeau d’anniversaire ? C’est très gentil de ta part ! Je l’adore.": [
+                  "NPC_cs_4275"
+            ],
+            "Tu te souviens de la date de mon anniversaire ? Merci. C’est génial.": [
+                  "NPC_cs_4277"
+            ],
+            "Pour mon anniversaire ? Merci.": [
+                  "NPC_cs_4280"
+            ],
+            "Oh ! Je n’arrive pas à croire que tu aies pu me faire ça !": [
+                  "NPC_cs_4293"
+            ],
+            "Ça me fait de la peine ! C’est quoi ton problème ?": [
+                  "NPC_cs_4294"
+            ],
+            "J’ai juste envie de dormir aujourd’hui.": [
+                  "NPC_cs_4406"
+            ],
+            "*Soupir*...": [
+                  "NPC_cs_4420"
+            ],
+            "Je m’ennuie...": [
+                  "NPC_cs_4421"
+            ],
+            "Parfois, je me demande si je prends les bonnes décisions dans ma vie...": [
+                  "NPC_cs_4422"
+            ],
+            "Hein ? Aucun problème... je vais bien.": [
+                  "NPC_cs_4423"
+            ],
+            "Je n’ai pas d’énergie aujourd’hui.": [
+                  "NPC_cs_4424"
+            ],
+            "La vie est bien différente de celle avant notre mariage...": [
+                  "NPC_cs_4425"
+            ],
+            "Quoi... Tu veux que je fasse le ménage ? Que je te fasse un sandwich ? *Soupir*...": [
+                  "NPC_cs_4426"
+            ],
+            "*Soupir*... ma peau est affreuse aujourd’hui.": [
+                  "NPC_cs_4427"
+            ],
+            "Vraiment... Je le vois rien qu’à la façon dont tu me regardes.": [
+                  "NPC_cs_4427_sv1",
+                  "NPC_cs_4429_sv1"
+            ],
+            "*Soupir*... mes cheveux sont horribles aujourd’hui.": [
+                  "NPC_cs_4429"
+            ],
+            "Tu n’as jamais l’impression d’être pris": [
+                  "NPC_cs_4431_sv1_male_farmer"
+            ],
+            "prise}au piège ?": [
+                  "NPC_cs_4431_sv1_female_farmer"
+            ],
+            "*Marmonne*... les tâches ménagères...": [
+                  "NPC_cs_4432"
+            ],
+            "Tu n’as pas de travail à faire ?": [
+                  "NPC_cs_4433"
+            ],
+            "Je me demande à quel point le nouveau bébé va changer nos vies ?": [
+                  "NPC_cs_4439"
+            ],
+            "{0}, j’espère que notre demande d’adoption sera approuvée. Je veux un bébé.": [
+                  "NPC_cs_4440"
+            ],
+            "{0}, j’ai rempli le dossier d’adoption. Il n’y a plus qu’à croiser les doigts et attendre.": [
+                  "NPC_cs_4441"
+            ],
+            "Oh... J’ai l’estomac à l’envers ce matin.": [
+                  "NPC_cs_4442"
+            ],
+            "Je suis enceinte... tu ne peux pas préparer ton petit-déjeuner toi même ?": [
+                  "NPC_cs_4443"
+            ],
+            "{0}, nous allons bientôt avoir un bébé.": [
+                  "NPC_cs_4444",
+                  "NPC_cs_4447"
+            ],
+            "{0}, je suis enceinte. N’est-ce pas merveilleux ?": [
+                  "NPC_cs_4445"
+            ],
+            "J’ai envie de dormir aujourd’hui. Ne t’inquiète pas.": [
+                  "NPC_cs_4446"
+            ],
+            "{0}, tu ne le sais pas ? Tu es enceinte.": [
+                  "NPC_cs_4448"
+            ],
+            "C’est parfois fatigant d’être parent... Je n’ai pas envie de me lever.": [
+                  "NPC_cs_4449"
+            ],
+            "J’ai besoin d’un peu de solitude... Pourquoi tu ne t’occuperais pas des enfants pour une fois ?": [
+                  "NPC_cs_4452"
+            ],
+            "J’allais te préparer un petit-déjeuner, mais j’ai changé d’avis.": [
+                  "NPC_cs_4455"
+            ],
+            "Je me suis levé": [
+                  "NPC_cs_4462_male_farmer",
+                  "NPC_cs_4470_male_farmer",
+                  "NPC_cs_4474_male_farmer"
+            ],
+            "levée}tôt et j’ai arrosé les récoltes pour toi. J’espère que ça te facilitera la tâche pour aujourd’hui.": [
+                  "NPC_cs_4462_female_farmer"
+            ],
+            "J’ai aussi remis de l’eau dans l’abreuvoir de {0}.": [
+                  "NPC_cs_4463_sv1"
+            ],
+            "J'ai aussi remis de l’eau dans les abreuvoirs des animaux.": [
+                  "MultiplePetBowls_watered_sv1"
+            ],
+            "Salut {0} !": [
+                  "NPC_cs_4465"
+            ],
+            "Bonjour, {0} !": [
+                  "NPC_cs_4466"
+            ],
+            "levée}tôt pour arroser les récoltes, mais c’était déjà fait ! Tu as l’oeil sur tout.": [
+                  "NPC_cs_4470_female_farmer"
+            ],
+            "levée}tôt pour nourrir tous les animaux. J’espère que ça te facilitera la tâche pour aujourd’hui.": [
+                  "NPC_cs_4474_female_farmer"
+            ],
+            "J’ai passé la matinée à réparer les clôtures. Elles sont comme neuves.": [
+                  "NPC_cs_4481"
+            ],
+            "Qu’en penses-tu, {0} ?": [
+                  "NPC_cs_4486"
+            ],
+            "La commande que j’ai passée l’autre jour vient d’arriver.": [
+                  "NPC_cs_4488"
+            ],
+            "Je me suis dit qu’on pourrait décorer un peu plus la chambre.": [
+                  "NPC_cs_4489"
+            ],
+            "J’allais faire un peu de décoration aujourd’hui, mais j’ai changé d’avis.": [
+                  "NPC_cs_4490"
+            ],
+            "Que penses-tu du nouveau papier peint que j’ai choisi ?": [
+                  "NPC_cs_4496"
+            ],
+            "Que penses-tu du nouveau plancher que j’ai choisi ?": [
+                  "NPC_cs_4497"
+            ],
+            "*Soupir*... Mon ancienne vie me manque, parfois.": [
+                  "NPC_cs_4498"
+            ],
+            "Le temps est trop mauvais pour sortir du lit.": [
+                  "NPC_cs_4499"
+            ],
+            "Tu aurais pu nettoyer un peu pendant mon absence...": [
+                  "NPC_cs_4500"
+            ],
+            "Ce n’est pas très agréable de devoir marcher dans tout ce désordre après une dure journée de travail.": [
+                  "NPC_cs_4500_sv1"
+            ],
+            "C’est que j’ai demandé : {0} ?": [
+                  "ItemDeliveryQuest_cs_13530"
+            ],
+            "Tu m’as apporté ce que j’ai demandé !": [
+                  "ItemDeliveryQuest_cs_13532"
+            ],
+            "Tu as vu la note que j’ai publié ?": [
+                  "ItemDeliveryQuest_cs_13534"
+            ],
+            "Tu as vu le bulletin que j’ai publié ?": [
+                  "ItemDeliveryQuest_cs_13535"
+            ],
+            "Tu as vu l’annonce que j’ai publié ?": [
+                  "ItemDeliveryQuest_cs_13536"
+            ],
+            "Merci beaucoup !": [
+                  "ItemDeliveryQuest_cs_13538"
+            ],
+            "J’apprécie ton geste.": [
+                  "ItemDeliveryQuest_cs_13539"
+            ],
+            "C’est parfait.": [
+                  "ItemDeliveryQuest_cs_13540"
+            ],
+            "": [
+                  "ItemDeliveryQuest_cs_13542",
+                  "ItemDeliveryQuest_cs_13543",
+                  "ItemDeliveryQuest_cs_13544"
+            ],
+            "Voici un petit quelque chose pour le dérangement.": [
+                  "ItemDeliveryQuest_cs_13542_sv1"
+            ],
+            "Voici ton paiement, comme convenu.": [
+                  "ItemDeliveryQuest_cs_13543_sv1"
+            ],
+            "... Voyons voir. Voici ce que je te dois.": [
+                  "ItemDeliveryQuest_cs_13544_sv1"
+            ],
+            "Oh ! C’est exactement ce dont j’avais besoin ! Hé hé ! C’est génial !": [
+                  "ItemDeliveryQuest_cs_13566"
+            ]
+      },
+      "schedule": {
+            "Ce n’est rien de grave... Je suis juste ici pour mon bilan de santé annuel.": [
+                  "winter_9_000"
+            ],
+            "Eh bien... j’ai le nez qui coule un peu, docteur. Mais à part ça, je vais très bien !": [
+                  "winter_9_001"
+            ],
+            "Il fait trop froid pour sortir du lit.": [
+                  "winter_000",
+                  "winter_16_000"
+            ],
+            "Bonjour, toi ! Je viens rendre visite à Emily.": [
+                  "marriage_Mon_000"
+            ],
+            "Le temps est trop mauvais pour sortir du lit.": [
+                  "rain_000"
+            ],
+            "L'air froid n'est pas si mauvais si vous vous emmitouflez !": [
+                  "winter_16_001"
+            ]
+      },
+      "continuation_dialogue": {
+            "continuation_dialogue": [
+                  "fall27_haley_spouse_y2",
+                  "summer11_haley_spouse_y2",
+                  "FlowerDance_Accept_male_farmer",
+                  "FlowerDance_Accept_female_farmer",
+                  "FlowerDance_Accept_sv1_male_farmer",
+                  "FlowerDance_Accept_sv1_female_farmer",
+                  "Resort_Shore_2",
+                  "Resort_Towel_2",
+                  "FlowerDance_Accept_Spouse",
+                  "breakUp",
+                  "Tue_male_farmer",
+                  "Tue_female_farmer",
+                  "Tue_sv1_male_farmer",
+                  "Tue_sv1_female_farmer",
+                  "Wed8",
+                  "summer_Sat",
+                  "summer_Sat_sv1",
+                  "fall_Sat",
+                  "fall_Sat_sv1",
+                  "fall_Tue2",
+                  "fall_Fri4",
+                  "Outdoor_0",
+                  "SummitEvent_Dialogue3_Haley_Haley_event1",
+                  "DesertFestival_Haley"
+            ]
+      }
+}

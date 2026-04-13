@@ -1,0 +1,471 @@
+{
+      "Luau": [
+            "summer11_name"
+      ],
+      "Nos, emberek, ismét itt az idő a rögtönzött étel szertartáshoz.": [
+            "summer11_mainEvent_Lewis_event1"
+      ],
+      "Nos... Kormányzó úr? Megtenné, hogy megkóstolja nekünk a levest?": [
+            "summer11_mainEvent_Lewis_event2"
+      ],
+      "Természetesen! Egész évben erre vártam.": [
+            "summer11_mainEvent_Governor_event1"
+      ],
+      "...": [
+            "summer11_mainEvent_Governor_event2",
+            "summer11_mainEvent_y2_Governor_event2"
+      ],
+      "Hmm... Kissé fura a szaga... de az íze valójában egész jó!": [
+            "summer11_governorReaction6_Governor_event1"
+      ],
+      "Várjunk csak... van valami az edényemben... ez mégis micsoda?": [
+            "summer11_governorReaction6_Governor_event2"
+      ],
+      "Micsooodaaaa?!": [
+            "summer11_governorReaction6_Lewis_textAboveHeadEvent1"
+      ],
+      "*meghökken*": [
+            "summer11_governorReaction6_Marnie_textAboveHeadEvent1"
+      ],
+      "Ez... Ez botrány!": [
+            "summer11_governorReaction6_Governor_event3"
+      ],
+      "Pföjjj... kezd feldagadni a nyelvem... Azt hiszem rosszul leszek.": [
+            "summer11_governorReaction6_Governor_event4"
+      ],
+      "Bárki is vett részt ebben a visszataszító tettben, az büntetést érdemel. Ráadásul a privát tárgyamat használta fel erre a beteg célra!": [
+            "summer11_governorReaction6_Lewis_event2"
+      ],
+      "Menjetek haza, ennek a napnak vége.": [
+            "summer11_governorReaction6_Lewis_event3"
+      ],
+      "Hmmm... Ez nem is rossz, de hiányzik belőle valami...": [
+            "summer11_governorReaction5_Governor_event1"
+      ],
+      "Igaza van... Ez egy kissé enyhe.": [
+            "summer11_governorReaction5_Lewis_event1"
+      ],
+      "Nos, köszönjük, hogy idén is meglátogatott minket, Kormányzó úr. Sajnáljuk, hogy a leves nem volt olyan különleges.": [
+            "summer11_governorReaction5_Lewis_event2"
+      ],
+      "És most... ki kér még a levesből?": [
+            "summer11_governorReaction5_Lewis_event3"
+      ],
+      "Ó egek... ez a legjobb leves, amit valaha is kóstoltam!": [
+            "summer11_governorReaction4_Governor_event1"
+      ],
+      "Igaza van... Ez ízletes!": [
+            "summer11_governorReaction4_Lewis_event1"
+      ],
+      "Szép munka, mindenki! És most... ki kér még kóstolót?": [
+            "summer11_governorReaction4_Lewis_event2"
+      ],
+      "Ah... micsoda kellemes leves. A völgy terméseiben még nem csalódtam!": [
+            "summer11_governorReaction3_Governor_event1"
+      ],
+      "Mmm... ízletes. Mindenki szép munkát végzett.": [
+            "summer11_governorReaction3_Lewis_event1"
+      ],
+      "Nos... ki akar még egy kis levest?": [
+            "summer11_governorReaction3_Lewis_event2"
+      ],
+      "Hmm... Nem tudok sokat mondani erről. Ez egy átlagos leves.": [
+            "summer11_governorReaction2_Governor_event1"
+      ],
+      "Igaza van... Nincs benne semmi különös. Attól még nem rossz.": [
+            "summer11_governorReaction2_Lewis_event1"
+      ],
+      "Nos... ki kér még a levesből?": [
+            "summer11_governorReaction2_Lewis_event2"
+      ],
+      "Öhm... Ez valójában kissé undorító. Azt hiszem idén kihagyom a levest.": [
+            "summer11_governorReaction1_Governor_event1"
+      ],
+      "Fúj. Valaki biztos egy rossz minőségű alapanyaggal tette tönkre a levest.": [
+            "summer11_governorReaction1_Lewis_event1"
+      ],
+      "Nos... kér valaki egyáltalán belőle?": [
+            "summer11_governorReaction1_Lewis_event2"
+      ],
+      "Pföjj! Ez gusztustalan! Azt hiszem rosszul leszek...": [
+            "summer11_governorReaction0_Governor_event1"
+      ],
+      "Le kell ülnöm...": [
+            "summer11_governorReaction0_Governor_event2"
+      ],
+      "Amindenségit emberek... Bárki is rakta bele azt a pocsék alapanyagot a levesbe, amiatt ájult el a Kormányzó úr! Szégyellem magam.": [
+            "summer11_governorReaction0_Lewis_event1"
+      ],
+      "Menjetek haza, a fesztiválnak vége.": [
+            "summer11_governorReaction0_Lewis_event2"
+      ],
+      "Üdvözlök mindenkit! Örömmel jelentem, hogy elkezdődött a rögtönzött étel szertartásunk.": [
+            "summer11_mainEvent_y2_Lewis_event1"
+      ],
+      "Nos... Kormányzó úr? Kérem, megtenné, hogy Ön lesz az első kóstoló?": [
+            "summer11_mainEvent_y2_Lewis_event2"
+      ],
+      "Természetese igen! Egész délután a levessel szemezgettem.": [
+            "summer11_mainEvent_y2_Governor_event1"
+      ],
+      "Milyen pompás alkalom... Mindig nagy öröm meglátogatni Stardew Valleyt.": [
+            "summer11_Governor"
+      ],
+      "Beszélnem kell az asszonnyal, hogy vegyünk itt egy nyaralót.": [
+            "summer11_Governor_sv1"
+      ],
+      "Nyugodtan szórakozz és érezd magad jól nélkülem. Úgy érzem most egyedül bámulnám a tengert.": [
+            "summer11_Abigail_spouse"
+      ],
+      "Jó néhanapján mindenkit látni, de inkább visszamennék a farmra.": [
+            "summer11_Leah_spouse"
+      ],
+      "Harvey beszélgetni próbál velem, de én csak egy kis szelet sültet akarok.": [
+            "summer11_Maru_spouse"
+      ],
+      "Csak poénkodok pár régi baráttal. Valójában egy nagy tál levest szeretnék.": [
+            "summer11_Penny_spouse"
+      ],
+      "Huhh... Félek megmozdulni, vagy a végén még elkezdek izzadni.": [
+            "summer11_Haley_spouse"
+      ],
+      "Próbálok jó kedélyű maradni...": [
+            "summer11_Sebastian_spouse"
+      ],
+      "Azt hiszem nem lenne túl szép dolog valami rosszat tenni a levesbe...": [
+            "summer11_Sam_spouse"
+      ],
+      "Hé, bármilyen kifogást elfogadok, hogy a strandra jöhessek. Ez az idő fantasztikus!": [
+            "summer11_Alex_spouse"
+      ],
+      "Ó egek... Homok került a zoknimba...": [
+            "summer11_Harvey_spouse"
+      ],
+      "Úgy hiszem az öreg faház jól viseli magát. Mindig mikor visszatérek azt várom, hogy mikor rothad szét...": [
+            "summer11_Elliott_spouse"
+      ],
+      "Fárasztó mindenkivel társalogni... Inkább bámulnám a tengert.": [
+            "summer11_Abigail"
+      ],
+      "%Nem reagál.": [
+            "summer11_Emily"
+      ],
+      "Aú... drágám, ráléptél a lábamra!": [
+            "summer11_Robin"
+      ],
+      "Ez fárasztó, édesem. Készen állsz meglátogatni a büfét? *liheg*": [
+            "summer11_Demetrius"
+      ],
+      "Bármit is készít Linus, ez a sült szag hihetetlenül jó... *szürcsöl*": [
+            "summer11_Maru"
+      ],
+      "Egy évvel ezelőtt Sam egy halom szardellát tett a levesbe.": [
+            "summer11_Sebastian"
+      ],
+      "Gondolkoztál már azon, hogy vajon miért Sam vezeti a közmunkás óraszámot a városban?": [
+            "summer11_Sebastian_sv1"
+      ],
+      "A lassú, folytonos forgatás a tökéletes sütés elérésének kulcsa.": [
+            "summer11_Linus"
+      ],
+      "Hmm... talán ha a Kormányzó úr jó oldalára kerülök, akkor talán kevesebbet kell majd adóznom...": [
+            "summer11_Pierre"
+      ],
+      "Vajon szereti a régi whiskyt??": [
+            "summer11_Pierre_sv1"
+      ],
+      "Bárcsak ne foglalná le a polgármester egész délután.": [
+            "summer11_Pierre_sv2"
+      ],
+      "Az idei közösségi levesbe a kertemben lévő friss zöldségeket raktam bele.": [
+            "summer11_Caroline"
+      ],
+      "Tökéletes az idő egy strandos partira, mi?": [
+            "summer11_Alex"
+      ],
+      "Ez a zene! Túl hangos.": [
+            "summer11_George"
+      ],
+      "Nem hagyna mindenki magamra és élvezhetném békében és csendben az óceánt?": [
+            "summer11_George_sv1"
+      ],
+      "Ahh... Az óceán illata több évnyi emléket idéz fel bennem. Olyan régieket, hogy te még meg se születtél.": [
+            "summer11_Evelyn"
+      ],
+      "Légy résen! A Kormányzó úr éves látogatásán van itt.": [
+            "summer11_Lewis"
+      ],
+      "Ha valami jó alapanyagot hoztál a leveshez, javaslom, hogy rakd bele az üstbe.": [
+            "summer11_Lewis_sv1"
+      ],
+      "Tele vagyok, de mégis mi mást lehet tenni az evésen kívül?": [
+            "summer11_Clint"
+      ],
+      "Minden évben megrendezzük ezt az ünnepet, hogy a Kormányzó úr megízlelje a völgy teljes kínálatát.": [
+            "summer11_Penny"
+      ],
+      "Lewis polgármester abban reménykedik, hogy a Kormányzó urat a jó oldalunkra állítja. Pont ezért olyan feszült, hogy milyen ízű lesz majd a leves.": [
+            "summer11_Penny_sv1"
+      ],
+      "Heh... ingyen kaja. Az itteni élet egyik haszna. Élvezd ki, kölyök!": [
+            "summer11_Pam"
+      ],
+      "Táncolnék, de nem akarok leizzadni.": [
+            "summer11_Haley"
+      ],
+      "Remélem idén jó lesz a leves.": [
+            "summer11_Jodi"
+      ],
+      "Hé, jó látni téged.": [
+            "summer11_Kent"
+      ],
+      "Itt leszek a fák környékén... Itt hűvösebb a levegő.": [
+            "summer11_Marlon"
+      ],
+      "Kormányzó úr? Kit érdekel...": [
+            "summer11_Sam"
+      ],
+      "Miért érdekelne engem egy random öreg fószer?": [
+            "summer11_Sam_sv1"
+      ],
+      "Hogy megy a gazdálkodás? Ez az évszak biztos pörgős számodra.": [
+            "summer11_Leah"
+      ],
+      "Váó... ilyen erős paprikás csatnit nem kapni a nagyvárosban...": [
+            "summer11_Shane"
+      ],
+      "Ha hoztál valamit a levesbe, akkor menj fel az oldalán található lépcsőn és dobd bele.": [
+            "summer11_Marnie"
+      ],
+      "Későn keltem fel, és mire kiértem a lakásból, egész nagy nyüzsgés vett körbe!": [
+            "summer11_Elliott"
+      ],
+      "Megfeledkeztem arról, hogy ma van a Luau.": [
+            "summer11_Elliott_sv1"
+      ],
+      "Ezek a nyamvadt homoki legyek rárepülnek az ételre!": [
+            "summer11_Gus"
+      ],
+      "Azt mondod, hogy odafent esik? *meghökken*": [
+            "summer11_Dwarf",
+            "summer11_Dwarf_y2"
+      ],
+      "Eső... Számunkra szinte rejtély. Egyesek közülünk egész életüket úgy élik le, hogy sose tapasztalják meg.": [
+            "summer11_Dwarf_sv1",
+            "summer11_Dwarf_y2_sv1"
+      ],
+      "A vízi népség kíváncsi az ünnepségre.": [
+            "summer11_Wizard"
+      ],
+      "Kissé mérgesek lesznek, mikor teleszemetelitek az óceánt.": [
+            "summer11_Wizard_sv1"
+      ],
+      "Még jó, hogy hoztam naptejet.": [
+            "summer11_Harvey"
+      ],
+      "Vajon Marunak nem kellene egy kicsi a vállára?": [
+            "summer11_Harvey_sv1"
+      ],
+      "Úgy hallottam, hogy odahaza esik. Ezért jöttél ide?": [
+            "summer11_Sandy",
+            "summer11_Sandy_y2"
+      ],
+      "Nekem valójában kissé hiányzik az eső...": [
+            "summer11_Sandy_sv1"
+      ],
+      "Vincent nem táncol túl jól.": [
+            "summer11_Jas"
+      ],
+      "Unatkozom...": [
+            "summer11_Vincent"
+      ],
+      "Üdv néked, @. Pihensz egy kicsit?": [
+            "summer11_Willy"
+      ],
+      "Az igazat megvallva én most inkább horgásznék.": [
+            "summer11_Willy_sv1"
+      ],
+      "Shhh... A tökéletes sült titkos receptjét tanulmányozom.": [
+            "summer11_Leo"
+      ],
+      "Minden évben buzgón várom a Stardew Valleybe történő látogatásomat. Érezni a kedvességet a levegőben!": [
+            "summer11_Governor_y2"
+      ],
+      "A leveskóstolás után kerüljünk távol a többiektől és menjünk a kikötőbe.": [
+            "summer11_Abigail_spouse_y2"
+      ],
+      "Olyan pletykát hallottam, hogy a kormányzó talán itt vesz majd magának nyaralót.": [
+            "summer11_Penny_spouse_y2"
+      ],
+      "Jobb lesz, ha elveszel egy tányérral, mielőtt elfogyna!": [
+            "summer11_Leah_spouse_y2"
+      ],
+      "Nagy a kísértés, hogy hazafussak és felvegyem a bikinimet.": [
+            "summer11_Haley_spouse_y2"
+      ],
+      "Tökéletes a víz hőmérséklete... beledugtam a kislábujjamat!": [
+            "summer11_Haley_spouse_y2_sv1"
+      ],
+      "Itt az árnyékban hűvösebb van. Majd hamarosan csatlakozok hozzád a lakománál, rendben?": [
+            "summer11_Maru_spouse_y2"
+      ],
+      "*liheg* Lehet, hogy hamarosan pihennem kellene.": [
+            "summer11_Emily_spouse_y2"
+      ],
+      "Majd később együtt táncolhatnánk, oké?": [
+            "summer11_Emily_spouse_y2_sv1"
+      ],
+      "Ettől a zenétől magától mozdulnak a lábaim... mint az aerobik órákon!": [
+            "summer11_Harvey_spouse_y2"
+      ],
+      "Ma... annyit fogok enni amennyit csak akarok. Holnap majd extra fekvőtámaszokat csinálok!": [
+            "summer11_Alex_spouse_y2"
+      ],
+      "Elég fűszeres illata van annak a levesnek...": [
+            "summer11_Sam_spouse_y2"
+      ],
+      "Raktál bele valami jót? Kezdek éhes lenni!": [
+            "summer11_Sam_spouse_y2_sv1"
+      ],
+      "Emlékszel arra, amikor azon az esős napon itt találkoztál velem?": [
+            "summer11_Sebastian_spouse_y2"
+      ],
+      "Habár ez az én magányos helyem... boldog voltam, hogy eljöttél.": [
+            "summer11_Sebastian_spouse_y2_sv1"
+      ],
+      "Azt javaslom, hogy tarthatnánk egy kis 'találkát' a régi kunyhómnál... de attól tartok, hogy a távollétemben kissé... dohos lett...": [
+            "summer11_Elliott_spouse_y2"
+      ],
+      "Mmm... annak a sültnek jó az illata.": [
+            "summer11_Shane_spouse_y2"
+      ],
+      "Apám teljesen a kormányzó látogatásának megszállottja. Mindennek tökéletesnek kell lennie!": [
+            "summer11_Abigail_y2"
+      ],
+      "Azt hiszem abban reménykedik, hogy egy nap majd ő lesz a polgármester...": [
+            "summer11_Abigail_y2_sv1"
+      ],
+      "Demetrius... Azért, mert mókás!%noturn": [
+            "summer11_Robin_y2"
+      ],
+      "Miért élvezik az emberek a táncolást? Lehet, hogy ez egy ösztönös mechanizmus, amivel akaratlanul is közvetítjük a genetikai minőségünket a lehetséges párunk felé?%noturn": [
+            "summer11_Demetrius_y2"
+      ],
+      "Áú... ez a pad mindvégig a tűző napon állt.": [
+            "summer11_Maru_y2"
+      ],
+      "Ó, üdv. Te is távol akarsz kerülni a zajtól?": [
+            "summer11_Sebastian_y2"
+      ],
+      "Áh, érzed ezt az illatot?": [
+            "summer11_Linus_y2"
+      ],
+      "Ez azt jelenti, hogy hamarosan készen van a sült!": [
+            "summer11_Linus_y2_sv1"
+      ],
+      "Amint Lewis elmegy a kormányzó mellől... akkor kell odamennem hízelegni neki...": [
+            "summer11_Pierre_y2"
+      ],
+      "Áh, nem láttam, hogy itt vagy.": [
+            "summer11_Pierre_y2_sv1"
+      ],
+      "Ha vásárolni szeretnél valamit, akkor a pult másik oldaláról beszélj velem.": [
+            "summer11_Pierre_y2_sv2"
+      ],
+      "Gus a krumplijaimat felhasználva számtalan ételt készített a lakomára.": [
+            "summer11_Caroline_y2"
+      ],
+      "Szóval te milyen alapanyagot adsz bele a levesbe?": [
+            "summer11_Caroline_y2_sv1"
+      ],
+      "Szerinted ha beugranék a vízbe, akkor mások követnének engem? Nem akarok egyedül úszni!": [
+            "summer11_Alex_y2"
+      ],
+      "Póréhagymás és fokhagymás krumplipüré? Hehe... édesem, azt hiszem meghaltam és a mennybe jutottam!%noturn": [
+            "summer11_George_y2"
+      ],
+      "Ne edd túl magadat, kedveském. Nem szeretném, ha megfájdulna a gyomrod.%noturn": [
+            "summer11_Evelyn_y2"
+      ],
+      "Ma a kormányzó a kiemelt vendégünk! Remélem mindenki helyesen fog viselkedni.": [
+            "summer11_Lewis_y2"
+      ],
+      "Bárki, aki hozott valamit a levesbe, azt az alapanyagot rakja bele az üstbe.": [
+            "summer11_Lewis_y2_sv1"
+      ],
+      "*nyammog* Mindig ezen a fesztiválon van a legjobb étel.": [
+            "summer11_Clint_y2"
+      ],
+      "Ugye milyen csodálatos látni, hogy így összegyűlik a közönségünk? Próbálom élvezni ezeket a pillanatokat.": [
+            "summer11_Penny_y2"
+      ],
+      "*szürcsöl* Ó, igen! Ebből több kell még nekem!": [
+            "summer11_Pam_y2"
+      ],
+      "*liheg* Csak a csípőmozgás számít!": [
+            "summer11_Emily_y2"
+      ],
+      "Azt hiszem hamarosan pihennem kell. Kezdek leizzadni!": [
+            "summer11_Emily_y2_sv1"
+      ],
+      "Ne álld el a Napot! Épp jó helyen vagyok ahhoz, hogy ne égjek le.": [
+            "summer11_Haley_y2"
+      ],
+      "Úgy hallottam, hogy a nyár nagyon zsúfolt a gazdák számára. Figyelj oda, nehogy túlhajszold magad!": [
+            "summer11_Jodi_y2"
+      ],
+      "*szimat* ...az illatok nagyon hatékonyan hozzák vissza az emlékeket...": [
+            "summer11_Kent_y2"
+      ],
+      "Ez lehet jó és rossz is...": [
+            "summer11_Kent_y2_sv1"
+      ],
+      "Helló.": [
+            "summer11_Marlon_y2"
+      ],
+      "Leves? Táncolás? Köszönöm, de nem. Én tökéletesen jól érzem magam itt. Mellesleg valakinek figyelnie kell, ha netán egy szörny bukkanna fel...": [
+            "summer11_Marlon_y2_sv1"
+      ],
+      "Jövőre muszáj lesz elhoznom az elektromos gitáromat... Képzelj el egy gitárszólót a dal ezen pontján!": [
+            "summer11_Sam_y2"
+      ],
+      "Nem tudom eldönteni, hogy mit egyek! Túl nagy a választék.": [
+            "summer11_Leah_y2"
+      ],
+      "Sose utasítom el az ingyen kaját.": [
+            "summer11_Shane_y2"
+      ],
+      "Üdvözöllek @! Hoztál valamilyen alapanyagot a leveshez? Csak menj fel a lépcsőn és dobd bele!": [
+            "summer11_Marnie_y2"
+      ],
+      "Áh, a Luau... a város apraja-nagyja egyenest a küszöböm elé gyűlik!": [
+            "summer11_Elliott_y2"
+      ],
+      "Egy rossz alapanyag tönkreteheti az egész levest...": [
+            "summer11_Gus_y2"
+      ],
+      "A tenger sötét mélységében sok rejtély lapul, arra várva, hogy felfedjék őket.": [
+            "summer11_Wizard_y2"
+      ],
+      "*liheg*... *liheg*... áhhhh, már alig várom a tányérnyi tűzforró levest...": [
+            "summer11_Harvey_y2"
+      ],
+      "Valójában nekem egy kicsit hiányzik az eső...": [
+            "summer11_Sandy_y2_sv1"
+      ],
+      "D...De... Ezt meg is kell ennem?": [
+            "summer11_Jas_y2"
+      ],
+      "Miért nem játszhatok a tócsák mellett?": [
+            "summer11_Vincent_y2"
+      ],
+      "Ne aggódj, a levesért még visszatérek... Csak pipázgatok és élvezem a pillanatot!": [
+            "summer11_Willy_y2"
+      ],
+      "Az otthonom arra van, az óceánon túl. Olyan közelinek érződik, mégis oly távol van.": [
+            "summer11_Leo_y2"
+      ],
+      "Remélem a barátaim jól vannak.": [
+            "summer11_Leo_y2_sv1"
+      ]
+}

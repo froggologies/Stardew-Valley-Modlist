@@ -1,0 +1,20 @@
+{
+    "Oh, ¡@! Has llegado en el momento oportuno.": "Forest_181928_19_Penny_event1",
+    "Traje a los niños a una pequeña excursión por el campo.": "Forest_181928_19_Penny_event2",
+    "¿Lo sabes todo sobre la vida en el campo, verdad?": "Forest_181928_19_Penny_event2_sv1",
+    "Así que estaba pensando... ¿podrías ser mi invitado especial hoy?": "Forest_181928_19_Penny_event3",
+    "¡Jas! ¡Vincent! ¡Prestarme atención por favor!": "Forest_181928_19_Penny_event4",
+    "Ha venido alguien muy especial para hablaros hoy... desde nuestra granja local, aquí está @.": "Forest_181928_19_Penny_event5",
+    "Él tiene experiencia de primera mano viviendo en el campo... ¡así que sabe todo sobre los « recursos naturales » del valle!": "Forest_181928_19_Penny_event5_sv1_male_farmer",
+    "Ella tiene experiencia de primera mano viviendo en el campo... ¡así que sabe todo sobre los « recursos naturales » del valle!": "Forest_181928_19_Penny_event5_sv1_female_farmer",
+    "¿Quién puede decirme qué es un « recurso natural »?": "Forest_181928_19_Penny_event6",
+    "Jas?": "Forest_181928_19_Penny_event7",
+    "Un recurso natural es una fuente material de riqueza que ocurre en un estado natural y tiene valor económico.": "Forest_181928_19_Jas_event1",
+    "¡Muy bien! Eso se merece dos estrellitas, Jas.": "Forest_181928_19_Penny_event8",
+    "¡Síííí!": "Forest_181928_19_Jas_event2",
+    "Vale, ahora vamos a prestar mucha atención a @.": "Forest_181928_19_Penny_event9",
+    "Sí, ¿Vincent?": "Forest_181928_19_Penny_event10",
+    "Sr. @, ¿vas a casarte con la señorita Penny?": "Forest_181928_19_Vincent_event1_male_farmer",
+    "Sra. @... Ehm, ¿tienes novio?": "Forest_181928_19_Vincent_event1_female_farmer",
+    "¡Vincent! ¡Esa no es una pregunta apropiada! Pórtate bien, o tendré que quitarte todas tus estrellitas de hoy.": "Forest_181928_19_Penny_event11"
+}

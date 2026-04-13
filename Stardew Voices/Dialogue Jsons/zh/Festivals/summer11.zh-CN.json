@@ -1,0 +1,473 @@
+{
+      "夏威夷宴会": [
+            "summer11_name"
+      ],
+      "伙计们，又到了一年一度的百乐餐典礼。": [
+            "summer11_mainEvent_Lewis_event1"
+      ],
+      "嗯……州长？能有幸请您尝尝这汤么？": [
+            "summer11_mainEvent_Lewis_event2"
+      ],
+      "当然了！这一刻我期盼已久。": [
+            "summer11_mainEvent_Governor_event1"
+      ],
+      "……": [
+            "summer11_mainEvent_Governor_event2",
+            "summer11_mainEvent_y2_Governor_event2"
+      ],
+      "嗯……有点刺鼻……但实际上，味道非常好！": [
+            "summer11_governorReaction6_Governor_event1"
+      ],
+      "稍等一分钟……我的碗里有东西……这是什么？": [
+            "summer11_governorReaction6_Governor_event2"
+      ],
+      "什……么？！": [
+            "summer11_governorReaction6_Lewis_textAboveHeadEvent1"
+      ],
+      "嘶……": [
+            "summer11_governorReaction6_Marnie_textAboveHeadEvent1"
+      ],
+      "这个……这太离谱了！": [
+            "summer11_governorReaction6_Governor_event3"
+      ],
+      "呸……我的舌头肿了……我感觉好恶心。": [
+            "summer11_governorReaction6_Governor_event4"
+      ],
+      "到底是谁干了这种令人发指的事情，我要强烈谴责！怎么能将我的私人物品用来做这种事情，真是太变态了！": [
+            "summer11_governorReaction6_Lewis_event2"
+      ],
+      "回家吧，节日结束了。": [
+            "summer11_governorReaction6_Lewis_event3"
+      ],
+      "唔……嗯……味道不错，不过，好像缺了点什么……": [
+            "summer11_governorReaction5_Governor_event1"
+      ],
+      "您说的没错……汤有点淡。": [
+            "summer11_governorReaction5_Lewis_event1"
+      ],
+      "感谢您的参加，州长先生。这汤做得有点普通，实在很抱歉。": [
+            "summer11_governorReaction5_Lewis_event2"
+      ],
+      "那么……还有人想喝点儿汤吗？": [
+            "summer11_governorReaction5_Lewis_event3",
+            "summer11_governorReaction3_Lewis_event2",
+            "summer11_governorReaction2_Lewis_event2"
+      ],
+      "噢……我从没喝过这么好喝的汤！": [
+            "summer11_governorReaction4_Governor_event1"
+      ],
+      "您说得没错……的确很美味！": [
+            "summer11_governorReaction4_Lewis_event1"
+      ],
+      "伙计们，表现很棒！那么……还有人想尝尝吗？": [
+            "summer11_governorReaction4_Lewis_event2"
+      ],
+      "啊……这汤真好喝啊。星露谷出品果然必属精品！": [
+            "summer11_governorReaction3_Governor_event1"
+      ],
+      "嗯……美味。大家今天的表现都很好。": [
+            "summer11_governorReaction3_Lewis_event1"
+      ],
+      "唔……嗯……没什么好说的。汤的味道很普通。": [
+            "summer11_governorReaction2_Governor_event1"
+      ],
+      "他说得对……味道没什么特别的。虽然也不难喝。": [
+            "summer11_governorReaction2_Lewis_event1"
+      ],
+      "呃……好恶心的味道啊。接下来一整年都不想喝汤了。": [
+            "summer11_governorReaction1_Governor_event1"
+      ],
+      "呸，一定是有人添加了滥竽充数的食材。": [
+            "summer11_governorReaction1_Lewis_event1"
+      ],
+      "那么……还有人想喝汤吗？": [
+            "summer11_governorReaction1_Lewis_event2"
+      ],
+      "呸！好难喝！我要晕了……": [
+            "summer11_governorReaction0_Governor_event1"
+      ],
+      "得躺下歇一歇……": [
+            "summer11_governorReaction0_Governor_event2"
+      ],
+      "好样的……到底是谁把脏东西加到汤里的啊，害得州长先生都晕过去了！无耻。": [
+            "summer11_governorReaction0_Lewis_event1"
+      ],
+      "回家吧，节日到此为止了。": [
+            "summer11_governorReaction0_Lewis_event2"
+      ],
+      "欢迎各位！很高兴能看到大家齐聚在这里。我宣布，百乐汤仪式现在开始。": [
+            "summer11_mainEvent_y2_Lewis_event1"
+      ],
+      "州长？能有幸请您首先尝一尝吗？": [
+            "summer11_mainEvent_y2_Lewis_event2"
+      ],
+      "好的！我盯着那锅汤一下午了。": [
+            "summer11_mainEvent_y2_Governor_event1"
+      ],
+      "真是美好的时光……星露谷总是那么的赏心悦目。": [
+            "summer11_Governor"
+      ],
+      "回去得跟老婆大人协商下在这里买个度假小屋。": [
+            "summer11_Governor_sv1"
+      ],
+      "你不用管我的。我喜欢一个人欣赏海景。": [
+            "summer11_Abigail_spouse"
+      ],
+      "偶尔跟大家聚一聚是好事，但其实我现在只想回去农场里。": [
+            "summer11_Leah_spouse"
+      ],
+      "哈维一直找我聊天，但我真的只想好好享受这烤肉。": [
+            "summer11_Maru_spouse"
+      ],
+      "我正在陪着老朋友谈天说地。但其实我好想尝尝那美味的汤。": [
+            "summer11_Penny_spouse"
+      ],
+      "呼……我不敢动，一动就会汗流浃背。": [
+            "summer11_Haley_spouse"
+      ],
+      "我在努力保持着良好的心情……": [
+            "summer11_Sebastian_spouse"
+      ],
+      "我要是偷偷在汤里加些脏东西不知道会不会太过分嗯……": [
+            "summer11_Sam_spouse"
+      ],
+      "嘿，这么美好的天气，千方百计都要找借口来海边享受下啊！": [
+            "summer11_Alex_spouse"
+      ],
+      "哎呦……我袜子进沙子了……": [
+            "summer11_Harvey_spouse"
+      ],
+      "那个陈旧的小屋还真是老当益壮。每次我回去都会有一股屋子破烂到住不下去的心理准备……": [
+            "summer11_Elliott_spouse"
+      ],
+      "与人交际实在太累人……我宁愿一个人静静看海。": [
+            "summer11_Abigail"
+      ],
+      "%她没有反应。": [
+            "summer11_Emily"
+      ],
+      "嗷……你踩到我脚的了，亲。": [
+            "summer11_Robin"
+      ],
+      "太累人了，甜心。准备好去吃自助餐没？*喘气*": [
+            "summer11_Demetrius"
+      ],
+      "莱纳斯在烧烤着什么东西？好香啊……*咕噜*": [
+            "summer11_Maru"
+      ],
+      "有一年山姆往百乐汤里加了整整一磅的凤尾鱼。": [
+            "summer11_Sebastian"
+      ],
+      "现在知道为什么山姆的社区服务时数全镇第一了吧？": [
+            "summer11_Sebastian_sv1"
+      ],
+      "缓慢而均匀的转动是做出完美烧烤的关键。": [
+            "summer11_Linus"
+      ],
+      "嗯……要是我能讨好州长，说不定他会给我减税呢……": [
+            "summer11_Pierre"
+      ],
+      "不知道他喜不喜欢陈年威士忌？": [
+            "summer11_Pierre_sv1"
+      ],
+      "得找机会不让镇长一直跟他闲扯。": [
+            "summer11_Pierre_sv2"
+      ],
+      "我把后院采的新鲜蔬菜加到了汤锅里。": [
+            "summer11_Caroline"
+      ],
+      "这么好的天气就该搞个沙滩派对，你说呢？": [
+            "summer11_Alex"
+      ],
+      "这音乐吵死人了！": [
+            "summer11_George"
+      ],
+      "能不能让我静静地观海？": [
+            "summer11_George_sv1"
+      ],
+      "啊……海的味道让我回想起一些陈年往事。那时你还没出生呢。": [
+            "summer11_Evelyn"
+      ],
+      "州长要来例行访问了。": [
+            "summer11_Lewis"
+      ],
+      "你要是带了额外材料来，那就快添加到汤锅里去。": [
+            "summer11_Lewis_sv1"
+      ],
+      "吃得好饱，不过除了吃吃吃也没别的事可以做了。": [
+            "summer11_Clint"
+      ],
+      "这个节日我们一年庆祝一次，为的是让州长体验到星露谷的风味。": [
+            "summer11_Penny"
+      ],
+      "刘易斯镇长希想给州长留下好印象，所以他十分在意汤的味道。": [
+            "summer11_Penny_sv1"
+      ],
+      "嘿嘿……免费大餐。住在星露谷真是福利多多啊。好好享受吧，小子！": [
+            "summer11_Pam"
+      ],
+      "我想跳舞，但又怕出汗。": [
+            "summer11_Haley"
+      ],
+      "希望今年的汤味道会不错。": [
+            "summer11_Jodi"
+      ],
+      "嘿，很高兴见到你。": [
+            "summer11_Kent"
+      ],
+      "我要待在树荫这里……这边气候凉爽多了。": [
+            "summer11_Marlon"
+      ],
+      "州长？管他呢……": [
+            "summer11_Sam"
+      ],
+      "我干嘛要在意不认识的老家伙？": [
+            "summer11_Sam_sv1"
+      ],
+      "农活怎么样了？这一季忙坏了吧。": [
+            "summer11_Leah"
+      ],
+      "哇……大城市里面可买不到这种辣椒酱……": [
+            "summer11_Shane"
+      ],
+      "你要是带来了煮汤的材料，那就爬上那边的梯子把汤料丢进锅里。": [
+            "summer11_Marnie"
+      ],
+      "我起晚了，一出门就发现已经身处喧闹之中！": [
+            "summer11_Elliott"
+      ],
+      "我都忘了今天是宴会日。": [
+            "summer11_Elliott_sv1"
+      ],
+      "该死的沙蝇一直停靠在食物上！": [
+            "summer11_Gus"
+      ],
+      "地面上下雨了？*喘气*": [
+            "summer11_Dwarf"
+      ],
+      "下雨……这是个很陌生的概念。我们大部分人一辈子都没经历过下雨。": [
+            "summer11_Dwarf_sv1"
+      ],
+      "鱼群们对你们的节日很感兴趣。": [
+            "summer11_Wizard"
+      ],
+      "但它们不喜欢你们把垃圾往海里扔。": [
+            "summer11_Wizard_sv1"
+      ],
+      "还好我带了防晒霜。": [
+            "summer11_Harvey"
+      ],
+      "不知道玛鲁需不需要？": [
+            "summer11_Harvey_sv1"
+      ],
+      "听说家乡在下雨。你是为避雨才跑来这里的吗？": [
+            "summer11_Sandy"
+      ],
+      "话说我有点怀念雨景了……": [
+            "summer11_Sandy_sv1"
+      ],
+      "文森特舞跳得不怎么样。": [
+            "summer11_Jas"
+      ],
+      "好无聊……": [
+            "summer11_Vincent"
+      ],
+      "你好啊，@！在忙里偷闲吗？": [
+            "summer11_Willy"
+      ],
+      "讲真，这里好无聊哦，我宁愿去钓鱼。": [
+            "summer11_Willy_sv1"
+      ],
+      "嘘……我在学习完美烤肉的秘诀。": [
+            "summer11_Leo"
+      ],
+      "我每年去星露谷都很期待，这里到处都能感受到无比的魅力！": [
+            "summer11_Governor_y2"
+      ],
+      "喝完汤之后，我们去码头上逛逛吧，那里没什么人。": [
+            "summer11_Abigail_spouse_y2"
+      ],
+      "我听说州长正在考虑在这里买一套度假别墅。": [
+            "summer11_Penny_spouse_y2"
+      ],
+      "赶紧拿一点，不然都被吃光了！": [
+            "summer11_Leah_spouse_y2"
+      ],
+      "我真想跑回家去换上比基尼。": [
+            "summer11_Haley_spouse_y2"
+      ],
+      "现在水温正正好好……我用小脚趾试过了！": [
+            "summer11_Haley_spouse_y2_sv1"
+      ],
+      "这里比较阴凉，我过会儿再去餐桌那里找你，好吗？": [
+            "summer11_Maru_spouse_y2"
+      ],
+      "（喘气）差不多该休息一下了。": [
+            "summer11_Emily_spouse_y2"
+      ],
+      "我们过会儿再一起跳舞，好吗？": [
+            "summer11_Emily_spouse_y2_sv1"
+      ],
+      "听着音乐，我的双腿自己就动起来了……仿佛在上有氧健身课！": [
+            "summer11_Harvey_spouse_y2"
+      ],
+      "今天……我要大吃特吃，大不了明天多做几个俯卧撑！": [
+            "summer11_Alex_spouse_y2"
+      ],
+      "汤的味道好香……": [
+            "summer11_Sam_spouse_y2"
+      ],
+      "你加了什么好吃的东西吗？我好馋！": [
+            "summer11_Sam_spouse_y2_sv1"
+      ],
+      "你还记得那天下雨，我站在这里被你发现了吗？": [
+            "summer11_Sebastian_spouse_y2"
+      ],
+      "这里是我独处的地方……但我真的很庆幸你过来了。": [
+            "summer11_Sebastian_spouse_y2_sv1"
+      ],
+      "我们要不要到我的小屋里悄悄约个会……不过我担心我离开之后那里可能……有点发霉……": [
+            "summer11_Elliott_spouse_y2"
+      ],
+      "嗯……烤肉闻起来真香。": [
+            "summer11_Shane_spouse_y2"
+      ],
+      "州长来访，我爸心神不宁的，非得要把一切都做到完美！": [
+            "summer11_Abigail_y2"
+      ],
+      "我估计他想有朝一日当上镇长……": [
+            "summer11_Abigail_y2_sv1"
+      ],
+      "德米特里厄斯……那是因为开心啊！%noturn": [
+            "summer11_Robin_y2"
+      ],
+      "人类为什么喜欢跳舞呢？也许是一种本能机制，方便我们不经意间将基因好坏传达给选择的配偶？%noturn": [
+            "summer11_Demetrius_y2"
+      ],
+      "哎哟……这椅子怕是在烈日下晒了一整天吧。": [
+            "summer11_Maru_y2"
+      ],
+      "啊，你好。你也想要远离吵闹的地方吗？": [
+            "summer11_Sebastian_y2"
+      ],
+      "啊，你闻到了吗？": [
+            "summer11_Linus_y2"
+      ],
+      "这就代表肉马上要烤好了！": [
+            "summer11_Linus_y2_sv1"
+      ],
+      "等刘易斯从州长身边离开……我就凑上去打招呼……": [
+            "summer11_Pierre_y2"
+      ],
+      "啊，你怎么在这里。": [
+            "summer11_Pierre_y2_sv1"
+      ],
+      "你如果想买东西的话，到柜台对面跟我说吧。": [
+            "summer11_Pierre_y2_sv2"
+      ],
+      "格斯用我家的土豆给自助餐做了好几道菜。": [
+            "summer11_Caroline_y2"
+      ],
+      "怎么说，你打算往汤里面加什么食材？": [
+            "summer11_Caroline_y2_sv1"
+      ],
+      "如果我下水，你觉得其他人会一起来吗？我可不想一个人游泳！": [
+            "summer11_Alex_y2"
+      ],
+      "有韭葱大蒜土豆泥？嘿嘿……亲爱的，这里是不是天堂啊！%noturn": [
+            "summer11_George_y2"
+      ],
+      "好了，亲爱的，别吃太多，我可不想让你再犯胃痛。%noturn": [
+            "summer11_Evelyn_y2"
+      ],
+      "州长是我们今天的贵宾！希望大家都能好好表现。": [
+            "summer11_Lewis_y2"
+      ],
+      "给百乐汤带了食材的人，把东西放进汤锅里就行。": [
+            "summer11_Lewis_y2_sv1"
+      ],
+      "（咀嚼）这个节日的美食是最好吃的。": [
+            "summer11_Clint_y2"
+      ],
+      "大伙齐聚在这里，多开心呀！我会用心记住这样的时刻。": [
+            "summer11_Penny_y2"
+      ],
+      "（咕嘟咕嘟）太棒啦！这个我要多来一点！": [
+            "summer11_Pam_y2"
+      ],
+      "（喘气）屁股要扭起来！": [
+            "summer11_Emily_y2"
+      ],
+      "我得歇一会儿了，出了好多汗！": [
+            "summer11_Emily_y2_sv1"
+      ],
+      "不要挡着阳光！我这个位置刚好不会弄出晒痕。": [
+            "summer11_Haley_y2"
+      ],
+      "听说夏季的农活很多，千万不要劳累过度了啊！": [
+            "summer11_Jodi_y2"
+      ],
+      "（闻了一下）……气味总能唤起以前的记忆……": [
+            "summer11_Kent_y2"
+      ],
+      "有好也有坏……": [
+            "summer11_Kent_y2_sv1"
+      ],
+      "你好。": [
+            "summer11_Marlon_y2"
+      ],
+      "汤？跳舞？不用了，我待在这里就足够了，而且总得有人看着，万一冒出来什么怪物……": [
+            "summer11_Marlon_y2_sv1"
+      ],
+      "明年我一定要记得带上电吉他……这首歌的这一段来一段独奏，那可太妙了！": [
+            "summer11_Sam_y2"
+      ],
+      "我到底要吃哪个啊！看得我眼花缭乱。": [
+            "summer11_Leah_y2"
+      ],
+      "白吃白喝我肯定不会拒绝。": [
+            "summer11_Shane_y2"
+      ],
+      "@，你好！你带了食材吗？爬上梯子丢进百乐汤里就行了！": [
+            "summer11_Marnie_y2"
+      ],
+      "啊，夏威夷宴会……一开门就能见到平时小镇里的熙熙攘攘！": [
+            "summer11_Elliott_y2"
+      ],
+      "一个糟糕的食材，就会坏了一锅汤……": [
+            "summer11_Gus_y2"
+      ],
+      "You say it's raining up above? *gasp*": [
+            "summer11_Dwarf_y2"
+      ],
+      "Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.": [
+            "summer11_Dwarf_y2_sv1"
+      ],
+      "大海深处蕴藏着太多秘密，等待着被人发现。": [
+            "summer11_Wizard_y2"
+      ],
+      "（不停喘气）……啊啊啊，快给我喝一碗热气腾腾的汤吧……": [
+            "summer11_Harvey_y2"
+      ],
+      "I heard it's raining back home. Is that why you came here?": [
+            "summer11_Sandy_y2"
+      ],
+      "I kind of miss the rain, actually...": [
+            "summer11_Sandy_y2_sv1"
+      ],
+      "我……我必须得吃吗？": [
+            "summer11_Jas_y2"
+      ],
+      "为什么我不能去水洼那边玩？": [
+            "summer11_Vincent_y2"
+      ],
+      "别担心，我会回来喝汤的……我就去抽个烟！": [
+            "summer11_Willy_y2"
+      ],
+      "我的老家就在那个方向，在大海的那头，感觉很近，却又非常遥远。": [
+            "summer11_Leo_y2"
+      ],
+      "希望朋友们过得还好。": [
+            "summer11_Leo_y2_sv1"
+      ]
+}

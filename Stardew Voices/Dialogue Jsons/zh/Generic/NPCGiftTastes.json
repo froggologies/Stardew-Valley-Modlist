@@ -1,0 +1,204 @@
+{
+      "Alex": {
+            "嘿，真棒！我超爱这个！": [
+                  "AlexGiftTaste_1"
+            ],
+            "这东西好酷！谢谢你啊。": [
+                  "AlexGiftTaste_2"
+            ],
+            "呃……好的。谢谢你了。": [
+                  "AlexGiftTaste_3"
+            ],
+            "你认真的吗？这是垃圾。": [
+                  "AlexGiftTaste_4"
+            ],
+            "谢谢！": [
+                  "AlexGiftTaste_5"
+            ]
+      },
+      "Elliott": {
+            "@，好漂亮的礼物！非常感谢！": [
+                  "ElliottGiftTaste_1"
+            ],
+            "这是给我的吗？棒呆了！": [
+                  "ElliottGiftTaste_2"
+            ],
+            "唔……我不太喜欢这个。": [
+                  "ElliottGiftTaste_3"
+            ],
+            "这东西让我感觉很糟糕。我只能扔掉它了。": [
+                  "ElliottGiftTaste_4"
+            ],
+            "噢，礼物！非常感谢！": [
+                  "ElliottGiftTaste_5"
+            ]
+      },
+      "Harvey": {
+            "这是为我准备的吗？这是我最喜欢的东西！就好像你和我有心灵感应一样。": [
+                  "HarveyGiftTaste_1"
+            ],
+            "真是个不错的礼物。非常感谢！": [
+                  "HarveyGiftTaste_2"
+            ],
+            "唔……你确定这个健康？": [
+                  "HarveyGiftTaste_3"
+            ],
+            "……我想我对它过敏。": [
+                  "HarveyGiftTaste_4"
+            ],
+            "谢谢你啊。你人真好。": [
+                  "HarveyGiftTaste_5"
+            ]
+      },
+      "Sam": {
+            "噢，太好了！这绝对是我的最爱！": [
+                  "SamGiftTaste_1"
+            ],
+            "谢谢！我真的很喜欢。": [
+                  "SamGiftTaste_2"
+            ],
+            "嗯……这……有点意思。": [
+                  "SamGiftTaste_3"
+            ],
+            "你是故意的，对吗？": [
+                  "SamGiftTaste_4"
+            ],
+            "你给我带了这个？谢谢！": [
+                  "SamGiftTaste_5"
+            ]
+      },
+      "Sebastian": {
+            "我真的很喜欢这东西。你怎么会知道的？": [
+                  "SebastianGiftTaste_1"
+            ],
+            "谢谢，我喜欢这个。": [
+                  "SebastianGiftTaste_2"
+            ],
+            "……？": [
+                  "SebastianGiftTaste_3"
+            ],
+            "……我讨厌这个。": [
+                  "SebastianGiftTaste_4"
+            ],
+            "……谢谢。": [
+                  "SebastianGiftTaste_5"
+            ]
+      },
+      "Shane": {
+            "哇哦，@！你怎么知道我最喜欢这个的？": [
+                  "ShaneGiftTaste_1"
+            ],
+            "真是太棒了！谢谢！": [
+                  "ShaneGiftTaste_2"
+            ],
+            "我才不喜欢这个。": [
+                  "ShaneGiftTaste_3",
+                  "ShaneGiftTaste_4"
+            ],
+            "噢，你给我带了东西？谢谢！": [
+                  "ShaneGiftTaste_5"
+            ]
+      },
+      "Abigail": {
+            "我真的很喜欢这个！你是最棒的，@！": [
+                  "AbigailGiftTaste_1"
+            ],
+            "嘿，你怎么知道我饿了的？这个看起来好好吃！": [
+                  "AbigailGiftTaste_2"
+            ],
+            "我能用这个干嘛？": [
+                  "AbigailGiftTaste_3"
+            ],
+            "你在想什么？真差劲！": [
+                  "AbigailGiftTaste_4"
+            ],
+            "你给我带了礼物？谢谢你啊。": [
+                  "AbigailGiftTaste_5"
+            ]
+      },
+      "Emily": {
+            "这礼物妙极了！太感谢你了。": [
+                  "EmilyGiftTaste_1"
+            ],
+            "非常感谢！这礼物让我感受到了正能量。": [
+                  "EmilyGiftTaste_2"
+            ],
+            "……抱歉，@。我不喜欢这个。": [
+                  "EmilyGiftTaste_3"
+            ],
+            "这礼物有着强烈的负能量。我受不了。": [
+                  "EmilyGiftTaste_4"
+            ],
+            "谢谢！": [
+                  "EmilyGiftTaste_5"
+            ]
+      },
+      "Haley": {
+            "天哪，这是我的最爱！！": [
+                  "HaleyGiftTaste_1"
+            ],
+            "*喘气*……给我的？非常感谢！": [
+                  "HaleyGiftTaste_2"
+            ],
+            "呃……真是件蠢礼物。": [
+                  "HaleyGiftTaste_3"
+            ],
+            "恶心！": [
+                  "HaleyGiftTaste_4"
+            ],
+            "谢谢。我喜欢礼物。": [
+                  "HaleyGiftTaste_5"
+            ]
+      },
+      "Leah": {
+            "噢！这正是我想要的！非常感谢！": [
+                  "LeahGiftTaste_1"
+            ],
+            "这礼物真不错！非常感谢！": [
+                  "LeahGiftTaste_2"
+            ],
+            "唔……我想每个人口味不一样。": [
+                  "LeahGiftTaste_3"
+            ],
+            "真是个糟糕的礼物，对吧？": [
+                  "LeahGiftTaste_4"
+            ],
+            "谢谢。": [
+                  "LeahGiftTaste_5"
+            ]
+      },
+      "Maru": {
+            "那个是……？哇哦，@！太棒了！": [
+                  "MaruGiftTaste_1"
+            ],
+            "真是份大礼！非常感谢！": [
+                  "MaruGiftTaste_2"
+            ],
+            "噢！这是给我的？我要把它放在哪儿呢……": [
+                  "MaruGiftTaste_3"
+            ],
+            "呸！你觉得我会喜欢这个？": [
+                  "MaruGiftTaste_4"
+            ],
+            "麻烦你了。": [
+                  "MaruGiftTaste_5"
+            ]
+      },
+      "Penny": {
+            "非常感谢！我太喜欢这个了！": [
+                  "PennyGiftTaste_1"
+            ],
+            "非常感谢！这看起来很特别。": [
+                  "PennyGiftTaste_2"
+            ],
+            "呃，给我的？……谢谢。": [
+                  "PennyGiftTaste_3"
+            ],
+            "啊……抱歉，但是我真的很讨厌这个。": [
+                  "PennyGiftTaste_4"
+            ],
+            "谢谢，这看起来不错。": [
+                  "PennyGiftTaste_5"
+            ]
+      }
+}

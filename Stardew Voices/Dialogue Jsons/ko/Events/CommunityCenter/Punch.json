@@ -1,0 +1,16 @@
+{
+    "하!": "response_CommunityCenter_Punch_Morris_textAboveHeadEvent1",
+    "아무렴 어때! 내가 그냥 75% 할인을 해버리면 손님들이 전부 다시 기어 돌아올 거야, 용서를 빌면서! 두고 봐!": "response_CommunityCenter_Punch_Morris_event2",
+    "아냐...이번엔 아냐, 모리스.": "response_CommunityCenter_Punch_Pierre_event1",
+    "오늘 끝장을 볼 시간이 되었다고 봐.": "response_CommunityCenter_Punch_Pierre_event1_sv1",
+    "오? 그럼 어떻게 해볼 생각인데?": "response_CommunityCenter_Punch_Morris_event3",
+    "하! 원시적이긴...": "response_CommunityCenter_Punch_Morris_event4",
+    "싸우기엔 너무 겁이 난다면 부하직원이라도 보내봐! 아니면 조자 직원은 전부 겁쟁이인가?": "response_CommunityCenter_Punch_Pierre_event2",
+    "내 욕은 얼마든 해도 좋지만... 감히 조자를 욕하는 건 용서 못 해!": "response_CommunityCenter_Punch_Morris_event5",
+    "피에르!": "response_CommunityCenter_Punch_Caroline_textAboveHeadEvent1",
+    "하! 잘하는구먼!": "response_CommunityCenter_Punch_George_textAboveHeadEvent1",
+    "네 농산물 코너보다 약하구나!": "response_CommunityCenter_Punch_Morris_event6",
+    "네 주먹질도 딱 조자 같구나...": "response_CommunityCenter_Punch_Pierre_event3",
+    "질보단 양이냐!": "response_CommunityCenter_Punch_Pierre_event3_sv1",
+    "후려쳐!": "response_CommunityCenter_Punch_George_textAboveHeadEvent2"
+}

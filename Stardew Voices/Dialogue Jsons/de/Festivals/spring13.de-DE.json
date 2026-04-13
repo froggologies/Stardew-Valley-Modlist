@@ -1,0 +1,336 @@
+{
+      "Eierfest": [
+            "spring13_name"
+      ],
+      "Wow, schaut euch all die Eier an!": [
+            "spring13_afterEggHunt_Lewis_event1"
+      ],
+      "Und jetzt, der Gewinner der diesjährigen Eiersuche...": [
+            "spring13_afterEggHunt_Lewis_event2"
+      ],
+      "Hier ist dein Preis! Viel Spaß.": [
+            "spring13_afterEggHunt_Lewis_event3"
+      ],
+      "Nun, das war das Eierfest für dieses Jahr. Danke, dass ihr dabei wart!": [
+            "spring13_afterEggHunt_Lewis_event4",
+            "spring13_AbbyWin_Lewis_event2"
+      ],
+      "Hier ist dein Preis, Abigail. Viel Spaß!": [
+            "spring13_AbbyWin_Lewis_event1"
+      ],
+      "Es ist Zeit für das Highlight der heutigen Festivitäten, die jährliche Frühlingseiersuche!": [
+            "spring13_mainEvent_Lewis_event1"
+      ],
+      "Ganz ruhig, Kinder. Ihr braucht eure Energie noch, wenn ihr die meisten Eier finden und den Preis abstauben wollt.": [
+            "spring13_mainEvent_Lewis_event2"
+      ],
+      "Nun denn... sind alle bereit?": [
+            "spring13_mainEvent_Lewis_event3"
+      ],
+      "Lasset die Eiersuche beginnen!": [
+            "spring13_mainEvent_Lewis_event4"
+      ],
+      "Wow, sieh dir all diese Eier an!": [
+            "spring13_afterEggHunt_y2_Lewis_event1"
+      ],
+      "Und nun, der Gewinner der diesjährigen Eiersuche...": [
+            "spring13_afterEggHunt_y2_Lewis_event2"
+      ],
+      "Hier ist dein Preis! Viel Spaß!": [
+            "spring13_afterEggHunt_y2_Lewis_event3"
+      ],
+      "Das war's für das diesjährige Eierfest. Vielen Dank, dass ihr alle gekommen seid!": [
+            "spring13_afterEggHunt_y2_Lewis_event4"
+      ],
+      "Es ist Zeit für den Höhepunkt der heutigen Feierlichkeiten... Die jährliche Frühlings-Eiersuche!": [
+            "spring13_mainEvent_y2_Lewis_event1"
+      ],
+      "Beruhigt euch jetzt, Kinder. Ihr werdet eure ganze Energie brauchen, wenn ihr die meisten Eier finden und den exklusiven Preis mit nach Hause nehmen wollt.": [
+            "spring13_mainEvent_y2_Lewis_event2"
+      ],
+      "Und jetzt... Sind alle bereit?": [
+            "spring13_mainEvent_y2_Lewis_event3"
+      ],
+      "Die Eiersuche kann beginnen!": [
+            "spring13_mainEvent_y2_Lewis_event4"
+      ],
+      "Durch das Kombinieren ihrer gesammelten Eier... Jas und Vincent!": [
+            "spring13_Event_cs_1862"
+      ],
+      "Hau ab, wir sind Gegner, bis die Eiersuche vorbei ist!": [
+            "spring13_Abigail_spouse"
+      ],
+      "Ich hatte in dieser Stadt nie viele Freunde, also sind diese Veranstaltungen immer langweilig für mich. Ich mag aber das Büffet.": [
+            "spring13_Leah_spouse"
+      ],
+      "Ich unterhalte mich nur ein wenig mit Penny. Hast du schon genug von den Eiern?": [
+            "spring13_Maru_spouse"
+      ],
+      "Maru will mich dazu überreden, ein gefülltes Ei zu essen. Ich bin mir nicht sicher, ob mein Magen das mitmacht...": [
+            "spring13_Penny_spouse"
+      ],
+      "Ich wollte eigentlich ein paar Eier essen, aber dann fiel mir wieder ein, dass ich auf Frühlingsdiät bin.": [
+            "spring13_Haley_spouse"
+      ],
+      "Ich feuer dich bei der Eiersuche an.": [
+            "spring13_Sebastian_spouse"
+      ],
+      "Die Typen ändern sich nie. Hast du Spaß?": [
+            "spring13_Sam_spouse"
+      ],
+      "Puuuh... Ich habe wohl ein Dutzend hartgekochte Eier zu viel verputzt...": [
+            "spring13_Alex_spouse"
+      ],
+      "Wie kommt ihr so voran? Ich mache gerade eine kurze Pause. Ich bin gespannt darauf, dich bei der Eiersuche zu sehen!": [
+            "spring13_Harvey_spouse"
+      ],
+      "Es ist schön, dich so entspannt zu sehen, Schatz.": [
+            "spring13_Elliott_spouse"
+      ],
+      "Nach Eiern zu suchen ist fast wie eine Schatzsuche.": [
+            "spring13_Abigail"
+      ],
+      "Der Frühling ist eine sehr geschäftige Zeit... Es geht nichts über einen freien Tag, um mit Freunden zu plaudern.": [
+            "spring13_Robin"
+      ],
+      "Eier... Schon etwas merkwürdig, sowas zu essen.": [
+            "spring13_Demetrius"
+      ],
+      "Ich freue mich immer auf diese Zusammenkünfte... Dadurch entsteht ein richtiges Gemeinschaftsgefühl im Tal.": [
+            "spring13_Maru"
+      ],
+      "Es gab mal ein Eierwettwerfen mit faulen Eiern...": [
+            "spring13_Sebastian"
+      ],
+      "Bürgermeister Lewis hat dem schnell ein Ende gesetzt.": [
+            "spring13_Sebastian_sv1"
+      ],
+      "Keiner redet wirklich mit mir... Ich komme nur wegen der gefüllten Eier.": [
+            "spring13_Linus"
+      ],
+      "Hey! Wie bist du dort hingekommen?": [
+            "spring13_Pierre"
+      ],
+      "Fass ja nichts an.": [
+            "spring13_Pierre_sv1"
+      ],
+      "Abby liebt die Eiersuche schon von klein auf.": [
+            "spring13_Caroline"
+      ],
+      "Ich versuche, jeden Tag mindestens drei Eier zu essen.": [
+            "spring13_Alex"
+      ],
+      "Ich brauche das Protein für meine Beine.": [
+            "spring13_Alex_sv1"
+      ],
+      "Worüber sind alle so glücklich? Hmmpf...": [
+            "spring13_George"
+      ],
+      "Eier... Warum Eier?": [
+            "spring13_George_sv1"
+      ],
+      "Dieses Fest war schon immer Tradition.": [
+            "spring13_Evelyn"
+      ],
+      "Tradition verbindet uns mit unserer Vergangenheit und der Zukunft... Ein angenehmes Gefühl.": [
+            "spring13_Evelyn_sv1"
+      ],
+      "Gefällt's dir, @?": [
+            "spring13_Lewis"
+      ],
+      "Gibt es irgendwo noch mehr zu essen?": [
+            "spring13_Clint"
+      ],
+      "Die Kinder freuen sich schon seit Wochen auf dieses Fest.": [
+            "spring13_Penny"
+      ],
+      "Hehe... Ich habe den Punsch etwas aufgebessert.": [
+            "spring13_Pam"
+      ],
+      "Pssst... das bleibt unter uns, Kindchen.": [
+            "spring13_Pam_sv1"
+      ],
+      "Ich bin schon seit Tagesanbruch wach und färbe Eier... Mein absoluter Lieblingsteil dieser Jahreszeit.": [
+            "spring13_Emily"
+      ],
+      "Dieses Fest ist ganz nett... Aber auf was ich mich wirklich freue, ist der Blumentanz.": [
+            "spring13_Haley"
+      ],
+      "Vincent liebt dieses Fest... es ist schön, ihn so glücklich zu sehen.": [
+            "spring13_Jodi"
+      ],
+      "Ich bin kein großer Fan von Eiern, um ehrlich zu sein.": [
+            "spring13_Kent"
+      ],
+      "Selbst mit meinen Beinproblemen verpasse ich nie ein Stadtfest.": [
+            "spring13_Marlon"
+      ],
+      "*schnief*... uh... meine Nade... *schnief*... Nase... Allergien...": [
+            "spring13_Sam"
+      ],
+      "Mmmmh... Dieser Früchtepunsch ist ungewöhnlich gut.": [
+            "spring13_Leah"
+      ],
+      "Unsere Hennen mussten Überstunden machen, um dieses Fest vorzubereiten.": [
+            "spring13_Shane"
+      ],
+      "Sie verdienen nur das Beste heute Abend... Eine Runde saftigen, goldenen Mais!": [
+            "spring13_Shane_sv1"
+      ],
+      "Willkommen beim Eierfest... dank meiner wundervollen Hennen.": [
+            "spring13_Marnie"
+      ],
+      "Gelegentliche Pausen bei der Arbeit können auf lange Sicht die Produktivität steigern.": [
+            "spring13_Elliott"
+      ],
+      "Ich hoffe, allen schmeckt das Essen... Ich habe tagelang gekocht, um alles vorzubereiten.": [
+            "spring13_Gus"
+      ],
+      "Spiegeleier, hartgekochte Eier, gefüllte Eier, Rührei, Schokoladeneier... und so weiter!": [
+            "spring13_Gus_sv1"
+      ],
+      "Was, es regnet oben? *schock*": [
+            "spring13_Dwarf"
+      ],
+      "Regen... Er ist schon fast ein Mythos für uns. Manche von uns erleben ihn ihr ganzes Leben lang nicht.": [
+            "spring13_Dwarf_sv1"
+      ],
+      "Hmm... Und was wäre mit einem rohen Echsenei mit einer Prise gehackter Bittermelone?": [
+            "spring13_Wizard"
+      ],
+      "Eier gehören definitiv zu einer gut ausbalancierten Ernährung.": [
+            "spring13_Harvey"
+      ],
+      "Uups... Ich sollte für den Moment mir meine ärztlichen Ratschläge verkneifen.1": [
+            "spring13_Harvey_sv1"
+      ],
+      "Ich habe gehört, dass es zu Hause regnet. Bist du deswegen hier?": [
+            "spring13_Sandy"
+      ],
+      "Ich vermisse den Regen irgendwie...": [
+            "spring13_Sandy_sv1"
+      ],
+      "Hoffentlich kann ich ein paar Eier finden, bevor Vincent sie sich alle schnappt...": [
+            "spring13_Jas"
+      ],
+      "Wann beginnt die Eiersuche? Ich bin so aufgeregt!!": [
+            "spring13_Vincent"
+      ],
+      "Teilweise verstecke ich Eier zu gut und keiner findet sie...": [
+            "spring13_Willy"
+      ],
+      "Na ja, bis der Sommer dann kommt. Die heißen Temperaturen bringen schließlich den fauligen Geruch an den Tag... Hehe.": [
+            "spring13_Willy_sv1"
+      ],
+      "Ah, die Kanalisation fließt heute schnell. Es wird angenehm feucht hier drin... Wie ich es mag.": [
+            "spring13_???"
+      ],
+      "Die Idee einer Eierjagd ist ein wenig seltsam... aber ich schätze, die Eier gehören keinem meiner Familienmitglieder...": [
+            "spring13_Leo"
+      ],
+      "Naja okay, ich werde trotzdem mitmachen!": [
+            "spring13_Leo_sv1"
+      ],
+      "Denkst du, ich bin zu alt für die Eierjagd?": [
+            "spring13_Abigail_y2"
+      ],
+      "Hmmph... du klingst wie meine Mutter!": [
+            "spring13_Abigail_y2__Ja__response"
+      ],
+      "Ja, ich denke schon. Wenn ich immer noch Spaß habe, warum aufhören?'": [
+            "spring13_Abigail_y2__Nein__response"
+      ],
+      "Es fühlt sich toll an, nach diesem langen, kalten Winter wieder draußen zu sein, nicht wahr?": [
+            "spring13_Robin_y2"
+      ],
+      "Hey @, hast du meine Karpfen-Rogenpastete probiert?": [
+            "spring13_Demetrius_y2"
+      ],
+      "...Was? Es ist das 'Ei'-Festival, nicht wahr?": [
+            "spring13_Demetrius_y2_sv1"
+      ],
+      "Glaubst du, dass du dieses Jahr die Eierjagd gewinnen wirst?": [
+            "spring13_Maru_y2"
+      ],
+      "Weißt du was? Ich vermisse irgendwie den Winter... es ist einfacher, in gewisser Weise.": [
+            "spring13_Sebastian_y2"
+      ],
+      "Ich schleiche mich einfach etwas später rein und esse etwas. Ich habe ein Auge auf den lecker aussehenden Kuchen geworfen!": [
+            "spring13_Linus_y2"
+      ],
+      "Du versuchst, ein Hinterzimmer-Geschäft zu machen, was? Hah! Ich bewundere deinen Grips.": [
+            "spring13_Pierre_y2"
+      ],
+      "Es mag ein bisschen langweilig sein, aber diese Festivals sind eine gute Gelegenheit, mit unseren Nachbarn in Kontakt zu treten.": [
+            "spring13_Caroline_y2"
+      ],
+      "Ich frage mich, was mit meinen Armen und Beinen passieren würde, wenn ich dreißig Eier am Tag essen würde.": [
+            "spring13_Alex_y2"
+      ],
+      "Evelyn hat Eier und Lauch zum Frühstück gemacht, ich bin also gut gelaunt.": [
+            "spring13_George_y2"
+      ],
+      "Hast du Hühner auf deinem Hof?": [
+            "spring13_Evelyn_y2"
+      ],
+      "Gut! Ich bin sicher, sie legen die köstlichsten Eier...": [
+            "spring13_Evelyn_y2__Ja__response"
+      ],
+      "Frühling wäre ein guter Zeitpunkt, mit der Hühnerzucht zu beginnen, meinst Du nicht?'": [
+            "spring13_Evelyn_y2__Nein__response"
+      ],
+      "Oh nein... *schluck*... Dieses Jahr ist es hauptsächlich Salat...": [
+            "spring13_Clint_y2"
+      ],
+      "Hoffentlich kann Vincent dieses Jahr ein Ei finden...": [
+            "spring13_Penny_y2"
+      ],
+      "Es wäre gut für ihn, wenn er das Gefühl hätte, ein Anwärter zu sein.": [
+            "spring13_Penny_y2_sv1"
+      ],
+      "Hey... Wenn du mich mit Eiern füttern willst, brauche ich scharfe Soße!": [
+            "spring13_Pam_y2"
+      ],
+      "Dieses Jahr habe ich für einige der Eier kleine Hosen und Hüte genäht. Sie sehen bezaubernd aus!": [
+            "spring13_Emily_y2"
+      ],
+      "Oh! Ich muss mich noch am Hasenstand fotografieren lassen. Sieht mein Haar gut aus?": [
+            "spring13_Haley_y2"
+      ],
+      "Kent scheint bei großen Versammlungen wie dieser immer etwas nervös zu sein...": [
+            "spring13_Jodi_y2"
+      ],
+      "Hast du jemals nach Schleimeiern gejagt? Das ist eine echte Herausforderung...": [
+            "spring13_Marlon_y2"
+      ],
+      "Hmm... Der Punsch ist nicht so gut wie letztes Jahr. Es fehlt etwas!": [
+            "spring13_Leah_y2"
+      ],
+      "Einige dieser Eier wurden erst heute Morgen gelegt. Siehst du? Sie sind noch warm!": [
+            "spring13_Shane_y2"
+      ],
+      "Hühner legen die Eier, aber auch Hähne spielen eine wichtige Rolle... sie schützen die Hennen und verhindern, dass sie miteinander kämpfen!": [
+            "spring13_Marnie_y2"
+      ],
+      "Das bedeutet glücklichere Hennen und bessere Eier...": [
+            "spring13_Marnie_y2_sv1"
+      ],
+      "Pass auf, dass Du nicht versehentlich ein Rabenei nehmt. Sie werden für den Rest ihrer Tage einen Groll gegen dich hegen!": [
+            "spring13_Elliott_y2"
+      ],
+      "Shh... sag es niemandem, aber ich habe dieses Jahr etwas anderes ausprobiert... Enteneier im Pudding!": [
+            "spring13_Gus_y2"
+      ],
+      "Eier sind in Ordnung, aber ich würde davon abraten, dreißig am Tag zu essen!": [
+            "spring13_Harvey_y2"
+      ],
+      "Ich werde mein Bestes versuchen, dieses Jahr zu gewinnen!": [
+            "spring13_Jas_y2"
+      ],
+      "Ich möchte in einem großen Ei leben!": [
+            "spring13_Vincent_y2"
+      ],
+      "Aye... an regnerischen Tagen findest du Welse in diesen Gewässern. Es ist ein anspruchsvoller Fang, aber die Mühe lohnt sich!": [
+            "spring13_Willy_y2"
+      ]
+}

@@ -1,0 +1,706 @@
+{
+      "¡Has encontrado lo que buscaba! Gracias.": [
+            "LostItemQuest_DefaultThankYou"
+      ],
+      "Mira nuestra pequeña familia... Hemos pasado por muchas cosas, ¿no crees?": [
+            "NewChild_SecondChild1"
+      ],
+      "Dos bebés preciosos... Hemos pasado por muchas cosas, ¿no crees?": [
+            "NewChild_SecondChild2"
+      ],
+      "Qué maravilla dar la bienvenida a {0} a nuestras vidas.": [
+            "NewChild_Adoption"
+      ],
+      "Todo ha ido bien, y ahora {0} forma parte de la familia. Cuánta suerte tenemos.": [
+            "NewChild_FirstChild"
+      ],
+      "Um... ¿Cariño? ¿Por qué hay monstruos en la casa?": [
+            "Spouse_MonstersInHouse"
+      ],
+      "¡Mañana podrás estrenar tu {0}! ¿No te hace ilusión?": [
+            "Farm_RobinWorking_ReadyTomorrow"
+      ],
+      "Tendrás tu {0} dentro de {1} días. Haz como si no estuviera.": [
+            "Farm_RobinWorking1"
+      ],
+      "Tendrás tu {0} dentro de {1} días. ¡Trabajaré día y noche para acabar lo antes posible!": [
+            "Farm_RobinWorking2"
+      ],
+      "Uh... ¿Qué estás haciendo?": [
+            "JoshHouse_Alex_Trash"
+      ],
+      "¡Eh, no mires ahí!": [
+            "SamHouse_Sam_Trash"
+      ],
+      "¡Eh, ni se te ocurra! ¡Eso es privado!": [
+            "SeedShop_Abigail_Drawers"
+      ],
+      "¿Qué estás haciendo? Solo permito que entre aquí la gente en quien confío.": [
+            "Wizard_Hatch"
+      ],
+      "Eh... Tu herramienta está lista, pero no tienes espacio en el inventario.": [
+            "Clint_NoInventorySpace"
+      ],
+      "Uh, todavía estoy trabajando en tu {0}. No creo que pueda terminar hoy.": [
+            "Clint_StillWorking"
+      ],
+      "¡El museo ha quedado increíble! Gracias otra vez por toda tu ayuda.": [
+            "Gunther_MuseumComplete"
+      ],
+      "No parece que tengas nada que donar al museo. Sal ahí afuera y busca tesoros, ¿vale?": [
+            "Gunther_NothingToDonate"
+      ],
+      "¡Hola! Te doy la bienvenida a la oficina arqueológica de Stardew Valley.": [
+            "Gunther_NoArtifactsFound"
+      ],
+      "Uh... Esto me resulta un poco violento, pero el anterior curador se marchó con toda la colección. No tenemos ni un artefacto que exponer.": [
+            "Gunther_NoArtifactsFound_sv1"
+      ],
+      "¡Pero espero solucionarlo pronto! Ey, si encuentras artefactos o minerales por ahí... ¿Me lo harías saber?": [
+            "Gunther_NoArtifactsFound_sv2"
+      ],
+      "¿Qué ha pasado? ¡¿Perteneces al club?!": [
+            "Sandy_PlayerClubMember"
+      ],
+      "Me alegra conocerte por fin. Te doy la bienvenida a mi club exclusivo.": [
+            "MisterQi_PlayerClubMember"
+      ],
+      "Tienes la chispa adecuada... Por eso te he elegido.": [
+            "MisterQi_PlayerClubMember_sv1"
+      ],
+      "¿Qué chispa? Ah... El conductor del misterio, del arte...": [
+            "MisterQi_PlayerClubMember_sv2"
+      ],
+      "Las personas como tú y yo tenemos la responsabilidad de mantener vivo al mundo, de dar a probar a la gente lo extraordinario.": [
+            "MisterQi_PlayerClubMember_sv3"
+      ],
+      "¿Sabes...? El mundo es como un bol de arroz. Tiene sustancia, pero no es nada sin una buena salsa potente. Ahí es donde entramos tú y yo.": [
+            "MisterQi_PlayerClubMember_sv4"
+      ],
+      "¿Nunca te has preguntado quién puso esos cofres del tesoro en la mina? Me gusta sorprender a la gente.": [
+            "MisterQi_PlayerClubMember_sv5"
+      ],
+      "Algún día lo entenderás. Sigue esforzándote y nunca te rindas.": [
+            "MisterQi_PlayerClubMember_sv6"
+      ],
+      "¡Gracias! Empezaré mañana. Tu casa debería estar lista en unos tres días.": [
+            "Robin_HouseUpgrade_Accepted"
+      ],
+      "¡Vaya, qué generoso por tu parte! Empezare a trabajar mañana mismo en esta mejora. En principio, creo que tardaré unos tres días.": [
+            "Robin_PamUpgrade_Accepted"
+      ],
+      "...Te he encontrado inconsciente en las minas. ¡Casi te confundo con un trozo de madera exótica!": [
+            "Mines_PlayerKilled_Robin"
+      ],
+      "Ten más cuidado la próxima vez, ¿vale?": [
+            "Mines_PlayerKilled_Robin_sv1",
+            "Mines_PlayerKilled_Clint_sv1",
+            "Mines_PlayerKilled_Maru_Spouse_sv1",
+            "Mines_PlayerKilled_Maru_NotSpouse_sv1",
+            "Mines_PlayerKilled_Linus_sv1"
+      ],
+      "...Te he encontrado inconsciente en las minas. ¡Casi te confundo con un trozo de roca!": [
+            "Mines_PlayerKilled_Clint"
+      ],
+      "...Te he encontrado inconsciente en las minas. ¡Tardabas tanto en volver a casa que empezaba a preocuparme!": [
+            "Mines_PlayerKilled_Maru_Spouse"
+      ],
+      "...Te he encontrado inconsciente en las minas. ¡Buscaba minerales y casi te piso la cabeza!": [
+            "Mines_PlayerKilled_Maru_NotSpouse"
+      ],
+      "...Te he encontrado inconsciente en las minas. ¡Has tenido suerte de que pasara por aquí!": [
+            "Mines_PlayerKilled_Linus"
+      ],
+      "¡Tardabas tanto en volver a casa que empezaba a preocuparme! Me he puesto a llorar al ver tu cuerpo inerte...": [
+            "Mines_PlayerKilled_Spouse_PlayerMale"
+      ],
+      "¡Tardabas tanto en volver a casa que empezaba a preocuparme! Casi me da un ataque al ver tu cuerpo inerte...": [
+            "Mines_PlayerKilled_Spouse_PlayerFemale"
+      ],
+      "¡Excelente! ¡Te damos la bienvenida a Joja Corporation! Vuelve mañana para empezar a poner en marcha los proyectos de desarrollo comunitario... ¡Ah, y no olvides tu monedero! Je, je.": [
+            "Morris_PlayerSignedUp"
+      ],
+      "Ahora, permíteme que llame al alcalde Lewis para ver cómo destripamos ese horrible centro cívico...": [
+            "Morris_PlayerSignedUp_sv1"
+      ],
+      "Vuelve mañana para ver cómo ponemos en marcha los proyectos de desarrollo comunitario... y asegúrate de traer mucho dinero. Je, je.": [
+            "Morris_ComeBackLater"
+      ],
+      "¡Te damos la bienvenida a MercaJoja! ¿Qué tal va todo hoy?": [
+            "Morris_Greeting",
+            "Morris_FirstGreeting_MembershipAvailable",
+            "Morris_FirstGreeting_SecondPlayer"
+      ],
+      "Creo que no nos conocemos. Soy Morris, representante del departamento de satisfacción al cliente de Joja.": [
+            "Morris_Greeting_sv1"
+      ],
+      "Cuando decidas convertirte en miembro de Joja, estaré encantado de hacer de la transición una agradable experiencia.": [
+            "Morris_Greeting_sv2"
+      ],
+      "¡Te damos la bienvenida a MercaJoja! ¿Qué tal el fin de semana?": [
+            "Morris_WeekendGreeting",
+            "Morris_WeekendGreeting_MembershipAvailable",
+            "Morris_WeekendGreeting_SecondPlayer"
+      ],
+      "Estamos introduciendo un nuevo sistema de afiliación para nuestros clientes. ¡Vuelve pronto para apuntarte!": [
+            "Morris_WeekendGreeting_sv1",
+            "Morris_FirstGreeting_sv1"
+      ],
+      "¡Te damos la bienvenida a MercaJoja!": [
+            "Morris_FirstGreeting"
+      ],
+      "¡Le damos la bienvenida a MercaJoja! ¿Cómo se encuentra hoy?": [
+            "Morris_FirstGreeting_CommunityCenterComplete"
+      ],
+      "Desafortunadamente, debido a circunstancias imprevisibles la oferta de membresía de Joja no está disponible. ¡Estoy seguro de que lo solucionaremos pronto!": [
+            "Morris_FirstGreeting_CommunityCenterComplete_sv1",
+            "Morris_WeekendGreeting_CommunityCenterComplete_sv1"
+      ],
+      "¡Le damos la bienvenida a MercaJoja! ¿Qué tal el fin de semana?": [
+            "Morris_WeekendGreeting_CommunityCenterComplete"
+      ],
+      "¡Ya tienes la posibilidad de unirte a nosotros! Al hacerlo, podrás mejorar la comunidad con la ayuda de nuestro entregado personal... Pagando un módico precio, claro.": [
+            "Morris_WeekendGreeting_MembershipAvailable_sv1",
+            "Morris_FirstGreeting_MembershipAvailable_sv1"
+      ],
+      "Ah, una cosa más... El alcalde Lewis nos ha prometido que, si conseguíamos un miembro más, nos dejará convertir ese viejo centro cívico en un almacén de Joja. ¿No es maravilloso?": [
+            "Morris_WeekendGreeting_MembershipAvailable_sv2",
+            "Morris_FirstGreeting_MembershipAvailable_sv2"
+      ],
+      "Convertirse en miembro cuesta {0}o. ¿Y bien? ¿Te interesa?": [
+            "Morris_WeekendGreeting_MembershipAvailable_sv3",
+            "Morris_FirstGreeting_MembershipAvailable_sv3"
+      ],
+      "Hmm... Nuestros registros indican que vives en una granja con más gente... Lo siento, pero solo podemos hacer miembro al propietario de tu residencia.": [
+            "Morris_WeekendGreeting_SecondPlayer_sv1",
+            "Morris_FirstGreeting_SecondPlayer_sv1"
+      ],
+      "Estamos procesando tu último proyecto de desarrollo comunitario. Por favor, vuelve cuando el trabajo haya terminado.": [
+            "Morris_StillProcessingOrder"
+      ],
+      "Tengo aquí mismo el formulario de proyectos de desarrollo comunitario de Joja. ¿Querrías echarle un vistazo, jovencito?": [
+            "Morris_CommunityDevelopmentForm_PlayerMale"
+      ],
+      "Tengo aquí mismo el formulario de proyectos de desarrollo comunitario de Joja. ¿Querrías echarle un vistazo, jovencita?": [
+            "Morris_CommunityDevelopmentForm_PlayerFemale"
+      ],
+      "Ey, {0}.": [
+            "PurchasedItem_1_QualityHigh",
+            "PurchasedItem_1_QualityLow"
+      ],
+      "El otro día fui a Pierre's y compré un ejemplar de {2}. Hacía tiempo que no veía por aquí...": [
+            "PurchasedItem_1_QualityHigh_sv1",
+            "PurchasedItem_1_QualityLow_sv1"
+      ],
+      "Anoche, al hacer la cena... me llenó la casa de un aroma {3}. ¡Tuvo mucho éxito!": [
+            "PurchasedItem_1_QualityHigh_sv2"
+      ],
+      "Me alegra que Pierre tenga más variedad.": [
+            "PurchasedItem_1_QualityHigh_sv3"
+      ],
+      "En fin...": [
+            "PurchasedItem_1_QualityHigh_sv4",
+            "PurchasedItem_1_QualityLow_sv3"
+      ],
+      "Anoche, al hacer la cena... me llenó la casa de un aroma {3}. ¡Tuvo mucho éxito! Me alegra que Pierre tenga más variedad.": [
+            "PurchasedItem_1_QualityLow_sv2"
+      ],
+      "Hola... ¿Vendiste tú un ejemplar de {2} a la tienda el otro día? Creo que lo compré yo...": [
+            "PurchasedItem_2_QualityHigh",
+            "PurchasedItem_2_QualityHigh_Jodi",
+            "PurchasedItem_2_QualityLow"
+      ],
+      "La verdad es que era un producto de gran calidad. Me has impresionado.": [
+            "PurchasedItem_2_QualityHigh_sv1"
+      ],
+      "La verdad es que era un producto de gran calidad. Fue olerlo y transportarme de vuelta a la granja de mi abuelita.": [
+            "PurchasedItem_2_QualityHigh_Jodi_sv1"
+      ],
+      "La verdad es que no estaba mal.": [
+            "PurchasedItem_2_QualityLow_sv1"
+      ],
+      "Anoche fui a comprar y cogí un ejemplar de {2} de oferta por solo {3}o.": [
+            "PurchasedItem_3_QualityLow_Rude",
+            "PurchasedItem_3_QualityHigh_Rude",
+            "PurchasedItem_3_NonRude"
+      ],
+      "¡Qué sabor tan {4}! No me extraña que Pierre lo vendiera a ese precio... Menuda {5}.": [
+            "PurchasedItem_3_QualityLow_Rude_sv1"
+      ],
+      "Tenía un sabor bastante {4}.": [
+            "PurchasedItem_3_QualityHigh_Rude_sv1"
+      ],
+      "No podía dejar pasar ese chollo.": [
+            "PurchasedItem_3_NonRude_sv1"
+      ],
+      "El otro día estaba en la tienda y Pierre me enseñó un ejemplar de {2} que le vendiste.": [
+            "PurchasedItem_4"
+      ],
+      "Lo compré sin dudar.": [
+            "PurchasedItem_4_sv1"
+      ],
+      "El otro día le compré a Pierre un ejemplar de {2} que sabía a gloria.": [
+            "PurchasedItem_5_VegetableOrFruit"
+      ],
+      "Dijo que era de su propia cosecha. ¡No sabía que fuera tan buen granjero!": [
+            "PurchasedItem_5_VegetableOrFruit_sv1"
+      ],
+      "Vas a tener competencia, ¿eh?": [
+            "PurchasedItem_5_VegetableOrFruit_sv2"
+      ],
+      "El otro día le compré a Pierre un plato de {2} que sabía a gloria.": [
+            "PurchasedItem_5_Cooking"
+      ],
+      "Dijo que lo había cocinado él con ingredientes de la zona. ¡No sabía que fuera un chef tan {4}!": [
+            "PurchasedItem_5_Cooking_sv1"
+      ],
+      "El otro día le compré a Pierre un ejemplar de {2} que sabía a gloria. Dijo que lo había encontrado explorando las montañas. ¡No sabía que fuese tan buen recolector!": [
+            "PurchasedItem_5_Foraged"
+      ],
+      "Ey, el otro día compré {2} de tu granja en la tienda. Mi madre quería algo bueno para cenar.": [
+            "PurchasedItem_Teen"
+      ],
+      "Ey. Anoche cenamos un par de ejemplares de {2} que vendiste en nuestra tienda... Supongo que se estaban estropeando y mi padre no quería que acabaran en la basura.": [
+            "PurchasedItem_Abigail_QualityLow",
+            "PurchasedItem_Abigail_QualityHigh"
+      ],
+      "Por desgracia, sabían un poco {3}.": [
+            "PurchasedItem_Abigail_QualityLow_sv1"
+      ],
+      "Aunque su sabor estaba bastante bien aún.": [
+            "PurchasedItem_Abigail_QualityHigh_sv1"
+      ],
+      "Oh, @... Qué vergüenza. Eché uno de tus ejemplares de {2} a mi compostadora...": [
+            "PurchasedItem_Caroline_QualityLow"
+      ],
+      "Y ahora huele todo que apesta. ¿Dónde dices que lo encontraste?": [
+            "PurchasedItem_Caroline_QualityLow_sv1"
+      ],
+      "Oh, @... Qué vergüenza. Eché uno de tus ejemplares de {2} a mi compostadora.": [
+            "PurchasedItem_Caroline_QualityHigh"
+      ],
+      "Aunque, viendo la parte positiva, ¡a los gusanos les encanta! ¡Nunca los había visto tan contentos!": [
+            "PurchasedItem_Caroline_QualityHigh_sv1"
+      ],
+      "Ey, ¿recuerdas aquel ejemplar de {2} que me vendiste el otro día? Acabé sirviéndoselo a la familia para cenar.": [
+            "PurchasedItem_Pierre_QualityLow",
+            "PurchasedItem_Pierre_QualityHigh"
+      ],
+      "No triunfó demasiado...": [
+            "PurchasedItem_Pierre_QualityLow_sv1"
+      ],
+      "Bueno... Volvamos al trabajo, ¿no?": [
+            "PurchasedItem_Pierre_QualityLow_sv2"
+      ],
+      "¡A mi mujer le encantó! Y hasta Abby se emocionó cuando lo cubrí con salsa barbacoa.": [
+            "PurchasedItem_Pierre_QualityHigh_sv1"
+      ],
+      "Bueno,... Volvamos al trabajo, ¿no?": [
+            "PurchasedItem_Pierre_QualityHigh_sv2"
+      ],
+      "Anoche Emily intentó darme {2} para cenar... Vacié el plato en la basura cuando no miraba.": [
+            "PurchasedItem_Haley"
+      ],
+      "No me gusta la comida sana...": [
+            "PurchasedItem_Haley_sv1"
+      ],
+      "¡Vi que Pierre tenía un ejemplar fresco de {2} en su tienda el otro día! Un aspecto maravilloso. El olor perfecto... ¡Y qué firmeza!": [
+            "PurchasedItem_Elliott"
+      ],
+      "Ey, anoche compré un ejemplar de {2} en la tienda. Mi abuela lo usó como ingrediente para su caldereta especial...": [
+            "PurchasedItem_Alex"
+      ],
+      "El otro día compré un ejemplar de {2} en Pierre's. Quedó genial sobre un lecho de verduritas con un toque de mi vinagreta especial.": [
+            "PurchasedItem_Leah"
+      ],
+      "Hey, {0}.": [
+            "PurchasedItem_1_QualityHigh_Willy",
+            "PurchasedItem_1_QualityLow_Willy"
+      ],
+      "Me pasé por la tienda de Willy el otro día y compré {1} {2}. ¡Nunca he visto algo tan fresco!": [
+            "PurchasedItem_1_QualityHigh_Willy_sv1"
+      ],
+      "Lo cociné para cenar anoche, y llenó la casa con un olor a {3}.. ¡Era muy intenso!": [
+            "PurchasedItem_1_QualityHigh_Willy_sv2"
+      ],
+      "Me dijo que lo pescaste tú... ¡Me has impresionado!": [
+            "PurchasedItem_1_QualityHigh_Willy_sv3"
+      ],
+      "Bueno...": [
+            "PurchasedItem_1_QualityHigh_Willy_sv4",
+            "PurchasedItem_1_QualityLow_Willy_sv3"
+      ],
+      "Me pasé por la tienda de Willy el otro día y compré {1} {2}. ¡Dijo que lo pescaste tú!": [
+            "PurchasedItem_1_QualityLow_Willy_sv1"
+      ],
+      "Lo cociné para cenar anoche... y, uh... Llenó la casa con un hedor a {3}. Ni siquiera quiero saber de donde sacaste esa cosa...": [
+            "PurchasedItem_1_QualityLow_Willy_sv2"
+      ],
+      "Hola... ¿Vendiste {1} {2} a la tienda de peces el otro día? Creo que lo compré yo...": [
+            "PurchasedItem_2_QualityHigh_Willy"
+      ],
+      "Era de mucha calidad. Me has impresionado.": [
+            "PurchasedItem_2_QualityHigh_Willy_sv1"
+      ],
+      "Hola... ¿vendiste {1} {2} a la tienda de pescado el otro día? Creo que lo compré yo...": [
+            "PurchasedItem_2_QualityHigh_Jodi_Willy"
+      ],
+      "Era de muy buena calidad. Una carne muy firme.": [
+            "PurchasedItem_2_QualityHigh_Jodi_Willy_sv1"
+      ],
+      "Hola... ¿Vendiste {1} {2} a la tienda general el otro día? Creo que lo compré yo...": [
+            "PurchasedItem_2_QualityLow_Willy"
+      ],
+      "Olía mucho a pescado, pero no estaba mal.": [
+            "PurchasedItem_2_QualityLow_Willy_sv1"
+      ],
+      "Fui a comprar anoche y me llevé {1} {2} en una oferta de «cubo de cebo» por solo {3}o.": [
+            "PurchasedItem_3_QualityLow_Rude_Willy"
+      ],
+      "¡Estaba {4}! No hay duda de que Willy estaba prácticamente regalando {5}...": [
+            "PurchasedItem_3_QualityLow_Rude_Willy_sv1"
+      ],
+      "Fui a comprar anoche y me llevé {1} {2} en una oferta por solo {3}o.": [
+            "PurchasedItem_3_QualityHigh_Rude_Willy",
+            "PurchasedItem_3_NonRude_Willy"
+      ],
+      "Era en realidad bastante {4}.": [
+            "PurchasedItem_3_QualityHigh_Rude_Willy_sv1"
+      ],
+      "No podía dejar escapar ese precio.": [
+            "PurchasedItem_3_NonRude_Willy_sv1"
+      ],
+      "Estuve en la tienda de Willy el otro día y me enseñó {1} {2} que le llevaste.": [
+            "PurchasedItem_4_Willy"
+      ],
+      "Lo cociné para cenar con algo de limón y un poco de arroz pilaf. ¡Estaba bueno!": [
+            "PurchasedItem_4_Willy_sv1"
+      ],
+      "¡Hey! ¿Recuerdas ese {2} que me vendiste el otro dia? Lo metí en el camarote anoche...": [
+            "PurchasedItem_Pierre_QualityLow_Willy"
+      ],
+      "Ha sido el pescao más gelatinoso que he mordio con mis mandíbulas...": [
+            "PurchasedItem_Pierre_QualityLow_Willy_sv1"
+      ],
+      "¡Hey! ¿Recuerdas ese {2} que trajiste el otro dia? Lo metí en el camarote anoche...": [
+            "PurchasedItem_Pierre_QualityHigh_Willy"
+      ],
+      "¡Ha sido el mejor pescao que he comio desde que era una niñita!": [
+            "PurchasedItem_Pierre_QualityHigh_Willy_sv1"
+      ],
+      "Eh... ¿Qué estás haciendo?": [
+            "Town_DumpsterDiveComment_Child"
+      ],
+      "Um... ¿Por qué rebuscas en la basura?": [
+            "Town_DumpsterDiveComment_Teen"
+      ],
+      "Eh, ¡deja de hacer eso...! ¡Puaj!": [
+            "Town_DumpsterDiveComment_Adult"
+      ],
+      "Vaya, vaya, vaya... Lo has conseguido.": [
+            "SkullCavern_100_event_MrQi_event1",
+            "SkullCavern_100_event_honorable_MrQi_event1"
+      ],
+      "Ven aquí, vamos... No tengas miedo.": [
+            "SkullCavern_100_event_MrQi_event2",
+            "SkullCavern_100_event_honorable_MrQi_event2"
+      ],
+      "Dicen que estabas intentando llegar hasta lo más hondo de estas cavernas...": [
+            "SkullCavern_100_event_MrQi_event3",
+            "SkullCavern_100_event_honorable_MrQi_event3"
+      ],
+      "Impresionante... Realmente impresionante. ¡Llegar hasta aquí abajo es una gran hazaña!": [
+            "SkullCavern_100_event_MrQi_event4"
+      ],
+      "Venga... Ve a la mesa y bébete esa leche especial que te he preparado.": [
+            "SkullCavern_100_event_MrQi_event5",
+            "SkullCavern_100_event_honorable_MrQi_event5"
+      ],
+      "Se llama 'leche de serpiente de iridio'... Un traguito de esto te hará mucho más fuerte.": [
+            "SkullCavern_100_event_MrQi_event6",
+            "SkullCavern_100_event_honorable_MrQi_event6"
+      ],
+      "Que tengas suerte ahí fuera.": [
+            "SkullCavern_100_event_MrQi_event7",
+            "SkullCavern_100_event_honorable_MrQi_event7"
+      ],
+      "Impresionante... Realmente impresionante. ¡Has superado mi prueba con creces!": [
+            "SkullCavern_100_event_honorable_MrQi_event4"
+      ],
+      "De acuerdo, empezaré a trabajar en la mejora para tu {1} pasado mañana. Los días que hay algún evento siempre me los tomo libres.": [
+            "Robin_UpgradeConstruction_Festival"
+      ],
+      "¡De acuerdo, empezaré a trabajar en la mejora para tu {1} mañana a primera hora!": [
+            "Robin_UpgradeConstruction"
+      ],
+      "De acuerdo, empezaré a trabajar en tu {0} pasado mañana. Los días que hay algún evento siempre me los tomo libres.": [
+            "Robin_NewConstruction_Festival"
+      ],
+      "¡De acuerdo, empezaré a trabajar en tu {0} mañana a primera hora!": [
+            "Robin_NewConstruction"
+      ],
+      "Como hablamos de {0} de tipo prefabricado... ¡no hay tiempo de construcción! ¿A que es muy cómodo?": [
+            "Robin_Instant"
+      ],
+      "¡Excelente! Pondremos a nuestros trabajadores a ello esta misma noche. Debería estar listo mañana.": [
+            "Morris_JojaCDConfirm"
+      ],
+      "Ah, nuestro cliente favorito... ¡Tengo noticias emocionantes para usted! Las oficinas de Joja han aprobado la construcción de una nueva «oportunidad de entretenimiento» Joja para sustituir el almacén de al lado. ¡Solo necesitamos un inversor dispuesto a apoyar nuestra visión! Así que, naturalmente, me dirijo a usted... nuestro más devoto y generoso miembro Joja.": [
+            "Morris_BuyMovieTheater"
+      ],
+      "Podríamos hacerlo realidad por el pequeño coste de... *tos*... 500,000o...": [
+            "Morris_BuyMovieTheater_sv1"
+      ],
+      "¡Medio mill...!": [
+            "Morris_TheaterBought"
+      ],
+      "*Ahem*... quiero decir... ¡Excellente! ¡Nuestro equipo de construcción Joja comenzará a trabajar en el edificio esta misma noche! Gracias por apoyar nuestro trabajo.": [
+            "Morris_TheaterBought_sv1"
+      ],
+      "¡Ah! Mi cliente favorito... Desafortunadamente no tengo más proyectos de desarrollo de la comunidad disponibles, de momento.": [
+            "Morris_NoMoreCD"
+      ],
+      "¿Estás bien? Te encontre tirado en la playa, muchacho.": [
+            "Island_willy_rescue_male_farmer"
+      ],
+      "¿Estás bien? La encontré tirada en la playa, señorita.": [
+            "Island_willy_rescue_female_farmer"
+      ],
+      "Me tenías preocupado... ¡Creí que te había perdido! Ten más cuidado ahí fuera...": [
+            "Island_willy_rescue_sv1"
+      ],
+      "La isla puede ser un lugar peligroso.": [
+            "Island_willy_rescue_sv2"
+      ],
+      "Parece que sobrevivirás.": [
+            "Island_leo_rescue"
+      ],
+      "Mis amigos pájaro te vieron y me contaron que estabas en peligro, así que te arrastré hasta aquí.": [
+            "Island_leo_rescue_sv1"
+      ],
+      "Por favor ten cuidado ahí fuera. No quiero preocuparme más...": [
+            "Island_leo_rescue_sv2"
+      ],
+      "Nunca pensé que vería una nueva cara en esta isla. ¡Pero me alegro de que estés aquí!": [
+            "Birdie0"
+      ],
+      "Se rumorea que hace mucho, una gran civilización de enanos vivió en esta misma isla.": [
+            "Birdie1"
+      ],
+      "¿Has estado en el volcán? Está lleno de ruinas de sus extrañas máquinas...": [
+            "Birdie1_sv1"
+      ],
+      "Si alguna vez sientes el estómago mareado, un mordisco de gengibre hace maravillas...": [
+            "Birdie2"
+      ],
+      "¿Has estado en el altar secreto de la jungla? Las flores allí huelen genial... Es uno de mis lugares favoritos de la isla.": [
+            "Birdie3"
+      ],
+      "Cada mañana para desayunar, me tomo un bowl de poi y un vaso fresco de zumo de mango. ¡Me mantiene joven!": [
+            "Birdie4"
+      ],
+      "Ando por la playa cada día para ver si algo nuevo ha aparecido en la orilla. ¡Hay muchas cosas flotando por ahí!": [
+            "Birdie5"
+      ],
+      "Mi cabaña puede ser pequeña, pero es más que suficiente para lo que necesito. Y lo mejor de todo, la construí yo misma.": [
+            "Birdie6"
+      ],
+      "*suspiro*... Vivir en un mundo con un potencial infinito, nunca podremos saber si tomamos las decisiones correctas.": [
+            "Birdie12"
+      ],
+      "Siendo molestarte, joven. A veces me dejo llevar por los pensamientos...": [
+            "Birdie12_sv1"
+      ],
+      "Fruta, pescado, y comida forrajeada... ¡Es una buena dieta! Me siento más sana que nunca.": [
+            "Birdie15"
+      ],
+      "El tiempo es cálido y hace bueno todo el año, joven... se siente genial en mis huesos...": [
+            "Birdie17"
+      ],
+      "¿Has visto el pequeño altar del plátano en la jungla? Si tuviese un plátano lo pondría ahí a ver que pasa... jeh jeh...": [
+            "Birdie19"
+      ],
+      "Hola, joven... ¡Parece que estás en forma y con buen humor hoy!": [
+            "Birdie22"
+      ],
+      "He estado aquí tanto tiempo, que ya ni me doy cuenta del sonido que hace el océano...": [
+            "Birdie23"
+      ],
+      "Esta noche será luna llena... Que tu suerte sea buena o mala, estate alerta, joven... Los espíritus no descansan.": [
+            "Birdie28"
+      ],
+      "Oh, no no no... No necesito ningún regalo, joven. Quédatelo.": [
+            "Birdie_NoGift"
+      ],
+      "Mi investigación sugiere que una especie de rana una vez vivió en esta isla. Habrían habitado una zona oscura y húmeda, con mucha vegetación...": [
+            "ProfessorSnail_Hint_828"
+      ],
+      "Hace mucho, una rara especie de murciélago de las cavernas hizo de este sitio su hogar. La evidencia sugiere que estaban adaptados para soportar este intenso calor. Interesante, ¿huh?": [
+            "ProfessorSnail_Hint_827"
+      ],
+      "Hmm... Mi nariz me dice que la columna de unas serpientes se pueden encontrar en la parte oeste de la isla.": [
+            "ProfessorSnail_Hint_826"
+      ],
+      "Si ves algo moviéndose en la tierra, aségurate de excavarlo. ¡Nunca sabes qué puede haber ahí abajo!": [
+            "ProfessorSnail_Hint_825"
+      ],
+      "Antes de que me quedase atrapado en esa cueva, estaba explorando aquella pequeña barranca. ¡Las piedras allí están llenas de fósiles! Si fuese tú, las estaría rompiendo para buscar huesos.": [
+            "ProfessorSnail_Hint_824"
+      ],
+      "Ya sabes, apuesto a que si hicieses un poco de lavado, podrías encontrar algo interesante en el río cercano.": [
+            "ProfessorSnail_Hint_822"
+      ],
+      "Ya sabes, hay algunos buenos lugares de pesca en esta isla. Por lo que sé, a muchos de los peces les gusta moverse entre los antiguos huesos...": [
+            "ProfessorSnail_Hint_821"
+      ],
+      "¿Has encontrado algún coco dorado en la isla? Se rumorea que muchas cosas interesantes pueden ser encontradas en su interior...": [
+            "ProfessorSnail_Hint_820"
+      ],
+      "Wow... Mira esa vista.": [
+            "SummitEvent_Intro_Lewis"
+      ],
+      "Ya sabes, @... He sido alcalde de Pueblo Pelícano mucho tiempo.": [
+            "SummitEvent_Dialogue1_Lewis"
+      ],
+      "La gente ha ido y venido. Hemos vivido tiempos duros, y buenos tiempos.": [
+            "SummitEvent_Dialogue1_Lewis_sv1"
+      ],
+      "Pero tengo que decir, que en todos los años que he sido alcalde, nada me ha enorgullecido tanto como ver la granja %farm florecer bajo tu cuidado.": [
+            "SummitEvent_Dialogue2_Lewis"
+      ],
+      "Has llevado la granja más allá de los sueños más locos de tu abuelo.": [
+            "SummitEvent_Dialogue2_Lewis_sv1"
+      ],
+      "Y en el proceso, has cambiado el valle para siempre.": [
+            "SummitEvent_Dialogue2_Lewis_sv2"
+      ],
+      "Puede que no te des cuenta, pero me importa mucho este pueblo, @.": [
+            "SummitEvent_Outro_Lewis"
+      ],
+      "hace %year años, estaba enormemente preocupado por el futuro del valle.": [
+            "SummitEvent_Outro_Lewis_sv1"
+      ],
+      "Pero ahora, me siento completamente en calma.": [
+            "SummitEvent_Outro_Lewis_sv2"
+      ],
+      "¿Quién hubiese dicho que alguien nuevo pudiese cambiarlo todo?": [
+            "SummitEvent_Outro_Lewis_sv3"
+      ],
+      "...Gracias.": [
+            "SummitEvent_Outro_Lewis_sv4"
+      ],
+      "Ah, @... Mi miembro favorito de Joja.": [
+            "SummitEvent_Intro_Morris"
+      ],
+      "Ya sabes, cuando me asignaron a este sitio por primera vez hace %year años, lo consideré un retroceso en mi carrera.": [
+            "SummitEvent_Dialogue1_Morris"
+      ],
+      "¿Qué clase de gerente respetable de Joja querría presidir un minúsculo lugar apartado como Pueblo Pelícano?": [
+            "SummitEvent_Dialogue1_Morris_sv1"
+      ],
+      "Pero debo decir, que le he cogido cariño a este valle, con los años.": [
+            "SummitEvent_Dialogue2_Morris"
+      ],
+      "Trabajar aquí me ha abierto los ojos a un nuevo modo de vida. Es difícil decir esto, pero... Ha sido... una experiencia que me ha hecho más humilde.": [
+            "SummitEvent_Dialogue2_Morris_sv1"
+      ],
+      "Solo quiero decir, @... que aprecio todo el trabajo duro que has hecho por Joja Co.": [
+            "SummitEvent_Outro_Morris"
+      ],
+      "Nuestra fuerza viene de nuestros miembros, y has mostrado un ingenio y determinación ejemplares. Me enorgullece trabajar para la compañía.": [
+            "SummitEvent_Outro_Morris_sv1"
+      ],
+      "Hey, @.": [
+            "SummitEvent_Intro_Spouse"
+      ],
+      "Se ve todo tan bonito aquí...": [
+            "SummitEvent_Intro2_Spouse"
+      ],
+      "Qué buenas vistas, ¿huh?": [
+            "SummitEvent_Intro2_Spouse_Gruff"
+      ],
+      "Estaba pensando en los últimos %year años...": [
+            "SummitEvent_Dialogue1_Spouse"
+      ],
+      "Hemos pasado mucho juntos, ¿no es así?": [
+            "SummitEvent_Dialogue1B_Spouse"
+      ],
+      "...Pero mira lo lejos que hemos llegado.": [
+            "SummitEvent_Dialogue2_Spouse"
+      ],
+      "No creo que hubiese llegado hasta aquí sin ti, @.": [
+            "SummitEvent_Dialogue3_Alex_Alex_event1"
+      ],
+      "...Esa es una de las razones por las que te quiero...": [
+            "SummitEvent_Dialogue3_Sebastian_Sebastian_event1"
+      ],
+      "Siento que he cambiado mucho desde la primera vez que nos conocimos... ¿sabes?": [
+            "SummitEvent_Dialogue3_Sam"
+      ],
+      "...puedes llamarlo «madurez»... jeje.0": [
+            "SummitEvent_Dialogue3_Sam_sv1"
+      ],
+      "Pero estoy en un lugar, ahora, donde me siento seguro de nuestro futuro juntos...": [
+            "SummitEvent_Dialogue3_Sam_sv2"
+      ],
+      "Aunque eso signifique hacer cosas normales, como... uh... comprar comida y cambiar pañales... jah...0": [
+            "SummitEvent_Dialogue3_Sam_sv3"
+      ],
+      "Jeh... Yo... yo suelo bromear mucho, porque...bueno...": [
+            "SummitEvent_Dialogue3_Shane_Shane_event1"
+      ],
+      "Pero cada estación que paso contigo, me siento mas cómodo conmigo mismo.": [
+            "SummitEvent_Dialogue3_Shane_Shane_event2"
+      ],
+      "Heh... Me acabo de dar cuenta...": [
+            "SummitEvent_Dialogue3_Elliott"
+      ],
+      "Hemos llegado a la cima, pero no solo físicamente... también metafóricamente.": [
+            "SummitEvent_Dialogue3_Elliott_sv1"
+      ],
+      "¡Qué poético!": [
+            "SummitEvent_Dialogue3_Elliott_sv2"
+      ],
+      "...": [
+            "SummitEvent_Dialogue3_Harvey_Harvey_event1"
+      ],
+      "Estar aquí, mirar el horizonte... siento que existe una infinidad de posibilidades.": [
+            "SummitEvent_Dialogue3_Abigail"
+      ],
+      "Estoy feliz de explorar este mundo, contigo a mi lado...": [
+            "SummitEvent_Dialogue3_Abigail_sv1"
+      ],
+      "El mundo es un lugar misterioso y especial...": [
+            "SummitEvent_Dialogue3_Emily_Emily_event1"
+      ],
+      "Oh, es solo que...": [
+            "SummitEvent_Dialogue3_Haley_Haley_event1"
+      ],
+      "Creo que ambos hemos encontrado lo que buscábamos en este lugar.": [
+            "SummitEvent_Dialogue3_Leah"
+      ],
+      "No querría estar en ningún otro sitio, que no fuese aquí contigo.": [
+            "SummitEvent_Dialogue3_Leah_sv1"
+      ],
+      "Tenemos un hogar precioso y una familia próspera... es todo lo que siempre he soñado, y más.": [
+            "SummitEvent_Dialogue3_Penny"
+      ],
+      "¡Creo que es seguro decir que naciste para la granja!": [
+            "SummitEvent_Dialogue3_Maru_Maru_event1"
+      ],
+      "Ha sido un largo camino...": [
+            "SummitEvent_closingmessage"
+      ],
+      "Te retaste a llegar a la cima": [
+            "SummitEvent_closingmessage2"
+      ],
+      "¡Vaya un logro!": [
+            "SummitEvent_closingmessage3"
+      ],
+      "Hemos estado vigilando cada paso en el camino": [
+            "SummitEvent_closingmessage4"
+      ],
+      "¡Y me enorgullezco de ello!": [
+            "SummitEvent_closingmessage5"
+      ]
+}

@@ -1,0 +1,477 @@
+{
+      "Luau": [
+            "summer11_name"
+      ],
+      "Bene, gente, è giunto ancora una volta il momento della cerimonia della zuppa mista.": [
+            "summer11_mainEvent_Lewis_event1"
+      ],
+      "Bene... Governatore? Ci farebbe l'onore di assaggiare la zuppa?": [
+            "summer11_mainEvent_Lewis_event2"
+      ],
+      "Certamente! È tutto l'anno che aspetto questo momento.": [
+            "summer11_mainEvent_Governor_event1"
+      ],
+      "...": [
+            "summer11_mainEvent_Governor_event2",
+            "summer11_mainEvent_y2_Governor_event2"
+      ],
+      "Hmm... Sa un po' di asprigno... ma a parte questo ha un ottimo sapore!": [
+            "summer11_governorReaction6_Governor_event1"
+      ],
+      "Un momento... c'è qualcosa nel mio piatto... Cos'è?": [
+            "summer11_governorReaction6_Governor_event2"
+      ],
+      "Eeeeehhh?!": [
+            "summer11_governorReaction6_Lewis_textAboveHeadEvent1"
+      ],
+      "*sussulta*": [
+            "summer11_governorReaction6_Marnie_textAboveHeadEvent1"
+      ],
+      "Questo... Questo è un oltraggio!": [
+            "summer11_governorReaction6_Governor_event3"
+      ],
+      "Bleah... mi si sta gonfiando la lingua... Sto per sentirmi male.": [
+            "summer11_governorReaction6_Governor_event4"
+      ],
+      "Chiunque sia responsabile di quest'atto vergognoso è veramente riprovevole. Usare un mio oggetto personale per questo scopo malato!": [
+            "summer11_governorReaction6_Lewis_event2"
+      ],
+      "Tornate a casa, il festival è finito.": [
+            "summer11_governorReaction6_Lewis_event3"
+      ],
+      "Hmmm... Beh, non c'è male, ma ci manca qualcosa...": [
+            "summer11_governorReaction5_Governor_event1"
+      ],
+      "È vero... È un po' insipida.": [
+            "summer11_governorReaction5_Lewis_event1"
+      ],
+      "Beh, grazie per esser stato con noi quest'anno, Governatore. Ci scusi se la zuppa non era niente di speciale.": [
+            "summer11_governorReaction5_Lewis_event2"
+      ],
+      "Ora... Quanti vogliono un po' di zuppa?": [
+            "summer11_governorReaction5_Lewis_event3"
+      ],
+      "Oh cielo... è la zuppa migliore che abbia mai assaggiato!": [
+            "summer11_governorReaction4_Governor_event1"
+      ],
+      "È vero... È deliziosa!": [
+            "summer11_governorReaction4_Lewis_event1"
+      ],
+      "Ottimo lavoro, tutti quanti! Ora... chi altro vuole assaggiarla?": [
+            "summer11_governorReaction4_Lewis_event2"
+      ],
+      "Ah... Una zuppa molto gradevole. I prodotti di questa valle non deludono mai!": [
+            "summer11_governorReaction3_Governor_event1"
+      ],
+      "Mmm... buona. Avete fatto tutti un buon lavoro, oggi.": [
+            "summer11_governorReaction3_Lewis_event1"
+      ],
+      "Ora... chi altro ne vuole un po'?": [
+            "summer11_governorReaction3_Lewis_event2"
+      ],
+      "Hmm... non ho molto da dire. È una zuppa nella media.": [
+            "summer11_governorReaction2_Governor_event1"
+      ],
+      "È vero... Niente di speciale. Non è cattiva, però.": [
+            "summer11_governorReaction2_Lewis_event1"
+      ],
+      "Bene... chi altro ne vuole un po'?": [
+            "summer11_governorReaction2_Lewis_event2"
+      ],
+      "Ehm... in realtà è piuttosto disgustosa. Credo che salterò, per quest'anno.": [
+            "summer11_governorReaction1_Governor_event1"
+      ],
+      "Puah. Qualcuno l'avrà rovinata con ingredienti scadenti.": [
+            "summer11_governorReaction1_Lewis_event1"
+      ],
+      "Beh... qualcuno ne vuole un po'?": [
+            "summer11_governorReaction1_Lewis_event2"
+      ],
+      "Bleah! Che porcheria! Mi sta venendo la nausea...": [
+            "summer11_governorReaction0_Governor_event1"
+      ],
+      "Ho bisogno di sdraiarmi...": [
+            "summer11_governorReaction0_Governor_event2"
+      ],
+      "Complimenti, gente... Chiunque abbia messo quell'ingrediente avariato nella zuppa ha fatto svenire il Governatore! Che vergogna.": [
+            "summer11_governorReaction0_Lewis_event1"
+      ],
+      "Andate a casa, il festival è finito.": [
+            "summer11_governorReaction0_Lewis_event2"
+      ],
+      "Salve e benvenuti a tutti! Sono lieto di annunciare che la cerimonia della zuppa mista è iniziata.": [
+            "summer11_mainEvent_y2_Lewis_event1"
+      ],
+      "Dunque... Governatore? Vuole farci l'onore di assaggiare per primo?": [
+            "summer11_mainEvent_y2_Lewis_event2"
+      ],
+      "Con grande piacere! È tutto il pomeriggio che tengo d'occhio la zuppa.": [
+            "summer11_mainEvent_y2_Governor_event1"
+      ],
+      "Che evento incantevole... È sempre una gioia visitare Stardew Valley.": [
+            "summer11_Governor"
+      ],
+      "Devo discutere con mia moglie se comprare una casa delle vacanze qui.": [
+            "summer11_Governor_sv1"
+      ],
+      "Non voglio impedirti di divertirti, oggi. È che mi sento di guardare il mare da sola.": [
+            "summer11_Abigail_spouse"
+      ],
+      "È bello rivedere tutti ogni tanto, ma per lo più voglio tornare alla fattoria.": [
+            "summer11_Leah_spouse"
+      ],
+      "Harvey continua a cercare di parlarmi, ma tutto ciò che voglio è un pezzo d'arrosto.": [
+            "summer11_Maru_spouse"
+      ],
+      "Sto solo assecondando alcune vecchie amicizie. Ciò che voglio davvero è una scodella di quella zuppa.": [
+            "summer11_Penny_spouse"
+      ],
+      "Fiù... Ho paura di muovermi, temo di cominciare a sudare.": [
+            "summer11_Haley_spouse"
+      ],
+      "Sto facendo del mio meglio per restare di buonumore...": [
+            "summer11_Sebastian_spouse"
+      ],
+      "Suppongo che non sarebbe molto carino mettere qualcosa di schifoso nella zuppa...": [
+            "summer11_Sam_spouse"
+      ],
+      "Ehi, ogni scusa è buona per stare un po' in spiaggia. Questo tempo è fantastico!": [
+            "summer11_Alex_spouse"
+      ],
+      "Accidenti... Ho la sabbia nei calzini...": [
+            "summer11_Harvey_spouse"
+      ],
+      "Il vecchio capanno pare reggere bene. Ogniqualvolta ritorno, m'aspetto quasi di trovarlo marcito...": [
+            "summer11_Elliott_spouse"
+      ],
+      "Socializzare con tutti è stancante... Preferisco guardare il mare.": [
+            "summer11_Abigail"
+      ],
+      "%Non risponde.": [
+            "summer11_Emily"
+      ],
+      "Ahia... mi hai pestato un piede, tesoro.": [
+            "summer11_Robin"
+      ],
+      "Mi sto stancando, amore. Ti va di andare al buffet, tra poco? *ansima*": [
+            "summer11_Demetrius"
+      ],
+      "Non so cosa stia arrostendo Linus, ma ha un odore eccezionale... *slurp*": [
+            "summer11_Maru"
+      ],
+      "Una volta Sam ha messo una libbra di acciughe nella zuppa mista.": [
+            "summer11_Sebastian"
+      ],
+      "Hai capito perché è Sam a guidare i servizi sociali del paese?": [
+            "summer11_Sebastian_sv1"
+      ],
+      "Una rotazione lenta  e continua è la chiave dell'arrosto perfetto.": [
+            "summer11_Linus"
+      ],
+      "Hmm... magari se entro nelle simpatie del governatore, potrebbe tagliare le tasse al mio emporio...": [
+            "summer11_Pierre"
+      ],
+      "Gli piacerà il whiskey invecchiato?": [
+            "summer11_Pierre_sv1"
+      ],
+      "Ora, se solo il sindaco la smettesse di rintronarlo di chiacchiere.": [
+            "summer11_Pierre_sv2"
+      ],
+      "Nel pentolone della zuppa mista ho messo le verdure fresche del mio giardino.": [
+            "summer11_Caroline"
+      ],
+      "Tempo perfetto per una festa in spiaggia, eh?": [
+            "summer11_Alex"
+      ],
+      "Quella musica! È troppo alta.": [
+            "summer11_George"
+      ],
+      "Non posso avere un po' di pace per godermi l'oceano?": [
+            "summer11_George_sv1"
+      ],
+      "Ahh... L'odore dell'oceano mi riporta indietro di anni. A molto prima che tu nascessi.": [
+            "summer11_Evelyn"
+      ],
+      "Occhi aperti! C'è qui il governatore per la sua visita annuale.": [
+            "summer11_Lewis"
+      ],
+      "Se hai portato qualcosa per la zuppa mista, vedi di aggiungerlo nel calderone.": [
+            "summer11_Lewis_sv1"
+      ],
+      "Sono pieno, ma che altro c'è da fare, se non mangiare?": [
+            "summer11_Clint"
+      ],
+      "Teniamo questo festival ogni anno, per dare al governatore un assaggio di tutto ciò che la valle ha da offrire.": [
+            "summer11_Penny"
+      ],
+      "Il sindaco Lewis spera che ci conquisti le simpatie del governatore. Ecco perché è tanto nevrotico per il sapore della zuppa.": [
+            "summer11_Penny_sv1"
+      ],
+      "Ah... buffet gratis. Un vantaggio di vivere qui. Goditela, giovane!": [
+            "summer11_Pam"
+      ],
+      "Ballerei, ma non voglio sudare.": [
+            "summer11_Haley"
+      ],
+      "Speriamo che la zuppa di quest'anno sia buona.": [
+            "summer11_Jodi"
+      ],
+      "Ehi, è bello vederti.": [
+            "summer11_Kent"
+      ],
+      "Io me ne resto qui, accanto agli alberi... l'aria è molto più fresca.": [
+            "summer11_Marlon"
+      ],
+      "Il governatore? Chissenefrega...": [
+            "summer11_Sam"
+      ],
+      "Perché dovrebbe importarmi di un vecchio a caso?": [
+            "summer11_Sam_sv1"
+      ],
+      "Come ti va la fattoria? Dev'essere una stagione piena d'impegni, per te.": [
+            "summer11_Leah"
+      ],
+      "Wow... nella grande città non la trovi, una salsa chutney al peperoncino così...": [
+            "summer11_Shane"
+      ],
+      "Se hai portato un ingrediente per la zuppa, sali le scale dall'altra parte e buttalo dentro.": [
+            "summer11_Marnie"
+      ],
+      "Mi sono levato tardi, esco di casa e mi ritrovo nel mezzo di questa baraonda!": [
+            "summer11_Elliott"
+      ],
+      "Non rammentavo che oggi v'era il Luau.": [
+            "summer11_Elliott_sv1"
+      ],
+      "Queste maledette mosche della sabbia continuano a posarsi sul cibo!": [
+            "summer11_Gus"
+      ],
+      "Dici che piove in superficie? *sussulta*": [
+            "summer11_Dwarf"
+      ],
+      "La pioggia... Per noi è quasi un mito. Alcuni non ne fanno mai esperienza per tutta la vita.": [
+            "summer11_Dwarf_sv1"
+      ],
+      "Il popolo marino è incuriosito dalle vostre feste.": [
+            "summer11_Wizard"
+      ],
+      "Si arrabbiano molto quando gettate rifiuti nell'oceano.": [
+            "summer11_Wizard_sv1"
+      ],
+      "Per fortuna mi sono portato la crema.": [
+            "summer11_Harvey"
+      ],
+      "Chissà se Maru ha bisogno di un po' di crema sulla spalle?": [
+            "summer11_Harvey_sv1"
+      ],
+      "Ho sentito che a casa sta piovendo. È per quello che sei qui?": [
+            "summer11_Sandy"
+      ],
+      "Un po' mi manca la pioggia, in realtà...": [
+            "summer11_Sandy_sv1"
+      ],
+      "Vincent non è un gran ballerino.": [
+            "summer11_Jas"
+      ],
+      "Mi annoio...": [
+            "summer11_Vincent"
+      ],
+      "Ehilà, @. Prendi un po' d'aria?": [
+            "summer11_Willy"
+      ],
+      "A dire il vero, mi piacerebbe stare a pescare, adesso.": [
+            "summer11_Willy_sv1"
+      ],
+      "Shhh... Sto imparando i segreti dell'arrosto perfetto.": [
+            "summer11_Leo"
+      ],
+      "Attendo con ansia la mia visita annuale a Stardew Valley. C'è un fascino palpabile nell'aria!": [
+            "summer11_Governor_y2"
+      ],
+      "Dopo l'assaggio della zuppa, andiamo sul molo a passare un po' di tempo per conto nostro.": [
+            "summer11_Abigail_spouse_y2"
+      ],
+      "Gira voce che il Governatore abbia in mente di comprarsi una casa per le vacanze da queste parti.": [
+            "summer11_Penny_spouse_y2"
+      ],
+      "Sbrigati a prendere un piatto prima che non rimanga più nulla!": [
+            "summer11_Leah_spouse_y2"
+      ],
+      "Sono tentata di correre a casa a prendere il bikini.": [
+            "summer11_Haley_spouse_y2"
+      ],
+      "La temperatura dell'acqua è perfetta... L'ho sentita col mignolino del piede!": [
+            "summer11_Haley_spouse_y2_sv1"
+      ],
+      "Qui all'ombra fa più fresco. Ti raggiungo al buffet tra un po', ok?": [
+            "summer11_Maru_spouse_y2"
+      ],
+      "*ansima* Forse è ora che mi prenda una pausa.": [
+            "summer11_Emily_spouse_y2"
+      ],
+      "Balliamo insieme più tardi, ok?": [
+            "summer11_Emily_spouse_y2_sv1"
+      ],
+      "Con questa musica, le mie gambe si muovono da sole... proprio come a lezione di aerobica!": [
+            "summer11_Harvey_spouse_y2"
+      ],
+      "Oggi... mangio quanto mi pare. Domani farò più flessioni del solito!": [
+            "summer11_Alex_spouse_y2"
+      ],
+      "Quella zuppa ha un odorino speziato...": [
+            "summer11_Sam_spouse_y2"
+      ],
+      "C'hai aggiunto qualcosa di buono? Inizio ad avere fame!": [
+            "summer11_Sam_spouse_y2_sv1"
+      ],
+      "Ti ricordi quando mi hai incontrato in questo posto in quel giorno di pioggia?": [
+            "summer11_Sebastian_spouse_y2"
+      ],
+      "Anche se questo è il posto dove sto da solo... sono stato felicissimo di averti con me.": [
+            "summer11_Sebastian_spouse_y2_sv1"
+      ],
+      "Suggerirei di prenderci del tempo per un piccolo 'rendezvous' nel mio capanno... ma temo sia divenuto alquanto... ammuffito... in mia assenza.": [
+            "summer11_Elliott_spouse_y2"
+      ],
+      "Mmm... quell'arrosto ha proprio un buon odore.": [
+            "summer11_Shane_spouse_y2"
+      ],
+      "Mio padre è ossessionato dalla visita del Governatore. Dev'essere tutto perfetto!": [
+            "summer11_Abigail_y2"
+      ],
+      "Mi sa che spera di diventare sindaco, un giorno...": [
+            "summer11_Abigail_y2_sv1"
+      ],
+      "Demetrius... Perché è divertente!%noturn": [
+            "summer11_Robin_y2"
+      ],
+      "Perché agli umani piace ballare? Potrebbe essere un meccanismo istintivo, per comunicare inavvertitamente la nostra qualità genetica a un potenziale compagno?%noturn": [
+            "summer11_Demetrius_y2"
+      ],
+      "Ahia... questa panchina si è scaldata al sole per tutto il giorno.": [
+            "summer11_Maru_y2"
+      ],
+      "Oh, ehi. Anche tu cerchi di fuggire dal chiasso?": [
+            "summer11_Sebastian_y2"
+      ],
+      "Ah, senti quest'odore?": [
+            "summer11_Linus_y2"
+      ],
+      "È il segnale che l'arrosto è quasi pronto!": [
+            "summer11_Linus_y2_sv1"
+      ],
+      "Non appena Lewis si allontana dal Governatore... è la mia occasione per farmelo amico...": [
+            "summer11_Pierre_y2"
+      ],
+      "Ah, non ti avevo notato.": [
+            "summer11_Pierre_y2_sv1"
+      ],
+      "Se vuoi comprare qualcosa, parlami dall'altra parte del bancone.": [
+            "summer11_Pierre_y2_sv2"
+      ],
+      "Gus ha usato le mie patate per preparare diversi piatti per il buffet.": [
+            "summer11_Caroline_y2"
+      ],
+      "Dimmi, che tipo d'ingrediente ci metterai, nella zuppa?": [
+            "summer11_Caroline_y2_sv1"
+      ],
+      "Se entro in acqua mi segue qualcuno, secondo te? Non voglio nuotare da solo!": [
+            "summer11_Alex_y2"
+      ],
+      "Purè di patate con aglio e porri? Hehe... tesoro, devo essere morto e ora sono in paradiso!%noturn": [
+            "summer11_George_y2"
+      ],
+      "Mi raccomando, non mangiare troppo, tesoro. Non voglio che ti venga mal di pancia.%noturn": [
+            "summer11_Evelyn_y2"
+      ],
+      "Il Governatore oggi è un ospite di riguardo! Mi aspetto che vi comportiate tutti al meglio.": [
+            "summer11_Lewis_y2"
+      ],
+      "Chi ha portato qualcosa per la zuppa mista può aggiungere i propri ingredienti al calderone.": [
+            "summer11_Lewis_y2_sv1"
+      ],
+      "*mastica* A questo festival si mangia sempre benissimo.": [
+            "summer11_Clint_y2"
+      ],
+      "Non è stupendo vedere la nostra comunità radunata così? Faccio del mio meglio per godermi questi momenti.": [
+            "summer11_Penny_y2"
+      ],
+      "*slurp* Oh, sì! Me ne servirà ancora!": [
+            "summer11_Pam_y2"
+      ],
+      "*ansima* È tutta questione di fianchi!": [
+            "summer11_Emily_y2"
+      ],
+      "Mi sa che ho bisogno di una pausa. Sono tutta sudata!": [
+            "summer11_Emily_y2_sv1"
+      ],
+      "Non farmi ombra! Sono nel punto perfetto per farmi un'abbronzatura uniforme.": [
+            "summer11_Haley_y2"
+      ],
+      "Ho sentito che l'estate è una stagione molto impegnativa per gli agricoltori. Vedi di non lavorare troppo!": [
+            "summer11_Jodi_y2"
+      ],
+      "*annusa* ...Gli odori fanno tornare in mente ricordi potenti...": [
+            "summer11_Kent_y2"
+      ],
+      "Può essere sia un bene che un male...": [
+            "summer11_Kent_y2_sv1"
+      ],
+      "Salve.": [
+            "summer11_Marlon_y2"
+      ],
+      "Zuppa? Ballare? No grazie. Sono perfettamente soddisfatto così. E poi bisogna che qualcuno stia di guardia, nel caso compaia qualche mostro...": [
+            "summer11_Marlon_y2_sv1"
+      ],
+      "L'anno prossimo, devo ricordarmi di portare la chitarra elettrica... Immaginati un assolo in questa parte della canzone!": [
+            "summer11_Sam_y2"
+      ],
+      "Non riesco a decidere cosa mangiare! Ci sono troppe opzioni tra cui scegliere.": [
+            "summer11_Leah_y2"
+      ],
+      "Il cibo gratis non si rifiuta mai.": [
+            "summer11_Shane_y2"
+      ],
+      "Salve, @! Hai portato un ingrediente per la zuppa mista? Sali i gradini e gettalo nel calderone!": [
+            "summer11_Marnie_y2"
+      ],
+      "Ah, il Luau... tutto il trambusto del paese trasferito sulla soglia di casa mia!": [
+            "summer11_Elliott_y2"
+      ],
+      "Un solo ingrediente cattivo può rovinare tutta la zuppa...": [
+            "summer11_Gus_y2"
+      ],
+      "Hai detto che piove in superficie? *sussulta*": [
+            "summer11_Dwarf_y2"
+      ],
+      "La pioggia... Per noi è quasi un mito. Alcuni passano tutta la vita senza mai farne esperienza.": [
+            "summer11_Dwarf_y2_sv1"
+      ],
+      "Nelle oscure profondità marine si celano molti misteri, in attesa di essere svelati.": [
+            "summer11_Wizard_y2"
+      ],
+      "*ansima*... *ansima*... Ahhhh, non vedo l'ora di mangiarmi una scodella di zuppa bollente...": [
+            "summer11_Harvey_y2"
+      ],
+      "Ho sentito che a casa sta piovendo. È per questo che sei qua?": [
+            "summer11_Sandy_y2"
+      ],
+      "In realtà, la pioggia mi manca un po'...": [
+            "summer11_Sandy_y2_sv1"
+      ],
+      "M...Ma... Devo mangiarla per forza?": [
+            "summer11_Jas_y2"
+      ],
+      "Perché non posso andare a giocare vicino alle pozze di marea?": [
+            "summer11_Vincent_y2"
+      ],
+      "Non preoccuparti, torno quand'è pronta la zuppa... Mi sto a godere un momento intimo con la mia pipa!": [
+            "summer11_Willy_y2"
+      ],
+      "La mia casa è da quella parte, al di là dell'oceano. Sembra così vicina, eppure così lontana.": [
+            "summer11_Leo_y2"
+      ],
+      "Spero che i miei amici se la passino bene.": [
+            "summer11_Leo_y2_sv1"
+      ]
+}

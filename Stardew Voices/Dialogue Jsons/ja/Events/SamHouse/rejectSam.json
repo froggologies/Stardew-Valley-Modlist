@@ -1,0 +1,5 @@
+{
+    "そうか…": "response_SamHouse_rejectSam_Sam_event1",
+    "ごめんな…オレのかんちがいだったんだな。じゃあ、またな。": "response_SamHouse_rejectSam_Sam_event2",
+    "…": "response_SamHouse_rejectSam_Sam_endDialogue3"
+}

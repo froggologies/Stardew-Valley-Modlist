@@ -1,0 +1,16 @@
+{
+    "Ха!": "response_CommunityCenter_Punch_Morris_textAboveHeadEvent1",
+    "Это ничего не меняет. Я просто устрою скидки в 75%, и все покупатели приползут обратно ко мне, чтобы попросить прощения! Вот увидишь!": "response_CommunityCenter_Punch_Morris_event2",
+    "Нет... Не в этот раз, Моррис.": "response_CommunityCenter_Punch_Pierre_event1",
+    "Думаю, пора нам разобраться с этим раз и навсегда.": "response_CommunityCenter_Punch_Pierre_event1_sv1",
+    "Да? И что ты предлагаешь?": "response_CommunityCenter_Punch_Morris_event3",
+    "Ха! Примитивно...": "response_CommunityCenter_Punch_Morris_event4",
+    "Если боишься драться сам, приводи любого коллегу! Или вы там в Джоджа все такие трусы?": "response_CommunityCenter_Punch_Pierre_event2",
+    "Можешь оскорблять меня сколько влезет... Но НЕ СМЕЙ очернять доброе имя Джоджа!": "response_CommunityCenter_Punch_Morris_event5",
+    "Пьер!": "response_CommunityCenter_Punch_Caroline_textAboveHeadEvent1",
+    "Ха! Вот это я люблю!": "response_CommunityCenter_Punch_George_textAboveHeadEvent1",
+    "И конкурент из тебя никакой, и боец тоже!": "response_CommunityCenter_Punch_Morris_event6",
+    "А у тебя удары прямо как Джоджа...": "response_CommunityCenter_Punch_Pierre_event3",
+    "Количество вместо качества!": "response_CommunityCenter_Punch_Pierre_event3_sv1",
+    "Поддай ему!": "response_CommunityCenter_Punch_George_textAboveHeadEvent2"
+}

@@ -1,0 +1,366 @@
+{
+      "A Téli Csillag Ünnepe": [
+            "winter25_name"
+      ],
+      "Vajon meg tudnám nyalni az egyik cukorkát...": [
+            "winter25_Abigail_spouse"
+      ],
+      "Hálás vagyok az egyszerű farmos életünkért.": [
+            "winter25_Leah_spouse"
+      ],
+      "Szia, @. Bármikor hazamehetünk, ha kedved tartja.": [
+            "winter25_Maru_spouse"
+      ],
+      "Hálás vagyok, hogy megismerhettelek...": [
+            "winter25_Penny_spouse"
+      ],
+      "Én?... Ó, én hálás vagyok... mi lenne, ha megmutatnám, mikor ma este hazaérünk?": [
+            "winter25_Haley_spouse"
+      ],
+      "Hé, @. Mint láthatod, épp a családi kötelességeimet teljesítem...": [
+            "winter25_Sebastian_spouse"
+      ],
+      "*ásít*... Én az ajándékokért és sütikért jöttem.": [
+            "winter25_Sam_spouse"
+      ],
+      "Hogy miért vagyok hálás? Majd megmutatom, ha hazaértünk...": [
+            "winter25_Alex_spouse"
+      ],
+      "Egy kicsit túl vagyok hajszolva... olyan hálás vagyok ezért a friss levegőért...": [
+            "winter25_Harvey_spouse"
+      ],
+      "Nem kell semmit se szerezned nekem, mert már megadtad nekem a legcsodálatosabb ajándékot...": [
+            "winter25_Elliott_spouse"
+      ],
+      "Semmi nem jobb egy tűzforró lakománál egy hideg téli éjszakán, nem?": [
+            "winter25_Abigail"
+      ],
+      "Szió, @. Ha társaságra lenne szükséged, csatlakozz hozzánk a családi vacsoránál.": [
+            "winter25_Robin"
+      ],
+      "Valószínűleg idén is egy csavarkulcs készletet kapok majd... *sóhaj*": [
+            "winter25_Demetrius"
+      ],
+      "Szia, @.": [
+            "winter25_Maru"
+      ],
+      "Találkoztam pár emberrel, akik hisznek a lelkekben, és a varázslatban... de én? Még nem láttam olyat, amit ne lehetne tudományosan megmagyarázni.": [
+            "winter25_Shane"
+      ],
+      "Néha fárasztó tud lenni a családdal töltött idő.": [
+            "winter25_Sebastian"
+      ],
+      "Mostanság fenomenálisak az eladási mutatóim... hála a Téli Csillag ünnepének!": [
+            "winter25_Pierre"
+      ],
+      "Öregem, az ünnepek jót tesznek az üzletnek. Mi lenne, ha újakat találhatnék ki...": [
+            "winter25_Pierre_sv1"
+      ],
+      "Óóóhh... Azt hiszem túl sokat ittam.": [
+            "winter25_Caroline"
+      ],
+      "Csatlakoznék... de nem hiszem, hogy szívesen látnának.": [
+            "winter25_Linus"
+      ],
+      "Óh, üdv.": [
+            "winter25_Alex"
+      ],
+      "Egy ünnep valami buta csillagnak? Humbug!": [
+            "winter25_George"
+      ],
+      "Óh, egek! Nem fázol, kedvesem? Fagyos az idő!": [
+            "winter25_Evelyn"
+      ],
+      "Ma hálásnak kell lennünk az idei év jó szerencséjének. Egy napra felejtsd el a bajt, és kapcsolódj ki!": [
+            "winter25_Lewis"
+      ],
+      "*sóhaj*... Ez a sok boldog család. De nekem ismét magányos az évem.": [
+            "winter25_Clint"
+      ],
+      "@! Te mit szeretnél találni a lélekfa alatt?": [
+            "winter25_Emily"
+      ],
+      "Csak a munkán jár az eszed? Az úgy nem mókás.": [
+            "winter25_Emily__Egy_új_öntözőkannát___response"
+      ],
+      "Óóó... az jól hangzik. Majd adj belőle kóstolót.": [
+            "winter25_Emily__Egy_korsó_fűszeres_nedűt___response"
+      ],
+      "Értem. Az szép ajándék volna!'": [
+            "winter25_Emily__Egy_pár_stílusos_cipőt___response"
+      ],
+      "Milyen csodálatos fa.": [
+            "winter25_Penny"
+      ],
+      "Hmm... Még mindig mérges vagyok, amiért nem nyertem meg a jéghorgászat versenyt.": [
+            "winter25_Pam"
+      ],
+      "Remélem van számomra egy új fényképezőgép a lélekfa alatt!": [
+            "winter25_Haley"
+      ],
+      "Az év ezen szakasza nem igazán kedvez a diétázásnak...": [
+            "winter25_Jodi"
+      ],
+      "Jó estét, @. Kellemes ünnepeket!": [
+            "winter25_Kent"
+      ],
+      "Hálás vagyok a gitáromért és a gördeszkámért. Ó, és azt hiszem a családomért is.": [
+            "winter25_Sam"
+      ],
+      "Gus mesélt nekem a kézműves cukorkáiról. *ásít*": [
+            "winter25_Leah"
+      ],
+      "Azt hiszem egyszerűen túl sok fahéjas italt fogyasztott.": [
+            "winter25_Leah_sv1"
+      ],
+      "Üdvözlünk a Téli Csillag ünnepén!": [
+            "winter25_Marnie"
+      ],
+      "Nocsak, üdv, @. Zord időnk van, nemde?": [
+            "winter25_Elliott"
+      ],
+      "Nagyon szép művészet cukorkákat készíteni. Sok helyütt kell kutakodnod, hogy a legjobb alapanyagokat gyűjtsd össze. Nem könnyű manapság beszerezni őket!": [
+            "winter25_Gus"
+      ],
+      "Általában Páfrány-szigeti gyűrűgyümölcsöt használok a prémium árumhoz. A világos vörös színezést nem győzheted le... És ez mind természetes!": [
+            "winter25_Gus_sv1"
+      ],
+      "Ó, akarod tudni a dupla cukorkámnak a titkát? Oké, de titoktartási fogadalmat kell tenned. *suttogva* Egy apró vanília cseppet teszek a fehér cukorkába, hogy ellensúlyozza a cseresznyés ízt.": [
+            "winter25_Gus_sv2"
+      ],
+      "Persze a borsmentás cukorkák alapnak számítanak, és azokból is szép számmal szoktam készíteni.": [
+            "winter25_Gus_sv3"
+      ],
+      "Hé, nagyon álmosnak tűnsz. Minden rendben?": [
+            "winter25_Gus_sv4"
+      ],
+      "Akarod hallani a Téli Csillag legendáját?": [
+            "winter25_Willy"
+      ],
+      "A téli éjszakában van egy nagyon világos csillag, amit csak innen a völgyből lehet látni. Senki se tudja, hogy miért van ez így... de régóta jönnek ide emberek a világ minden részéből, hogy megcsodálják ezt.*Úgy hitték, hogy bárki is vet pillantást a Téli Csillagra, azt jó szerencsével ruházzák fel. Egyesek szerint egy rejtélyes gyümölcs, a =Csillaghulló valamilyen módon a Téli Csillaghoz fűződik.": [
+            "winter25_Willy__Igen__response"
+      ],
+      "Te tudod.'": [
+            "winter25_Willy__Nem__köszönöm__response"
+      ],
+      "Ah, a rejtélyes Téli Csillag. Ez az egyik oka annak, amiért a völgyet választottam a... kutatásom helyszíneként.": [
+            "winter25_Wizard",
+            "winter25_Wizard_y2"
+      ],
+      "Hálás vagyok, hogy idén nem volt sürgősségi esetem!": [
+            "winter25_Harvey"
+      ],
+      "Úgy hallottam, hogy odahaza esik. Ezért jöttél ide?": [
+            "winter25_Sandy"
+      ],
+      "Nekem valójában kissé hiányzik az eső...": [
+            "winter25_Sandy_sv1"
+      ],
+      "Ohh! Ajándékok!": [
+            "winter25_Jas"
+      ],
+      "Most már kinyithatjuk az ajándékokat?!": [
+            "winter25_Vincent"
+      ],
+      "Hé, szép délutánt.": [
+            "winter25_Marlon"
+      ],
+      "Linus kellemetlenül érzi magát, így nem csatlakozik, szóval majd én leszek a társasága.": [
+            "winter25_Leo"
+      ],
+      "Majd rendezünk magunknak egy kis lakomát... zúzott téli gyökeret és fűszeres bogyós halat!": [
+            "winter25_Leo_sv1"
+      ],
+      "Brr... Hideg van! Vissza akarok bújni a takaró alá...": [
+            "winter25_Abigail_spouse_y2"
+      ],
+      "Elliott megint túl sok almabort iszik...": [
+            "winter25_Leah_spouse_y2"
+      ],
+      "Majd találkozok veled az asztalnál, ha kiszabadulok... Éhezem!": [
+            "winter25_Leah_spouse_y2_sv1"
+      ],
+      "Boldog vagyok, hogy szerető családom van, és te is itt vagy nekem...": [
+            "winter25_Maru_spouse_y2"
+      ],
+      "Remélem mindenki kedvelni fogja a púderdinnye ropogósomat...": [
+            "winter25_Penny_spouse_y2"
+      ],
+      "Ha összeszámolom hány jó dolog van az életemben, akkor úgy érzem, hogy a Téli Csillag megáldott engem.": [
+            "winter25_Haley_spouse_y2"
+      ],
+      "Gyerekként Haley és én dekoráltuk a fesztivál sütijeit.": [
+            "winter25_Emily_spouse_y2"
+      ],
+      "Majd csináljunk ilyet valamikor! Nem szabad kihalnia a jó hagyományoknak.": [
+            "winter25_Emily_spouse_y2_sv1"
+      ],
+      "Hé... Ne aggódj, semmit se kell szerezned nekem.": [
+            "winter25_Sebastian_spouse_y2"
+      ],
+      "Én már annak örülök, hogy minden reggel melletted ébredek... mégis mi mást kérhet egy srác?": [
+            "winter25_Sebastian_spouse_y2_sv1"
+      ],
+      "Kissé mókás látni, ahogy a többiek kibontják az ajándékaikat... látni a reakciójukat.": [
+            "winter25_Sam_spouse_y2"
+      ],
+      "Ó, igen, szereztem neked valamit. Majd öhm... megmutatom akkor, ha visszatértünk a házunkhoz!0": [
+            "winter25_Sam_spouse_y2_sv1"
+      ],
+      "Szólj ha fáznál. Kölcsönadom a kabátomat.": [
+            "winter25_Alex_spouse_y2"
+      ],
+      "Sok mindenért hálás lehetek, mint például a klinikámért, a pácienseim jó egészségéért...": [
+            "winter25_Harvey_spouse_y2"
+      ],
+      "De a legvégén azért az életért vagyok hálás, amit közösen építgetünk...": [
+            "winter25_Harvey_spouse_y2_sv1"
+      ],
+      "Kedvesem, nekem semmi más nem kell ezen a napon... mert te vagy a legnagyobb ajándék amire egy férfi vágyhat.": [
+            "winter25_Elliott_spouse_y2"
+      ],
+      "Hogy miért vagyok hálás?": [
+            "winter25_Shane_spouse_y2"
+      ],
+      "....öhm...": [
+            "winter25_Shane_spouse_y2_sv1"
+      ],
+      "Azért, mert... kiszedtél engem a mocsokból. És mert megmutattad, hogy megéri élni az életet.": [
+            "winter25_Shane_spouse_y2_sv2"
+      ],
+      "Vajon melyik lehet az én ajándékom...": [
+            "winter25_Abigail_y2"
+      ],
+      "Remélem a nagy doboz lesz az!": [
+            "winter25_Abigail_y2_sv1"
+      ],
+      "Nos... a férjem idén egy új villanyfűrészt vett nekem...": [
+            "winter25_Robin_y2"
+      ],
+      "Biztos elfelejtette, hogy két évvel ezelőtt ugyanilyennel ajándékozott meg!": [
+            "winter25_Robin_y2_sv1"
+      ],
+      "Hmm... ennek a zöld zselének mentolos az íze.": [
+            "winter25_Demetrius_y2"
+      ],
+      "Vajon hogyan kapcsolódik a menta a Téli Csillag ünnepéhez? Egyáltalán nő a menta télen?": [
+            "winter25_Demetrius_y2_sv1"
+      ],
+      "Ma elég hűvös az idő. Jó, hogy mindenki alaposan fel van öltözve.": [
+            "winter25_Maru_y2"
+      ],
+      "A hideg idő egyik előnye, hogy a fagyos pizzákat a fa alá is rakhatom.": [
+            "winter25_Shane_y2"
+      ],
+      "Valakinek nagy élvezetben lesz része...": [
+            "winter25_Shane_y2_sv1"
+      ],
+      "Azt hiszem jó ismét együtt látni az egész családot.": [
+            "winter25_Sebastian_y2"
+      ],
+      "Az utolsó pillanatban kellene pár ajándék? Abban segíthetek! Nézd csak meg a portékámat.": [
+            "winter25_Pierre_y2"
+      ],
+      "Hát nem csodálatos a fa?": [
+            "winter25_Caroline_y2"
+      ],
+      "Marnieval és Jodival egész reggel dekoráltuk. Mókás egy hagyomány!": [
+            "winter25_Caroline_y2_sv1"
+      ],
+      "A polgármester személyesen hívott az asztalához. Ezt nem utasíthatom el!": [
+            "winter25_Linus_y2"
+      ],
+      "Egész biztos vagyok benne, hogy van egy rácslabda-alakú ajándék a fa alatt, amin az én nevem szerepel.": [
+            "winter25_Alex_y2"
+      ],
+      "Így is az egész napomat a családdal töltöm. Minek kell ez a sok humbug idekint a hidegben?": [
+            "winter25_George_y2"
+      ],
+      "Bármikor csatlakozhatsz hozzánk az asztalnál, kedveském.": [
+            "winter25_Evelyn_y2"
+      ],
+      "Boldog Téli Csillag ünnepét, @!": [
+            "winter25_Lewis_y2"
+      ],
+      "Itt az ideje a kikapcsolódásnak, a jó társaságnak és persze annak, hogy hálát adjunk mindennek amivel rendelkezünk.": [
+            "winter25_Lewis_y2_sv1"
+      ],
+      "Jól jönne pár új kovácsolós eszköz. Az enyémek kissé berozsdásodtak az évek alatt.": [
+            "winter25_Clint_y2"
+      ],
+      "Nézd! Az ott a 'Téli Csillag'!%noturn": [
+            "winter25_Emily_y2"
+      ],
+      "Ó, elnézést. Az csak dekoráció!": [
+            "winter25_Emily_y2_sv1"
+      ],
+      "Üdvözöllek @. Miféle ajándékot szeretnél idén kapni?": [
+            "winter25_Penny_y2"
+      ],
+      "Ó? Még soha nem hallottam olyanról. Drágának hangzik.": [
+            "winter25_Penny_y2__Egy_irídium_tejesvödröt__response"
+      ],
+      "Igen, egy könyv igazán jó ajándék lehet!": [
+            "winter25_Penny_y2__Egy_érdekes_könyvet__response"
+      ],
+      "...Most nem tudom, hogy viccelsz vagy sem, de az hasznos ajándék lehet!'": [
+            "winter25_Penny_y2__Egy_darab_szenet__response"
+      ],
+      "Engem kizárólag a forralt bor tart melegen ebben a fagyos időben!": [
+            "winter25_Pam_y2"
+      ],
+      "Olyan szép... Bárcsak mindig így nézne ki a városunk!": [
+            "winter25_Haley_y2"
+      ],
+      "Ez a hely a túlcsorduló ajándékoknak való. Idén olyan sok van, hogy meg se lehet számolni!": [
+            "winter25_Jodi_y2"
+      ],
+      "Én azért vagyok hálás, mert a kicsi fiam boldog és egészséges.": [
+            "winter25_Kent_y2"
+      ],
+      "Ki ajándékoz másnak egy Joja kosarat?...": [
+            "winter25_Sam_y2"
+      ],
+      "Néha irtózom a bulikba járástól, de utána mindig boldog vagyok, hogy elmentem!": [
+            "winter25_Leah_y2"
+      ],
+      "Kellemes ünnepeket, @!": [
+            "winter25_Marnie_y2"
+      ],
+      "*böff*": [
+            "winter25_Elliott_y2"
+      ],
+      "Áhh... elnézést kérek. Hol a modorom? Ez a fűszeres almabor elég hatásos pezsgéssel bír.": [
+            "winter25_Elliott_y2_sv1"
+      ],
+      "Egyél! Egyél, míg friss és meleg.": [
+            "winter25_Gus_y2"
+      ],
+      "Egész nap beszélhetnék az új cukorka készítési módszeremről... de idén megkíméllek téged a részletektől!": [
+            "winter25_Gus_y2_sv1"
+      ],
+      "Én egy egyszerű ember vagyok, @... Hálás vagyok, mert van tető a fejem felett, és hogy minden reggel forró babot ehetek!": [
+            "winter25_Willy_y2"
+      ],
+      "Kóstoltad már a diós pitét? Az a kedvencem.": [
+            "winter25_Harvey_y2"
+      ],
+      "Ki lehet már bontani az ajándékokat?": [
+            "winter25_Jas_y2"
+      ],
+      "Megkaptam azt a dinoszaurusz figurámat amire vágytam! Látod!?": [
+            "winter25_Vincent_y2"
+      ],
+      "Ez egy öhm... egy szte- ...sztego-... sztegoszonaurusz! ...Azt hiszem.": [
+            "winter25_Vincent_y2_sv1"
+      ],
+      "Hmm? Ó, üdv.": [
+            "winter25_Marlon_y2"
+      ],
+      "Ügyet se vess rám. Menj és érezd jól magad.": [
+            "winter25_Marlon_y2_sv1"
+      ],
+      "Azt se tudom, hogy egyáltalán mik ezek... de jó az ízük!": [
+            "winter25_Leo_y2"
+      ]
+}

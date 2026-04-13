@@ -1,0 +1,10 @@
+{
+    "Нет уж, это не сработает! На этот раз ты нашего сочувствия не получишь!": "response_Saloon_crying_Harvey_event1",
+    "Опять притворяешься...": "response_Saloon_crying_Alex_event1_male_farmer",
+    "Как всегда...": "response_Saloon_crying_Alex_event1_female_farmer",
+    "Просто признай свою ошибку и ответственность за нее...": "response_Saloon_crying_Sebastian_event1",
+    "... И мы все вместе решили... Ведь так, парни?": "response_Saloon_crying_Sam_event1",
+    "Да.": "response_Saloon_crying_Harvey_event2",
+    "Без вариантов.": "response_Saloon_crying_Sebastian_event2",
+    "Мы все решили на тебя обидеться!": "response_Saloon_crying_Sam_event2"
+}

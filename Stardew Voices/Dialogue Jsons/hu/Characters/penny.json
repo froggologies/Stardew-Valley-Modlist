@@ -1,0 +1,1313 @@
+{
+      "dialogue": {
+            "Óh... Üdv! Penny vagyok...": [
+                  "Introduction"
+            ],
+            "Ó! Ez az enyém? A... a születésnapomra?": [
+                  "AcceptBirthdayGift_Loved"
+            ],
+            "*szipog*... Elnézést.": [
+                  "AcceptBirthdayGift_Loved_sv1"
+            ],
+            "Én... egyszerűen nem vagyok hozzászokva az efféle kedvességhez...": [
+                  "AcceptBirthdayGift_Loved_sv2"
+            ],
+            "... De ettől még imádom. Tökéletes. Annyira köszönöm!": [
+                  "AcceptBirthdayGift_Loved_sv3"
+            ],
+            "A születésnapomra? Ez olyan kedves tőled! Remek ajándék.": [
+                  "AcceptBirthdayGift_Positive"
+            ],
+            "A születésnapomra? Ez annyira kedves tőled! Hadd csomagoljam ki...": [
+                  "AcceptBirthdayGift_Negative"
+            ],
+            "...Tessék!?2": [
+                  "AcceptBirthdayGift_Negative_sv1"
+            ],
+            "...Óh, értem. Ez egy gonosz vicc.": [
+                  "AcceptBirthdayGift_Negative_sv2"
+            ],
+            "Milyen butácska vagyok, tudhattam volna...": [
+                  "AcceptBirthdayGift_Negative_sv3"
+            ],
+            "Óh... hogy velem? Igen, természetesen!": [
+                  "FlowerDance_Accept"
+            ],
+            "...Vezetnéd te a táncot? Én feszült vagyok...2": [
+                  "FlowerDance_Accept_sv1"
+            ],
+            "@, te mit gondolsz... egy személyt a tettei, vagy a szándékai alapján kellene megítélni?": [
+                  "eventSeen_35_memory_oneweek"
+            ],
+            "Hmm... de néhanapján nem hibázunk mindannyian?": [
+                  "eventSeen_35_memory_oneweek__A_tettei_alapján__response"
+            ],
+            "Mmhmm... De mi van akkor, ha jót akarsz, de a tetteiddel bajt okozol?": [
+                  "eventSeen_35_memory_oneweek__A_szándékai_alapján__response"
+            ],
+            "Ez igaz... Azt hiszem nem lehet különválasztani őket egymástól. És az adott helyzettől is függhet.'": [
+                  "eventSeen_35_memory_oneweek__Mindkettő_alapján__response"
+            ],
+            "Csak azon töprengtem, hogy te mit gondolhatsz...": [
+                  "eventSeen_35_memory_oneweek__Mindkettő_alapján__response_sv1"
+            ],
+            "Mmm... ez annyira illatos. Ezt imádni fogom.": [
+                  "AcceptGift_StardropTea"
+            ],
+            "Váó... ez nagyon réginek tűnik. Erről érdeklődnöm kell Gunthernél. Köszönöm!": [
+                  "AcceptGift_Positive_ancient_item"
+            ],
+            "Köszönöm! Már majdnem befejeztem egy könyvet, de ezt fogom legközelebb elolvasni!": [
+                  "AcceptGift_Positive_book_item"
+            ],
+            "Jasnak és Vincentnek a Törpe archeológiáról tanítottam...": [
+                  "eventSeen_34_memory_oneweek"
+            ],
+            "Jast érdekelte a Törpék eredete... de Vincent inkább a törpe fegyverekre volt kíváncsi!": [
+                  "eventSeen_34_memory_oneweek_sv1"
+            ],
+            "Vincent már hetek óta a meztelen csigákról érdeklődik... szóval egy egész leckével készültem nekik. Valójában elég érdekesek!": [
+                  "eventSeen_34_memory_twoweeks"
+            ],
+            "Akármikor meglátok egy banáncsigát, úgy érzem, hogy az a jó szerencse jelképe.": [
+                  "eventSeen_34_memory_twoweeks_sv1"
+            ],
+            "A héten művészettörténetet tanítok a gyerekeknek.": [
+                  "eventSeen_34_memory_fourweeks"
+            ],
+            "Néha kissé száraz tud lenni nekik, szóval úgy tanítom őket, hogy az adott évszázadot uralkodó stílusban rajzoljanak egy képet.": [
+                  "eventSeen_34_memory_fourweeks_sv1"
+            ],
+            "Eddig nagyon bevált!": [
+                  "eventSeen_34_memory_fourweeks_sv2"
+            ],
+            "Óh, elnézést a kezemen lévő kötésért...": [
+                  "eventSeen_36_memory_oneweek"
+            ],
+            "A minap elmentem Maruhoz, és mutatott nekem egy új eszközt. Az átkozott gépezet megperzselte a tenyeremet!": [
+                  "eventSeen_36_memory_oneweek_sv1"
+            ],
+            "Az óceánról olvastam egy könyvet. A világ legnagyobb részét az borítja be, mégis alig tudunk róla valamit!": [
+                  "eventSeen_35_memory_twoweeks"
+            ],
+            "Én... én nem tudom, hogy mit mondhatnék. Annyira boldog vagyok...": [
+                  "dating_Penny"
+            ],
+            "Hirtelenjében a világ sokkal csodálatosabbnak tűnik, nem gondolod?": [
+                  "dating_Penny_memory_oneday"
+            ],
+            "Próbálom befejezni ezt a könyvet, de folyton rajtad jár az eszem.": [
+                  "dating_Penny_memory_oneweek"
+            ],
+            "Sose hittem volna, hogy az életem izgalmasabb lesz egy novellánál, de most pont így érzek!": [
+                  "dating_Penny_memory_twoweeks"
+            ],
+            "Csodálatos volt az esküvő. Tudom, hogy Maru nagyon boldoggá fog tenni téged, ő egy nagyszerű ember.": [
+                  "married_Maru"
+            ],
+            "Szia @. Maru mesélte, hogy mi a helyzet... Annyira örülök nektek!": [
+                  "dating_Maru_memory_oneday"
+            ],
+            "Ez a sziget olyan csodálatos!": [
+                  "Resort_Entering"
+            ],
+            "Jól szórakoztam.": [
+                  "Resort_Leaving"
+            ],
+            "Gratulálok @! Sam mókás alak, biztos, hogy sose fogsz unatkozni!": [
+                  "married_Sam"
+            ],
+            "Kissé szégyellem magam azért, hogy a nyilvánosság előtt viselem a fürdőruhámat.": [
+                  "Resort_Shore"
+            ],
+            "Remélem senki se figyel...": [
+                  "Resort_Shore_sv1"
+            ],
+            "Valamiért olyan másképp néz ki itt a víz...": [
+                  "Resort_Shore_2"
+            ],
+            "Alig tudom elhinni, hogy ez ugyanaz az óceán amit egész életemben bámultam.": [
+                  "Resort_Shore_2_sv1"
+            ],
+            "A szél folyton ellapozza az oldalakat, de nagyon jó érzés a bőrömnek.": [
+                  "Resort_Towel"
+            ],
+            "Egy könyvet olvasok egy olyan tengerészről, aki egy lakatlan szigetre sodródik.": [
+                  "Resort_Towel_2"
+            ],
+            "Vajon én mihez kezdenék egy ilyen szituációban?": [
+                  "Resort_Towel_2_sv1"
+            ],
+            "Hé édesem, nem állnál egy kicsit balrább?": [
+                  "Resort_Towel_2_Married"
+            ],
+            "Köszönöm, kicsit nehezen tudtam olvasni a Naptól!": [
+                  "Resort_Towel_2_Married_sv1"
+            ],
+            "Ez a homok olyan puha és finom. Jó érzést ad a lábujjaimnak!": [
+                  "Resort"
+            ],
+            "Szia...": [
+                  "Mon"
+            ],
+            "Ó, akartál valamit?": [
+                  "Mon_sv1"
+            ],
+            "Elfogadom!": [
+                  "FlowerDance_Accept_Spouse"
+            ],
+            "*suttogva* Köszönöm, hogy betartottad a formalitásokat, drágám.": [
+                  "FlowerDance_Accept_Spouse_sv1"
+            ],
+            "Ó... Nem, köszönöm.": [
+                  "FlowerDance_Decline"
+            ],
+            "...": [
+                  "breakUp"
+            ],
+            "Ér... Értem... *szipog* ... Ak... Akkor maradjunk csak barátok.": [
+                  "breakUp_sv1"
+            ],
+            "Annyira nagylelkű volt az, amit a családomért tettél. Köszönöm!": [
+                  "pamHouseUpgrade"
+            ],
+            "Van pár igazán csodálatos ember ezen a világon...": [
+                  "pamHouseUpgradeAnonymous"
+            ],
+            "Nem bírom elviselni a látványodat...": [
+                  "dumped_Girls"
+            ],
+            "...Kérlek, hagyj magamra.": [
+                  "divorced"
+            ],
+            "Örökre sebet ejtettél a szívemen, @. Mégis... Készen állok ismét szóba állni veled.": [
+                  "secondChance_Girls"
+            ],
+            "*sóhaj*... Az anyámnak egyértelműen problémája van abból, hogy folyton a szalonba jár.": [
+                  "Mon4"
+            ],
+            "De jobb nem gondolni a rossz dolgokra, ugye?": [
+                  "Mon4_sv1"
+            ],
+            "De úgy hiszem, ha próbálkozok, akkor képes vagyok megváltoztatni őt.": [
+                  "Mon_old_prereq_1"
+            ],
+            "Azt hiszem ennek van értelme. Amúgy se tudok túl sokat tenni ellene.": [
+                  "Mon_old_prereq_2"
+            ],
+            "Én is így érzem. Megpróbálom jobbá tenni a jövőt.": [
+                  "Mon_7"
+            ],
+            "Talán igazad van. Talán jobb a valósággal foglalkozni.": [
+                  "Mon_8"
+            ],
+            "Alig várom, hogy kiköltözzek. Olyan nagy teher folyton anya után aggódnom.": [
+                  "Mon8"
+            ],
+            "Azt akarom, hogy boldog legyen, de nem maradhatok itt örökké... érted?": [
+                  "Mon8_sv1"
+            ],
+            "Ma Vincentet és Jast tanítgatom... Elég nehezen fegyelmezhetőek, de mégis olyan jó megváltoztatni valakinek az életét.": [
+                  "Tue"
+            ],
+            "Talán most, hogy anyám visszakapta a buszvezetői munkáját, úgy végre több pénzt tudok spórolni. A dolgok kissé fényesebbnek tűnnek.": [
+                  "Tue4_prereq_1"
+            ],
+            "Próbálok pénzt gyűjteni az oktatói munkámból, de úgy nehéz, hogy anyámnak nincs munkája.": [
+                  "Tue4_prereq_2"
+            ],
+            "Izé, @? Egy farm jó helynek tűnik gyerekek számára, nem gondolod?": [
+                  "Tue10"
+            ],
+            "Ezen csak úgy elgondolkoztam.": [
+                  "Tue10_sv1"
+            ],
+            "Itt nincs iskola, de minden tőlem telhetőt megteszek, hogy Vincent és Jas megfelelő tanításban részesüljön.": [
+                  "Wed"
+            ],
+            "Minden gyerek megérdemli az esélyt, hogy sikeres legyen.": [
+                  "Wed_sv1"
+            ],
+            "Jas nagyon jó a matekban és az olvasásban. Vincent elég jó a... nos, neki elég aktív képzelőereje van!": [
+                  "Wed_sv2"
+            ],
+            "Tudod mit? Egyszer elvihetném a gyerekeket túrázni. Mondjuk az erdőbe.": [
+                  "Wed2"
+            ],
+            "Jól jönne egy vendég, aki felszólalhatna ott... talán olyasvalaki, aki ismeri a természetet?": [
+                  "Wed2_sv1"
+            ],
+            "Bocsánat, csak hangosan gondolkozom.": [
+                  "Wed2_sv2"
+            ],
+            "Jól vagy? Mind azon töprengünk, hogy mi történik itt...": [
+                  "GreenRain"
+            ],
+            "Ez a furcsa időjárás remek lehetőség arra, hogy a gyerekeket jobban érdekelje a környezetük!": [
+                  "GreenRain_2"
+            ],
+            "Egész életemben Pelikán városban éltem. Ezt el tudod hinni?": [
+                  "Wed4"
+            ],
+            "Azt hiszem sok dolog van odakint, amit sose fogok megtapasztalni.": [
+                  "Wed4_sv1"
+            ],
+            "Nagyon szerencsések vagyunk, hogy egy ilyen kicsi városban van könyvtárunk.": [
+                  "Thu"
+            ],
+            "Ha elmerülsz egy könyvben, akkor könnyű megfeledkezni az életed eseményeiről.": [
+                  "Thu_sv1"
+            ],
+            "...Talán ezért szeretek olyan sokat olvasni.": [
+                  "Thu_sv2"
+            ],
+            "...Elnézést. Egy kicsit elragadtattam magam.": [
+                  "Thu_sv3"
+            ],
+            "Bárcsak lenne saját kertem, de a hátsó kertünk csupa szemét.": [
+                  "Thu6"
+            ],
+            "Talán olyan helyen fogok majd élni, ahol valóban lehet saját kertem.": [
+                  "Thu6_sv1"
+            ],
+            "Talán majd egy farmon fogok élni! *kacag*": [
+                  "Thu6_sv2"
+            ],
+            "Ha a földben áskálódsz, akkor érdekes dolgokat találhatsz.": [
+                  "Fri"
+            ],
+            "Egyik alkalommal találtam egy nagyon régi cserepet. Elvittem Gunthernek és azt mondta, hogy több, mint ezer éves.": [
+                  "Fri_sv1"
+            ],
+            "Nem kellene annyit panaszkodnom a házimunkák miatt... egyesek tényleg küzdenek a világban, én meg itt panaszkodom a tányérok elmosása miatt...": [
+                  "Fri8"
+            ],
+            "Tányérok, tányérok, tányérok. Uhhh... Ha anyámnak nem lenne folyton fejfájása, mikor késő este hazatér a szalonból, akkor talán besegíthetne egy kicsit a házimunkában.": [
+                  "Fri4"
+            ],
+            "Ez egy olyan kicsi város. Nem tudsz nem találkozni mindenkivel.": [
+                  "Sat"
+            ],
+            "Vajon milyen lehet a nagyvárosban élni?": [
+                  "Sat_sv1"
+            ],
+            "Sok dolog megváltozott, mikor a JojaMart beköltözött. Ez nagyon rosszat tett Pierre boltjával. Habár anya nagyon szereti a JojaMartot. Olcsók az áraik, ezért sokkal többet tud ott vásárolni, mint Pierrenél.": [
+                  "Sat2_prereq_1"
+            ],
+            "Anya azóta panaszkodik, amióta bezárt a JojaMart. Habár azt hiszem, hogy ez neki is jót tesz. Talán kevesebb Joja Colat fog mostantól inni.": [
+                  "Sat2_prereq_2"
+            ],
+            "Üdv. Izé...": [
+                  "Sun"
+            ],
+            "Az idő ma nagyon érdekesnek tűnik, ugye?": [
+                  "Sun_sv1"
+            ],
+            "Bocsánat...": [
+                  "Sun_sv2"
+            ],
+            "Próbáltam tisztán tartani a házunkat, de folyton piszkos lesz.": [
+                  "Sun4"
+            ],
+            "Nehéz, ha egymagad vezeted a háztartást.": [
+                  "Sun4_sv1"
+            ],
+            "Jaj nem?": [
+                  "event_speaker_kids1"
+            ],
+            "Nos, gondolom ennek is van értelme... most más dolgokkal vagy elfoglalva.": [
+                  "event_speaker_kids1_sv1"
+            ],
+            "... Én is. Örülök, hogy te is így érzel.": [
+                  "event_speaker_kids2"
+            ],
+            "Igen... annak az érzése, hogy valami ártatlanra és magatehetetlenre vigyázzak. Egyértelmű, hogy így érezhetek.": [
+                  "event_speaker_kids3"
+            ],
+            "Ó, tényleg?": [
+                  "event_speaker_kids4"
+            ],
+            "Azt hiszem te jó szülő lennél.": [
+                  "event_speaker_kids4_sv1"
+            ],
+            "Hmm...": [
+                  "event_speaker_kids5"
+            ],
+            "Ha mindenki így gondolkodna, akkor kihalna az emberiség.": [
+                  "event_speaker_kids5_sv1"
+            ],
+            "Ó...": [
+                  "event_speaker_kids6"
+            ],
+            "Ez kissé szomorú... de azt hiszem megértem az álláspontodat.": [
+                  "event_speaker_kids6_sv1"
+            ],
+            "Nagyszerű!": [
+                  "event_speaker_yes"
+            ],
+            "Akkor hadd hívjam ide a gyerekeket.": [
+                  "event_speaker_yes_sv1"
+            ],
+            "Komolyan?... Őőő... Nos, rendben. Akkor azt hiszem később még találkozunk.%fork": [
+                  "event_speaker_no"
+            ],
+            "Köszönöm...": [
+                  "event_mail1"
+            ],
+            "Azt kívánom bárcsak George ne lenne ennyire dühös... Csak segíteni próbáltam.": [
+                  "event_mail1_sv1"
+            ],
+            "Ó... Azt hiszem igazad van.": [
+                  "event_mail2"
+            ],
+            "Sajnálom, Mullner úr. Amit tettem otromba volt.": [
+                  "event_mail2_sv1"
+            ],
+            "Értem.": [
+                  "event_mail3",
+                  "event_family3"
+            ],
+            "Azt hiszem igazad van... miért stresszeljek olyan dolgon, amit nem tudok megváltoztatni?": [
+                  "event_old1"
+            ],
+            "Igazad van, nem szabadna megfeledkeznünk az öregedés tényéről.": [
+                  "event_old2"
+            ],
+            "Azt hiszem minél hamarabb fogadjuk el halandóságunkat, annál inkább élhetünk az itt és mostban.": [
+                  "event_old2_sv1"
+            ],
+            "Kedves, hogy ezt mondod... Teljesen egyet kell, hogy értsek veled.": [
+                  "event_old3"
+            ],
+            "Olyan tisztelettel kell bánnunk az idősebbekkel, mint ahogy azt elvárjuk másoktól, hogy úgy bánjanak majd velünk.": [
+                  "event_old3_sv1"
+            ],
+            "Szörnyű dolog ilyet mondani. Az élet túl drága ahhoz, hogy így elpocsékoljuk!": [
+                  "event_old4"
+            ],
+            "Komolyan gondolod? Köszönöm! ...olyan megkönnyebbülés ilyet hallani.": [
+                  "event_cook1"
+            ],
+            "Olyan keményen dolgoztam ezen a recepten, és büszke vagyok rá.": [
+                  "event_cook1_sv1"
+            ],
+            "Ó... Őőő, persze.": [
+                  "event_cook2"
+            ],
+            "Ó... Sajnálom.": [
+                  "event_cook3"
+            ],
+            "Pontosan...": [
+                  "event_pool1"
+            ],
+            "Komolyan? Azt hittem már észrevetted...": [
+                  "event_pool2"
+            ],
+            "Nem!": [
+                  "event_pool3"
+            ],
+            "...Ó, @. Gondoltam, hogy te is, de nem voltam benne biztos.": [
+                  "event_pool4"
+            ],
+            "...Mindig is emlékezni fogok erre az éjszakára.": [
+                  "event_pool4_sv1_male_farmer"
+            ],
+            "Olyan csodálatosan nézel ki ma este... Én... *zihál*": [
+                  "event_pool4_sv1_female_farmer"
+            ],
+            "T...Te nem?": [
+                  "event_pool5"
+            ],
+            "...!!!%fork0": [
+                  "event_pool5_sv1"
+            ],
+            "Én is.": [
+                  "event_family1"
+            ],
+            "...sajnálom.": [
+                  "event_family2"
+            ],
+            "Szia... Izé, szép időnk van, nemde?": [
+                  "summer_Mon"
+            ],
+            "Köszönöm, hogy feljavítottad a közösségi központot. Azt hiszem te vagy a város hőse.": [
+                  "summer_Mon4_prereq_1"
+            ],
+            "Üdv, @. Jó látni, hogy jól vagy.": [
+                  "summer_Mon4_prereq_2"
+            ],
+            "Úgy hallottam, hogy neked köszönhető a busz megjavítása. Köszönöm.": [
+                  "summer_Fri_prereq_1"
+            ],
+            "Régen az anyám vezette a buszt a Calico-sivatagba... de a busz pár évvel ezelőtt tönkrement. A polgármester szerint nincs elég pénze a városnak, máskülönben már megjavíttatta volna.": [
+                  "summer_Fri_prereq_2"
+            ],
+            "Szóval... szereted dekorálni a farmos házadat?": [
+                  "summer_Sun"
+            ],
+            "Nagyon jó lehet, hogy van egy saját helyed, amit kidekorálhatsz.": [
+                  "summer_Sun_sv1"
+            ],
+            "Üdv. Őőő...": [
+                  "summer_Sat"
+            ],
+            "A hegyek ma nagyon jól néznek ki, ugye?": [
+                  "summer_Sat_sv1"
+            ],
+            "Szia... Őőő, milyen a napod?": [
+                  "fall_Mon"
+            ],
+            "Kissé zavarbaejtő dolog, hogy mi vagyunk az egyetlen család, akik lakókocsiban élnek.": [
+                  "fall_Mon4"
+            ],
+            "Azt kívánom bárcsak egy napon egy szép házban lakhatnék.": [
+                  "fall_Mon4_sv1"
+            ],
+            "A farmod elég szépnek tűnik mostanság.": [
+                  "fall_Tue4"
+            ],
+            "Anya nem igazán törődik magával...": [
+                  "fall_Thu6"
+            ],
+            "Aggódom érte.": [
+                  "fall_Thu6_sv1"
+            ],
+            "Az ősz számomra egy szomorú időszak...": [
+                  "fall_Fri"
+            ],
+            "Mikor kislány voltam, az apám elhagyott minket, mivel 'csapdába zárva' érezte magát. Azóta se találkoztunk vele.": [
+                  "fall_Fri6"
+            ],
+            "Elnézést, ha kényelmetlenné teszem számodra a dolgokat... De valamiért az év ezen szakaszában mindig előjönnek ezek a gondolatok.": [
+                  "fall_Fri6_sv1"
+            ],
+            "Mindegy... Neked hogy megy a farmos életed?": [
+                  "fall_Fri6_sv2"
+            ],
+            "@! Épp a jövőn gondolkoztam...": [
+                  "fall_Sun10"
+            ],
+            "Hol képzeled el magad az elkövetkezendő tíz évben?": [
+                  "fall_Sun10_sv1"
+            ],
+            "Nekem van pár ötletem magamra nézve...": [
+                  "fall_Sun10_sv2"
+            ],
+            "Szia @.": [
+                  "fall_Sat8"
+            ],
+            "A farmos házadat biztos könnyű kitakarítani, ugye?": [
+                  "fall_Sat8_sv1"
+            ],
+            "...igen?": [
+                  "winter_Fri"
+            ],
+            "Te jó barátja vagy Linusnak? Ő egy sátorban él a hegyekben.": [
+                  "winter_Fri2"
+            ],
+            "Mindenki semmibe veszi őt, szerencsétlen fickót. Valójában nagyon kedves... Csak egy kicsit fura.": [
+                  "winter_Fri2_sv1"
+            ],
+            "Olyan hideg lehet neki ilyen hideg időben egy sátorban élni.": [
+                  "winter_Fri2_sv2"
+            ],
+            "Alig várom, hogy láthassam hogyan néz ki a farmod tavasszal.": [
+                  "winter_Tue4"
+            ],
+            "Friss lesz és gyönyörű.": [
+                  "winter_Tue4_sv1"
+            ],
+            "Próbálok olyan sokat bent maradni télen, amennyit csak lehet. Utálok fázni.": [
+                  "winter_Tue"
+            ],
+            "Ó... szia. Beszélgetni akarsz?": [
+                  "winter_Thu"
+            ],
+            "Ha találsz valamilyen érdekes ereklyét vagy ásványt, azt Gunther boldogan kiállítja a múzeumban.": [
+                  "winter_Thu_sv1"
+            ],
+            "Azt mondta, hogy különös ajándékokat ad azoknak, akik adakoznak a múzeumnak.": [
+                  "winter_Thu_sv2"
+            ],
+            "25-én ünnepeljük a Téli Csillag Ünnepét. Ez az egyik kedvenc eseményem.": [
+                  "winter_Mon"
+            ],
+            "Ilyenkor szoktunk hálát adni az életünkben lévő jó dolgokért... de a legtöbb ember ilyenkor pihenni szokott és megajándékozza a másikat.": [
+                  "winter_Mon_sv1"
+            ]
+      },
+      "marriage_dialogue": {
+            "Az esős napokon a gondolataim mindig a fahéj és a sütik felé kalandoznak el.": [
+                  "Rainy_Day_0"
+            ],
+            "Vajon Maru és Dr. Harvey össze fognak jönni valaha? Tuti, hogy Harvey kedveli őt...": [
+                  "Rainy_Day_1"
+            ],
+            "Habár szerintem az első lépést Marunak kell megtennie.": [
+                  "Rainy_Day_1_sv1"
+            ],
+            "Szia, édesem! Ma reggel bevásároltam, és ezt vettem neked.": [
+                  "Rainy_Day_2"
+            ],
+            "Gondoltam ez jól jöhet neked.1": [
+                  "Rainy_Day_2_sv1"
+            ],
+            "Hmm... talán egy új recepttel kellene kísérleteznem. Az előző recept bejött neked, ugye édesem?": [
+                  "Rainy_Day_3"
+            ],
+            "Mi is volt a neve... 'Chili de @'?": [
+                  "Rainy_Day_3_sv1"
+            ],
+            "Az ilyen napokon szeretek begubózni és könyvet olvasni.": [
+                  "Rainy_Day_4"
+            ],
+            "Milyen volt a napod, édesem? Én a délutánomat egy regény olvasásával töltöttem.": [
+                  "Rainy_Night_0"
+            ],
+            "Ez sokkalta békésebb, mint a városban lévő régi helyem. Itt nagyon boldog vagyok.": [
+                  "patio_Penny"
+            ],
+            "Biztos vagyok benne, hogy anya most a szalonban van... De már nem érzem rosszul magam miatta. Kikerültem a hatása alól.": [
+                  "Rainy_Night_1"
+            ],
+            "Épp arra az éjszakára gondoltam, amikor este találkoztunk a fürdőben.": [
+                  "Rainy_Night_2"
+            ],
+            "Azt az éjszakát sose fogom elfelejteni...": [
+                  "Rainy_Night_2_sv1"
+            ],
+            "Régen zavart az eső hangja, mikor abban a rozoga fémes lakókocsiban éltem. De itt elég nyugtató.": [
+                  "Rainy_Night_3"
+            ],
+            "Úgy gondoltam, hogy készítek valami finomságot. Remélem tetszik.": [
+                  "Rainy_Night_4"
+            ],
+            "Annyira békés itt. Nagyon durva rémálmaim szoktak lenni, de mostanság úgy alszom, mint egy csecsemő.": [
+                  "Indoor_Day_0"
+            ],
+            "Jó reggelt, @! Készítettem egy kis forró reggelit.": [
+                  "Indoor_Day_1"
+            ],
+            "Fontos számomra, hogy teli hassal távozz innét.": [
+                  "Indoor_Day_1_sv1"
+            ],
+            "Figyelj, szerintem ma el fogok olvasni egy jó könyvet. Kikölcsönöztem egyet a könyvtárból, mikor legutóbb arra jártam.": [
+                  "Indoor_Day_2"
+            ],
+            "Gunther megkért, hogy adjam át az üdvözletét neked.": [
+                  "Indoor_Day_2_sv1"
+            ],
+            "Szeretek hallani a rengeteg ereklyéről, amit találtál. A régészet lenyűgöző!": [
+                  "Indoor_Day_3"
+            ],
+            "Abba belegondolni... hogy ezen a helyen több 10.000 évvel ezelőtt is gazdák voltak.": [
+                  "Indoor_Day_3_sv1"
+            ],
+            "Szégyellős voltam, mikor először találkoztunk? Vicces így belegondolni, most, hogy idáig jutottunk.": [
+                  "Indoor_Day_4"
+            ],
+            "Jó estét, édesem. Sikerült mindent elintézned mára, amit szerettél volna?": [
+                  "Indoor_Night_0"
+            ],
+            "Ha nem, akkor sincs baj. Tengernyi időnk van a világon!": [
+                  "Indoor_Night_0_sv1"
+            ],
+            "Hmm... holnapra szoknyát, vagy nadrágot vegyek fel? Ó, kit akarok beetetni... mindig a szoknyát választom.": [
+                  "Indoor_Night_1"
+            ],
+            "Itt elég jó sorunk van. Mindig meg kell próbálnunk megemlékezni azokra, akiknek tőlünk kevesebb szerencséje van.": [
+                  "Indoor_Night_2"
+            ],
+            "Egyszerűen nagyon hálás vagyok azért, amink van.": [
+                  "Indoor_Night_2_sv1"
+            ],
+            "Anya valószínűleg elég magányos most, hogy így eltűntem. Csak remélni tudom, hogy kiegészítésképpen nem jár még többet a szalonba.": [
+                  "Indoor_Night_3"
+            ],
+            "Ne érezd magad rosszul! Anyának kell megoldania a saját problémáit.": [
+                  "Indoor_Night_3_sv1"
+            ],
+            "Készen állsz ágyba bújni? Már megvetettem az ágyat meg minden...1": [
+                  "Indoor_Night_4"
+            ],
+            "Mindig is arról álmodtam, hogy ilyen szép helyen fogok élni, és most valóra vált.": [
+                  "Outdoor_0"
+            ],
+            "Annyira szánalmas voltam otthon.": [
+                  "Outdoor_0_sv1"
+            ],
+            "Ez nem tökéletes hely a gyerekek felnevelésére?": [
+                  "Outdoor_1"
+            ],
+            "Olyan boldog lettem volna, ha egy farmon nőttem volna fel.": [
+                  "Outdoor_1_sv1"
+            ],
+            "Üdv, édesem! Ha többet tudnék a farmos dolgokkal kapcsolatban, akkor többet tudnék segíteni. Bocsi!": [
+                  "Outdoor_2"
+            ],
+            "Majd gondolok rád.": [
+                  "Outdoor_2_sv1"
+            ],
+            "Láttam egy énekesmadarat nyugatnak repülni. Stardew Valleyben ez nagyon jó ómennek számít.": [
+                  "Outdoor_3"
+            ],
+            "Ahh... Olyan jó érzés idekint lenni. Minden időmet képes volnék itt tölteni, minden apró dolgot megfigyelve.": [
+                  "Outdoor_4"
+            ],
+            "Játszott %kid1 veled, volt rá elég időd? Talán egy második gyerek megkönnyítené a dolgunkat.": [
+                  "OneKid_0"
+            ],
+            "A kis %kid1 olyan jó gyerekkorral lesz megáldva itt.": [
+                  "OneKid_1"
+            ],
+            "Sokkal idősebbnek érzem magam most, hogy van egy gyerekünk. Talán az új felelősség nyomja a vállamat.": [
+                  "OneKid_3"
+            ],
+            "Ez nem rossz dolog! Már régóta erre vágytam.1": [
+                  "OneKid_3_sv1"
+            ],
+            "Már %kid1 és %kid2 is kapott enni. Annyira éhes gyerekek!": [
+                  "TwoKids_0"
+            ],
+            "%kid1 sok figyelmet érdemel most, hogy itt van a kis %kid2. Nem akarjuk, hogy irigyek legyenek egymásra.": [
+                  "TwoKids_1"
+            ],
+            "Azt álmodtam, hogy %kid2 hirtelen szárnyakat növesztett és elrepült az esti éjszakában. Ez mit jelent?": [
+                  "TwoKids_2"
+            ],
+            "Egy szép ház, két gyönyörűséges gyerek, és egy csodaszép hely. Nagyon szerencsések vagyunk.": [
+                  "TwoKids_3"
+            ],
+            "@...Még mindig nem tudom elhinni, hogy házasok vagyunk...": [
+                  "Good_0"
+            ],
+            "Olyan régóta álmodtam már arról, hogy hozzád megyek.": [
+                  "Good_1"
+            ],
+            "Amióta ideköltöztél tudtam, hogy te vagy az igazi...": [
+                  "Good_2"
+            ],
+            "Váó, ma nagyon jóképű vagy! Megborotválkoztál?": [
+                  "Good_3_male_farmer"
+            ],
+            "Váó, ma nagyon csodálatos vagy. Valami mást műveltél a hajaddal?": [
+                  "Good_3_female_farmer"
+            ],
+            "Ez a hely egyre otthonosabbnak érződik.": [
+                  "Good_4"
+            ],
+            "Légy óvatos odakint! Néha aggódom azért, hogy nem eszel elég ételt.": [
+                  "Good_6"
+            ],
+            "Ma benézek a városba, csak úgy poénból. Hamarosan visszatérek!": [
+                  "funLeave_Penny"
+            ],
+            "Jót szórakoztam... Jó néha kapcsolatba lépni a többiekkel is. Mesélj, neked milyen volt a napod?": [
+                  "funReturn_Penny"
+            ],
+            "Talán a tavasz a kedvenc évszakom. Olyan frissesség van a levegőben, ami reménnyel tölt meg engem.": [
+                  "spring_8"
+            ],
+            "Nagyon hosszú, meleg év áll előttünk. Tegyük termékennyé.": [
+                  "spring_1"
+            ],
+            "Ah, a 'tavaszi takarítás'... Ezt valójában élvezni fogom.": [
+                  "spring_15"
+            ],
+            "*huhhh*... Több dinnyét kell ennem, hogy harcoljak a hőség ellen!": [
+                  "summer_16"
+            ],
+            "A nyár lehet, hogy kegyetlenül forró, de a pára nagyon jó érzés a bőrömnek.": [
+                  "summer_1"
+            ],
+            "Nyáron a hangyák nagyon aktívak lesznek. Órákon át tudnám nézni őket... ránézésből nagyon komplex civilizációjuk van!": [
+                  "summer_2"
+            ],
+            "Az ősz illata engem a könyvek illatára emlékeztet... fura, nem?": [
+                  "fall_5"
+            ],
+            "Ősz... Erről a színes papír és a ragasztó jut eszembe. Talán túl sok időt töltök gyerekek társaságában.": [
+                  "fall_1"
+            ],
+            "Fogsz idén óriási tököt termeszteni?1": [
+                  "fall_2"
+            ],
+            "A tél jó arra, hogy egy kicsit kikapcsolódjunk. Egy ilyen hosszú év után megérdemeljük!": [
+                  "winter_1"
+            ],
+            "A hóesés nagymamámra emlékeztet, aki a tűz mellett ült a hintaszékében. Többnyire az árnyékára emlékszem, ahogy az a narancs színű fán pislákolt. Bár ez nagyon rég volt.": [
+                  "winter_6"
+            ],
+            "Hogy fogjuk ezt a telet átvészelni? Ó, nem kell emlékeztetned engem... Bízom abban, hogy jó döntéseket hozol.": [
+                  "winter_3"
+            ]
+      },
+      "gift_tastes": {
+            "Köszönöm! Ezt nagyon szeretem!": [
+                  "PennyGiftTaste_1"
+            ],
+            "Köszönöm! Ez különlegesnek tűnik.": [
+                  "PennyGiftTaste_2"
+            ],
+            "Öhm, ez az enyém? ...Köszönöm.": [
+                  "PennyGiftTaste_3"
+            ],
+            "Uhhh... Sajnálom, de ezt szívből gyűlölöm.": [
+                  "PennyGiftTaste_4"
+            ],
+            "Köszönöm, ez jól néz ki.": [
+                  "PennyGiftTaste_5"
+            ]
+      },
+      "misc": {
+            "Szia édesem. Csak nézelődök, hátha találok valami szépet a házunkhoz.": [
+                  "DesertFestival_Penny_marriage"
+            ],
+            "Több ezer évvel ezelőtt ezen a helyen egy ősi civilizáció élt. Vajon milyenek lehettek?": [
+                  "DesertFestival_Penny"
+            ],
+            "Szia! Remélem találsz valamit ami tetszik.": [
+                  "Shop_Penny"
+            ],
+            "Te az új gazda vagy, ugye?": [
+                  "WipedMemory"
+            ],
+            "Te olyan... nem. Még biztosan nem találkoztunk.": [
+                  "WipedMemory_sv1"
+            ],
+            "A mozi ünnepnapokon zárva tart!": [
+                  "MovieInvite_Festival"
+            ],
+            "A mozi estére zárva tart...": [
+                  "MovieInvite_Closed"
+            ],
+            "Már elhívtad {0}-t moziba!": [
+                  "MovieInvite_AlreadyInvitedSomeone"
+            ],
+            "{0} tanácstalannak tűnik...": [
+                  "MovieInvite_NoTheater"
+            ],
+            "Nem hívhatod el {0}-t a moziba.": [
+                  "MovieInvite_CantInvite"
+            ],
+            "Sajnálom, de már van mozizós tervem estére, mit szólnál, ha csatlakoznál hozzánk?": [
+                  "MovieInvite_InvitedBySomeoneElse"
+            ],
+            "Nincs kedvem ilyen korán ismét moziba menni...": [
+                  "MovieInvite_FarmerAlreadySeen"
+            ],
+            "Sajnálom, már néztem filmet a héten...": [
+                  "MovieInvite_AlreadySeen"
+            ],
+            "Filmezni? Persze. Később találkozunk a moziban.": [
+                  "MovieInvite_Invited"
+            ],
+            "Egy filmet? Igen, persze, hogyne, jól hangzik. Találkozzunk a moziban...": [
+                  "MovieInvite_Invited_Rude"
+            ],
+            "Egy film? Hurrá! Találkozzunk a mozinál!": [
+                  "MovieInvite_Invited_Child"
+            ],
+            "Azt hiszem azt nem szabadna megnéznem...": [
+                  "MovieInvite_Reject_Child"
+            ],
+            "Sajnálom, de most nincs kedvem mozizni...": [
+                  "MovieInvite_Reject"
+            ],
+            "Egy mozijegy? Igen, szívesen veled tartok! Majd a mozinál találkozunk, édesem.": [
+                  "MovieInvite_Spouse_Penny",
+                  "MovieInvite_Spouse_Penny"
+            ],
+            "Régi emlékeket idéz fel az, hogy anyuval filmet nézhetek!": [
+                  "Penny_*_BeforeMovie"
+            ],
+            "(Pam és Penny feszülten nézi a filmet!)": [
+                  "Penny_*_DuringMovie"
+            ],
+            "Jó ismét családként közös dolgokban részt venni!": [
+                  "Penny_*_AfterMovie"
+            ],
+            "Már alig várom ezt! Jas és Vincent egyfolytában csak erről beszélt.": [
+                  "Penny_spring_movie_0_BeforeMovie"
+            ],
+            "Váó, nagyon nehéz lehetett, hogy így elhagyta a családját...": [
+                  "Penny_spring_movie_0_DuringMovie"
+            ],
+            "Úgy tűnik Penny visszatartja a könnyeit...": [
+                  "Penny_spring_movie_0_DuringMovie_2"
+            ],
+            "Köszönöm, hogy elhoztál erre a filmre, alig várom, hogy meséljek erről a gyerekeknek!": [
+                  "Penny_spring_movie_0_AfterMovie"
+            ],
+            "Ó, '{0}'! Ez nagyon mókásnak tűnik!": [
+                  "Penny_family_BeforeMovie"
+            ],
+            "(Penny mosolyog)": [
+                  "Penny_family_DuringMovie"
+            ],
+            "Legközelebb tutira el kell hoznom erre a gyerekeket!": [
+                  "Penny_family_AfterMovie"
+            ],
+            "Izgatott vagyok, szeretnék egy jót nevetni!": [
+                  "Penny_comedy_BeforeMovie"
+            ],
+            "Ugye csak nem...?! Hahahaha!": [
+                  "Penny_comedy_DuringMovie"
+            ],
+            "Tyű, begörcsölt a hasam a sok nevetéstől...!": [
+                  "Penny_comedy_AfterMovie"
+            ],
+            "Kissé feszült vagyok... Általában nem nézek ijesztő filmeket.": [
+                  "Penny_horror_BeforeMovie"
+            ],
+            "Nem bírom nézni...": [
+                  "Penny_horror_DuringMovie"
+            ],
+            "Remélem ma este nem lesznek rémálmaim!": [
+                  "Penny_horror_AfterMovie"
+            ],
+            "Óóóh, már alig vártam, hogy ezt láthassam!": [
+                  "Penny_love_BeforeMovie"
+            ],
+            "Lenyűgöző! Remélem készítenek folytatást!": [
+                  "Penny_love_AfterMovie"
+            ],
+            "Hé, erről jó dolgokat hallottam!": [
+                  "Penny_like_BeforeMovie"
+            ],
+            "Ez nagyszerű volt! Köszönöm, hogy ezt közösen megnézhettük!": [
+                  "Penny_like_AfterMovie"
+            ],
+            "Nem mondom, hogy ezt választottam volna, de próbálom nyitott elmével nézni...": [
+                  "Penny_dislike_BeforeMovie"
+            ],
+            "...": [
+                  "NPC_cs_3985_sv2",
+                  "NPC_cs_4431"
+            ],
+            "Sajnálom, ha tönkretettem számodra a filmet, ez nem igazán jött be nekem...": [
+                  "Penny_dislike_AfterMovie"
+            ],
+            "Óóóh, '{0}'! Ezt {2} és én a múltkor közösen néztük!": [
+                  "Penny_seen_love_BeforeMovie"
+            ],
+            "Ezt {2} és én már láttuk, egész jó volt!": [
+                  "Penny_seen_like_BeforeMovie"
+            ],
+            "Hmm, azt hiszem {2} már elhozott megnézni ezt...": [
+                  "Penny_seen_dislike_BeforeMovie"
+            ],
+            "Persze, hogy táncolok veled!": [
+                  "Event_cs_1632"
+            ],
+            "Akarsz a párom lenni a virágtáncnál?": [
+                  "Event_cs_1633",
+                  "Event_cs_1634"
+            ],
+            "Oké. Már alig várom.": [
+                  "Event_cs_1633_sv1"
+            ],
+            "Oké! Örömmel.": [
+                  "Event_cs_1634_sv1"
+            ],
+            "Sajnálom... de már van partnerem.": [
+                  "Event_cs_1635"
+            ],
+            "Az esküvő csodálatos volt... nemde, drágám?": [
+                  "Game1_cs_2782"
+            ],
+            "Nos, nem feledkezhetünk meg a farmról... munkára fel!": [
+                  "Game1_cs_2782_sv1"
+            ],
+            "Szóval... Azt hallottam, hogy {0} titokban kapott tőled egy ajándékot...": [
+                  "NPC_cs_3985"
+            ],
+            "Gyanakodnom kellene rád?": [
+                  "NPC_cs_3985_sv1"
+            ],
+            "Édesem... Ezt a gyümölcsöt a szeretetem szimbólumaként adom neked.": [
+                  "NPC_cs_4001"
+            ],
+            "Szia...": [
+                  "NPC_cs_4058"
+            ],
+            "Szia!": [
+                  "NPC_cs_4059"
+            ],
+            "Üdv.": [
+                  "NPC_cs_4060"
+            ],
+            "Szia.": [
+                  "NPC_cs_4061",
+                  "NPC_cs_4072"
+            ],
+            "Helló!": [
+                  "NPC_cs_4062"
+            ],
+            "Jó reggelt": [
+                  "NPC_cs_4063"
+            ],
+            "Jó napot": [
+                  "NPC_cs_4064"
+            ],
+            "Jó estét": [
+                  "NPC_cs_4065"
+            ],
+            "{0}!": [
+                  "NPC_cs_4066"
+            ],
+            "Szia, {0}!": [
+                  "NPC_cs_4068"
+            ],
+            "Szia, {0}": [
+                  "NPC_cs_4071"
+            ],
+            "Az én {0}": [
+                  "NPC_cs_4079",
+                  "NPC_cs_4080"
+            ],
+            "Tudtad, hogy {0}": [
+                  "NPC_cs_4083"
+            ],
+            "szereti ezt: '{0}'?": [
+                  "NPC_cs_4084"
+            ],
+            "{0} szereti ezt: '{1}'!": [
+                  "NPC_cs_4086"
+            ],
+            "Ő mondta nekem.": [
+                  "NPC_cs_4088",
+                  "NPC_cs_4089"
+            ],
+            "Itt egy titok, {0} szereti ezt: '{1}'.": [
+                  "NPC_cs_4091"
+            ],
+            "Ha azt akarod, hogy {0} kedveljen téged, adj neki '{1}'-t.": [
+                  "NPC_cs_4094",
+                  "NPC_cs_4097"
+            ],
+            "Ha {0} jó oldalára akarsz kerülni, adj neki '{1}'-t.": [
+                  "NPC_cs_4100",
+                  "NPC_cs_4103"
+            ],
+            "Ha azt akarod, hogy {0} a barátod legyen, akkor adj neki '{1}'-t, azt szereti.": [
+                  "NPC_cs_4106"
+            ],
+            "Az a kedvence.": [
+                  "NPC_cs_4109",
+                  "NPC_cs_4111"
+            ],
+            "Azt szereti.": [
+                  "NPC_cs_4113",
+                  "NPC_cs_4115"
+            ],
+            "Azokat nagyon szereti.": [
+                  "NPC_cs_4114",
+                  "NPC_cs_4116"
+            ],
+            "Egyszer adtam neki egyet, és egész nap csak arról beszélt.": [
+                  "NPC_cs_4118",
+                  "NPC_cs_4120"
+            ],
+            "Jó ajándék lenne.": [
+                  "NPC_cs_4125"
+            ],
+            "Ettől nagyon boldoggá teheted őt.": [
+                  "NPC_cs_4126",
+                  "NPC_cs_4128"
+            ],
+            "utálja ezt: '{0}'? Szerinte teljesen {1}.": [
+                  "NPC_cs_4135",
+                  "NPC_cs_4138"
+            ],
+            "{0} nagyon utálja ezt: '{1}'! Ő mondta nekem.": [
+                  "NPC_cs_4141",
+                  "NPC_cs_4144"
+            ],
+            "Egy kis figyelmeztetés:": [
+                  "NPC_cs_4146"
+            ],
+            "{0} nagyon utálja ezt: '{1}'.": [
+                  "NPC_cs_4147"
+            ],
+            "Ha azt akarod, hogy {0} megutáljon téged, adj neki '{1}'-t. Tiszta szívéből gyűlöli.": [
+                  "NPC_cs_4149",
+                  "NPC_cs_4153"
+            ],
+            "Ha azt akarod, hogy {0} megutáljon téged, adj neki '{1}'-t. Azt a cuccot teljes szívből gyűlöli.": [
+                  "NPC_cs_4152",
+                  "NPC_cs_4154"
+            ],
+            "Ha durván meg akarod tréfálni {0}-t, adj neki '{1}'-t. Bár lehet utána nem fog neked megbocsátani.": [
+                  "NPC_cs_4161",
+                  "NPC_cs_4164"
+            ],
+            "Erre elég nehéz módon jöttem rá.": [
+                  "NPC_cs_4170"
+            ],
+            "Azt nem tudom, hogy miért.": [
+                  "NPC_cs_4171"
+            ],
+            "Már a gondolatától is depressziós lesz.": [
+                  "NPC_cs_4172",
+                  "NPC_cs_4174"
+            ],
+            "Lehet, hogy allergiás rá.": [
+                  "NPC_cs_4176",
+                  "NPC_cs_4178"
+            ],
+            "Gondolom mindenkinek vannak csalódásai.": [
+                  "NPC_cs_4180"
+            ],
+            "{0} utálja ezt: '{1}'. Ne akard tudni a részleteket. Higyj nekem.": [
+                  "NPC_cs_4182"
+            ],
+            "Megjegyezted a születésnapomat? Le vagyok nyűgözve. Köszönöm.": [
+                  "NPC_cs_4274"
+            ],
+            "Egy születésnapi ajándék? Ez nagyon kedves tőled! Ezt szeretem.": [
+                  "NPC_cs_4275"
+            ],
+            "Megjegyezted a születésnapomat! Köszönöm. Ez nagyszerű.": [
+                  "NPC_cs_4277"
+            ],
+            "A születésnapomra? Köszönöm.": [
+                  "NPC_cs_4280"
+            ],
+            "Aú! El se hiszem, hogy ilyet tettél velem!": [
+                  "NPC_cs_4293"
+            ],
+            "Ez fájt! Mi a bajod?": [
+                  "NPC_cs_4294"
+            ],
+            "Úgy érzem ma csak aludni fogok.": [
+                  "NPC_cs_4406"
+            ],
+            "*sóhaj*...": [
+                  "NPC_cs_4420"
+            ],
+            "Unatkozom...": [
+                  "NPC_cs_4421"
+            ],
+            "Néha azon tűnődöm, hogy vajon jó dolgokat teszek-e az életemben...": [
+                  "NPC_cs_4422"
+            ],
+            "He? Nincs semmi baj... Jól vagyok.": [
+                  "NPC_cs_4423"
+            ],
+            "Ma egyszerűen nincs energiám.": [
+                  "NPC_cs_4424"
+            ],
+            "Az élet valóban más, mióta összeházasodtunk...": [
+                  "NPC_cs_4425"
+            ],
+            "Micsoda... azt akarod, hogy takarítsak? Csináljak neked egy szendvicset? *sóhaj*...": [
+                  "NPC_cs_4426"
+            ],
+            "*sóhaj*... ma szörnyen néz ki a bőröm.": [
+                  "NPC_cs_4427"
+            ],
+            "De tényleg... Már a tekintetedből leszűrtem ezt.": [
+                  "NPC_cs_4427_sv1",
+                  "NPC_cs_4429_sv1"
+            ],
+            "*sóhaj*... ma szörnyen néz ki a hajam.": [
+                  "NPC_cs_4429"
+            ],
+            "Te nem érzed néha magad csapdában?": [
+                  "NPC_cs_4431_sv1"
+            ],
+            "*morog*... házimunka...": [
+                  "NPC_cs_4432"
+            ],
+            "Nincs most munkád?": [
+                  "NPC_cs_4433"
+            ],
+            "Vajon az új baba mennyit fog változtatni a dolgokon?": [
+                  "NPC_cs_4439"
+            ],
+            "{0}, remélem, hogy az adoptálós papírjainkat elfogadják. Gyereket akarok.": [
+                  "NPC_cs_4440"
+            ],
+            "{0}, kitöltöttem egy adoptálós papírt. Most már csak reménykednünk és várnunk kell.": [
+                  "NPC_cs_4441"
+            ],
+            "Uhhh... Kissé émelygősnek érzem magam ma reggel.": [
+                  "NPC_cs_4442"
+            ],
+            "Terhes vagyok... nem tudnál magadnak reggelit készíteni?": [
+                  "NPC_cs_4443"
+            ],
+            "{0}, hamarosan babánk lesz.": [
+                  "NPC_cs_4444"
+            ],
+            "{0}, terhes vagyok. Hát nem csodálatos?": [
+                  "NPC_cs_4445"
+            ],
+            "Úgy érzem, hogy ma egész nap aludni tudnék. Ne aggódj miatta.": [
+                  "NPC_cs_4446"
+            ],
+            "{0}, hamarosan gyerekünk lesz.": [
+                  "NPC_cs_4447"
+            ],
+            "{0}, nem vetted észre? Terhes vagy.": [
+                  "NPC_cs_4448"
+            ],
+            "Néha idegesítő szülőnek lenni... Néha úgy érzem nincs kedvem felkelni.": [
+                  "NPC_cs_4449"
+            ],
+            "Most egy kicsit egyedül szeretnék lenni... Miért nem vigyázol ma te a gyerekekre?": [
+                  "NPC_cs_4452"
+            ],
+            "Reggelit akartam készíteni neked, de meggondoltam magam.": [
+                  "NPC_cs_4455"
+            ],
+            "Ma korán keltem és megöntöztem pár termésedet. Remélem így könnyebb lesz a mai munkád.": [
+                  "NPC_cs_4462"
+            ],
+            "Ugyanakkor megtöltöttem {0} vizes tálkáját.": [
+                  "NPC_cs_4463_sv1"
+            ],
+            "Ugyanakkor megtöltöttem a háziállataink vizes tálkáját.": [
+                  "MultiplePetBowls_watered_sv1"
+            ],
+            "Szia {0}!": [
+                  "NPC_cs_4465"
+            ],
+            "Jó reggelt, {0}!": [
+                  "NPC_cs_4466"
+            ],
+            "Ma reggel korán keltem, hogy megöntözzek pár termést, de már készen voltak! Nagyon jól kezeled ezt a helyet.": [
+                  "NPC_cs_4470"
+            ],
+            "Ma reggel korán keltem, és megetettem az összes állatot. Remélem, hogy ez ma kicsit megkönnyíti a munkádat.": [
+                  "NPC_cs_4474"
+            ],
+            "Ma egész reggel a kerítéseket szereltem. Most jobbak, mint újkorukban.": [
+                  "NPC_cs_4481"
+            ],
+            "Mit gondolsz, {0}?": [
+                  "NPC_cs_4486"
+            ],
+            "Ezt a minap rendeltem, és ma érkezett meg.": [
+                  "NPC_cs_4488"
+            ],
+            "Úgy gondoltam jót tenne a szobának egy kis dekoráció.": [
+                  "NPC_cs_4489"
+            ],
+            "Ma dekorálni szerettem volna, de meggondoltam magam.": [
+                  "NPC_cs_4490"
+            ],
+            "Mit gondolsz az általam válaszott új tapétáról?": [
+                  "NPC_cs_4496"
+            ],
+            "Mit gondolsz az általam válaszott új padlócsempéről?": [
+                  "NPC_cs_4497"
+            ],
+            "*sóhaj*... néha hiányzik a régi életem.": [
+                  "NPC_cs_4498"
+            ],
+            "Az időjárás túl borongós, hogy ma kikeljek az ágyból.": [
+                  "NPC_cs_4499"
+            ],
+            "Egy kicsit kitakaríthattál volna, amíg távol voltam...": [
+                  "NPC_cs_4500"
+            ],
+            "Nem túl jó dolog egy halom szeméten átkelni egy kemény munkanap után.": [
+                  "NPC_cs_4500_sv1"
+            ],
+            "Ez csak nem egy {0}, amit kértem?": [
+                  "ItemDeliveryQuest_cs_13530"
+            ],
+            "Elhoztad azt a tárgyat, amit kértem!": [
+                  "ItemDeliveryQuest_cs_13532"
+            ],
+            "Láttad a közlönyt amit kiraktam?": [
+                  "ItemDeliveryQuest_cs_13534"
+            ],
+            "Láttad a felhívást amit kiraktam?": [
+                  "ItemDeliveryQuest_cs_13535"
+            ],
+            "Láttad a hirdetést amit kiraktam?": [
+                  "ItemDeliveryQuest_cs_13536"
+            ],
+            "Annyira köszönöm!": [
+                  "ItemDeliveryQuest_cs_13538"
+            ],
+            "Nagyon értékelem!": [
+                  "ItemDeliveryQuest_cs_13539"
+            ],
+            "Kiválónak tűnik.": [
+                  "ItemDeliveryQuest_cs_13540"
+            ],
+            "": [
+                  "ItemDeliveryQuest_cs_13542",
+                  "ItemDeliveryQuest_cs_13543",
+                  "ItemDeliveryQuest_cs_13544"
+            ],
+            "Itt egy kis apróság, amiért foglalkoztál a dologgal.": [
+                  "ItemDeliveryQuest_cs_13542_sv1"
+            ],
+            "Itt a fizetséged, mint ígértem.": [
+                  "ItemDeliveryQuest_cs_13543_sv1"
+            ],
+            "...Nézzük csak. Itt a fizetséged.": [
+                  "ItemDeliveryQuest_cs_13544_sv1"
+            ]
+      },
+      "schedule": {
+            "Hé! Kérhetnék egy kis magányt?": [
+                  "winter_4_001"
+            ],
+            "Vajon Maru meg fog valaha is házasodni?": [
+                  "marriage_Mon_002"
+            ],
+            "Szia édes. Kedves tőled, hogy munka közben látogatsz meg.": [
+                  "marriageJob_000"
+            ],
+            "Ne aggódj, mindezt a saját pénzemből veszem.": [
+                  "marriage_Mon_001"
+            ],
+            "Szia édes! Épp csak bevásárolgatok.": [
+                  "marriage_Mon_000"
+            ],
+            "Érzed ezt? Olyan fűszeres itt a levegő...": [
+                  "winter_15_000"
+            ],
+            "Ma délután van egy találkozóm a klinikánál.": [
+                  "winter_4_000"
+            ],
+            "Befogok menni, csak egy nyugodt pillanatra vágyok.": [
+                  "rain2_000"
+            ]
+      },
+      "continuation_dialogue": {
+            "continuation_dialogue": [
+                  "spring13_penny_y2",
+                  "winter8_penny_y2_sv1",
+                  "AcceptBirthdayGift_Loved",
+                  "AcceptBirthdayGift_Loved_sv1",
+                  "AcceptBirthdayGift_Loved_sv2",
+                  "AcceptBirthdayGift_Negative",
+                  "AcceptBirthdayGift_Negative_sv1",
+                  "AcceptBirthdayGift_Negative_sv2",
+                  "FlowerDance_Accept",
+                  "eventSeen_35_memory_oneweek",
+                  "eventSeen_35_memory_oneweek__Both__response",
+                  "eventSeen_34_memory_oneweek",
+                  "eventSeen_34_memory_fourweeks",
+                  "eventSeen_34_memory_fourweeks_sv1",
+                  "eventSeen_36_memory_oneweek",
+                  "Resort_Shore",
+                  "Resort_Towel_2",
+                  "Resort_Towel_2_Married",
+                  "FlowerDance_Accept_Spouse",
+                  "breakUp",
+                  "Mon4",
+                  "Mon4_sv1",
+                  "Sun",
+                  "summer_Sat",
+                  "fall_Fri6"
+            ]
+      }
+}

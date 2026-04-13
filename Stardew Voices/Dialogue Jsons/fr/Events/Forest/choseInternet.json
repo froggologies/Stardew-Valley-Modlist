@@ -1,0 +1,11 @@
+{
+    "Tu es \\": "response_Forest_choseInternet_Leah_event1",
+    "Non, ne m’appelle pas comme ça !": "response_Forest_choseInternet_Leah_event2",
+    "Tu n’as jamais aimé mes projets artistiques auparavant... et maintenant que j’ai un peu de succès, tu veux me récupérer ? Tu m’écoeures.": "response_Forest_choseInternet_Leah_event2_sv1",
+    "Oh, mon Dieu !": "response_Forest_choseInternet_Leah_event3",
+    "Ça ira... Il s’en remettra... mais c’était plutôt violent, @.": "response_Forest_choseInternet_Leah_event4_male_farmer",
+    "Elle va bien... mais c’était plutôt violent, @.": "response_Forest_choseInternet_Leah_event4_female_farmer",
+    "Partons d’ici. Je ne crois pas que Kel viendra nous déranger à nouveau.": "response_Forest_choseInternet_Leah_event5",
+    "Trouvons un endroit un peu plus isolé cette fois-ci...": "response_Forest_choseInternet_Leah_event6",
+    "Eh bien, le pique-nique ne s’est pas déroulé comme je le voulais.": "response_Forest_choseInternet_Leah_endDialogue7"
+}

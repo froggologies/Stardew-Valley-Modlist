@@ -1,0 +1,14 @@
+{
+    "Hey! Ich hatte gehofft, dich zu sehen. Ich will dir etwas zeigen.": "SeedShop_3_abbySpiritBoard_Abigail_event1",
+    "Siehst du das? Man nennt es Geisterbrett. Hast du je eins benutzt?": "SeedShop_3_abbySpiritBoard_Abigail_event2",
+    "Leg deine Hände mit mir auf die Planchette...": "SeedShop_3_abbySpiritBoard_Abigail_event3",
+    "Jetzt werden die Geister uns leiten...": "SeedShop_3_abbySpiritBoard_Abigail_event4",
+    "SCHAU, es bewegt sich!": "SeedShop_3_abbySpiritBoard_Abigail_event5",
+    "Der erste Buchstabe ist... 'I' ... 'C' ... 'H'...": "SeedShop_3_abbySpiritBoard_Abigail_event6",
+    "Und jetzt... '<' ...": "SeedShop_3_abbySpiritBoard_Abigail_event7",
+    "Wow, so schnell! Es buchstabiert etwas... '%firstnameletter'...": "SeedShop_3_abbySpiritBoard_Abigail_event8",
+    "Ich < %firstnameletter...?": "SeedShop_3_abbySpiritBoard_Abigail_event8_sv1",
+    "Ups, da hab ich versehentlich das Brett umgeworfen! Ahaha...": "SeedShop_3_abbySpiritBoard_Abigail_event9",
+    "Es ist nur ein dummes Spiel, es bedeutet gar nichts.": "SeedShop_3_abbySpiritBoard_Abigail_event9_sv1",
+    "Ich, äh, muss noch etwas erledigen. Du solltest gehen... Entschuldige.": "SeedShop_3_abbySpiritBoard_Abigail_event10"
+}

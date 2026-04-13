@@ -1,0 +1,1306 @@
+{
+      "dialogue": {
+            "Oh! Ma tu non sei la persona che è appena arrivata?": [
+                  "Introduction"
+            ],
+            "Sono Maru. Non vedevo l'ora di conoscerti!": [
+                  "Introduction_sv1"
+            ],
+            "Sai, in un paesino come questo, una faccia nuova può davvero alterare le dinamiche della comunità. È eccitante!": [
+                  "Introduction_sv2"
+            ],
+            "Heh... certo! All'improvviso, il ballo sembra molto più divertente.": [
+                  "FlowerDance_Accept"
+            ],
+            "Ehi, e questo cos'è, un regalo di compleanno? È fantastico! Grazie per averci pensato!": [
+                  "AcceptBirthdayGift_Positive"
+            ],
+            "Ehi, e questo cos'è, un regalo di compleanno? È... ehm, beh, è un regalo! Grazie comunque per averci pensato.": [
+                  "AcceptBirthdayGift_Negative"
+            ],
+            "Mmm... come fa ad essere così buono? È proprio un regalo stupendo.": [
+                  "AcceptGift_StardropTea"
+            ],
+            "Sarà perfetta per alimentare il mio ultimo progetto! Grazie, @!": [
+                  "AcceptGift_787"
+            ],
+            "Ah, oro puro... Non è il più forte dei materiali, ma ha delle proprietà utilissime!": [
+                  "AcceptGift_336"
+            ],
+            "Oh, wow! Questo è un elemento raro. Secondo una teoria, tutto l'iridio del nostro mondo proviene dai meteoriti...": [
+                  "AcceptGift_337"
+            ],
+            "Ooh, questo è eccitante! Lo smonterò per tentare di ricostruirne la tecnologia.": [
+                  "AcceptGift_122"
+            ],
+            "Ahh! Fai attenzione con quello! Ma lo stai toccando a mani nude?": [
+                  "AcceptGift_910"
+            ],
+            "... Scusa... hehe... Maneggiandolo come si deve, sarà perfetto per una macchina esotica che sto costruendo.": [
+                  "AcceptGift_910_sv1"
+            ],
+            "Ehmmm... Non dare la notizia a mio padre, ok? Ci penso io.": [
+                  "dating_Maru"
+            ],
+            "Mmm... Oggi faccio fatica a concentrarmi sul mio lavoro.": [
+                  "dating_Maru_memory_oneday"
+            ],
+            "Voglio andare a raccogliere campioni con papà, ma mamma non vuole assolutamente che usciamo...": [
+                  "GreenRain"
+            ],
+            "Questa è un'opportunità rara di studiare un fenomeno eccezionale... Ogni momento conta!": [
+                  "GreenRain_2"
+            ],
+            "Avrei dovuto lavorare di più a quell'invenzione prima di mostrartela...": [
+                  "eventSeen_9"
+            ],
+            "Come va la mano?": [
+                  "eventSeen_9_memory_oneweek"
+            ],
+            "Fammi vedere... Ehi, pare che sia tornata a posto!": [
+                  "eventSeen_9_memory_oneweek_sv1"
+            ],
+            "Ehi, quindi ora siamo fratello e sorella!": [
+                  "married_Sebastian_male_farmer"
+            ],
+            "Ehi, quindi ora siamo sorelle!": [
+                  "married_Sebastian_female_farmer"
+            ],
+            "Sono contenta che Sebastian sia uscito dallo scantinato...": [
+                  "married_Sebastian_sv1"
+            ],
+            "Vi faccio i miei migliori auguri!": [
+                  "married_Sebastian_sv2"
+            ],
+            "Ehi, congratulazioni!": [
+                  "married_Penny"
+            ],
+            "Mi ricordo la prima volta in cui Penny mi ha detto che provava qualcosa per te...": [
+                  "married_Penny_sv1"
+            ],
+            "Faceva fatica a parlarne, ma ho capito subito che era una cosa seria... Non avrebbe mai detto una cosa simile senza pensarla veramente!": [
+                  "married_Penny_sv2"
+            ],
+            "Con la salute ferrea che hai, passavi alla clinica un po' troppo spesso... Ora ha tutto più senso...": [
+                  "married_Harvey"
+            ],
+            "Willy ha detto che l'hai aiutato ad aggiutare la barca. Grazie mille!": [
+                  "Resort_Entering"
+            ],
+            "È stato divertente!": [
+                  "Resort_Leaving"
+            ],
+            "Sto notando alcune specie diverse di stella marina. Le mie preferite sono quelle grandi e viola, ma sono tutte molto interessanti!": [
+                  "Resort"
+            ],
+            "*sussulta*... Un'eclisse solare!": [
+                  "Resort_Towel"
+            ],
+            "Oh... niente. Era solo il tuo corpo che bloccava il sole.": [
+                  "Resort_Towel_sv1"
+            ],
+            "Questo posto è così distante dalla civiltà.": [
+                  "Resort_Towel_2"
+            ],
+            "Immagina quante stelle si vedono di notte.": [
+                  "Resort_Towel_2_sv1"
+            ],
+            "Chissà, potremmo pure vedere uno o due dischi volanti!": [
+                  "Resort_Towel_2_sv2"
+            ],
+            "Mmmm... Ma perché la frutta tropicale è così buona?": [
+                  "Resort_Bar"
+            ],
+            "Chissà se Willy mi lascerebbe portare il telescopio una volta o l'altra...Il cielo qui è così limpido, che scommetto si scorgerebbe Pelican Town all'orizzonte.Forse ti vedrei persino correre in giro per la Fattoria %farm!": [
+                  "Resort_Shore"
+            ],
+            "Ma certo... *sussurra* Poi possiamo andare a casa a farci le coccole?": [
+                  "FlowerDance_Accept_Spouse"
+            ],
+            "Sono lusingata! Ma... No.": [
+                  "FlowerDance_Decline"
+            ],
+            "Non abbiamo niente da dirci.": [
+                  "divorced"
+            ],
+            "Non ti piaccio abbastanza, eh?": [
+                  "breakUp"
+            ],
+            "Bene...": [
+                  "breakUp_sv1"
+            ],
+            "Hai un bella faccia tosta, a rivolgermi la parola!": [
+                  "dumped_Girls"
+            ],
+            "Hai perso un po' del mio rispetto, @... ma sono disposta a perdonarti.": [
+                  "secondChance_Girls"
+            ],
+            "Ogni volta che ho difficoltà con un problema tecnico, mi faccio sempre due passi.": [
+                  "Mon"
+            ],
+            "È sorprendente quanto può aiutare, cambiare un po' aria.": [
+                  "Mon_sv1"
+            ],
+            "Hai conosciuto mia madre? È la falegname del paese.": [
+                  "Tue"
+            ],
+            "Di martedì e giovedì lavoro alla clinica di Harvey.": [
+                  "Wed"
+            ],
+            "Dice che gli piace avermi nei paraggi, nel caso la sua attrezzatura medica vada in tilt!": [
+                  "Wed_sv1"
+            ],
+            "Lavorare in fattoria dev'essere piuttosto facile, eh?": [
+                  "Wed_sv2"
+            ],
+            "Ho intenzione di passare parecchio tempo col mio telescopio, quest'estate.": [
+                  "Thu"
+            ],
+            "Certe volte, quando osservo lo spazio con il telescopio, mi coglie una specie di angoscia... come se fosse una cosa che non dovremmo vedere.": [
+                  "Thu4"
+            ],
+            "È sciocco, lo so...": [
+                  "Thu4_sv1"
+            ],
+            "Conosci mio padre, Demetrius? È uno scienziato. Mi diverto molto ad aiutarlo nel laboratorio.": [
+                  "Sat"
+            ],
+            "Riuscire a riparare qualcosa per conto tuo, invece di buttarla via, dà una grande soddisfazione.": [
+                  "Sat2"
+            ],
+            "C'è chi dice che 'la magia non esiste'... ma si sono mai fermati a pensare davvero al magnetismo?": [
+                  "Sat4"
+            ],
+            "Se pensi al corpo umano, è incredibile che in qualche modo riesca a 'funzionare' tutto quanto.": [
+                  "Sat6"
+            ],
+            "Sai, riflettevo... Anche con tutta la tecnologia del mondo, non c'è niente di meglio che avere per amico un vero essere umano.": [
+                  "Sat8"
+            ],
+            "Ehi, scusa se sembro di cattivo umore... Sono un po' irritata per il lavoro di ieri.": [
+                  "Fri"
+            ],
+            "Ho dovuto trasportare dieci scatoloni di fascicoli medici nell'attico!": [
+                  "Fri_sv1_chance_1"
+            ],
+            "Ho dovuto classificare le schede dei pazienti per quattro ore di fila!": [
+                  "Fri_sv1_chance_2"
+            ],
+            "Ciao!": [
+                  "Sun"
+            ],
+            "Ti diverti a lavorare alla fattoria?": [
+                  "Sun_sv1"
+            ],
+            "Ehi, hai fatto un'altra settimana di progressi alla fattoria! Sembra che le cose vadano bene per te.": [
+                  "Sun_01_old_prereq_1"
+            ],
+            "Un'altra settimana di fatica alla fattoria, eh? Dev'essere davvero un sacco di lavoro...": [
+                  "Sun_01_old_prereq_2"
+            ],
+            "Beh, ottimo, no?": [
+                  "Sun_01_01"
+            ],
+            "Mannaggia! Mi spiace. Hai mai pensato di cambiare mestiere...?": [
+                  "Sun_01_02"
+            ],
+            "Fermati da noi quando vuoi migliorare i tuoi edifici.": [
+                  "Tue2"
+            ],
+            "È sempre bello ricevere visite.": [
+                  "Tue2_sv1"
+            ],
+            "Ho una madre falegname e un padre scienziato. Immagino abbia senso che io ami costruire congegni.": [
+                  "Fri4"
+            ],
+            "Mio padre è molto razionale, e mia madre molto intuitiva. Ogni tanto, questa differenza li porta a scontrarsi...": [
+                  "Fri6"
+            ],
+            "A volte ho la testa talmente intasata da stupidaggini che a malapena riesco a pensare. Ti capita mai, a te?": [
+                  "Mon6"
+            ],
+            "Di solito prendere una boccata d'aria aiuta.": [
+                  "Mon6_sv1"
+            ],
+            "Lavoro alla clinica di Harvey il martedì e il giovedì.": [
+                  "Wed8"
+            ],
+            "Lui è carino, ma non è proprio il mio tipo...": [
+                  "Wed8_sv1"
+            ],
+            "Oh, @! C'è niente di cui vuoi parlarmi?": [
+                  "Thu10"
+            ],
+            "Ovvio che noterà la differenza! Questo campione è completamente rovinato!%fork": [
+                  "Event_Hospital_1"
+            ],
+            "Va bene. Allora darò la colpa a te.": [
+                  "Event_Hospital_2"
+            ],
+            "Hai ragione. Dovrei solo dirgli la verità.%fork": [
+                  "Event_Hospital_3"
+            ],
+            "Stupefacente, vero?": [
+                  "Event_Space1"
+            ],
+            "Immagino che la si possa vedere così...": [
+                  "Event_Space2"
+            ],
+            "Ma è comunque incredibile, no?": [
+                  "Event_Space2_sv1"
+            ],
+            "Ah no?": [
+                  "Event_Cut1"
+            ],
+            "Beh, questo mi fa sentire un po' meglio, allora. Grazie.": [
+                  "Event_Cut1_sv1"
+            ],
+            "Oh no! Aghh... Sono davvero davvero mortificata.": [
+                  "Event_Cut2"
+            ],
+            "Grazie. Significa molto per me, @.": [
+                  "event_robot1"
+            ],
+            "So che i congegni non sono esattamente il tuo campo... ma apprezzo che tu mostri interesse per ciò che faccio.": [
+                  "event_robot1_sv1"
+            ],
+            "Spero di poter ricambiare il favore, in qualche maniera.": [
+                  "event_robot1_sv2"
+            ],
+            "Cosa? Dopo che lei ha detto chiaramente che non vuole essere una schiava? Non hai cuore...%fork": [
+                  "event_robot2"
+            ],
+            "Heh...": [
+                  "event_robot3"
+            ],
+            "Già, immagino che abbia detto una cosa del genere, vero?": [
+                  "event_robot3_sv1"
+            ],
+            "...Um...": [
+                  "event_robot3_sv2"
+            ],
+            "...": [
+                  "event_robot4",
+                  "event_robot_explain1",
+                  "fall_Thu10_sv1"
+            ],
+            "@...": [
+                  "event_robot4_sv1"
+            ],
+            "@": [
+                  "event_robot4_sv2"
+            ],
+            "Non hai tutti i torti, l'ho programmata io per comportarsi da umana... ma la sua rete neurale è talmente complessa che non posso essere sicura che la coscienza non sia emersa da sé.": [
+                  "event_robot_explain1_sv1"
+            ],
+            "E d'altronde, non è un tantino arrogante presumere che la coscienza simil-umana sia l'unico degno ricettacolo dell'esistenza? I cervelli elettronici sono diversi dai nostri, ma questo non ci autorizza a trascurarli.": [
+                  "event_robot_explain1_sv2"
+            ],
+            "Capisco. Beh, non faceva ridere, come scherzo.": [
+                  "event_robot_explain2"
+            ],
+            "Ma è orribile! Cosa ti è preso, @?": [
+                  "event_robot_explain3"
+            ],
+            "Vedrò di dimenticarmi di questa conversazione... non sei in te adesso.": [
+                  "event_robot_explain3_sv1"
+            ],
+            "Questa sarà una grande stagione per osservare le stelle.": [
+                  "summer_1"
+            ],
+            "Hmm... Con che tipo di congegno dovrei armeggiare, quest'estate?": [
+                  "summer_Mon"
+            ],
+            "Vieni in camera mia nel caso tu voglia armeggiare coi miei congegni.": [
+                  "summer_Mon6"
+            ],
+            "Sebastian è il mio fratellastro, se già non lo sapevi.": [
+                  "summer_Tue"
+            ],
+            "Non ci assomigliamo per niente, noi due.": [
+                  "summer_Tue_sv1"
+            ],
+            "Sebastian mi parla molto di rado. Possibile che io non gli piaccia nemmeno un po'?": [
+                  "summer_Tue4"
+            ],
+            "È triste, io voglio averlo, un fratello, ma lui non si comporta da tale.": [
+                  "summer_Tue4_sv1"
+            ],
+            "Ti stai gustando la stagione?": [
+                  "summer_Wed"
+            ],
+            "Quest'anno fa davvero caldo.": [
+                  "summer_Wed_sv1"
+            ],
+            "Io e Penny abbiamo avviato un club di lettura stagionale.": [
+                  "summer_Wed4"
+            ],
+            "Siamo solo noi due, ma ci divertiamo a confrontarci su cosa leggiamo!": [
+                  "summer_Wed4_sv1"
+            ],
+            "Scusa, stavo solo pensando a dei congegni su cui sono al lavoro.": [
+                  "summer_Thu"
+            ],
+            "Ho deciso che un giorno costruirò un robot.": [
+                  "summer_Thu_sv1"
+            ],
+            "Ci si vede.": [
+                  "Thu_01_old"
+            ],
+            "Sul serio? Non è che cerchi solo di lusingarmi?": [
+                  "Thu_0"
+            ],
+            "Non credi che possa farcela?": [
+                  "Thu_01_01"
+            ],
+            "Hai ragione, ma io amo le sfide!": [
+                  "Thu_01_02"
+            ],
+            "Ehi, hai qualche storia intrigante da raccontarmi, sulla fattoria?": [
+                  "summer_Sat"
+            ],
+            "Immagino di no.": [
+                  "summer_Sat_sv1"
+            ],
+            "Ieri ho lavorato alla clinica. Non abbiamo avuto un singolo paziente.": [
+                  "summer_Fri"
+            ],
+            "Immagino che ci si ammali di meno, d'estate.": [
+                  "summer_Fri_sv1"
+            ],
+            "Scommetto che hai delle colture interessanti, adesso.": [
+                  "summer_Sun"
+            ],
+            "Papà dice che in questo periodo crescono un sacco di piante esotiche, nella valle.": [
+                  "summer_Sun_sv1"
+            ],
+            "Ehi, raccontami una storia sul tuo lavoro.": [
+                  "summer_Fri2"
+            ],
+            "Sembra interessante!": [
+                  "summer_Fri2_sv1"
+            ],
+            "Sono io o all'improvviso fa un caldo terribile?": [
+                  "summer_Wed2"
+            ],
+            "Forse sono io.": [
+                  "summer_Wed2_sv1"
+            ],
+            "Un giorno sarò un inventore di fama mondiale.": [
+                  "summer_Sun6"
+            ],
+            "È una fortuna, per te, che ti sia amica!": [
+                  "summer_Sun6_sv1"
+            ],
+            "...sto scherzando.": [
+                  "summer_Sun6_sv2"
+            ],
+            "@, sei molto elegante oggi.": [
+                  "summer_Tue8"
+            ],
+            "Come fanno le tua mani a restare morbide, con tutto quel lavoro alla fattoria?": [
+                  "summer_Thu10"
+            ],
+            "Hai esplorato un po' le miniere? Ho sentito che ci puoi trovare dei materiali utili.": [
+                  "fall_Mon"
+            ],
+            "Oggi gli alberi sono stupendi!": [
+                  "fall_Tue"
+            ],
+            "In altre parti del mondo adesso è primavera. Pensa un po'!": [
+                  "fall_Thu"
+            ],
+            "Bleh... Non mi va di lavorare, oggi.": [
+                  "fall_Wed"
+            ],
+            "Scommetto che inizieremo a vedere più gente alla clinica, in questo periodo.": [
+                  "fall_Fri"
+            ],
+            "Spero che restino tutti in salute.": [
+                  "fall_Fri_sv1"
+            ],
+            "Tutte queste foglie morte forniranno nutrimento ai funghi e ad altri piccoli organismi.": [
+                  "fall_Sat"
+            ],
+            "Interessante, eh?": [
+                  "fall_Sat_sv1"
+            ],
+            "Ehi, ad un'altra bella settimana! *brinda*": [
+                  "fall_Sun"
+            ],
+            "@, adoro l'aspetto degli alberi in questa stagione!": [
+                  "fall_Tue2"
+            ],
+            "So che piace anche a te.": [
+                  "fall_Tue2_sv1"
+            ],
+            "Se per caso ti resta del metallo in eccesso, potrei sempre utilizzarlo io per un mio progetto.": [
+                  "fall_Wed4"
+            ],
+            "Ma solamente se non serve a te.": [
+                  "fall_Wed4_sv1"
+            ],
+            "Ultimamente mi sento particolarmente ottimista...": [
+                  "fall_Fri6"
+            ],
+            "Dovresti venirmi a trovare alla clinica, domani. Il mio turno è dalle 10 di mattina alle 4 del pomeriggio.": [
+                  "fall_Mon8"
+            ],
+            "Hai una foglia tra i capelli. Aspetta, te la tolgo io.": [
+                  "fall_Thu10"
+            ],
+            "Accidenti, che freddo che fa...": [
+                  "winter_1"
+            ],
+            "Hai visto il mio pupazzo di neve?": [
+                  "winter_Mon"
+            ],
+            "I capelli mi s'increspano tutti con quest'aria secca. *sospira*": [
+                  "winter_Tue"
+            ],
+            "L'inverno è un buon periodo per lavorare ai miei congegni, suppongo.": [
+                  "winter_Wed"
+            ],
+            "Chissà se posso creare qualcosa che sia utile agli agricoltori?": [
+                  "winter_Wed_sv1"
+            ],
+            "Ehi! Che si dice?": [
+                  "winter_Thu"
+            ],
+            "È un buon periodo per esplorare le caverne.": [
+                  "winter_Thu_sv1"
+            ],
+            "Io lo farei, ma mio padre andrebbe su tutte le furie.": [
+                  "winter_Thu_sv2"
+            ],
+            "Spero di non buscarmi l'influenza, quest'anno.": [
+                  "winter_Fri"
+            ],
+            "Ce l'hai già una fornace?": [
+                  "winter_Sat"
+            ],
+            "Puoi usarla per convertire le materie grezze, come i minerali, in prodotti più utili.": [
+                  "winter_Sat_sv1"
+            ],
+            "Quando fa freddo mi viene sonno...": [
+                  "winter_Sun"
+            ],
+            "Ehi, se hai qualche macchina agricola da aggiustare, basta chiedere.": [
+                  "winter_Sat2"
+            ],
+            "Ehi, hai qualche idea per un mio nuovo congegno?": [
+                  "winter_Tue4"
+            ],
+            "Mhmm. Mi fido della tua opinione.": [
+                  "winter_Tue4_sv1"
+            ],
+            "Hai un aspetto fresco, oggi. Dev'essere l'aria frizzante dell'inverno.": [
+                  "winter_Fri6"
+            ],
+            "Ciao @!": [
+                  "winter_Mon8"
+            ],
+            "Ehi, il mio pupazzo di neve ti assomiglia un po', non pensi?": [
+                  "winter_Mon8_sv1"
+            ],
+            "@, avvicinati. Ho freddo.": [
+                  "winter_Thu10"
+            ],
+            "L'aria invernale mi rende le mani secchissime. Ti chiedo scusa.": [
+                  "winter_Thu10_sv1"
+            ]
+      },
+      "marriage_dialogue": {
+            "Come se la passerà Penny? Magari più tardi le faccio una chiamata.": [
+                  "Rainy_Day_0"
+            ],
+            "Stavo solo sognando ad occhi aperti... Pensi che MARILDA stia bene? Spero che trovi il posto che fa per lei...": [
+                  "Rainy_Day_1"
+            ],
+            "Ehi! Stanotte non riuscivo a dormire, così ho perso un po' di tempo nell'officina. Ecco, questo l'ho fatto per te.": [
+                  "Rainy_Day_2"
+            ],
+            "Spero che ti torni utile.": [
+                  "Rainy_Day_2_sv1"
+            ],
+            "L'unica cosa che non mi piace della pioggia è che m'impedisce di osservare le stelle!": [
+                  "Rainy_Day_3"
+            ],
+            "Sento una perdita nel tetto? Dovrò darci un'occhiata. Guardando mia madre, ho imparato un paio di trucchi da falegname.": [
+                  "Rainy_Day_4"
+            ],
+            "Vedi di non lasciare i tuoi attrezzi sotto la pioggia! Non vorrai mica che si arrugginiscano tutti.": [
+                  "Rainy_Night_0"
+            ],
+            "Non so ancora bene cosa sia, questo... ma mi diverto a girare la vecchia chiave inglese, ogni tanto.": [
+                  "patio_Maru"
+            ],
+            "Ciao @. Com'è stata la giornata... umida?": [
+                  "Rainy_Night_1"
+            ],
+            "Questo tempo mi dà alcune idee per dei congegni... Magari, convogliando la pioggia, si potrebbe azionare un mulino?": [
+                  "Rainy_Night_1_sv1"
+            ],
+            "Papà tiene traccia dei fenomeni climatici da vent'anni.": [
+                  "Rainy_Night_2"
+            ],
+            "È un po' presto per dirlo, ma i risultati hanno rivelato delle tendenze anormali.": [
+                  "Rainy_Night_2_sv1"
+            ],
+            "Possiamo mangiarci gli spaghetti a letto, stasera?": [
+                  "Rainy_Night_3"
+            ],
+            "Ho fatto un dolce! Ma ricorda di lavarti i denti prima di andare a letto.": [
+                  "Rainy_Night_4"
+            ],
+            "Non ho avuto una giornata molto eccitante... Sono stata in casa per colpa del tempo.": [
+                  "Rainy_Night_5"
+            ],
+            "Però è stato rilassante. Mi sono svagata con l'ultimo numero di 'Schemi settimanali'.": [
+                  "Rainy_Night_5_sv1"
+            ],
+            "Hmm? Scusa, a volte mi perdo dietro ai pensieri e non mi rendo nemmeno conto di cosa combino.": [
+                  "Indoor_Day_0"
+            ],
+            "Ho trovato questa cosa nella pila degli scarti. Magari a te può servire per qualcosa?": [
+                  "Indoor_Day_1"
+            ],
+            "Finalmente, buongiorno! Sto morendo di fame... *brontolio*": [
+                  "Indoor_Day_2"
+            ],
+            "Una delle cose migliori della vita di fattoria è svegliarsi con un coro di uccellini.": [
+                  "Indoor_Day_3"
+            ],
+            "Come fanno le tue mani a restare così morbide, con tutto quel lavoro nei campi?": [
+                  "Indoor_Day_4"
+            ],
+            "Hai visto la luna stanotte? È sempre spettacolare sull'orizzonte.": [
+                  "Indoor_Night_0"
+            ],
+            "Prima ho visto una stella cadente. Mi piace fare finta che sia MARILDA che ci fa visita per un attimo.": [
+                  "Indoor_Night_1"
+            ],
+            "Non riesco a decidere se mi va una torta al cioccolato o delle fragole mature. O forse entrambe le cose...?": [
+                  "Indoor_Night_2"
+            ],
+            "Di' la verità... sto mettendo su peso?": [
+                  "Indoor_Night_2_sv1"
+            ],
+            "Oggi hai fatto un buon lavoro! Ti meriti di riposarti per il resto della serata.": [
+                  "Indoor_Night_3"
+            ],
+            "Comincio davvero ad amare questa vecchia casa. Di notte è così accogliente.": [
+                  "Indoor_Night_4"
+            ],
+            "Mamma ha fatto un ottimo lavoro con le migliorie.": [
+                  "Indoor_Night_4_sv1"
+            ],
+            "Ahh... che buon odore ha la fattoria, mi ricorda delle montagne vicino alla casa dei miei.": [
+                  "Outdoor_0"
+            ],
+            "Con un po' di progettazione, potremmo automatizzare gran parte del lavoro della fattoria per poi rilassarci soltanto!": [
+                  "Outdoor_1"
+            ],
+            "Stanotte non ci saranno nuvole... Chissà se la costellazione di %noun sarà visibile?": [
+                  "Outdoor_2"
+            ],
+            "Non preoccuparti, non mi dà fastidio se porti il fango in casa. Ogni tanto è divertente sporcarsi un po'.": [
+                  "Outdoor_3"
+            ],
+            "Non mi ero mai resa conto di quanta cura e pianificazione fossero necessarie per dirigere la fattoria! Assomiglia molto a lavorare in laboratorio.": [
+                  "Outdoor_4"
+            ],
+            "Hai passato del tempo con %kid1 oggi? I bambini hanno bisogno di giocare per raggiungere il loro pieno potenziale.": [
+                  "OneKid_0"
+            ],
+            "Secondo te... %kid1 lavorerà nella fattoria, da grande? O magari sceglierà l'ingegneria?": [
+                  "OneKid_1"
+            ],
+            "Ho grandi speranze per la nostra creatura. Ho letto tutti i dati scientifici sui modi migliori per crescere i figli.": [
+                  "OneKid_3"
+            ],
+            "Un'officina tutta mia, due bimbi stupendi, e un bellissimo appezzamento di terra. La vita mi sorride.": [
+                  "TwoKids_3"
+            ],
+            "Ora che viviamo insieme, è dura pensare di tornare da sola.": [
+                  "Good_1"
+            ],
+            "Fai una pausa? Bene!": [
+                  "Good_2"
+            ],
+            "Serve molta strategia per gestire e fare piani per la fattoria. È più stimolante per la mente di quanto pensassi!": [
+                  "Good_3"
+            ],
+            "Per un po' avevo pensato di costruirmi un marito robotico": [
+                  "Good_4_male_farmer"
+            ],
+            "una moglie robotica} Ma tu sei di gran lunga meglio!": [
+                  "Good_4_female_farmer"
+            ],
+            "Stavo ammirando il mio amuleto di matrimonio... La conchiglia è perfetta. È un esemplare molto raro!": [
+                  "Good_5"
+            ],
+            "Stanotte ho sognato che guardavo in un telescopio gigante e vedevo qualcosa muoversi nella nebulosa %noun. Inquietante.": [
+                  "Good_6"
+            ],
+            "Spero che ti piacerò ancora anche se metterò su peso.": [
+                  "Neutral_0"
+            ],
+            "Oggi non sono ispirata.": [
+                  "Neutral_8"
+            ],
+            "Mi sa che oggi faccio visita ai miei. È da un po' che non li vedo.": [
+                  "funLeave_Maru"
+            ],
+            "Mamma e papà se la cavano benone. La loro routine è sempre quella, anche senza di me. Com'è stata la tua giornata?": [
+                  "funReturn_Maru"
+            ],
+            "Dunque, che strategia hai per ottimizzare la fattoria quest'anno?": [
+                  "spring_2"
+            ],
+            "È magnifico vedere tutte le piante e gli animali tornare alla vita, durante la primavera.": [
+                  "spring_1"
+            ],
+            "Se mio fratello non fosse un tale solitario, ogni tanto lo inviterei qui a cena.": [
+                  "spring_22"
+            ],
+            "Chissà se mio fratello avrà mai il coraggio di chiedere ad Abigail di uscire con lui?": [
+                  "summer_20"
+            ],
+            "Mi piace catalogare i vari insetti che vedo d'estate.": [
+                  "summer_2"
+            ],
+            "Con ogni stagione, diventa prominente una nuova sezione del cielo notturno. Che fenomeno affascinante.": [
+                  "fall_1"
+            ],
+            "L'inverno è proprio dietro l'angolo. Dobbiamo controllare il sistema di riscaldamento, chiudere le valvole, e verificare l'isolamento termico di ogni parte della casa.": [
+                  "fall_25"
+            ],
+            "Non preoccuparti, amore. Mi occupo io di tutto.": [
+                  "fall_25_sv1"
+            ],
+            "L'autunno mi ricorda sempre di quando uscivo a tagliare legna con mia madre... Dev'essere l'odore di legno fresco e linfa.": [
+                  "fall_3"
+            ],
+            "Gli inverni recenti sono stati un po' troppo miti. È preoccupante.": [
+                  "winter_15"
+            ],
+            "Spero che papà stia bene... D'inverno tende a deprimersi, perché ci sono meno opportunità di svolgere ricerche sul campo.": [
+                  "winter_5"
+            ],
+            "Allora, che piani hai per continuare a guadagnare, quest'inverno?": [
+                  "winter_2"
+            ],
+            "Potresti darti alla pesca o alla raccolta selvatica...": [
+                  "winter_2_sv1"
+            ],
+            "Se te ne vai in miniera, promettimi di fare attenzione.": [
+                  "winter_2_sv2"
+            ],
+            "Mi sento carica per un nuovo anno alla fattoria, @!": [
+                  "spring_Maru"
+            ],
+            "Le serate sono così calde, questo è davvero il periodo migliore dell'anno per osservare le stelle. Chissà cosa c'è lassù?": [
+                  "summer_Maru"
+            ],
+            "La vita alla fattoria è grandiosa, ma sono contenta di lavorare ancora alla clinica... È un servizio importante per la comunità.": [
+                  "fall_Maru"
+            ],
+            "Non vedo l'ora di mangiarmi una crostata di rabarbaro, in primavera. Oh... quel profumo, quel sapore piccantino!": [
+                  "winter_Maru"
+            ],
+            "Mi sono alzata presto per osservare un po' le stelle.": [
+                  "spouseRoom_Maru_chance_1"
+            ],
+            "Spero non ti dispiaccia se oggi passo del tempo sui miei progetti, amore.": [
+                  "spouseRoom_Maru_chance_2"
+            ]
+      },
+      "gift_tastes": {
+            "Ma è...? Oh wow, @! Che spettacolo!": [
+                  "MaruGiftTaste_1"
+            ],
+            "Questo è un super-regalo! Grazie!": [
+                  "MaruGiftTaste_2"
+            ],
+            "Oh... Sarebbe per me? Lo metterò lì...": [
+                  "MaruGiftTaste_3"
+            ],
+            "Puah! Pensavi che potesse piacermi?": [
+                  "MaruGiftTaste_4"
+            ],
+            "Grazie.": [
+                  "MaruGiftTaste_5"
+            ]
+      },
+      "misc": {
+            "Come procede la collezione di Uova di Calico? Ci sono tanti premi interessanti!": [
+                  "DesertFestival_Maru_marriage"
+            ],
+            "Sono sicura che andrai alla grande.": [
+                  "DesertFestival_Maru_marriage_sv1"
+            ],
+            "Sono colpita da quanto siano ben addestrati questi piccoli corridori!": [
+                  "DesertFestival_Maru"
+            ],
+            "Vedi niente che ti piace?": [
+                  "Shop_Maru"
+            ],
+            "Tu sei quella persona nuova, vero?": [
+                  "WipedMemory"
+            ],
+            "Mi sembri... no. Penso proprio di non averti mai visto.": [
+                  "WipedMemory_sv1"
+            ],
+            "Il cinema non è aperto nei giorni dei festival!": [
+                  "MovieInvite_Festival"
+            ],
+            "Il cinema è chiuso di notte...": [
+                  "MovieInvite_Closed"
+            ],
+            "Oggi avevi già in programma di vedere un film con {0}!": [
+                  "MovieInvite_AlreadyInvitedSomeone"
+            ],
+            "{0} ha l'aria confusa...": [
+                  "MovieInvite_NoTheater"
+            ],
+            "Non puoi invitare {0} a vedere un film.": [
+                  "MovieInvite_CantInvite"
+            ],
+            "Mi dispiace, oggi avevo già in programma di andare al cinema con qualcun altro, ma magari puoi raggiungerci lì?": [
+                  "MovieInvite_InvitedBySomeoneElse"
+            ],
+            "Non mi va ancora di ritornare al cinema...": [
+                  "MovieInvite_FarmerAlreadySeen"
+            ],
+            "Mi spiace, ho già visto un film questa settimana...": [
+                  "MovieInvite_AlreadySeen"
+            ],
+            "Un film? Certo. Ci vediamo al cinema.": [
+                  "MovieInvite_Invited"
+            ],
+            "Un film? Ok, vabbè, si può fare. Ci si vede al cinema...": [
+                  "MovieInvite_Invited_Rude"
+            ],
+            "Un film? Evviva! Vediamoci al cinema!": [
+                  "MovieInvite_Invited_Child"
+            ],
+            "Mi sa che non posso vedere questo film...": [
+                  "MovieInvite_Reject_Child"
+            ],
+            "Mi dispiace, non sono dell'umore giusto per vedere un film...": [
+                  "MovieInvite_Reject"
+            ],
+            "Oh! Hai pensato a una seratina speciale per noi?": [
+                  "MovieInvite_Spouse_Maru",
+                  "MovieInvite_Spouse_Maru"
+            ],
+            "Molto volentieri! Ci vediamo al cinema.": [
+                  "MovieInvite_Spouse_Maru_sv1",
+                  "MovieInvite_Spouse_Maru_sv1"
+            ],
+            "Sono felice di vivere in questo mondo pieno di vita insieme a te!": [
+                  "Maru_comet5"
+            ],
+            "Un tale vuoto, una tale solitudine...": [
+                  "Maru_comet4"
+            ],
+            "Qui per un momento fugace nel suo viaggio infinito.": [
+                  "Maru_comet3"
+            ],
+            "Una rara meraviglia del cosmo...": [
+                  "Maru_comet2"
+            ],
+            "È bellissima, vero?": [
+                  "Maru_comet1"
+            ],
+            "Ehi, @! Sono curiosissima di vedere questo film... Spero che impareremo un mucchio di cose!": [
+                  "Maru_spring_movie_1_BeforeMovie"
+            ],
+            "Ah, capisco... molto interessante!": [
+                  "Maru_spring_movie_1_DuringMovie"
+            ],
+            "Maru sta prendendo appunti!": [
+                  "Maru_spring_movie_1_DuringMovie_2"
+            ],
+            "È stato davvero interessante! Non avevo idea che si potesse trovare così tanta vita nella grande città.": [
+                  "Maru_spring_movie_1_AfterMovie"
+            ],
+            "È un film di fantascienza, giusto? Uno dei motivi per cui mi piace il genere è vedere tutte le tecnologie strambe che si inventano.": [
+                  "Maru_summer_movie_1_BeforeMovie"
+            ],
+            "Beh, non ho mai visto una cosa come *quella* col mio telescopio... ma mi è piaciuto molto!": [
+                  "Maru_summer_movie_1_AfterMovie"
+            ],
+            "Mi piace molto andare al cinema, anche se il film non è un granché!": [
+                  "Maru_like_BeforeMovie"
+            ],
+            "È stata una scelta interessante, per la scena finale. Secondo te cosa volevano dire?": [
+                  "Maru_like_AfterMovie"
+            ],
+            "Certo che ballerò con te!": [
+                  "Event_cs_1632"
+            ],
+            "Vuoi danzare con me al ballo dei fiori?": [
+                  "Event_cs_1633",
+                  "Event_cs_1634"
+            ],
+            "Va bene. Non vedo l'ora.": [
+                  "Event_cs_1633_sv1"
+            ],
+            "Va bene! Mi farebbe un enorme piacere.": [
+                  "Event_cs_1634_sv1"
+            ],
+            "Mi dispiace... Ho già un'altra persona.": [
+                  "Event_cs_1635"
+            ],
+            "Il matrimonio è stato stupendo... vero, amore?": [
+                  "Game1_cs_2782"
+            ],
+            "Beh, non dimentichiamoci della fattoria... Mettiamoci al lavoro.": [
+                  "Game1_cs_2782_sv1"
+            ],
+            "Allora...ho sentito che oggi hai fatto un regalo segreto a {0}...": [
+                  "NPC_cs_3985"
+            ],
+            "Devo farmi venire dei sospetti?": [
+                  "NPC_cs_3985_sv1"
+            ],
+            "...": [
+                  "NPC_cs_3985_sv2",
+                  "NPC_cs_4431"
+            ],
+            "Amore... Volevo donarti quel frutto come simbolo del mio amore.": [
+                  "NPC_cs_4001"
+            ],
+            "Ciao...": [
+                  "NPC_cs_4058"
+            ],
+            "Ciao!": [
+                  "NPC_cs_4059"
+            ],
+            "Salve.": [
+                  "NPC_cs_4060"
+            ],
+            "Ciao.": [
+                  "NPC_cs_4061",
+                  "NPC_cs_4072"
+            ],
+            "Salve!": [
+                  "NPC_cs_4062"
+            ],
+            "Buongiorno": [
+                  "NPC_cs_4063"
+            ],
+            "Buon pomeriggio": [
+                  "NPC_cs_4064"
+            ],
+            "Buonasera": [
+                  "NPC_cs_4065"
+            ],
+            "{0}!": [
+                  "NPC_cs_4066"
+            ],
+            "Ciao, {0}!": [
+                  "NPC_cs_4068"
+            ],
+            "Ciao, {0}": [
+                  "NPC_cs_4071"
+            ],
+            "mio {0}": [
+                  "NPC_cs_4079"
+            ],
+            "mia {0}": [
+                  "NPC_cs_4080"
+            ],
+            "Lo sai che {0}": [
+                  "NPC_cs_4083"
+            ],
+            "adora ricevere qualche '{0}'?": [
+                  "NPC_cs_4084"
+            ],
+            "{0} adora ricevere qualche '{1}'!": [
+                  "NPC_cs_4086"
+            ],
+            "Me l'ha detto lui.": [
+                  "NPC_cs_4088"
+            ],
+            "Me l'ha detto lei.": [
+                  "NPC_cs_4089"
+            ],
+            "Ti svelo un segreto, {0} adora ricevere un po' di '{1}'.": [
+                  "NPC_cs_4091"
+            ],
+            "Se vuoi piacere a {0}, dagli qualche '{1}'.": [
+                  "NPC_cs_4094"
+            ],
+            "Se vuoi piacere a {0}, dalle qualche '{1}'.": [
+                  "NPC_cs_4097"
+            ],
+            "Se vuoi farti amico {0}, dagli qualche '{1}'.": [
+                  "NPC_cs_4100"
+            ],
+            "Se vuoi farti amica {0}, dalle qualche '{1}'.": [
+                  "NPC_cs_4103"
+            ],
+            "Se vuoi stringere amicizia con {0}, non puoi sbagliare con qualche '{1}'.": [
+                  "NPC_cs_4106"
+            ],
+            "È la cosa che preferisce.": [
+                  "NPC_cs_4109",
+                  "NPC_cs_4111"
+            ],
+            "È una cosa che adora.": [
+                  "NPC_cs_4113",
+                  "NPC_cs_4115"
+            ],
+            "Lui adora quella roba.": [
+                  "NPC_cs_4114"
+            ],
+            "Lei adora quella roba.": [
+                  "NPC_cs_4116"
+            ],
+            "Un anno gliene ho donato un po', e non la smetteva più di parlarne.": [
+                  "NPC_cs_4118",
+                  "NPC_cs_4120"
+            ],
+            "Sarebbe un grande regalo.": [
+                  "NPC_cs_4125"
+            ],
+            "Lo faresti davvero felice, così.": [
+                  "NPC_cs_4126"
+            ],
+            "La faresti davvero felice, così.": [
+                  "NPC_cs_4128"
+            ],
+            "odia ricevere '{0}'? Lo trova assolutamente {1}.": [
+                  "NPC_cs_4135",
+                  "NPC_cs_4138"
+            ],
+            "{0} detesta davvero ricevere '{1}'! Me l'ha detto lui.": [
+                  "NPC_cs_4141"
+            ],
+            "{0} detesta davvero ricevere '{1}'! Me l'ha detto lei.": [
+                  "NPC_cs_4144"
+            ],
+            "Un avvertimento:": [
+                  "NPC_cs_4146"
+            ],
+            "{0} non vuole neanche sentir parlare di '{1}'.": [
+                  "NPC_cs_4147"
+            ],
+            "Se vuoi che {0} ti disprezzi, dagli qualche '{1}'. È una cosa che odia profondamente.": [
+                  "NPC_cs_4149"
+            ],
+            "Se vuoi che {0} ti disprezzi, dagli qualche '{1}'. Detesta a morte quella roba.": [
+                  "NPC_cs_4152"
+            ],
+            "Se vuoi che {0} ti disprezzi, dalle qualche '{1}'. È una cosa che odia profondamente": [
+                  "NPC_cs_4153"
+            ],
+            "Se vuoi che {0} ti disprezzi, dalle qualche '{1}'. Detesta a morte quella roba.": [
+                  "NPC_cs_4154"
+            ],
+            "Se vuoi fare uno scherzo crudele a {0}, dagli qualche '{1}'. Bada che potrebbe non perdonarti più.": [
+                  "NPC_cs_4161"
+            ],
+            "Se vuoi fare uno scherzo crudele a {0}, dalle qualche '{1}'. Bada che potrebbe non perdonarti più.": [
+                  "NPC_cs_4164"
+            ],
+            "L'ho scoperto sulla mia pelle.": [
+                  "NPC_cs_4170"
+            ],
+            "Non so bene perché.": [
+                  "NPC_cs_4171"
+            ],
+            "Solo il pensiero di quella cosa lo deprime.": [
+                  "NPC_cs_4172"
+            ],
+            "Solo il pensiero di quella cosa la deprime.": [
+                  "NPC_cs_4174"
+            ],
+            "Credo che sia allergico.": [
+                  "NPC_cs_4176"
+            ],
+            "Credo che sia allergica.": [
+                  "NPC_cs_4178"
+            ],
+            "Immagino che ognuno abbia le proprie manie.": [
+                  "NPC_cs_4180"
+            ],
+            "{0} si tiene alla larga da qualunque '{1}'. Meglio non sapere i dettagli. Fidati.": [
+                  "NPC_cs_4182"
+            ],
+            "Oh, ti ricordavi del mio compleanno? Mi stupisci. Grazie.": [
+                  "NPC_cs_4274"
+            ],
+            "Un regalo di compleanno? Molto gentile da parte tua! Lo adoro.": [
+                  "NPC_cs_4275"
+            ],
+            "Ti ricordavi del mio compleanno! Grazie. È magnifico.": [
+                  "NPC_cs_4277"
+            ],
+            "Per il mio compleanno? Grazie.": [
+                  "NPC_cs_4280"
+            ],
+            "Ahia! Non credevo che fossi capace di farmi questo!": [
+                  "NPC_cs_4293"
+            ],
+            "Mi hai fatto male! Che problemi hai?": [
+                  "NPC_cs_4294"
+            ],
+            "Oggi ho solo voglia di dormire.": [
+                  "NPC_cs_4406"
+            ],
+            "*sospira*...": [
+                  "NPC_cs_4420"
+            ],
+            "Che noia...": [
+                  "NPC_cs_4421"
+            ],
+            "A volte mi chiedo se sto facendo la cosa giusta con la mia vita...": [
+                  "NPC_cs_4422"
+            ],
+            "Eh? Tutto a posto... sto bene.": [
+                  "NPC_cs_4423"
+            ],
+            "Oggi non ho proprio energie.": [
+                  "NPC_cs_4424"
+            ],
+            "Certo che la vita è cambiata dopo il matrimonio...": [
+                  "NPC_cs_4425"
+            ],
+            "Che c'è... vuoi che pulisca? Che ti faccia un panino? *sospira*...": [
+                  "NPC_cs_4426"
+            ],
+            "*sospira*... Oggi devo avere una pelle orribile.": [
+                  "NPC_cs_4427"
+            ],
+            "Davvero... Si vede da come mi guardi.": [
+                  "NPC_cs_4427_sv1",
+                  "NPC_cs_4429_sv1"
+            ],
+            "*sospira*... Oggi devo avere dei capelli orribili.": [
+                  "NPC_cs_4429"
+            ],
+            "Non ti senti mai in trappola?": [
+                  "NPC_cs_4431_sv1"
+            ],
+            "*brontola*... faccende...": [
+                  "NPC_cs_4432"
+            ],
+            "Non hai del lavoro da fare?": [
+                  "NPC_cs_4433"
+            ],
+            "Chissà quanto cambieranno le cose col nuovo bambino?": [
+                  "NPC_cs_4439"
+            ],
+            "{0}, spero che approvino la nostra richiesta d'adozione. Lo voglio, un bambino.": [
+                  "NPC_cs_4440"
+            ],
+            "{0}, ho spedito le carte per l'adozione. Ora possiamo solo attendere con le dita incrociate.": [
+                  "NPC_cs_4441"
+            ],
+            "Ugh... Stamattina ho un po' di nausea.": [
+                  "NPC_cs_4442"
+            ],
+            "Sono incinta... non puoi farti la colazione per conto tuo?": [
+                  "NPC_cs_4443"
+            ],
+            "{0}, presto avremo un bambino.": [
+                  "NPC_cs_4444",
+                  "NPC_cs_4447"
+            ],
+            "{0}, sono incinta. Non è meraviglioso?": [
+                  "NPC_cs_4445"
+            ],
+            "Oggi mi va solo di dormire. Non preoccuparti.": [
+                  "NPC_cs_4446"
+            ],
+            "{0}, non capisci? Sei incinta.": [
+                  "NPC_cs_4448"
+            ],
+            "Fare il genitore è un fastidio, a volte...  Non mi va proprio di alzarmi.": [
+                  "NPC_cs_4449"
+            ],
+            "Mi serve del tempo per me... Perché non badi tu ai bambini, tanto per cambiare?": [
+                  "NPC_cs_4452"
+            ],
+            "Stavo per prepararti la colazione, ma ho cambiato idea.": [
+                  "NPC_cs_4455"
+            ],
+            "Ti ho annaffiato un po' di colture mentre dormivi. Spero di averti semplificato un po' il lavoro di oggi.": [
+                  "NPC_cs_4462"
+            ],
+            "Ho anche riempito la ciotola dell'acqua di {0}.": [
+                  "NPC_cs_4463_sv1"
+            ],
+            "Ho anche riempito d'acqua le ciotole degli animali.": [
+                  "MultiplePetBowls_watered_sv1"
+            ],
+            "Ciao {0}!": [
+                  "NPC_cs_4465"
+            ],
+            "Buongiorno, {0}!": [
+                  "NPC_cs_4466"
+            ],
+            "Stamattina volevo innaffiare delle colture prima di te, ma erano già a posto! Hai proprio tutto sotto controllo.": [
+                  "NPC_cs_4470"
+            ],
+            "Ho dato da mangiare a tutti gli animali mentre dormivi. Spero di averti semplificato un po' il lavoro di oggi.": [
+                  "NPC_cs_4474"
+            ],
+            "Ho passato la mattina a riparare qualche recinto. Dovrebbero essere come nuovi.": [
+                  "NPC_cs_4481"
+            ],
+            "Che ne pensi, {0}?": [
+                  "NPC_cs_4486"
+            ],
+            "Ho ordinato questa cosa l'altro giorno, è arrivata or ora.": [
+                  "NPC_cs_4488"
+            ],
+            "Ho pensato che alla stanza servisse un'arredata in più.": [
+                  "NPC_cs_4489"
+            ],
+            "Oggi volevo riarredare un po', ma ho cambiato idea.": [
+                  "NPC_cs_4490"
+            ],
+            "Che ne pensi della nuova carta da parati che ho scelto?": [
+                  "NPC_cs_4496"
+            ],
+            "Che ne pensi della nuova pavimentazione che ho scelto?": [
+                  "NPC_cs_4497"
+            ],
+            "*sospira*... A volte mi manca la mia vecchia vita.": [
+                  "NPC_cs_4498"
+            ],
+            "Il tempo è troppo tetro per alzarsi dal letto.": [
+                  "NPC_cs_4499"
+            ],
+            "Avresti potuto pulire un po' qui dentro mentre non c'ero...": [
+                  "NPC_cs_4500"
+            ],
+            "Non è bello dover arrancare in mezzo alla robaccia dopo una dura giornata di lavoro.": [
+                  "NPC_cs_4500_sv1"
+            ],
+            "Quello è il tipo di {0} che ho chiesto?": [
+                  "ItemDeliveryQuest_cs_13530"
+            ],
+            "Mi hai portato l'oggetto che ho chiesto!": [
+                  "ItemDeliveryQuest_cs_13532"
+            ],
+            "Così hai visto l'annuncio che ho affisso?": [
+                  "ItemDeliveryQuest_cs_13534"
+            ],
+            "Così hai visto l'avviso che ho affisso?": [
+                  "ItemDeliveryQuest_cs_13535"
+            ],
+            "Così hai visto la pubblicità che ho affisso?": [
+                  "ItemDeliveryQuest_cs_13536"
+            ],
+            "Grazie mille!": [
+                  "ItemDeliveryQuest_cs_13538"
+            ],
+            "Lo apprezzo tanto.": [
+                  "ItemDeliveryQuest_cs_13539"
+            ],
+            "Sembra proprio quel che mi ci vuole.": [
+                  "ItemDeliveryQuest_cs_13540"
+            ],
+            "": [
+                  "ItemDeliveryQuest_cs_13542",
+                  "ItemDeliveryQuest_cs_13543",
+                  "ItemDeliveryQuest_cs_13544"
+            ],
+            "Ecco una cosuccia per il disturbo.": [
+                  "ItemDeliveryQuest_cs_13542_sv1"
+            ],
+            "Come promesso, ecco il pagamento.": [
+                  "ItemDeliveryQuest_cs_13543_sv1"
+            ],
+            "...Vediamo. Ecco ciò che ti devo.": [
+                  "ItemDeliveryQuest_cs_13544_sv1"
+            ],
+            "Oh! Perfetto! Ora posso continuare il progetto su cui ero al lavoro.": [
+                  "ItemDeliveryQuest_cs_13585"
+            ],
+            "Grazie mille, @.": [
+                  "ItemDeliveryQuest_cs_13585_sv1"
+            ],
+            "Oh, è esattamente ciò che mi serve per dare energia alla mia ultima invenzione, @!": [
+                  "ItemDeliveryQuest_cs_13587"
+            ],
+            "Grazie!": [
+                  "ItemDeliveryQuest_cs_13587_sv1"
+            ],
+            "Hai un appuntamento?": [
+                  "Hospital_Maru_Greeting1"
+            ],
+            "Posso aiutarti?": [
+                  "Hospital_Maru_Greeting2"
+            ],
+            "Abbiamo medicine in vendita!": [
+                  "Hospital_Maru_Greeting3"
+            ],
+            "È un'emergenza?": [
+                  "Hospital_Maru_Greeting4"
+            ],
+            "Sei qui per vedere il dottore?": [
+                  "Hospital_Maru_Greeting5"
+            ],
+            "Ciao, amore <": [
+                  "Hospital_Maru_Spouse"
+            ]
+      },
+      "schedule": {
+            "Spero che Penny decida di sposarsi un giorno.": [
+                  "marriage_Mon_002"
+            ],
+            "Wow, la tecnologia di questa cosa è incredibile!": [
+                  "winter_16_000"
+            ],
+            "Sto lavorando, amore! Non farti vedere dal dottore.": [
+                  "marriageJob_000"
+            ],
+            "Ho quasi finito il turno...": [
+                  "marriageJob_002"
+            ],
+            "Papà sta facendo buoni progressi coi suoi esperimenti.": [
+                  "marriage_Mon_001"
+            ],
+            "È difficile comprendere davvero la vastità dell'universo.": [
+                  "summer_000"
+            ],
+            "Ehi! Sembra che mamma se la passi bene anche senza il mio aiuto. È una vera dura.": [
+                  "marriage_Mon_000"
+            ],
+            "È carino da parte tua venirmi a trovare.": [
+                  "marriageJob_001"
+            ]
+      },
+      "continuation_dialogue": {
+            "continuation_dialogue": [
+                  "Introduction",
+                  "Introduction_sv1",
+                  "AcceptGift_910",
+                  "eventSeen_9_memory_oneweek",
+                  "married_Penny",
+                  "married_Penny_sv1",
+                  "Resort_Towel",
+                  "Resort_Towel_2",
+                  "breakUp",
+                  "Wed",
+                  "Sun",
+                  "Sun_sv1",
+                  "summer_Wed4",
+                  "summer_Thu",
+                  "summer_Thu_sv1",
+                  "summer_Sun",
+                  "summer_Sun6_sv1",
+                  "Mines_PlayerKilled_Maru_Spouse",
+                  "Mines_PlayerKilled_Maru_NotSpouse",
+                  "MovieInvite_Spouse_Maru",
+                  "Maru0"
+            ]
+      }
+}

@@ -1,0 +1,363 @@
+{
+      "Lelkek Éjszakája": [
+            "fall27_name"
+      ],
+      "Majd mondd el, hogy mi volt bentebb, én nem megyek tovább... pókok...": [
+            "fall27_Abigail_spouse"
+      ],
+      "Azt hiszem kicsit sok töksört ittam...": [
+            "fall27_Leah_spouse"
+      ],
+      "Össze vagyok zavarodva... menj előre, és hadd jöjjek rá erre magamtól.": [
+            "fall27_Maru_spouse"
+      ],
+      "Ó... Ez a köd... Hmmm... Nagyon jól nézel ki ma este.": [
+            "fall27_Penny_spouse"
+      ],
+      "Könnyedén megijedek... Azt hiszem itt fogok maradni.": [
+            "fall27_Haley_spouse"
+      ],
+      "Érdekes lenne egy ilyen a farmon.": [
+            "fall27_Sebastian_spouse"
+      ],
+      "Hé, már azon tűnődtem, hogy mikor bukkansz fel!": [
+            "fall27_Sam_spouse"
+      ],
+      "Üdv... Reméltem, hogy megtalálsz engem...": [
+            "fall27_Harvey_spouse"
+      ],
+      "Ühüm... Azt hiszem kissé sok tökpitét fogyasztottam el.": [
+            "fall27_Elliott_spouse"
+      ],
+      "Nem mehetek tovább... pókok...": [
+            "fall27_Abigail"
+      ],
+      "Nos, nemsokára beköszönt a tél. Ez remek idő fák és kövek raktározására.": [
+            "fall27_Robin"
+      ],
+      "Már órák óta nem láttam Marut... Remélem jól van.": [
+            "fall27_Demetrius"
+      ],
+      "Azt hiszem már jártam erre... nem, várjunk...": [
+            "fall27_Maru"
+      ],
+      "Eltévedtem...": [
+            "fall27_Maru_sv1"
+      ],
+      "Fogalmam sincs, hogy hogyan járnak ezek a csontvázak... ijesztő.": [
+            "fall27_Sebastian"
+      ],
+      "De ugyanakkor menő.": [
+            "fall27_Sebastian_sv1"
+      ],
+      "???": [
+            "fall27_Pierre"
+      ],
+      "Elég könnyedén megijedek. A kísértet útvesztőt a fiatalabbakra hagyom.": [
+            "fall27_Caroline"
+      ],
+      "Szép munka, öreg barátom.": [
+            "fall27_Linus"
+      ],
+      "Van valami fura ott. De hogy jutok el oda?": [
+            "fall27_Alex"
+      ],
+      "Biztos van itt valahol egy titkos átjáró.": [
+            "fall27_Alex_sv1"
+      ],
+      "Hmm... füstölt pulykacomb? Azt hiszem nem is olyan rossz ez az ünnep.": [
+            "fall27_George"
+      ],
+      "Bárcsak Gus bevezetné a vegetáriánus választékot. Mondjuk a cukkini nyársat?": [
+            "fall27_Evelyn"
+      ],
+      "Jó estét, @. Jártál már a kísértet útvesztőben? Elég ijesztő.": [
+            "fall27_Lewis"
+      ],
+      "A toronyban élő furcsa fickó egymaga készítette el. Senkit se engedett a közelébe, amíg el nem készült vele.": [
+            "fall27_Lewis_sv1"
+      ],
+      "Egy jól irányzott csapás az egyik irídiummal átitatott buzogányomból gyors véget vetne ezeknek.": [
+            "fall27_Clint"
+      ],
+      "Tetszenek a töklámpások? Én magam faragtam őket.": [
+            "fall27_Emily"
+      ],
+      "Ebből az üstből felszálló gőz... teljesen elszédülök tőle, de úgy tűnik nem tudok elmenni...": [
+            "fall27_Penny"
+      ],
+      "Bármilyen eseményre elmegyek, ha van ingyen kaja! Habár a kísértet útvesztőben nem fogsz velem találkozni.": [
+            "fall27_Pam"
+      ],
+      "Jujjj! Túlságosan félek.": [
+            "fall27_Haley"
+      ],
+      "Vincent mérges, mert nem engedem be őt a kísértet útvesztőbe... de hiszen még csak kisfiú!": [
+            "fall27_Jodi"
+      ],
+      "Hé @. Szép esténk van, nemde?": [
+            "fall27_Kent"
+      ],
+      "Ez fura... Elől csak zsákutca van.": [
+            "fall27_Sam"
+      ],
+      "Esküszöm volt előttem valaki, mikor az útvesztőben mászkáltam. Hová tűntek?": [
+            "fall27_Sam_sv1"
+      ],
+      "Mm, szia. Bocsánat... tele a szám szederrel.": [
+            "fall27_Leah"
+      ],
+      "Szia, @. Termékeny volt az ősz?": [
+            "fall27_Marnie"
+      ],
+      "Kezd eléggé hűvös lenni... a termések már nem fogják sokáig bírni.": [
+            "fall27_Marnie_sv1"
+      ],
+      "Nocsak, üdv @. Fagyos a levegő, nemde?": [
+            "fall27_Elliott"
+      ],
+      "Jó móka tökből ételt készíteni. Olyan érdekes egy növény.": [
+            "fall27_Gus"
+      ],
+      "Azt mondod, hogy odafent esik? *meghökken*": [
+            "fall27_Dwarf"
+      ],
+      "Eső... Számunkra szinte rejtély. Egyesek közülünk egész életüket úgy élik le, hogy sose tapasztalják meg.": [
+            "fall27_Dwarf_sv1"
+      ],
+      "Az átlagemberek ügyei semmit se jelentenek számomra, de az elementálok boldogan megvizsgálnának közelebbről minket.": [
+            "fall27_Wizard"
+      ],
+      "Őértük készítettem el ezt a butácska útvesztőt.": [
+            "fall27_Wizard_sv1"
+      ],
+      "Ó! Megtaláltál...": [
+            "fall27_Harvey"
+      ],
+      "Az az igazság, hogy annyira féltem, hogy bebújtam ide. Ne mondd el senkinek!": [
+            "fall27_Harvey_sv1"
+      ],
+      "Miért nincs több töksör?": [
+            "fall27_Shane"
+      ],
+      "Úgy hallottam, hogy odahaza esik. Ezért jöttél ide?": [
+            "fall27_Sandy",
+            "fall27_Sandy_y2"
+      ],
+      "Nekem valójában kissé hiányzik az eső...": [
+            "fall27_Sandy_sv1"
+      ],
+      "De Marnie néni! Be akarok menni az útvesztőbe! Én nem félek!": [
+            "fall27_Jas"
+      ],
+      "Anya nem enged be engem az útvesztőbe. *sír*": [
+            "fall27_Vincent"
+      ],
+      "Ne menj túl közel a ketrechez.": [
+            "fall27_Marlon"
+      ],
+      "%Leo rezzenéstelen tekintete a képernyőre tapadt. Nem tudod elterelni a figyelmét.": [
+            "fall27_Leo"
+      ],
+      "BO 113 5000 1 O 746 750 5 BL 746 2000 1 BO 47 350 -1 F 2870 4000 -1": [
+            "fall27_shop_y2"
+      ],
+      "Harcoltál már valaha bármelyik itteni szörny ellen?": [
+            "fall27_Abigail_spouse_y2"
+      ],
+      "Még a... p-pókok ellen is?": [
+            "fall27_Abigail_spouse_y2_sv1"
+      ],
+      "Valószínűleg túl sok töksört ittam, mielőtt bementem volna az útvesztőbe.": [
+            "fall27_Leah_spouse_y2"
+      ],
+      "Menj csak előre. Majd utánad megyek.": [
+            "fall27_Leah_spouse_y2_sv1"
+      ],
+      "Vegyél egy tányért és ülj le a család mellé!": [
+            "fall27_Maru_spouse_y2"
+      ],
+      "*huhhh* Eltévedtem az útvesztőben...": [
+            "fall27_Penny_spouse_y2"
+      ],
+      "Már aggódtam, hogy ottragadok és mindenki nélkülem tér haza!2": [
+            "fall27_Penny_spouse_y2_sv1"
+      ],
+      "*kacag* Tudtam, hogy megtalálod az idevezető utat.": [
+            "fall27_Emily_spouse_y2"
+      ],
+      "Háh! Ebből semmi sem igazi.": [
+            "fall27_Haley_spouse_y2"
+      ],
+      ".... ugye, @? Ez nem igazi... ugye?2": [
+            "fall27_Haley_spouse_y2_sv1"
+      ],
+      "Hé, átjutottál az ijesztő karokon.": [
+            "fall27_Alex_spouse_y2"
+      ],
+      "Úgy hallom valaki a közelben segítségért kiáltozik.": [
+            "fall27_Alex_spouse_y2_sv1"
+      ],
+      "Hé, adnál nekem egy... segítő kezet? Hehehe...": [
+            "fall27_Sebastian_spouse_y2"
+      ],
+      "Ezek a sírkövek jól mutatnának a farmon, nem gondolod?": [
+            "fall27_Sebastian_spouse_y2_sv1"
+      ],
+      "Az öcsémmel elég messzire jutottunk, de ittragadtunk.": [
+            "fall27_Sam_spouse_y2"
+      ],
+      "Menj csak tovább... találd meg nekünk a kincset!": [
+            "fall27_Sam_spouse_y2_sv1"
+      ],
+      "Azon töprengtem, hogy mikor foglak látni.": [
+            "fall27_Harvey_spouse_y2"
+      ],
+      "Ne is figyelj rám. Csak gyors kifújom magam.": [
+            "fall27_Harvey_spouse_y2_sv1"
+      ],
+      "Beleborzongok a gondolatba, hogy mi történne, ha ezek kiszabadulnának...%noturn": [
+            "fall27_Elliott_spouse_y2"
+      ],
+      "Egyet se félj, kedvesem! Elintézném az átkozott bestiákat, mielőtt azok téged felfalnának.": [
+            "fall27_Elliott_spouse_y2_sv1"
+      ],
+      "Rábeszéltem Marniet, hogy engedjen be engem és Jast az útvesztőbe. Szerintem már elég idős hozzá.": [
+            "fall27_Shane_spouse_y2"
+      ],
+      "Persze elég lassan haladunk. Nyugodtan menj előre nélkülünk!": [
+            "fall27_Shane_spouse_y2_sv1"
+      ],
+      "Láttad a házunkon lévő dekorációt? Nekem nem tetszik...": [
+            "fall27_Abigail_y2"
+      ],
+      "Várod már, hogy a dolgok lelassuljanak? Mindjárt itt a tél.": [
+            "fall27_Robin_y2"
+      ],
+      "Tudtad, hogy... az Antropológiai fiziológiai folyóirat egyik tanulmánya szerint a zene ritmusa, tempója és hangneme mérhető szinten befolyásolja a kortizolszinteket?": [
+            "fall27_Demetrius_y2"
+      ],
+      "Öhm... Jár vaníliás jégkrém a szeder kosárkához?": [
+            "fall27_Demetrius_y2_sv1"
+      ],
+      "Miután befejeztem az evést, rögvest indulok az útvesztőbe!": [
+            "fall27_Maru_y2"
+      ],
+      "Ez az én helyem.": [
+            "fall27_Sebastian_y2"
+      ],
+      "Áh, ez @ gazda! Ma este van ám miből válogatnod. Nézd csak meg!": [
+            "fall27_Pierre_y2"
+      ],
+      "Készítenem kellene egy tányérni ételt a férjemnek. Egész este a boltban volt.": [
+            "fall27_Caroline_y2"
+      ],
+      "Haha! Egy újabb remek készítmény, öreg barátom.": [
+            "fall27_Linus_y2"
+      ],
+      "Egy lány sikolyát hallottam... A segítségemre van szüksége!": [
+            "fall27_Alex_y2"
+      ],
+      "Ha nem lenne ez az átkozott szék, akkor az útvesztőben mindenki körül köröket futnék!": [
+            "fall27_George_y2"
+      ],
+      "Kedveském, odaadnád azokat az apróra darabolt cukkiniket, kérlek?": [
+            "fall27_Evelyn_y2"
+      ],
+      "Jó estét, @. Ismét kaptunk egy kísértetjárta útvesztőt, amit az erdőben élő különc titokban épített nekünk.": [
+            "fall27_Lewis_y2"
+      ],
+      "Azt hallottam, hogy idén nagyobb lett. Sok szerencsét kívánok hozzá, már ha be mersz menni oda...": [
+            "fall27_Lewis_y2_sv1"
+      ],
+      "Már kijutottam az útvesztőből... most itt az ideje, hogy pihenjek egy kis töksör társaságában!": [
+            "fall27_Clint_y2"
+      ],
+      "...Próbálom a lehető legjobban nem észrevenni a mögöttem lévő póktömeget.": [
+            "fall27_Clint_y2_sv1"
+      ],
+      "Óóóóóh. Te is megtaláltad a titkos bejáratot!": [
+            "fall27_Emily_y2"
+      ],
+      "Egy ideig az útvesztőben voltam, de megéheztem.": [
+            "fall27_Penny_y2"
+      ],
+      "Úgy tűnik anyám jól szórakozik.": [
+            "fall27_Penny_y2_sv1"
+      ],
+      "Adjatok még egy üvegnyi töksört!... *hukk*": [
+            "fall27_Pam_y2"
+      ],
+      "Láttad a nővéremet?": [
+            "fall27_Haley_y2"
+      ],
+      "Emily! Hallasz engem?": [
+            "fall27_Haley_y2_sv1"
+      ],
+      "Sam bevitte Vincentet az útvesztőbe. Remélem jól vannak...": [
+            "fall27_Jodi_y2"
+      ],
+      "Ezek a valamik nem tűnnek túl keménynek.": [
+            "fall27_Kent_y2"
+      ],
+      "Hogy én volnék Sam? Heh, heh, heh...1": [
+            "fall27_Sam_y2"
+      ],
+      "Erre kellene menni? Vagy talán erre?": [
+            "fall27_Leah_y2"
+      ],
+      "Remélem Jas jól van odabent.": [
+            "fall27_Marnie_y2"
+      ],
+      "Jól telt az idei gazdálkodós éved, @?": [
+            "fall27_Marnie_y2_sv1"
+      ],
+      "Ó siralmas nyomorult... miféle bűzös barlangban lakozik királyságod?%noturn": [
+            "fall27_Elliott_y2"
+      ],
+      "Néha bele kell néznünk a mélységbe, hogy felkavarjunk egy bágyadt múzsát...": [
+            "fall27_Elliott_y2_sv1"
+      ],
+      "Én tehetséges tökfaragó vagyok. Általában én készítem el a legtöbb töklámpást a városlakók számára.": [
+            "fall27_Gus_y2"
+      ],
+      "Cserébe csak annyit kérek, hogy hadd tartsam meg a magvakat... egy kis fahéjas cukrot szórok a kicsikékre, és máris értékes nasit kapok!": [
+            "fall27_Gus_y2_sv1"
+      ],
+      "Ez a hely nagyon fura...": [
+            "fall27_Dwarf_y2"
+      ],
+      "Folytatódnak a megpróbáltatások... Minden mágusnak szüksége van egy tanítványra...": [
+            "fall27_Wizard_y2"
+      ],
+      "Attól tartok, hogy teljesen tanácstalan vagyok ezzel kapcsolatban...": [
+            "fall27_Harvey_y2"
+      ],
+      "Maradj közel hozzám, Jas. Nehogy elfuss nekem!%noturn": [
+            "fall27_Shane_y2"
+      ],
+      "Valójában nekem egy kicsit hiányzik az eső...": [
+            "fall27_Sandy_y2_sv1"
+      ],
+      "Menjünk erre!%noturn": [
+            "fall27_Jas_y2"
+      ],
+      "Én a helyedben vigyáznék magamra, fiacskám... valami borzasztó van abban az útvesztőben...": [
+            "fall27_Willy_y2_male_farmer"
+      ],
+      "Én a helyedben vigyáznék magamra, kisasszony... valami borzasztó van abban az útvesztőben...": [
+            "fall27_Willy_y2_female_farmer"
+      ],
+      "Legyőztük az útvesztőt? Hol van a jutalmam?": [
+            "fall27_Vincent_y2"
+      ],
+      "Idén több szörnyet fogtam el. Vigyázz a ketrecek körül.": [
+            "fall27_Marlon_y2"
+      ],
+      "Ez egy útvesztő az útvesztőben... Forog a fejem...": [
+            "fall27_Leo_y2"
+      ],
+      "T-te meg mit keresel itt?": [
+            "fall27_Krobus_y2"
+      ]
+}

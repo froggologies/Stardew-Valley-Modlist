@@ -1,0 +1,6 @@
+{
+    "Oui, Vincent ?": "response_Forest_choseAnimals_Penny_event1",
+    "Puis-je mettre une selle sur l’une de vos vaches et la chevaucher en ville, @ ? Je veux être un vrai cow-boy !": "response_Forest_choseAnimals_Vincent_event1",
+    "Vincent ! Surveille ton comportement. M.": "response_Forest_choseAnimals_Penny_event2_male_farmer",
+    "Mlle}@ gagne sa vie en travaillant à la ferme ! Ce n’est pas un terrain de jeu.": "response_Forest_choseAnimals_Penny_event2_female_farmer"
+}

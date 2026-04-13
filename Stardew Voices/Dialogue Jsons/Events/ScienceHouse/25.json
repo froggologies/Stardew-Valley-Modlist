@@ -1,0 +1,11 @@
+{
+    "Demetrius, I didn't tell you to get tomatoes. I said to get fruit.": "ScienceHouse_25_Robin_Robin_event1",
+    "I don't understand. Tomatoes are fruits!": "ScienceHouse_25_Robin_Demetrius_event1",
+    "When a normal person says they want fruit, they NEVER mean tomatoes. It doesn't matter what the scientific classification is.": "ScienceHouse_25_Robin_Robin_event2",
+    "@! I'm glad you're here. You'll be able to put this argument to rest.": "ScienceHouse_25_Robin_Demetrius_event2",
+    "How would you classify a tomato?": "ScienceHouse_25_Robin_Demetrius_event3",
+    "I just want you to understand my point of view.": "ScienceHouse_25_Robin_Demetrius_event4",
+    "It's hard for me to know exactly what assumptions I should make when you tell me something.": "ScienceHouse_25_Robin_Demetrius_event4_sv1",
+    "But I'll try to get better at it.": "ScienceHouse_25_Robin_Demetrius_event5",
+    "Thanks for your help, @.": "ScienceHouse_25_Robin_Demetrius_event6"
+}

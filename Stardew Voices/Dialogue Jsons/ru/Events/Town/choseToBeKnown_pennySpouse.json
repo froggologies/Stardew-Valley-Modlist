@@ -1,0 +1,22 @@
+{
+    "Ладно... нам пора.": "response_Town_choseToBeKnown_pennySpouse_Robin_event1",
+    "Привет, соседи... Отличный новый дом!": "response_Town_choseToBeKnown_pennySpouse_Robin_event2",
+    "Робин... Я... Не знаю, что и сказать...": "response_Town_choseToBeKnown_pennySpouse_Pam_event1",
+    "Это просто мечта наяву... Я всегда о таком мечтала.": "response_Town_choseToBeKnown_pennySpouse_Pam_event1_sv1",
+    "@? Что вы здесь делаете?": "response_Town_choseToBeKnown_pennySpouse_Penny_event1",
+    "Вы что, не рассказали об этом своей жене, @?": "response_Town_choseToBeKnown_pennySpouse_Robin_event3",
+    "@ придумал": "response_Town_choseToBeKnown_pennySpouse_Robin_event4_male_farmer",
+    "придумала}и оплатил": "response_Town_choseToBeKnown_pennySpouse_Robin_event4_female_farmer",
+    "@... Ну что ты, не стоило...": "response_Town_choseToBeKnown_pennySpouse_Penny_event2",
+    "Но спасибо. Это очень много для меня значит.": "response_Town_choseToBeKnown_pennySpouse_Penny_event2_sv1",
+    "Это же целое состояние, @...": "response_Town_choseToBeKnown_pennySpouse_Pam_event2",
+    "...Честно говоря, мне даже как-то неловко. Как я смогу тебе за это отплатить?": "response_Town_choseToBeKnown_pennySpouse_Pam_event2_sv1",
+    "...Простите меня.": "response_Town_choseToBeKnown_pennySpouse_Pam_event3",
+    "Я сделаю, как вы скажете...": "response_Town_choseToBeKnown_pennySpouse_Pam_event4",
+    "Мам...": "response_Town_choseToBeKnown_pennySpouse_Penny_event3",
+    "Не переживай... Я понимаю, почему ты иногда сердишься. Жизнь у тебя непростая...": "response_Town_choseToBeKnown_pennySpouse_Penny_event4",
+    "Спасибо, дочка.": "response_Town_choseToBeKnown_pennySpouse_Pam_event5",
+    "Теперь мы будем нормальной семьей... понимаешь?": "response_Town_choseToBeKnown_pennySpouse_Pam_event5_sv1",
+    "Я больше не буду всё время такой кислой...": "response_Town_choseToBeKnown_pennySpouse_Pam_event5_sv2",
+    "Постараюсь начать жизнь заново...": "response_Town_choseToBeKnown_pennySpouse_Pam_event5_sv3"
+}

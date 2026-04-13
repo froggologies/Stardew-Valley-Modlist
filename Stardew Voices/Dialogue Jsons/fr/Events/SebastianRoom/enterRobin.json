@@ -1,0 +1,14 @@
+{
+    "C'était un message de Sam... Je suppose qu'il a envie de sortir...": "response_SebastianRoom_enterRobin_Sebastian_event1",
+    "Mais moi je n'ai pas très envie de bouger aujourd'hui.": "response_SebastianRoom_enterRobin_Sebastian_event1_sv1",
+    "Oh, salut, @.": "response_SebastianRoom_enterRobin_Robin_event1",
+    "Sebby, je sais que tu n'aimes pas trop quand je viens ici... mais j'ai vu Abigail au magasin et elle a dit qu'elle te cherchait.": "response_SebastianRoom_enterRobin_Robin_event2",
+    "Tu lui as dit que je travaillais ?": "response_SebastianRoom_enterRobin_Sebastian_event2",
+    "Oui... mais elle a dit qu'elle passerait quand même.": "response_SebastianRoom_enterRobin_Robin_event3",
+    "*soupir*... Personne ne prend mon boulot au sérieux.": "response_SebastianRoom_enterRobin_Sebastian_event3",
+    "Personne ne dérange jamais Maru quand elle travaille à la clinique... Est-ce que tout le monde croit que je passe mes journées à surfer sur le Web ?": "response_SebastianRoom_enterRobin_Sebastian_event3_sv1",
+    "J'essaie d'économiser pour pouvoir partir d'ici. Sans doute pour aller en ville.": "response_SebastianRoom_enterRobin_Sebastian_event4",
+    "Tu sais, si j'étais allé à la fac, je gagnerais sans doute super bien ma vie à l'heure actuelle... mais je ne veux pas faire partie de la course au profit, tu comprends ?": "response_SebastianRoom_enterRobin_Sebastian_event5",
+    "Et puis je crois que je me sens plus à l'aise caché derrière mon ordinateur que face à des gens.": "response_SebastianRoom_enterRobin_Sebastian_event5_sv1",
+    "Bon, il faut que je me remette au boulot... Je dois finir ce module d'ici demain.": "response_SebastianRoom_enterRobin_Sebastian_event6"
+}
