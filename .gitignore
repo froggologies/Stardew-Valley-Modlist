@@ -1,5 +1,6 @@
 GiftTasteHelper/DB/GiftDatabase.json
 BetterCrafting/savedata
 PredictReactionToGift/Saves
-UIInfoSuite2/data
+UIInfoSuite2/data/*
+!UIInfoSuite2/data/default.json
 Stardew Voices/Audio/*
