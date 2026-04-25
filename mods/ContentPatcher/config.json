@@ -1,0 +1,8 @@
+{
+  "EnableDebugFeatures": false,
+  "Controls": {
+    "ToggleDebug": "F10",
+    "DebugPrevTexture": "LeftControl",
+    "DebugNextTexture": "RightControl"
+  }
+}

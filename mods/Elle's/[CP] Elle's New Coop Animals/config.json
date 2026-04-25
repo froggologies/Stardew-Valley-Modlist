@@ -1,0 +1,13 @@
+{
+  "BrownChicken": "SilkieBrown",
+  "WhiteChicken": "BrahmaWhite",
+  "BlueChicken": "Blue",
+  "VoidChicken": "VoidEyes",
+  "GoldenChicken": "Golden",
+  "Rabbit": "SolidWhite",
+  "Duck": "MallardFemale",
+  "Dinosaur": "Green",
+  "ShopIcons": "true",
+  "RabbitFoot": "true",
+  "DuckFeather": "true"
+}
