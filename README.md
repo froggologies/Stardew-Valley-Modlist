@@ -89,6 +89,7 @@ For Mac and Windows users, you can bypass the scripts:
 | [Vibrant Pastoral Redrawn ](https://www.nexusmods.com/stardewvalley/mods/6367) | Recolouring/redrawing of vanilla assets.  | grapeponta + Semisu + poohnhi  | 2.0.9  |
 | [Visible Fish ](https://www.nexusmods.com/stardewvalley/mods/8897) | Shows fish in the water  | shekurika  | 0.4.2  |
 | [Wild Animals ](https://www.nexusmods.com/stardewvalley/mods/21231) | Adds wild animals to your game.  | plurffle  | 1.3.0  |
+
 ## Mod Hotkeys
 | Mod | Hotkey | Action |
 |---|---|---|
