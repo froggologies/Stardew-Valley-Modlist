@@ -2,7 +2,8 @@
 
 # Absolute path to the directory containing this script
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)"
-MODS_DIR="$SCRIPT_DIR/../Mods"
+PARENT_DIR="$SCRIPT_DIR/.."
+MODS_DIR="$PARENT_DIR/../Mods"
 
 # Use the first argument as the CSV file, defaulting to mods.csv
 CSV_ARG="${1:-mods.csv}"
@@ -35,9 +36,9 @@ while IFS=, read -r active name || [[ -n "$active" ]]; do
 
     if [[ "$active" == "TRUE" ]]; then
         ((active_count++))
-        if [[ -d "$SCRIPT_DIR/$name" ]]; then
+        if [[ -d "$PARENT_DIR/$name" ]]; then
             echo "Linking: $name"
-            ln -s "$SCRIPT_DIR/$name" "$MODS_DIR/$name"
+            ln -s "$PARENT_DIR/$name" "$MODS_DIR/$name"
         else
             echo "Warning: Mod directory not found - $name"
         fi
@@ -46,11 +47,13 @@ done < <(tail -n +2 "$CSV_FILE")
 
 unlinked_count=0
 echo "Checking for inactive mods..."
-for dir in "$SCRIPT_DIR"/*/; do
+for dir in "$PARENT_DIR"/*/; do
     # Remove trailing slash
     dir="${dir%/}"
     dir_name="$(basename "$dir")"
     
+    if [[ "$dir_name" == "_scripts" ]]; then continue; fi
+
     # Check if a link exists in MODS_DIR
     if [[ -d "$dir" && ! -L "$MODS_DIR/$dir_name" ]]; then
         echo "Not linked: $dir_name"

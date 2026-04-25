@@ -9,7 +9,7 @@ TRUE,[CP] DaisyNiko's Earthy Interface
 TRUE,[CP] Seasonal Cute Characters
 TRUE,[CP] Simple Foliage
 TRUE,[CP] Vanilla Tweaks
-FALSE,[CP] Visual Enemy Variety
+TRUE,[CP] Visual Enemy Variety
 TRUE,CustomCompanions
 TRUE,DynamicReflections
 TRUE,Elle's
@@ -17,7 +17,7 @@ TRUE,GenericModConfigMenu
 TRUE,GiftTasteHelper
 TRUE,ImmersiveLighting
 TRUE,MixedBag Tilesheets
-FALSE,MonsterVariety
+TRUE,MonsterVariety
 TRUE,MoreNightlyEvents
 TRUE,PassableCrops
 TRUE,Portraiture
@@ -29,8 +29,8 @@ TRUE,RunningLate
 TRUE,SitnRelax
 TRUE,SkillfulClothesRevamp
 TRUE,SMAPI
-TRUE,Stardew Voices
 TRUE,StardewNotification
+TRUE,Stardew Voices
 TRUE,Tilt-Shift - Native Effect Shader
 TRUE,TimeSpeed
 TRUE,UIInfoSuite2Alt
