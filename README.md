@@ -22,10 +22,10 @@ The script loaders in this modpack are built and tested specifically for Linux.
    - `apply_default.sh`: Applies the **"Daily Use"** preset using `mods_default.csv`.
    - `apply_multiplayer.sh`: Applies the **"Multiplayer"** preset using `mods_multiplayer.csv`. 
      *(Note: Currently, **[CP] Visual Enemy Variety** and **MonsterVariety** are disabled in this preset because they can cause crashes in the mines during multiplayer sessions.)*
-   
-   *Note: You can easily customize these presets by opening their respective `.csv` files and changing the status of any mod to `TRUE` or `FALSE`.*
 
-*(Note: It is also possible to add these scripts as a "Non-Steam Game" to Steam for easier launching.)*
+#### Notes:   
+- *You can easily customize these presets by opening their respective `.csv` files and changing the status of any mod to `TRUE` or `FALSE`.*
+- *It is also possible to add these scripts as a "Non-Steam Game" to Steam for easier launching.*
 
 ### Mac & Windows Users
 I am not sure if the loader scripts will run on Mac.
@@ -49,7 +49,7 @@ For Mac and Windows users, you can bypass the scripts:
 | [[CP] Visual Enemy Variety ](https://www.nexusmods.com/stardewvalley/mods/32218) | Provides all of Stardew Valley's monsters more visual variety.  | Tea-Loving Lad  | 1.0.5  |
 | [Custom Companions ](https://www.nexusmods.com/stardewvalley/mods/8626) | Framework for creating custom entities that can be spawned on maps or follow you around in Stardew Valley.  | PeacefulEnd  | 5.1.0  |
 | [Dynamic Reflections ](https://www.nexusmods.com/stardewvalley/mods/12831) | Dynamic water and surface reflections for Stardew Valley.  | PeacefulEnd  | 4.0.1  |
-| [Earthy Interface ](https://www.nexusmods.com/stardewvalley/mods/13658) |   | DaisyNiko  | 1.2  |
+| [Earthy Interface ](https://www.nexusmods.com/stardewvalley/mods/13658) | A warm, earth-toned user interface recolour  | DaisyNiko  | 1.2  |
 | [Elle's Cat Replacements ](https://www.nexusmods.com/stardewvalley/mods/3872) | A CP replacement for your pet cat!  | Elle/Junimods  | 1.1.0  |
 | [Elle's Dog Replacements ](https://www.nexusmods.com/stardewvalley/mods/3871) | A CP replacement for your pet dog!  | Elle/Junimods  | 1.1.1  |
 | [Elle's New Barn Animals ](https://www.nexusmods.com/stardewvalley/mods/3167) | A CP replacement for all your barn animals!  | Elle/Junimods  | 1.1.3  |
@@ -85,10 +85,10 @@ For Mac and Windows users, you can bypass the scripts:
 | [TimeSpeed ](https://www.nexusmods.com/stardewvalley/mods/169) | Lets you control the flow of time in the game: speed it up, slow it down, or freeze it altogether.  | cantorsdust and Pathoschild  | 2.8.1  |
 | [UI Info Suite 2 Alternative ](https://www.nexusmods.com/stardewvalley/mods/43127) | Adds useful information to the user interface. Alternative fork based on Annosz's UI Info Suite 2.  | DazUki  | 2.8.23  |
 | [Vanilla Tweaks ](https://www.nexusmods.com/stardewvalley/mods/10852) | Vanilla Tweaks, a massive texture pack to enhance your gameplay. Change the look of your crops, forage, seeds and more!  | Tai, Lani & Airyn  | 1.1.0  |
-| Vibrant Pastoral  | Registered Tokens for Vibrant Pastoral Redrawn and dependant mods.\nConfig changes outside the main menu may require saving/reloading.  | Semisu  | 2.0.9  |
-| Vibrant Pastoral Redrawn  | Recolouring/redrawing of vanilla assets.  | grapeponta + Semisu + poohnhi  | 2.0.9  |
+| [Vibrant Pastoral ](https://www.nexusmods.com/stardewvalley/mods/6367) | Registered Tokens for Vibrant Pastoral Redrawn and dependant mods. Config changes outside the main menu may require saving/reloading.  | Semisu  | 2.0.9  |
+| [Vibrant Pastoral Redrawn ](https://www.nexusmods.com/stardewvalley/mods/6367) | Recolouring/redrawing of vanilla assets.  | grapeponta + Semisu + poohnhi  | 2.0.9  |
 | [Visible Fish ](https://www.nexusmods.com/stardewvalley/mods/8897) | Shows fish in the water  | shekurika  | 0.4.2  |
-| Wild Animals  | Adds wild animals to your game.  | plurffle  | 1.3.0  |
+| [Wild Animals ](https://www.nexusmods.com/stardewvalley/mods/21231) | Adds wild animals to your game.  | plurffle  | 1.3.0  |
 ## Mod Hotkeys
 | Mod | Hotkey | Action |
 |---|---|---|

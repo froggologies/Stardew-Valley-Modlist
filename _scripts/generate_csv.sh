@@ -10,7 +10,7 @@ echo "active,name" > "$output_file"
 for dir in "$PARENT_DIR"/*/; do
     if [ -d "$dir" ]; then
         dirname="$(basename "$dir")"
-        if [ "$dirname" != "_scripts" ]; then
+        if [[ "$dirname" != _* ]]; then
             echo "TRUE,$dirname" >> "$output_file"
         fi
     fi

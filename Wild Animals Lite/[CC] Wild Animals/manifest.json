@@ -4,9 +4,11 @@
 	"Version": "1.3.0",
 	"Description": "Adds wild animals to your game.",
 	"UniqueID": "SmolHooman.WildAnimalsCC",
-	"UpdateKeys": [ "Nexus:null" ],
+	"UpdateKeys": [
+		"Nexus:21231"
+	],
 	"ContentPackFor": {
 		"UniqueID": "PeacefulEnd.CustomCompanions",
 		"MinimumVersion": "2.5.0"
-  }
+	}
 }
