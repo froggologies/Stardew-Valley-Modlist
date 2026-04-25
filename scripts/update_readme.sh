@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Navigate to the _Mods Files directory
-cd "$(dirname "$0")/.." || exit 1
+cd "$(dirname "$0")/../mods" || exit 1
 
-README="README.md"
+README="../README.md"
 TMP_TABLE=$(mktemp)
 
 # Create the table header

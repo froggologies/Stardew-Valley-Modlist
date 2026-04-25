@@ -2,12 +2,12 @@
 
 # Absolute path to the directory containing this script
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)"
-PARENT_DIR="$SCRIPT_DIR/.."
+MODS_SOURCE_DIR="$SCRIPT_DIR/../mods"
 output_file="$SCRIPT_DIR/mods.csv"
 
 echo "active,name" > "$output_file"
 
-for dir in "$PARENT_DIR"/*/; do
+for dir in "$MODS_SOURCE_DIR"/*/; do
     if [ -d "$dir" ]; then
         dirname="$(basename "$dir")"
         if [[ "$dirname" != _* ]]; then
