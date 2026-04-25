@@ -1,0 +1,20 @@
+{
+  "Hi, everyone. We're from Pelican Town... Er... and we're called 'Goblin Destroyer'": "response_Temp_heavy_Sam_event1",
+  "This song's about Farming, mining, and chopping wood.": "response_Temp_Sam_event2_option1",
+  "This song's about a city in the sea.": "response_Temp_Sam_event2_option2",
+  "This song's about trains.": "response_Temp_Sam_event2_option3",
+  "Here we go...": "response_Temp_heavy_Sam_event2_sv3",
+  "Wow! Those electronic sounds were far out!": "response_Temp_heavy_Emily_event1_prereq_1",
+  "Woooh! That was great!": "response_Temp_heavy_Emily_event1_prereq_2",
+  "That was great! It's a new honky-tonk classic!": "response_Temp_heavy_Leah_event1_prereq_1",
+  "Nice work, guys!": "response_Temp_heavy_Leah_event1_prereq_2",
+  "I really loved that heavy breakdown at the end.": "response_Temp_heavy_Shane_event1_prereq_1",
+  "I really enjoyed that bass part.": "response_Temp_heavy_Shane_event1_prereq_2",
+  "Thanks, everyone!": "response_Temp_heavy_Sam_event3",
+  "But you should really be clapping for @! Without his help we'd never have decided what kind of music to make in the first place!": "response_Temp_heavy_Sam_event3_sv1_male_farmer",
+  "But you should really be clapping for @! Without her help we would've never decided what kind of music to make in the first place!": "response_Temp_heavy_Sam_event3_sv1_female_farmer",
+  "So you're like an honorary member of the band, then?": "response_Temp_heavy_Penny_event1",
+  "Oh! And don't forget to pick up one of our demo cassettes on the way out... Only 10g!": "response_Temp_heavy_Sam_event4",
+  "That went well! Thanks again for coming with us.": "response_Temp_heavy_Sam_event5",
+  "Hey. The show was a great success! Thanks again, @.": "response_Temp_heavy_Sam_endDialogue6"
+}

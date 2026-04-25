@@ -1,0 +1,336 @@
+{
+      "Yumurta Şöleni": [
+            "spring13_name"
+      ],
+      "Vay canına! Tüm şu yumurtalara baksana.": [
+            "spring13_afterEggHunt_Lewis_event1"
+      ],
+      "Şimdi de, bu yılki Yumurta Avı'nın kazananı...": [
+            "spring13_afterEggHunt_Lewis_event2"
+      ],
+      "İşte ödülün. Tadını çıkar.": [
+            "spring13_afterEggHunt_Lewis_event3"
+      ],
+      "Bu yılki Yumurta Şöleni bu kadardı. Geldiğiniz için teşekkür ederim, millet!": [
+            "spring13_afterEggHunt_Lewis_event4",
+            "spring13_AbbyWin_Lewis_event2"
+      ],
+      "İşte ödülün, Abigail. Tadını çıkar!": [
+            "spring13_AbbyWin_Lewis_event1"
+      ],
+      "Sıra geldi bugünkü şölenin asıl olayına... Yıllık Bahar Yumurtası Avı zamanı geldi!": [
+            "spring13_mainEvent_Lewis_event1"
+      ],
+      "Sakin olun çocuklar. Tüm yumurtaları bulup özel ödülümüzü eve götürebilmeniz için o harcadığınız enerjilere ihtiyacınız olacak.": [
+            "spring13_mainEvent_Lewis_event2"
+      ],
+      "Pekâlâ... Herkes hazır mı?": [
+            "spring13_mainEvent_Lewis_event3"
+      ],
+      "Av başlasın o zaman!": [
+            "spring13_mainEvent_Lewis_event4"
+      ],
+      "Vay be, tüm şu yumurtalara bak!": [
+            "spring13_afterEggHunt_y2_Lewis_event1"
+      ],
+      "Şimdi de bu yılki yumurta avının kazananı...": [
+            "spring13_afterEggHunt_y2_Lewis_event2"
+      ],
+      "İşte ödülün! Tadını çıkar.": [
+            "spring13_afterEggHunt_y2_Lewis_event3"
+      ],
+      "Eh, bu yılki Yumurta Şöleni de bu kadardı. Katılan herkese teşekkürler!": [
+            "spring13_afterEggHunt_y2_Lewis_event4"
+      ],
+      "Bugünkü etkinliklerin en önemlisi olan Geleneksel Bahar Yumurta Avı'nın zamanı geldi!": [
+            "spring13_mainEvent_y2_Lewis_event1"
+      ],
+      "Sakin olun çocuklar. Bu özel ödülü kazanmak için tüm enerjinize ihtiyacınız olacak.": [
+            "spring13_mainEvent_y2_Lewis_event2"
+      ],
+      "Şimdi... Herkes hazır mı?": [
+            "spring13_mainEvent_y2_Lewis_event3"
+      ],
+      "Yumurta avı başlasın!": [
+            "spring13_mainEvent_y2_Lewis_event4"
+      ],
+      "Topladıkları yumurtaları birleştirdiğimizde... Jas ve Vincent!": [
+            "spring13_Event_cs_1862"
+      ],
+      "Kaybol. Yumurta avı bitene kadar rakibiz!": [
+            "spring13_Abigail_spouse"
+      ],
+      "Kasabada hiçbir zaman çok arkadaşım olmamıştı. Yani bu şölenler benim için sıkıcı. Yemekler güzel ama.": [
+            "spring13_Leah_spouse"
+      ],
+      "Penny ile arayı kapatıyorduk biz de. Kendi payına düşen yumurtaları aldın mı?": [
+            "spring13_Maru_spouse"
+      ],
+      "Maru beni baharatlı ve acılı yumurta yemeye ikna etmeye çalışıyor. Midem kaldırır mı emin değilim...": [
+            "spring13_Penny_spouse"
+      ],
+      "Biraz yumurta yiyecektim ki sonradan bahar diyetinde olduğumu hatırladım.": [
+            "spring13_Haley_spouse"
+      ],
+      "Yumurta avında seni tutuyor olacağım.": [
+            "spring13_Sebastian_spouse"
+      ],
+      "Bizim tayfa her zamanki gibi. İyi vakit geçiriyor musun?": [
+            "spring13_Sam_spouse"
+      ],
+      "Of.. Sanırım çok fazla haşlanmış yumurta yedim...": [
+            "spring13_Alex_spouse"
+      ],
+      "Herkes neler yapıyor? Ben mola veriyorum. Seni yumurta avında görmeyi iple çekiyorum.": [
+            "spring13_Harvey_spouse"
+      ],
+      "Seni rahatlamış görmeyi çok seviyorum, bebeğim.": [
+            "spring13_Elliott_spouse"
+      ],
+      "Yumurta aramak hazine aramak gibi aynı.": [
+            "spring13_Abigail"
+      ],
+      "Bahar mevsimi yılın en yoğun zamanlarından... Bu yüzden arkadaşlarla biraz takılmak iyi geliyor.": [
+            "spring13_Robin"
+      ],
+      "Yumurta... ne kadar garip bir yiyecek.": [
+            "spring13_Demetrius"
+      ],
+      "Şölenleri hep iple çekiyorum... Vadideki toplumu bu şölenler ortaya çıkarıyor.": [
+            "spring13_Maru"
+      ],
+      "Eskiden çürümüş yumurta atışları yapardık...": [
+            "spring13_Sebastian"
+      ],
+      "Başkan Lewis ise bir seferinde noktayı koydu gitti.": [
+            "spring13_Sebastian_sv1"
+      ],
+      "Kimse benimle konuşmaz... Buraya acılı ve baharatlı yumurtalar için geldim.": [
+            "spring13_Linus"
+      ],
+      "Selam! Buraya nasıl geldin?": [
+            "spring13_Pierre"
+      ],
+      "Bir şeye dokunma.": [
+            "spring13_Pierre_sv1"
+      ],
+      "Abby yumurta avını küçüklüğünden beri çok sever.": [
+            "spring13_Caroline"
+      ],
+      "Her gün en az 3 yumurta yemeye çalışıyorum.": [
+            "spring13_Alex"
+      ],
+      "Bacaklarım için protein lazım.": [
+            "spring13_Alex_sv1"
+      ],
+      "Herkes neden bu kadar mutlu? Hım...": [
+            "spring13_George"
+      ],
+      "Yumurtalar... Niye yumurtalar?": [
+            "spring13_George_sv1"
+      ],
+      "Bu şölen kendimi bildim bileli gelenek olarak düzenlenir.": [
+            "spring13_Evelyn"
+      ],
+      "Gelenekler bizi geçmişe ve geleceğe bağlıyor... Rahatlatıcılar.": [
+            "spring13_Evelyn_sv1"
+      ],
+      "Takılıyor musun, @?": [
+            "spring13_Lewis"
+      ],
+      "Yiyecek kaldı mı?": [
+            "spring13_Clint"
+      ],
+      "Çocuklar bu şöleni haftalardır bekliyor.": [
+            "spring13_Penny"
+      ],
+      "Hehe... Hoşafın içine güzel bir şey ekledim.": [
+            "spring13_Pam"
+      ],
+      "Şşşş... Bu aramızda kalsın, evlat.": [
+            "spring13_Pam_sv1"
+      ],
+      "Şafak vaktinden beri yumurta boyuyorum... Mevsimin en sevdiğim kısmı bu.": [
+            "spring13_Emily"
+      ],
+      "Bu şölen güzel... ama ben asıl çiçek dansını bekliyorum.": [
+            "spring13_Haley"
+      ],
+      "Vincent bu şölene bayılıyor... Onu mutlu görmek bana neşe veriyor.": [
+            "spring13_Jodi"
+      ],
+      "Doğrusu yumurtaları çok sevmiyorum.": [
+            "spring13_Kent"
+      ],
+      "Ayağım ağrı içinde bile olsa, tek bir kasaba şölenini kaçırmam.": [
+            "spring13_Marlon"
+      ],
+      "*iç çeker*... Uy... uyuştum... alerjim...": [
+            "spring13_Sam"
+      ],
+      "Ihım... Bu meyve hoşafı sıra dışı derecede lezzetli.": [
+            "spring13_Leah"
+      ],
+      "Tavuklarımız bu şölene hazırlık yapmak için çok çalıştı.": [
+            "spring13_Shane"
+      ],
+      "Bu gece en iyisini hak ediyorlar... Kaseler dolusu mısır!": [
+            "spring13_Shane_sv1"
+      ],
+      "Yumurta Şöleni'ne hoş geldin... verimli tavuklarım sayesinde.": [
+            "spring13_Marnie"
+      ],
+      "Ara sıra işi boşlamak insanı uzun vadede daha üretken yapıyor.": [
+            "spring13_Elliott"
+      ],
+      "Umarım herkes yemekleri beğenmiştir... Günlerdir yemek yapıyorum.": [
+            "spring13_Gus"
+      ],
+      "Sahanda yumurta, haşlanmış yumurta, bohça yumurta, acılı ve baharatlı yumurta, yumurtalı gözleme, çikolatalı yumurta... Adını sen koy!": [
+            "spring13_Gus_sv1"
+      ],
+      "Yağmur mu yağıyor? *şaşırır*": [
+            "spring13_Dwarf"
+      ],
+      "Yağmur... Bizim için neredeyse efsanevi bir şeydir. Kimimiz hayatları boyunca yağmuru göremeden ölür.": [
+            "spring13_Dwarf_sv1"
+      ],
+      "Hım... Karartılmış ve kemik iliği serpilmiş çiğ kertenkele yumurtası yok mu?": [
+            "spring13_Wizard"
+      ],
+      "Dengeli bir diyette yumurtaların önemi büyük.": [
+            "spring13_Harvey"
+      ],
+      "Ah... Şimdilik doktorluğa ara vermeliyim.1": [
+            "spring13_Harvey_sv1"
+      ],
+      "Bizim orada yağmur yağdığını duydum. Sen bu yüzden mi buraya geldin?": [
+            "spring13_Sandy"
+      ],
+      "Aslında, yağmuru özlüyorum...": [
+            "spring13_Sandy_sv1"
+      ],
+      "Umarım Vincent hepsini bulmadan önce ben de birkaç yumurta bulabilirim...": [
+            "spring13_Jas"
+      ],
+      "Yumurta avı ne zaman başlayacak?! Çok heyecanlıyım!": [
+            "spring13_Vincent"
+      ],
+      "Bazen yumurtaları öyle saklıyorum ki kimse bulamıyor...": [
+            "spring13_Willy"
+      ],
+      "Yaz gelene kadar tabii. İşte o zaman etrafa çürük kokusu yayılıyor... Hehe.": [
+            "spring13_Willy_sv1"
+      ],
+      "Ah, bugün lağım öyle bir akıyor ki. Burada güzelce ıslanacağım... tam da istediğim gibi.": [
+            "spring13_???"
+      ],
+      "Yumurta avı düşüncesi bana garip geldi... Herhalde yumurtalar ailemden birine ait değildir...": [
+            "spring13_Leo"
+      ],
+      "Neyse, ben de katılmak istiyorum!": [
+            "spring13_Leo_sv1"
+      ],
+      "Sence yumurta avına katılmak için fazla mı büyüğüm?": [
+            "spring13_Abigail_y2"
+      ],
+      "Hım... Sen de annem gibisin!": [
+            "spring13_Abigail_y2__Evet___response"
+      ],
+      "Bence de. Eğlenmekten neden vazgeçeyim ki?'": [
+            "spring13_Abigail_y2__Hayır___response"
+      ],
+      "Kara kışın ardından dışarı çıkabilmek harika. Sence de öyle değil mi?": [
+            "spring13_Robin_y2"
+      ],
+      "Merhaba @. Sazanlı turtamı tattın mı?": [
+            "spring13_Demetrius_y2"
+      ],
+      "...Ne? Bu 'yumurta' şöleni, değil mi?": [
+            "spring13_Demetrius_y2_sv1"
+      ],
+      "Bu yılki yumurta avını kazanacağını düşünüyor musun?": [
+            "spring13_Maru_y2"
+      ],
+      "Biliyor musun... Kışı özlüyorum. Kışın her şey çok daha basit ve sadeydi.": [
+            "spring13_Sebastian_y2"
+      ],
+      "Birazdan dahil olup bir şeyler yiyeceğim. Şuracıkta duran nefis turtaya göz koydum!": [
+            "spring13_Linus_y2"
+      ],
+      "El altından iş mi çeviriyorsun? Hah! Girişkenliğine bayılıyorum.": [
+            "spring13_Pierre_y2"
+      ],
+      "Belki sıkıcı geçecek ama şölen sayesinde komşularımızla iletişimimizi güçlendirebileceğiz.": [
+            "spring13_Caroline_y2"
+      ],
+      "Günde otuz yumurta yesem kollarım ve bacaklarım nasıl da kas yapar ha!": [
+            "spring13_Alex_y2"
+      ],
+      "Evelyn kahvaltıda pırasalı yumurta yaptı. Bugün keyfim yerinde.": [
+            "spring13_George_y2"
+      ],
+      "Çiftliğinde tavukların var mı?": [
+            "spring13_Evelyn_y2"
+      ],
+      "Ah, ne güzel! Eminim yumurtaları da pek lezzetlidir...": [
+            "spring13_Evelyn_y2__Evet___response"
+      ],
+      "Baharın gelişi tavuk beslemeye başlamak için harika bir zaman olabilir...'": [
+            "spring13_Evelyn_y2__Hayır___response"
+      ],
+      "Olamaz... *yutkunur*... Bu sene herkes salata yapmış...": [
+            "spring13_Clint_y2"
+      ],
+      "Vincent'ın bu yıl yumurta bulmasını umuyorum...": [
+            "spring13_Penny_y2"
+      ],
+      "Yarıştığını hissetmek ona iyi gelecek.": [
+            "spring13_Penny_y2_sv1"
+      ],
+      "Evlat... Bana yumurta vereceksen yanında acılı sos da sunmayı sakın unutma!": [
+            "spring13_Pam_y2"
+      ],
+      "Bu yıl yumurtaların bir kısmı için minik şortlar ve şapkalar hazırladım. Çok şekerler!": [
+            "spring13_Emily_y2"
+      ],
+      "Ah! Tavşan tezgâhının önünde fotoğraf çekineceğim. Saçım nasıl duruyor?": [
+            "spring13_Haley_y2"
+      ],
+      "Kent böyle büyük etkinliklerde hiç yerinde duramaz...": [
+            "spring13_Jodi_y2"
+      ],
+      "Hiç balçıkça yuvasından yumurta almaya çalıştın mı? Asıl zorlu olan o işte...": [
+            "spring13_Marlon_y2"
+      ],
+      "Hım... Bu sene geçen seneye göre biraz farklı. Eksik bir şeyler var!": [
+            "spring13_Leah_y2"
+      ],
+      "Yumurtaların bir kısmını daha bu sabah topladık. Baksana, hâlâ sıcacıklar!": [
+            "spring13_Shane_y2"
+      ],
+      "Tavuk yumurtluyor elbette ama horozları da unutmamak gerek... Sonuçta tavukları koruyor ve kavga etmelerine engel oluyorlar!": [
+            "spring13_Marnie_y2"
+      ],
+      "Bu da tavukların ve yumurtaların daha mutlu olmasını sağlıyor...": [
+            "spring13_Marnie_y2_sv1"
+      ],
+      "Yanlışlıkla bir karganın yumurtasını alma sakın. Yoksa ölünceğe değin kapından ayrılmazlar!": [
+            "spring13_Elliott_y2"
+      ],
+      "Şşş... Kimseye söyleme ama bu sene farklı bir şey denedim... Vanilyayı ördek yumurtasından yaptım!": [
+            "spring13_Gus_y2"
+      ],
+      "Yumurta iyidir ama günde otuz tane de yenmez!": [
+            "spring13_Harvey_y2"
+      ],
+      "Bu sene kazanmak için elimden geleni yapacağım!": [
+            "spring13_Jas_y2"
+      ],
+      "Kocaman bir yumurtanın içinde yaşamak istiyorum!": [
+            "spring13_Vincent_y2"
+      ],
+      "Heh... Yağmur yağdığında bu sular kedibalığıyla dolar. Yakalaması zordur ama emeğinin karşılığını da verir.": [
+            "spring13_Willy_y2"
+      ]
+}

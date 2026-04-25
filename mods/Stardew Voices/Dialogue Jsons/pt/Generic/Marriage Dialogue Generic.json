@@ -1,0 +1,933 @@
+{
+      "Está chovendo lá fora. Não pegue gripe, querido": [
+            "Rainy_Day_0_male_farmer"
+      ],
+      "querida}": [
+            "Rainy_Day_0_female_farmer"
+      ],
+      "Fique em casa o máximo possível.": [
+            "Rainy_Day_0_sv1"
+      ],
+      "Às vezes você me preocupa!": [
+            "Rainy_Day_0_sv2"
+      ],
+      "Está chovendo! Isso significa que não precisamos regar as lavouras hoje.": [
+            "Rainy_Day_1"
+      ],
+      "A natureza ajuda bastante às vezes.": [
+            "Rainy_Day_1_sv1"
+      ],
+      "Você já alimentou os animais, querido?": [
+            "Rainy_Day_1_sv2_male_farmer"
+      ],
+      "Você já alimentou os animais, querida?": [
+            "Rainy_Day_1_sv2_female_farmer"
+      ],
+      "Bom dia! Acordei cedo por causa do som da chuva e fiz café para você.": [
+            "Rainy_Day_2"
+      ],
+      "Continue quentinho e não se esforce demais. Você precisa se manter saudável.": [
+            "Rainy_Day_2_sv1"
+      ],
+      "O que está nos seus planos hoje, querido?": [
+            "Rainy_Day_3_male_farmer"
+      ],
+      "O que está nos seus planos hoje, querida?": [
+            "Rainy_Day_3_female_farmer"
+      ],
+      "Não quero sair com esse tempo... Só vou fazer algumas coisas em casa.": [
+            "Rainy_Day_3_sv1"
+      ],
+      "Talvez alguma coisa quente para o jantar.": [
+            "Rainy_Day_3_sv2"
+      ],
+      "Algum pedido para o jantar de hoje?": [
+            "Rainy_Day_4"
+      ],
+      "Apesar de toda a tecnologia que temos, um dia chuvoso ainda é a melhor ferramenta para irrigar a lavoura.": [
+            "Rainy_Day_Maru"
+      ],
+      "O campo parece muito mais interessante em um dia como esse, não acha?": [
+            "Rainy_Day_Abigail"
+      ],
+      "Acho que vou cozinhar um pouco hoje.": [
+            "Rainy_Day_Penny"
+      ],
+      "Que tal pescar ou extrair minério hoje, hã?": [
+            "Rainy_Day_Leah"
+      ],
+      "Huuumf. Se o clima continuar assim, minha pele vai ficar muito pálida.": [
+            "Rainy_Day_Haley"
+      ],
+      "Não tome chuva, querido. Não quero que você sofra de hipotermia.": [
+            "Rainy_Day_Harvey_male_farmer"
+      ],
+      "Não tome chuva, querida. Não quero que você sofra de hipotermia.": [
+            "Rainy_Day_Harvey_female_farmer"
+      ],
+      "Eu levantei bem de madrugada e dei uma volta na fazenda. É tudo muito silencioso nessa hora.": [
+            "Rainy_Day_Sebastian"
+      ],
+      "Huum... Acho que vou ter que fazer flexões e abdominais dentro de casa hoje.": [
+            "Rainy_Day_Alex"
+      ],
+      "A chuva me faz pensar na minha antiga vida no oceano.": [
+            "Rainy_Day_Elliott"
+      ],
+      "Mudar faz parte da vida. Mas tudo bem.": [
+            "Rainy_Day_Elliott_sv1"
+      ],
+      "Acho que vou passar um tempo hoje consertando alguns vazamentos no telhado e nas janelas.": [
+            "Rainy_Day_Sam"
+      ],
+      "Sei que você se orgulha do seu trabalho, mas não exagere hoje. Certo?": [
+            "Rainy_Day_Emily"
+      ],
+      "O telhado está vazando? Bem... um pouco de mofo não faz mal a ninguém.": [
+            "Rainy_Day_Shane"
+      ],
+      "A chuva nos faz pensar que estamos sozinhos.": [
+            "Rainy_Night_0"
+      ],
+      "Estou com frio... Você está pronto": [
+            "Rainy_Night_0_sv1_male_farmer"
+      ],
+      "pronta}para ir dormir?": [
+            "Rainy_Night_0_sv1_female_farmer"
+      ],
+      "Vista alguma coisa que vá aquecê-lo. Não quero que você fique doente.": [
+            "Rainy_Night_1_male_farmer"
+      ],
+      "Vista alguma coisa que vá aquecê-la. Não quero que você fique doente.": [
+            "Rainy_Night_1_female_farmer"
+      ],
+      "Você consegue ouvir a chuva no telhado, @?": [
+            "Rainy_Night_1_sv1"
+      ],
+      "Ah... o som calmante da chuva... Hoje vou dormir bem.": [
+            "Rainy_Night_2"
+      ],
+      "A chuva faz nossa casa parecer tão confortável.": [
+            "Rainy_Night_3_male_farmer"
+      ],
+      "É em noites assim que fico feliz de ter um bom telhado.": [
+            "Rainy_Night_3_female_farmer"
+      ],
+      "Fiz um pouco de sopa para o jantar.": [
+            "Rainy_Night_4"
+      ],
+      "Você precisa de algo quente em um dia como esse!": [
+            "Rainy_Night_4_sv1"
+      ],
+      "Estou feliz que você esteja em casa... É uma boa noite para ficar em casa.": [
+            "Rainy_Night_5"
+      ],
+      "Você fez muitas coisas hoje, né?": [
+            "Rainy_Night_Maru"
+      ],
+      "Tentei consertar algumas coisas na casa... sabe, só coisas pequenas.": [
+            "Rainy_Night_Maru_sv1"
+      ],
+      "Podemos ir dormir, quando você quiser. O som da chuva nos ajudará a dormir.": [
+            "Rainy_Night_Abigail"
+      ],
+      "Ah... o cheiro? Tentei cozinhar um pouco... Mas acho que não deu muito certo.": [
+            "Rainy_Night_Penny"
+      ],
+      "Como foi seu dia, querido? Lamacento?": [
+            "Rainy_Night_Leah_male_farmer"
+      ],
+      "Como foi seu dia, querida? Lamacento?": [
+            "Rainy_Night_Leah_female_farmer"
+      ],
+      "Oi, amor. Estou tão feliz que você esteja em casa. Estava começando a me sentir sozinha.": [
+            "Rainy_Night_Haley"
+      ],
+      "Oi. Estava com saudade.": [
+            "Rainy_Night_Harvey"
+      ],
+      "Passei o dia lendo artigos médicos.": [
+            "Rainy_Night_Harvey_sv1"
+      ],
+      "Nunca me canso da chuva... especialmente aqui, no campo.": [
+            "Rainy_Night_Sebastian"
+      ],
+      "Vovó sempre fazia um ensopado em dias assim.": [
+            "Rainy_Night_Alex"
+      ],
+      "Sente-se e relaxe! Você deve estar cansado depois de andar na lama o dia todo.": [
+            "Rainy_Night_Elliott_male_farmer"
+      ],
+      "Sente-se e relaxe! Você deve estar cansada depois de andar na lama o dia todo.": [
+            "Rainy_Night_Elliott_female_farmer"
+      ],
+      "Vincent ligou. Ele disse que sente minha falta e também mandou um \"oi\" para você.": [
+            "Rainy_Night_Sam"
+      ],
+      "Eu estava falando no telefone com a Jas e a Marnie. Elas parecem estar se divertindo muito sem mim.": [
+            "Rainy_Night_Shane"
+      ],
+      "Certos espíritos só aparecem na chuva. Você nunca ouviu seus chamados?": [
+            "Rainy_Night_Emily"
+      ],
+      "Bom dia.~<": [
+            "Indoor_Day_0"
+      ],
+      "Pronto para um dia longo de trabalho? Eu estou.": [
+            "Indoor_Day_0_sv1"
+      ],
+      "Oi, amor! Que cheiro bom, não é mesmo? Fiz café para você!": [
+            "Indoor_Day_1"
+      ],
+      "Saco vazio não para em pé.": [
+            "Indoor_Day_1_sv1"
+      ],
+      "Você dormiu bem?": [
+            "Indoor_Day_2"
+      ],
+      "Tenho algumas coisas pra fazer aqui.": [
+            "Indoor_Day_2_sv1"
+      ],
+      "Você teve algum sonho estranho noite passada?": [
+            "Indoor_Day_3"
+      ],
+      "Eu tive, mas tudo de que me lembro é que tinha algo a ver com %adj%noun. Estranho.": [
+            "Indoor_Day_3_sv1"
+      ],
+      "He, he. Sonhos não querem dizer nada... ou querem, amor?": [
+            "Indoor_Day_3_sv2"
+      ],
+      "Bem, não podemos passar o dia todo conversando. Você não tem nada para fazer?": [
+            "Indoor_Day_3_sv3"
+      ],
+      "Bom dia, amor. Outro dia de trabalho na fazenda, né?": [
+            "Indoor_Day_4"
+      ],
+      "Vou torcer por você. <": [
+            "Indoor_Day_4_sv1"
+      ],
+      "Caso queira falar sobre como maximizar a produção nas lavouras ou algo assim... Sou toda ouvidos!": [
+            "Indoor_Day_Maru"
+      ],
+      "Tem sempre algo novo acontecendo na nossa fazenda... Adoro isso.": [
+            "Indoor_Day_Abigail"
+      ],
+      "Este lugar é tão grande se comparado ao trailer, que me deixa confusa... No bom sentido!": [
+            "Indoor_Day_Penny"
+      ],
+      "Você se importa se eu elaborar um projeto arquitetônico aqui? Meu cinzel está coçando!": [
+            "Indoor_Day_Leah"
+      ],
+      "Sempre me sinto feliz em um dia ensolarado.": [
+            "Indoor_Day_Haley"
+      ],
+      "O céu está tão bonito hoje... tão claro!": [
+            "Indoor_Day_Harvey"
+      ],
+      "De agora em diante, só vou para a clínica quando tiver algo marcado. Caso contrário, posso trabalhar de casa!": [
+            "Indoor_Day_Harvey_sv1"
+      ],
+      "Bem, este lugar é bem melhor que o meu antigo quarto no porão, não é?": [
+            "Indoor_Day_Sebastian"
+      ],
+      "O sol está brilhando e estou cheio de energia! É melhor você tomar cuidado! He, he...": [
+            "Indoor_Day_Alex"
+      ],
+      "Passei a manter um diário quando começamos a morar juntos. Agora que eu levo uma vida de verdade, tenho muito a escrever.": [
+            "Indoor_Day_Elliott"
+      ],
+      "Quero ter certeza de que me lembrarei dos meus anos com você.": [
+            "Indoor_Day_Elliott_sv1"
+      ],
+      "Quero fazer tantas coisas hoje... Acho que vou assistir TV mesmo.": [
+            "Indoor_Day_Sam"
+      ],
+      "Quando distribuímos comida fresca e saudável para a comunidade, fazemos algo maravilhoso!": [
+            "Indoor_Day_Emily"
+      ],
+      "Tem algo especial no ar... *cheira*... o que é isso? Ah...": [
+            "Indoor_Day_Shane"
+      ],
+      "É só um salgadinho de milho que coloquei no meu bolso há algumas semanas *come*.": [
+            "Indoor_Day_Shane_sv1"
+      ],
+      "Você conseguiu fazer tudo hoje, @?": [
+            "Indoor_Night_0"
+      ],
+      "Fiz algumas tarefas de casa... mas estou tão cansada.": [
+            "Indoor_Night_0_sv1_male_farmer"
+      ],
+      "Fiz algumas tarefas de casa... mas estou tão cansado.": [
+            "Indoor_Night_0_sv1_female_farmer"
+      ],
+      "Vou me deitar junto com você.": [
+            "Indoor_Night_0_sv2"
+      ],
+      "Nossa, parece que você trabalhou muito hoje.": [
+            "Indoor_Night_1"
+      ],
+      "Agora relaxe.": [
+            "Indoor_Night_1_sv1"
+      ],
+      "Estou feliz que você esteja em casa.": [
+            "Indoor_Night_2"
+      ],
+      "Fico com medo quando estou só em casa.": [
+            "Indoor_Night_2_sv1_male_farmer"
+      ],
+      "Me sinto tão só a noite...": [
+            "Indoor_Night_2_sv1_female_farmer"
+      ],
+      "...": [
+            "Indoor_Night_2_sv2",
+            "Indoor_Night_4_sv2"
+      ],
+      "Você já acabou o trabalho por hoje? Vamos nos divertir?": [
+            "Indoor_Night_3"
+      ],
+      "Mas se você estiver cansado, eu entendo.": [
+            "Indoor_Night_3_sv1_male_farmer"
+      ],
+      "Mas se você estiver cansada, eu entendo.": [
+            "Indoor_Night_3_sv1_female_farmer"
+      ],
+      "Ufa... Acabei meus afazeres. Agora podemos conversar um pouco.": [
+            "Indoor_Night_4"
+      ],
+      "Então, conte-me sobre o seu dia.": [
+            "Indoor_Night_4_sv1"
+      ],
+      "Parece que você está com sono, @. Devo ninar você com os detalhes técnicos do meu último projeto?": [
+            "Indoor_Night_Maru"
+      ],
+      "*Uuuah*... Para falar a verdade, também estou com sono.": [
+            "Indoor_Night_Maru_sv1"
+      ],
+      "Vamos para a cama? Liguei o cobertor elétrico para nós...": [
+            "Indoor_Night_Abigail"
+      ],
+      "Olá, amor. Pronto para passar uma noite tranquila em casa?": [
+            "Indoor_Night_Penny_male_farmer"
+      ],
+      "Olá, amor. Pronta para passar uma noite tranquila em casa?": [
+            "Indoor_Night_Penny_female_farmer"
+      ],
+      "A noite aqui é tão silenciosa. Nada para nos distrair do que é viver.": [
+            "Indoor_Night_Leah"
+      ],
+      "Parece que você trabalhou bastante, amor. Deixe-me ajudar você a relaxar...": [
+            "Indoor_Night_Haley"
+      ],
+      "Parece que você precisa de uma boa massagem hoje.": [
+            "Indoor_Night_Harvey"
+      ],
+      "Ordens médicas... É bom para a circulação!": [
+            "Indoor_Night_Harvey_sv1"
+      ],
+      "Posso ser um cara recluso, mas sempre me alegro quando você está por perto.": [
+            "Indoor_Night_Sebastian_chance_1"
+      ],
+      "Oi, @. Que bom ver você. É muito confortante quando você está por perto.": [
+            "Indoor_Night_Sebastian_chance_2"
+      ],
+      "Meus braços estão um pouco tensos... Que tal uma ótima massagem relaxante?": [
+            "Indoor_Night_Alex_male_farmer"
+      ],
+      "Estou exausto... Isso é um bom sinal! Significa que trabalhei duro hoje.": [
+            "Indoor_Night_Alex_female_farmer"
+      ],
+      "Você fica com um cheiro tão bom depois de trabalhar! É o seu cheiro natural!": [
+            "Indoor_Night_Elliott_chance_1_male_farmer"
+      ],
+      "Um cheiro doce, amor. Como um favo de mel em uma piscina de chá.": [
+            "Indoor_Night_Elliott_chance_1_female_farmer"
+      ],
+      "Venha cá, deixe-me massagear suas costas. Você parece tenso.": [
+            "Indoor_Night_Elliott_chance_2_male_farmer"
+      ],
+      "Que cheiro doce. Como uma folha de canela flutuando na brisa de verão.": [
+            "Indoor_Night_Elliott_chance_2_female_farmer"
+      ],
+      "Será que a lua está visível hoje?": [
+            "Indoor_Night_Sam_chance_1"
+      ],
+      "Então... conseguiu fazer tudo na fazenda hoje? Se não conseguiu, não vou ficar bravo!": [
+            "Indoor_Night_Sam_chance_2"
+      ],
+      "Que casa confortável... gosto dela.": [
+            "Indoor_Night_Emily"
+      ],
+      "Como foi seu dia? O meu foi muito bom.": [
+            "Indoor_Night_Shane"
+      ],
+      "Está um lindo dia hoje, não?": [
+            "Outdoor_0"
+      ],
+      "Dias assim tornam o meu trabalho mais agradável.": [
+            "Outdoor_0_sv1"
+      ],
+      "Vou relaxar um pouco e dar uma olhada na fazenda, certo?": [
+            "Outdoor_1"
+      ],
+      "É uma área tão bonita!": [
+            "Outdoor_1_sv1"
+      ],
+      "Oi, amor! Se eu soubesse como trabalhar na fazenda, eu ajudaria mais. Desculpe!": [
+            "Outdoor_2"
+      ],
+      "Estarei pensando em você.": [
+            "Outdoor_2_sv1"
+      ],
+      "Só vou tirar um pouco da poeira aqui. Isso deve ajudar você, certo?": [
+            "Outdoor_3"
+      ],
+      "Ufa! Como está quente aqui.": [
+            "Outdoor_3_sv1"
+      ],
+      "Não se esforce demais, amor.": [
+            "Outdoor_4"
+      ],
+      "Faça uma pausa de vez em quando ou coma alguma coisa.": [
+            "Outdoor_4_sv1"
+      ],
+      "Eu gosto de ficar aqui. É um bom lugar para pensar sobre minhas invenções.": [
+            "Outdoor_Maru"
+      ],
+      "Ainda espero pensar em algo para ajudar você no trabalho.": [
+            "Outdoor_Maru_sv1"
+      ],
+      "Vou ficar aqui, certo?": [
+            "Outdoor_Abigail"
+      ],
+      "Tem alguns insetos e coisas interessantes aqui. He, he...": [
+            "Outdoor_Abigail_sv1"
+      ],
+      "Parece um bom dia para pegar um bronze. Não acha, amor?": [
+            "Outdoor_Haley"
+      ],
+      "Uau, isso é ótimo! Estou começando a gostar da vida na fazenda, @.": [
+            "Outdoor_Leah"
+      ],
+      "Esta é a vida com que sempre sonhei.": [
+            "Outdoor_Leah_sv1"
+      ],
+      "Estou muito feliz na nossa pequena fazenda, @.": [
+            "Outdoor_Penny"
+      ],
+      "É tão diferente da minha vida antiga... mas estou começando a gostar daqui.": [
+            "Outdoor_Sebastian"
+      ],
+      "Sinto que esse é o meu lugar.": [
+            "Outdoor_Sebastian_sv1"
+      ],
+      "Isto é muito melhor que ficar enfurnada na clínica o dia todo.": [
+            "Outdoor_Harvey"
+      ],
+      "Gosto de observar você na fazenda... he, he.": [
+            "Outdoor_Harvey_sv1"
+      ],
+      "Hoje, vou continuar a escrever o meu romance. Que lugar melhor que nossa incrível fazenda?": [
+            "Outdoor_Elliott"
+      ],
+      "Ela é perfeita.": [
+            "Outdoor_Elliott_sv1"
+      ],
+      "Vou fazer muito exercício hoje! Ha, ha! Eu amo viver na fazenda.": [
+            "Outdoor_Alex"
+      ],
+      "Ei, olhe para todas aquelas nuvens fofinhas no céu, amor!": [
+            "Outdoor_Sam"
+      ],
+      "Vou observá-las por um tempo, se não se importa.": [
+            "Outdoor_Sam_sv1"
+      ],
+      "Não sei se os meus pulmões conseguem lidar com este frescor. Eu viciei no Ar Joja.": [
+            "Outdoor_Shane"
+      ],
+      "Você está fazendo um ótimo trabalho, @. Continue assim.": [
+            "Outdoor_Emily"
+      ],
+      "Tenho que ir para a clínica hoje. Bom trabalho, tá?": [
+            "jobLeave_Harvey"
+      ],
+      "Tenho que ir para a cidade hoje. Não se esforce demais, e coma algo no almoço!": [
+            "jobLeave_Penny"
+      ],
+      "Vou ter que sair para o trabalho em breve. Vejo você à noite. Vou pensar em você!": [
+            "jobLeave_Maru"
+      ],
+      "Oi, amor. Como foi seu dia?": [
+            "jobReturn_Harvey_chance_1"
+      ],
+      "*Ufa*... Estou exausto...": [
+            "jobReturn_Harvey_chance_2"
+      ],
+      "Meus pais ainda estão saudáveis, então foi um bom dia.": [
+            "jobReturn_Harvey_sv1"
+      ],
+      "Boa noite. Meu dia foi ótimo, obrigado! E como foi o seu?": [
+            "jobReturn_Penny_chance_1"
+      ],
+      "Jasmim e Vincent não se comportaram muito bem hoje. Ainda estou muito tensa...": [
+            "jobReturn_Penny_chance_2"
+      ],
+      "Bem, foi mais um dia chato na clínica.": [
+            "jobReturn_Maru_chance_1"
+      ],
+      "Ei! Você teve um dia mais divertido que o meu? Espero que sim.": [
+            "jobReturn_Maru_chance_2"
+      ],
+      "Bem, é hora de relaxar. Você deixou janta para mim?": [
+            "jobReturn_Maru_chance_1"
+      ],
+      "Mal posso esperar para deitar.": [
+            "jobReturn_Maru_chance_2"
+      ],
+      "Você viu %kid1 hoje?": [
+            "OneKid_0"
+      ],
+      "Será que %kid1 vai ser fazendeiro como você?": [
+            "OneKid_1"
+      ],
+      "Não se preocupe. Eu alimento %kid1 hoje. Você pode se concentrar em tocar a fazenda.": [
+            "OneKid_2"
+      ],
+      "A vida é muito diferente agora que temos um bebê.": [
+            "OneKid_3"
+      ],
+      "Já dei café da manhã para %kid1 e %kid2. Eles estavam com muita fome!": [
+            "TwoKids_0"
+      ],
+      "Temos que dar muita atenção para %kid1 agora que temos %kid2. Não queremos deixar nenhum deles com ciúmes.": [
+            "TwoKids_1"
+      ],
+      "Sabe, acho que %kid2 tem o seu nariz.": [
+            "TwoKids_2"
+      ],
+      "Uma linda casa, dois filhos e um lindo pedaço de terra. O que mais falta?": [
+            "TwoKids_3"
+      ],
+      "É difícil acreditar que finalmente nos casamos.": [
+            "Good_0"
+      ],
+      "Sabe, sempre tive a impressão que ficaríamos juntos um dia.": [
+            "Good_1"
+      ],
+      "Está curtindo o casamento, @?": [
+            "Good_2"
+      ],
+      "Eu estou.": [
+            "Good_2_sv1"
+      ],
+      "Sabe, você está bonito hoje!": [
+            "Good_3_male_farmer"
+      ],
+      "Nossa, você está linda hoje.": [
+            "Good_3_female_farmer"
+      ],
+      "Este lugar é meu lar agora... Estou feliz aqui.": [
+            "Good_4"
+      ],
+      "Estava só admirando meu amuleto de casamento... A concha é impecável. Deve ter custado uma fortuna!": [
+            "Good_5"
+      ],
+      "Cuidado lá fora!Às vezes tenho medo que você caia no poço da mina.": [
+            "Good_6"
+      ],
+      "@? Só quero dizer que aprecio tudo o que fez por nossa casa.": [
+            "Good_7"
+      ],
+      "Não se preocupe comigo... Sei que você tem muitas responsabilidades fora de casa. Fico de boa aqui na minha.": [
+            "Good_8"
+      ],
+      "Ah, não estou com tédio... Só estou apreciando o que temos.": [
+            "Good_9"
+      ],
+      "É uma vida simples, mas gosto dela.": [
+            "Good_9_sv1"
+      ],
+      "Espero que você ainda goste de mim quando eu estiver velho(a) e com cabelo branco.": [
+            "Neutral_0"
+      ],
+      "Você acha que seu avô teria orgulho do que fizemos?": [
+            "Neutral_1"
+      ],
+      "Descansando um pouco? Acho que ser fazendeiro é mais fácil que pensei...": [
+            "Neutral_2"
+      ],
+      "Se você for à cidade, dê oi a todos por mim.": [
+            "Neutral_3"
+      ],
+      "Vou lavar a roupa amanhã de manhã antes de você levantar... para que nada tire a atenção do seu trabalho.": [
+            "Neutral_4"
+      ],
+      "Como estamos de dinheiro, @?": [
+            "Neutral_5"
+      ],
+      "Será que todo mundo na cidade está bem hoje?": [
+            "Neutral_6"
+      ],
+      "Não sinto vontade de fazer nada hoje.": [
+            "Neutral_7"
+      ],
+      "Não importa o quanto eu limpe, a casa continua suja.": [
+            "Neutral_8"
+      ],
+      "Acho que fazendas nunca ficam totalmente limpas.": [
+            "Neutral_8_sv1"
+      ],
+      "Será que vamos viver aqui nossa vida toda?": [
+            "Neutral_9"
+      ],
+      "... Você ainda me ama?": [
+            "Bad_0"
+      ],
+      "*Aaah*... Acho que nós casamos jovens demais.": [
+            "Bad_1"
+      ],
+      "Você ainda está feliz comigo?": [
+            "Bad_2"
+      ],
+      "Fiz algo de errado? Você está um pouco diferente hoje.": [
+            "Bad_3"
+      ],
+      "Você nunca se pergunta o que mais há lá fora?": [
+            "Bad_4"
+      ],
+      "Você era romântico": [
+            "Bad_5_male_farmer"
+      ],
+      "romântica}.. o que houve?": [
+            "Bad_5_female_farmer"
+      ],
+      "Sei que não sou mais tão jovem... foi por isso que você casou comigo?": [
+            "Bad_5_sv1"
+      ],
+      "Nós só temos uma vida curta a viver... será que esta é a melhor forma de vivê-la?": [
+            "Bad_6"
+      ],
+      "Eu costumava ser seu amorzinho... agora você só parece me suportar quando eu faço jantar.": [
+            "Bad_7"
+      ],
+      "Você está sendo tão frio": [
+            "Bad_8_male_farmer"
+      ],
+      "fria}comigo ultimamente...": [
+            "Bad_8_female_farmer"
+      ],
+      "Eu me pergunto se poderíamos ter feito melhor.": [
+            "Bad_9"
+      ],
+      "Bem, um novo ano chegou. Você tem planos para o que deseja alcançar este ano?": [
+            "spring_1"
+      ],
+      "Estou cheio de esperanças.": [
+            "spring_1_sv1"
+      ],
+      "Agora que o inverno acabou, temos uma estação muito produtiva pela frente.": [
+            "spring_8"
+      ],
+      "Espero que você tenha praticado sua coreografia... amanhã é a dança das flores!": [
+            "spring_23"
+      ],
+      "Cuidado para não sofrer de insolação, amor.": [
+            "summer_1"
+      ],
+      "Beba muita água e não trabalhe demais.": [
+            "summer_1_sv1"
+      ],
+      "Desculpe se estou fedendo... Suei a noite toda por causa do calor.": [
+            "summer_8"
+      ],
+      "É verão... e isso significa que a casa está cheia de moscas.": [
+            "summer_15"
+      ],
+      "Não se preocupe, eu cuido delas.": [
+            "summer_15_sv1"
+      ],
+      "O clima está muito ótimo agora que passou o calor do verão.": [
+            "fall_1"
+      ],
+      "O inverno está chegando. Temos que dar uma olhada de novo no sistema de aquecimento, desligar as válvulas e conferir o isolamento da casa.": [
+            "fall_8"
+      ],
+      "Não se preocupe. Eu cuido de tudo.": [
+            "fall_8_sv1"
+      ],
+      "Você já pensou no que vai usar em nossa amostra de sítios amanhã?": [
+            "fall_15"
+      ],
+      "Devemos ir ao festival da Noite dos Espíritos amanhã à noite?": [
+            "fall_26"
+      ],
+      "Brrr.... Está frio. Acho que o inverno chegou.": [
+            "winter_1"
+      ],
+      "Você vai entrar na competição de pesca amanhã?": [
+            "winter_7"
+      ],
+      "Obrigado pelo ótimo ano, @. Mal posso esperar pelo nosso próximo ano.": [
+            "winter_28"
+      ],
+      "Estou me sentindo muito feliz por mais um ano na fazenda, @!": [
+            "spring_Maru"
+      ],
+      "Posso gostar das estações mais frias, mas no fim das contas, sempre fico feliz quando a primavera chega.": [
+            "spring_Abigail"
+      ],
+      "Está feliz com o fim do inverno, amor? As coisas parecem mais esperançosas agora.": [
+            "spring_Haley"
+      ],
+      "Não se esqueça de procurar por raiz-forte, alho poró e dente-de-leão selvagens quando estiver fora!": [
+            "spring_Leah"
+      ],
+      "Estou tão feliz de ver algo verde depois de um inverno tão longo.": [
+            "spring_Penny"
+      ],
+      "Nossa, como a minha pele está pálida... Acho que é melhor ajudar você com a fazenda nesta estação.": [
+            "spring_Sebastian"
+      ],
+      "Vamos plantar alguns vegetais saudáveis nesta primavera.": [
+            "spring_Harvey"
+      ],
+      "Mal posso esperar por um lindo ano na fazenda %farm.": [
+            "spring_Elliott"
+      ],
+      "Ei, @. Vamos trabalhar duro hoje!": [
+            "spring_Alex"
+      ],
+      "*Sniff...*Meu dariz está endupido... alergia.": [
+            "spring_Sam"
+      ],
+      "Acho que vou aprender uma nova habilidade este ano...": [
+            "spring_Shane"
+      ],
+      "É uma boa época do ano para observar as estrelas.": [
+            "summer_Maru"
+      ],
+      "Ah, cara... Que vontade de comer bolo de chocolate.": [
+            "summer_Abigail"
+      ],
+      "Você já deve saber que o verão é minha estação favorita.": [
+            "summer_Haley"
+      ],
+      "Nada combina tão bem com o verão do que um bom vinho doce. Não acha, amor?": [
+            "summer_Leah"
+      ],
+      "Está plantando melões neste verão?": [
+            "summer_Penny"
+      ],
+      "Vou ficar dentro de casa o máximo possível neste verão.": [
+            "summer_Sebastian"
+      ],
+      "Cuidado para não se queimar no sol, amor... Você pode prejudicar sua pele.": [
+            "summer_Harvey"
+      ],
+      "Uma das coisas que mais sinto falta no oceano é de peixe fresco.": [
+            "summer_Elliott"
+      ],
+      "Sempre tenho mais energia no verão.": [
+            "summer_Alex"
+      ],
+      "O verão sempre me dá mais vontade de comer churrasco.": [
+            "summer_Sam"
+      ],
+      "Ufa! Está quente, mas aqui está ótimo, né?": [
+            "summer_Emily"
+      ],
+      "Acho que vou encontrar alguns papagaios selvagens hoje.": [
+            "summer_Emily_sv1"
+      ],
+      "O que está na minha agenda hoje? Huum...": [
+            "summer_Shane"
+      ],
+      "Acho que vejo alguns pretzels picantes com algumas bebidas geladas no oceano.": [
+            "summer_Shane_sv1"
+      ],
+      "Estou feliz de continuar a trabalhar na clínica... É um serviço importante para a comunidade.": [
+            "fall_Maru"
+      ],
+      "Espero que possamos cultivar abóboras este ano!": [
+            "fall_Abigail"
+      ],
+      "Que vontade de comer bolo.": [
+            "fall_Haley"
+      ],
+      "Mas não qualquer bolo. Tem que ser rosa.": [
+            "fall_Haley_sv1"
+      ],
+      "Respire fundo... está sentindo? Isso me diz que é temporada de cogumelos.": [
+            "fall_Leah"
+      ],
+      "É tão tranquilo aqui na fazenda... Nunca apreciei tanto a natureza quando morava na cidade.": [
+            "fall_Penny"
+      ],
+      "Minha mãe fazia uma sopa de abóboras deliciosa no outono.": [
+            "fall_Sebastian"
+      ],
+      "Bem que eu poderia tomar um pouco de vinho.": [
+            "fall_Harvey"
+      ],
+      "Ah... Outono. O sol quente paira baixo no céu, lançando longas sobras sobre os campos dourados.": [
+            "fall_Elliott"
+      ],
+      "É uma bela época do ano, não acha?": [
+            "fall_Elliott_sv1"
+      ],
+      "Que fraqueza... Preciso de um pouco de proteína.": [
+            "fall_Alex"
+      ],
+      "Eu me pergunto o que está acontecendo no resto do mundo? Estamos muito isolados aqui.": [
+            "fall_Sam"
+      ],
+      "Bebi uma supervitamina esta manhã e me sinto iiiiincrível!": [
+            "fall_Emily"
+      ],
+      "Acho que tem uma nova espécie de fungo crescendo atrás do meu frigobar.": [
+            "fall_Shane"
+      ],
+      "Ah, mas está na época, né?": [
+            "fall_Shane_sv1"
+      ],
+      "A primavera chegará em breve. Que vontade de comer torta de ruibarbo.": [
+            "winter_Maru"
+      ],
+      "Lembra de quando jogávamos o \"Rei da Pradaria\" juntos, no meu quarto? Bons tempos...": [
+            "winter_Abigail"
+      ],
+      "Eu estava pensando na vez em que você me ajudou a abrir um jarro de picles.": [
+            "winter_Haley"
+      ],
+      "Acho que as coisas melhoraram bastante desde então.": [
+            "winter_Haley_sv1"
+      ],
+      "Sempre tenho vontade de comer salada no inverno... Inconveniente, né? Eu sei.": [
+            "winter_Leah"
+      ],
+      "Vou ler muita coisa neste inverno.": [
+            "winter_Penny"
+      ],
+      "O que será que o Sam está fazendo? Éramos bons amigos.": [
+            "winter_Sebastian"
+      ],
+      "O inverno é temporada de gripe, então, provavelmente, o trabalho será bem mais estressante. Peço desculpas se estou resmungando demais.": [
+            "winter_Harvey"
+      ],
+      "Acho que vou escrever um pouco neste inverno. Não tem outra coisa para fazer mesmo.": [
+            "winter_Elliott"
+      ],
+      "Espero que meus avós estejam bem. Eles costumavam precisar muito da minha ajuda. Sabe, para levantar objetos pesados e tal.": [
+            "winter_Alex"
+      ],
+      "Desisti de ser músico. Sou um homem de família agora!": [
+            "winter_Sam"
+      ],
+      "Ops! Meu cabelo congelou de novo!": [
+            "winter_Emily"
+      ],
+      "Tem um mundo muito, muito vasto lá fora... mas prefiro ficar em minha casa.": [
+            "winter_Shane"
+      ],
+      "Preciso acordar cedo para ver as estrelas.": [
+            "spouseRoom_Maru_chance_1"
+      ],
+      "Espero que você não se importe se eu passar um tempo em meus projetos hoje, amor.": [
+            "spouseRoom_Maru_chance_2"
+      ],
+      "Levantei um pouco antes de você e alimentei o David Jr. Ele está muito agitado hoje de manhã.": [
+            "spouseRoom_Abigail_chance_1"
+      ],
+      "Espero que você não se importe com o cheiro de hamster.": [
+            "spouseRoom_Abigail_chance_2"
+      ],
+      "Vá em frente e comece o seu dia, amor. Só estou passando maquiagem.": [
+            "spouseRoom_Haley_chance_1"
+      ],
+      "Algum plano para hoje?": [
+            "spouseRoom_Haley_chance_2"
+      ],
+      "Um dia desses, vou ter que pintar você.": [
+            "spouseRoom_Leah_chance_1"
+      ],
+      "A vista desta janela é inspiradora, não acha?": [
+            "spouseRoom_Leah_chance_2"
+      ],
+      "Sempre quis a minha própria biblioteca. Isto é tão encantador.": [
+            "spouseRoom_Penny_chance_1"
+      ],
+      "Gosto de ler um pouco logo ao acordar. Ajuda a ativar meu cérebro.": [
+            "spouseRoom_Penny_chance_2"
+      ],
+      "Estou perguntando se deveria trabalhar ou ler quadrinhos o dia todo.": [
+            "spouseRoom_Sebastian_chance_1"
+      ],
+      "Ei! Tem pizza no congelador? Estou com fome.": [
+            "spouseRoom_Sebastian_chance_2"
+      ],
+      "Nada de avião esta manhã, amor. Mas ainda é divertido brincar com minhas miniaturas de vez em quando.": [
+            "spouseRoom_Harvey_chance_1"
+      ],
+      "Estou trabalhando em um novo aeromodelo. Aqui é tão mais relaxante que no meu apartamento antigo.": [
+            "spouseRoom_Harvey_chance_2"
+      ],
+      "Acho que vou escrever um pouco hoje.": [
+            "spouseRoom_Elliott_chance_1"
+      ],
+      "Você vai ficar bem sem minha ajuda?": [
+            "spouseRoom_Elliott_chance_2"
+      ],
+      "Não me deixe ficar com preguiça. Quero me manter em forma por você!": [
+            "spouseRoom_Alex_chance_1"
+      ],
+      "Tem muito espaço aqui para me exercitar. Estou progredindo como nunca!": [
+            "spouseRoom_Alex_chance_2"
+      ],
+      "A guitarra antiga... Não tenho mais vontade de tocá-la. Mas está tudo bem.": [
+            "spouseRoom_Sam_chance_1"
+      ],
+      "Quais são seus planos hoje?": [
+            "spouseRoom_Sam_chance_2"
+      ],
+      "Vou passar um tempo com o papagaio hoje. Parte o meu coração saber que ele não vai voar de novo.": [
+            "spouseRoom_Emily"
+      ],
+      "Cerveja ou sidra? Às vezes, a vida nos traz desafios muito difíceis.": [
+            "spouseRoom_Shane_chance_1"
+      ],
+      "Oi, @. Vou ficar um tempo aqui hoje, e... talvez varrer um pouco o chão ou algo assim.": [
+            "spouseRoom_Shane_chance_2"
+      ],
+      "Ah, está mais úmido hoje com a chuva... Me sinto muito mais confortável.": [
+            "Rainy_Day_Krobus"
+      ],
+      "O barulho da chuva me lembra os esgotos... é confortante.": [
+            "Rainy_Night_Krobus"
+      ],
+      "Os esgotos eram o meu refúgio... eu me sentia seguro lá. Mas não se preocupe... Me sinto da mesma forma aqui, também.": [
+            "Rainy_Night_Krobus_sv1"
+      ],
+      "Queria poder te ajudar na fazenda, mas não posso me expor ao sol...": [
+            "Indoor_Day_Krobus"
+      ],
+      "Oi, @. Que bom que está de volta. Parece que tem trabalhado duro lá fora!": [
+            "Indoor_Night_Krobus"
+      ],
+      "Em um dia como esse, eu posso desfrutar do ar livre com você. Isso é muito bom!": [
+            "Outdoor_Krobus"
+      ],
+      "Só me avise se alguém estiver vindo, para eu me esconder.": [
+            "Outdoor_Krobus_sv1"
+      ],
+      "Onde que eu vou dormir...?": [
+            "NoBed_0"
+      ],
+      "Não consegui dormir bem na noite passada...": [
+            "NoBed_1"
+      ],
+      "Tive que dormir no chão na noite passada...": [
+            "NoBed_2"
+      ],
+      "Alguma coisa aconteceu com a nossa cama...?": [
+            "NoBed_3"
+      ]
+}

@@ -1,0 +1,23 @@
+{
+    "Tu dois te demander pourquoi je suis au cimetière à cette heure-ci...": "Town_4_sunny_Abigail_event1",
+    "Eh bien, je suis ici parce que c’est le meilleur endroit en ville pour avoir un peu d’intimité.": "Town_4_sunny_Abigail_event2",
+    "Je transpire autant parce que je m’entraine au maniement d’épée.": "Town_4_sunny_Abigail_event3",
+    "Hé ! Quoi... tu crois que je suis trop faible pour manier une épée ?": "Town_4_sunny_Abigail_event4",
+    "Désolée, je suis un peu sur la défensive en ce moment.": "Town_4_sunny_Abigail_event5",
+    "Je veux explorer les grottes dans les montagnes... Mais je sais que c’est trop dangereux d’y aller sans armes.": "Town_4_sunny_Abigail_event5_sv1",
+    "As-tu déjà utilisé une épée ?": "Town_4_sunny_Abigail_event6",
+    "Abigail ?!": "Town_4_sunny_Pierre_event1",
+    "Papa ?": "Town_4_sunny_Abigail_event7",
+    "Je t’ai cherché partout ! Ta mère veut que tu rentres à la maison pour l'aider à préparer le dîner !": "Town_4_sunny_Pierre_event2",
+    "Que fais-tu au cimetière ? Ce n’est pas un endroit digne d’une jeune femme comme toi !": "Town_4_sunny_Pierre_event3",
+    "Occupe-toi de tes oignons ! Tu veux que je reste à la maison pour préparer le dîner parce que je suis une fille, n’est-ce pas ?!": "Town_4_sunny_Abigail_event8",
+    "Tu es vraiment trop vieux jeu, papa...": "Town_4_sunny_Abigail_event9",
+    "...!": "Town_4_sunny_Pierre_textAboveHeadEvent4",
+    "Allons-nous-en, @.": "Town_4_sunny_Abigail_event10",
+    "Eh bien, tu viens ou pas ?": "Town_4_sunny_Abigail_event11",
+    "Reviens !": "Town_4_sunny_Pierre_textAboveHeadEvent5",
+    "*Soupir*... Je n’arrive pas à imaginer que mes parents étaient jeunes avant ! Ils ne comprennent pas du tout ma façon de voir les choses.": "Town_4_sunny_Abigail_event12",
+    "Je sais, je sais... ils ont grandi à une époque différente de la mienne et avec d’autres valeurs. Ça m’énerve parfois, c’est tout!": "Town_4_sunny_Abigail_event12_sv1",
+    "Eh bien, merci de m’avoir écoutée, @.": "Town_4_sunny_Abigail_event13",
+    "Mmmm, pourrais-tu m’aider à démêler mes cheveux de ce buisson ?": "Town_4_sunny_Abigail_event13_sv1"
+}

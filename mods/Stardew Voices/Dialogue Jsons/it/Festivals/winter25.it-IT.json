@@ -1,0 +1,368 @@
+{
+      "Banchetto della Stella d'inverno": [
+            "winter25_name"
+      ],
+      "Chissà se posso leccare uno di quei bastoncini...": [
+            "winter25_Abigail_spouse"
+      ],
+      "Sono grata per la nostra vita tranquilla alla fattoria.": [
+            "winter25_Leah_spouse"
+      ],
+      "Ehi, @. Sono pronta a tornare a casa quando vuoi.": [
+            "winter25_Maru_spouse"
+      ],
+      "Sono grata di aver incontrato te...": [
+            "winter25_Penny_spouse"
+      ],
+      "Io?... Oh, io sono grata per... Che ne dici se te lo mostro e basta quando torniamo a casa, stanotte?": [
+            "winter25_Haley_spouse"
+      ],
+      "Ehi, @. Come puoi vedere, sto adempiendo ai miei obblighi familiari...": [
+            "winter25_Sebastian_spouse"
+      ],
+      "*sbadiglia*... Io sono qui per i biscotti e i regali.": [
+            "winter25_Sam_spouse"
+      ],
+      "Per cosa sono grato io? Ti faccio vedere quando torniamo a casa...": [
+            "winter25_Alex_spouse"
+      ],
+      "Mi sento un po' soverchiato... Grazie al cielo c'è quest'aria frizzante...": [
+            "winter25_Harvey_spouse"
+      ],
+      "Non serve che tu mi faccia un presente, mi hai già donato il regalo più bello di tutti...": [
+            "winter25_Elliott_spouse"
+      ],
+      "Niente di meglio di un bel banchetto bollente in un gelido giorno invernale, eh?": [
+            "winter25_Abigail"
+      ],
+      "Ehilà, @. Puoi benissimo unirti al tavolo della nostra famiglia, se ti serve compagnia.": [
+            "winter25_Robin"
+      ],
+      "Probabilmente quest'anno mi regaleranno l'ennesimo set di strumenti... *sospira*": [
+            "winter25_Demetrius"
+      ],
+      "Ciao, @.": [
+            "winter25_Maru"
+      ],
+      "Ho conosciuto gente che crede agli spiriti, alla magia... ma io? Io non ho mai visto niente che la scienza non può spiegare.": [
+            "winter25_Shane"
+      ],
+      "Passare il tempo in famiglia è stancante, a volte.": [
+            "winter25_Sebastian"
+      ],
+      "Ultimamente le vendite mi vanno a gonfie vele... grazie al Banchetto della Stella d'inverno!": [
+            "winter25_Pierre"
+      ],
+      "Accidenti, le vacanze fanno bene agli affari. Magari potrei inventarne di nuove...": [
+            "winter25_Pierre_sv1"
+      ],
+      "Ooohh... ho bevuto troppo liquore d'uovo.": [
+            "winter25_Caroline"
+      ],
+      "Mi unirei a voi... ma non credo di essere il benvenuto.": [
+            "winter25_Linus"
+      ],
+      "Oh, salve.": [
+            "winter25_Alex"
+      ],
+      "Un banchetto per qualche stupida stella? Scempiaggini!": [
+            "winter25_George"
+      ],
+      "Oh, cielo! Ma non hai freddo, tesoro? Si gela!": [
+            "winter25_Evelyn"
+      ],
+      "Oggi è un giorno in cui essere grati per la nostra fortuna di quest'anno. Dimentica le preoccupazioni per un po', e rilassati!": [
+            "winter25_Lewis"
+      ],
+      "*sospira*... Tutte queste famigliole felici. Ma soltanto un altro anno da solo, per me.": [
+            "winter25_Clint"
+      ],
+      "@! Cosa speri di trovare sotto l'albero degli spiriti?": [
+            "winter25_Emily"
+      ],
+      "Lavoro, lavoro, lavoro? Che noia.": [
+            "winter25_Emily__Un_nuovo_annaffiatoio___response"
+      ],
+      "Ooo... sarebbe bello. Fammene assaggiare un po', semmai.": [
+            "winter25_Emily__Un_bricco_d'idromele_speziato___response"
+      ],
+      "Capisco. Sarebbero un bellissimo dono!'": [
+            "winter25_Emily__Un_paio_di_stivali_stilosi___response"
+      ],
+      "Che albero magnifico.": [
+            "winter25_Penny"
+      ],
+      "Hmmph... Non mi va ancora giù di non aver vinto la gara di pesca.": [
+            "winter25_Pam"
+      ],
+      "Spero che per me ci sia una nuova fotocamera sotto l'albero degli spiriti!": [
+            "winter25_Haley"
+      ],
+      "Non è il periodo migliore per fare la dieta...": [
+            "winter25_Jodi"
+      ],
+      "Buon pomeriggio, @. Felice Banchetto.": [
+            "winter25_Kent"
+      ],
+      "Sono grato per la mia chitarra e lo skateboard. Oh, e per la mia famiglia, immagino.": [
+            "winter25_Sam"
+      ],
+      "Gus mi stava giusto dicendo di questi bastoncini canditi artigianali. *sbadiglia*": [
+            "winter25_Leah"
+      ],
+      "Mi sa che s'è bevuto troppo liquore d'uovo alla cannella.": [
+            "winter25_Leah_sv1"
+      ],
+      "Ti do il benvenuto al Banchetto della Stella d'inverno!": [
+            "winter25_Marnie"
+      ],
+      "Ma salve, @. Fa freddino, non trovi?": [
+            "winter25_Elliott"
+      ],
+      "È un'arte raffinata, quella dei bastoncini canditi. Devi davvero cercare gli ingredienti migliori in lungo e in largo. Non è facile trovarli, di questi tempi!": [
+            "winter25_Gus"
+      ],
+      "Di solito uso un Fruttanello delle isole Felce per i bastoncini primari, sai. Quel colore rosso acceso non si batte... Ed è tutto naturale!": [
+            "winter25_Gus_sv1"
+      ],
+      "Oh, vuoi sapere il segreto dei miei doppi-bastoni deluxe? Va bene, ma promettimi assoluta segretezza. *sussurra* È una goccia di vaniglia nel caramello bianco per bilanciare il gusto di ciliegia.": [
+            "winter25_Gus_sv2"
+      ],
+      "Certo, i bastoncini di menta piperita sono un classico, e preparo sempre una bella infornata anche di quelli.": [
+            "winter25_Gus_sv3"
+      ],
+      "Ehi, hai l'aria di stare per addormentarti. Tutto bene?": [
+            "winter25_Gus_sv4"
+      ],
+      "Vuoi sentire la leggenda della Stella d'inverno?": [
+            "winter25_Willy"
+      ],
+      "Nel cielo notturno invernale, c'è una stella splendente visibile solo da questa valle. Nessuno sa perché è così... ma in passato la gente veniva da ogni dove per vederla.*Credevano che, se vedevi la Stella d'inverno, venivi benedetto dalla buona sorte. C'è chi dice addirittura che il frutto misterioso chiamato =Astropomo sia in qualche modo legato alla Stella d'inverno.": [
+            "winter25_Willy__Sì__response"
+      ],
+      "Come ti pare.'": [
+            "winter25_Willy__No_grazie__response"
+      ],
+      "Ah, la misteriosa Stella d'inverno. Una delle ragioni per cui ho scelto questa valle come sito della mia... ricerca.": [
+            "winter25_Wizard"
+      ],
+      "Sono grato che non ci siano state emergenze mediche, quest'anno!": [
+            "winter25_Harvey"
+      ],
+      "Ho sentito che a casa sta piovendo. È per quello che sei qui?": [
+            "winter25_Sandy"
+      ],
+      "Un po' mi manca la pioggia, in realtà...": [
+            "winter25_Sandy_sv1"
+      ],
+      "Ohh! Regali!": [
+            "winter25_Jas"
+      ],
+      "Possiamo aprire i regali adesso?!": [
+            "winter25_Vincent"
+      ],
+      "Ehi, buon pomeriggio.": [
+            "winter25_Marlon"
+      ],
+      "Linus si sente a disagio a partecipare, per cui gli tengo compagnia.": [
+            "winter25_Leo"
+      ],
+      "Ci faremo anche noi un piccolo banchetto... purè di radici invernali e pesce alle bacche speziate!": [
+            "winter25_Leo_sv1"
+      ],
+      "Brr... Che freddo! Voglio tornare sotto le coperte...": [
+            "winter25_Abigail_spouse_y2"
+      ],
+      "Elliott sta bevendo di nuovo troppo sidro...": [
+            "winter25_Leah_spouse_y2"
+      ],
+      "Ci vediamo a tavola appena trovo un'uscita... Muoio di fame!": [
+            "winter25_Leah_spouse_y2_sv1"
+      ],
+      "Sono grata di avere te e una famiglia amorevole nella mia vita...": [
+            "winter25_Maru_spouse_y2"
+      ],
+      "Spero che la mia torta di melone incipriato piaccia a tutti...": [
+            "winter25_Penny_spouse_y2"
+      ],
+      "Quando conto tutte le cose buone nella mia vita, mi pare d'essere stata benedetta dalla Stella d'inverno.": [
+            "winter25_Haley_spouse_y2"
+      ],
+      "Quando io e Haley eravamo piccole, decoravamo sempre i biscotti per questo festival.": [
+            "winter25_Emily_spouse_y2"
+      ],
+      "Dovremmo farlo una volta o l'altra! Le belle tradizioni non vanno fatte morire.": [
+            "winter25_Emily_spouse_y2_sv1"
+      ],
+      "Ehi... non preoccuparti, non mi devi fare un regalo.": [
+            "winter25_Sebastian_spouse_y2"
+      ],
+      "Sono felice di svegliarmi ogni giorno accanto a te... Cosa si può chiedere di più?": [
+            "winter25_Sebastian_spouse_y2_sv1"
+      ],
+      "È divertente guardare la gente scartare i regali... vedere le loro reazioni.": [
+            "winter25_Sam_spouse_y2"
+      ],
+      "A proposito, ti ho preparato una cosa. Te la ehmmm... te la mostro quando torniamo alla fattoria!0": [
+            "winter25_Sam_spouse_y2_sv1"
+      ],
+      "Fammi sapere se ti prende freddo. Ti do la mia giacca.": [
+            "winter25_Alex_spouse_y2"
+      ],
+      "Sono grato per un sacco di cose, come la clinica, la salute dei miei pazienti...": [
+            "winter25_Harvey_spouse_y2"
+      ],
+      "Ma soprattutto, sono grato per la vita che stiamo costruendo insieme...": [
+            "winter25_Harvey_spouse_y2_sv1"
+      ],
+      "Amore mio, non necessito di alcunché in questo giorno... Il dono più bello che un uomo possa desiderare sei tu.": [
+            "winter25_Elliott_spouse_y2"
+      ],
+      "Per cos'è che sono grato?": [
+            "winter25_Shane_spouse_y2"
+      ],
+      "....ehm...": [
+            "winter25_Shane_spouse_y2_sv1"
+      ],
+      "Sono grato... perché mi hai salvato dal baratro. E mi hai mostrato che la vita vale la pena di essere vissuta.": [
+            "winter25_Shane_spouse_y2_sv2"
+      ],
+      "Chissà qual è il mio regalo...": [
+            "winter25_Abigail_y2"
+      ],
+      "Spero che sia quello grande!": [
+            "winter25_Abigail_y2_sv1"
+      ],
+      "Beh... Quest'anno mio marito mi ha regalato una nuova sega elettrica...": [
+            "winter25_Robin_y2"
+      ],
+      "Si sarà scordato che me l'ha già regalata due anni fa!": [
+            "winter25_Robin_y2_sv1"
+      ],
+      "Hmm... questo budino verde sa di menta.": [
+            "winter25_Demetrius_y2"
+      ],
+      "Chissà perché la menta è associata al Banchetto della Stella d'inverno? Cresce d'inverno, la menta?": [
+            "winter25_Demetrius_y2_sv1"
+      ],
+      "Oggi fa davvero freddo. Fortuna che tutti sono ben coperti.": [
+            "winter25_Maru_y2"
+      ],
+      "Un lato positivo del tempo freddo è che posso mettere delle pizze surgelate sotto l'albero.": [
+            "winter25_Shane_y2"
+      ],
+      "Qualcuno avrà una piacevole sorpresa...": [
+            "winter25_Shane_y2_sv1"
+      ],
+      "Immagino sia bello avere la famiglia al completo, una volta tanto.": [
+            "winter25_Sebastian_y2"
+      ],
+      "Ti servono regali dell'ultimo minuto? Ci penso io! Da' un'occhiata ai miei prodotti.": [
+            "winter25_Pierre_y2"
+      ],
+      "L'albero è meraviglioso, vero?": [
+            "winter25_Caroline_y2"
+      ],
+      "Ho passato tutta la mattina ad addobbarlo insieme a Marnie e a Jodi. È una tradizione divertente!": [
+            "winter25_Caroline_y2_sv1"
+      ],
+      "Il sindaco in persona mi ha invitato a questo tavolo. Non potevo rifiutare!": [
+            "winter25_Linus_y2"
+      ],
+      "Sono abbastanza sicuro che sotto l'albero degli spiriti c'è un regalo a forma di pallagriglia con il mio nome sopra.": [
+            "winter25_Alex_y2"
+      ],
+      "Passo già tutto il giorno con la famiglia. A che serve gelarsi all'aperto in mezzo alla confusione?": [
+            "winter25_George_y2"
+      ],
+      "Puoi assolutamente sederti al nostro tavolo, se vuoi, tesoro.": [
+            "winter25_Evelyn_y2"
+      ],
+      "Felice Banchetto della Stella d'inverno, @.": [
+            "winter25_Lewis_y2"
+      ],
+      "Questo è il momento di rilassarsi, godersi la compagnia, ed esprimere gratitudine per tutto ciò che abbiamo.": [
+            "winter25_Lewis_y2_sv1"
+      ],
+      "Dei nuovi attrezzi da fabbro mi farebbero comodo. I miei si sono un po' arrugginiti nel corso degli anni.": [
+            "winter25_Clint_y2"
+      ],
+      "Guarda! È la 'Stella d'inverno'!%noturn": [
+            "winter25_Emily_y2"
+      ],
+      "Oh, mi sono sbagliata. È solo una decorazione!": [
+            "winter25_Emily_y2_sv1"
+      ],
+      "Salve, @. Che tipo di dono speri di ricevere quest'anno?": [
+            "winter25_Penny_y2"
+      ],
+      "Oh? Non ne ho mai sentito parlare. Dev'essere costoso.": [
+            "winter25_Penny_y2__Un_secchio_per_il_latte_di_iridio__response"
+      ],
+      "Sì, un libro è sempre un bel regalo!": [
+            "winter25_Penny_y2__Un_libro_interessante__response"
+      ],
+      "...Non capisco se stai scherzando, ma potrebbe essere un dono utile!'": [
+            "winter25_Penny_y2__Un_pezzo_di_carbone__response"
+      ],
+      "Il vin brulé è l'unica cosa che mi tiene caldo con questo tempo gelido!": [
+            "winter25_Pam_y2"
+      ],
+      "Che bello... Magari il nostro paese fosse sempre così!": [
+            "winter25_Haley_y2"
+      ],
+      "Questa zona è per i regali in eccesso. Quest'anno ce ne sono troppi per contarli tutti!": [
+            "winter25_Jodi_y2"
+      ],
+      "Vedere mio figlio sano e felice è la cosa per cui sono grato.": [
+            "winter25_Kent_y2"
+      ],
+      "Ma a chi è venuto in mente di regalare un bidone Joja?...": [
+            "winter25_Sam_y2"
+      ],
+      "Certe volte non ho nessuna voglia di andare alle feste, ma poi sono sempre contenta di esserci stata!": [
+            "winter25_Leah_y2"
+      ],
+      "Felice Banchetto, @!": [
+            "winter25_Marnie_y2"
+      ],
+      "*rutta*": [
+            "winter25_Elliott_y2"
+      ],
+      "Ahh... chiedo venia. Dove sono le mie maniere? Questo sidro speziato ha una frizzantezza assai potente.": [
+            "winter25_Elliott_y2_sv1"
+      ],
+      "Mangia! Mangia, finché è caldo.": [
+            "winter25_Gus_y2"
+      ],
+      "Potrei parlarti fino a domani del mio nuovo metodo per fare i bastoncini canditi... ma quest'anno ti risparmio i dettagli!": [
+            "winter25_Gus_y2_sv1"
+      ],
+      "Sono una persona semplice, @... So' grato per il tetto robusto che c'ho sulla testa, e per il barattolo di fagioli caldi al mattino!": [
+            "winter25_Willy_y2"
+      ],
+      "Ah, la misteriosa Stella d'inverno. Uno dei motivi per cui ho scelto questa valle come sede delle mie... ricerche.": [
+            "winter25_Wizard_y2"
+      ],
+      "Hai provato la torta di pecan? È la mia preferita.": [
+            "winter25_Harvey_y2"
+      ],
+      "Non è ancora ora di aprire i regali?": [
+            "winter25_Jas_y2"
+      ],
+      "Ho avuto il dinosauro giocattolo che volevo! Guarda!?": [
+            "winter25_Vincent_y2"
+      ],
+      "Si chiama ehm... ste-...stego-...stegosonauro! ...mi pare.": [
+            "winter25_Vincent_y2_sv1"
+      ],
+      "Hmm? Oh, salve.": [
+            "winter25_Marlon_y2"
+      ],
+      "Non badare a me. Vai a divertirti.": [
+            "winter25_Marlon_y2_sv1"
+      ],
+      "Non so cosa sia la maggior parte di questa roba... però è buona!": [
+            "winter25_Leo_y2"
+      ]
+}

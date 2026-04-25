@@ -1,0 +1,26 @@
+{
+	"Name": "MixedBag Tilesheets",
+	"Author": "MixedBag",
+	"Version": "3.1.1",
+	"Description": "A mixed bag of useful tilesheets.",
+	"UniqueID": "MixedBag.Tilesheets",
+	"MinimumApiVersion": "4.1.2",
+	"UpdateKeys": [ "Nexus:15707" ],
+	"ContentPackFor":
+				{"UniqueID": "Pathoschild.ContentPatcher"},
+	"Dependencies": [
+				{"UniqueID": "Acerbicon.Recolor",
+                "IsRequired": false
+				},
+				{"UniqueID": "DaisyNiko.EarthyRecolour",
+                "IsRequired": false
+				},
+				{"UniqueID": "VibrantPastoral.C",
+                "IsRequired": false
+				},
+				{"UniqueID": "Lita.StarblueValleyUnofficial",
+				"IsRequired": false
+                }
+	]
+	
+}

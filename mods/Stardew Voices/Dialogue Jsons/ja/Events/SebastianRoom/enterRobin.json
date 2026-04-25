@@ -1,0 +1,14 @@
+{
+    "サムからメッセが届いてるな…どこか行こうって誘いだろうけど…": "response_SebastianRoom_enterRobin_Sebastian_event1",
+    "正直、きょうはあんまり外に出かけたくないんだよな。": "response_SebastianRoom_enterRobin_Sebastian_event1_sv1",
+    "やあ、@。": "response_SebastianRoom_enterRobin_Robin_event1",
+    "セブ、わたしが入ってくるのイヤだろうけど、でもちょっといい？…きょう商店で偶然アビゲイルと会ったの。彼女、あなたのこと探してたよ。": "response_SebastianRoom_enterRobin_Robin_event2",
+    "仕事中だってあいつに言った？": "response_SebastianRoom_enterRobin_Sebastian_event2",
+    "言った…でも、あとで行くからって。": "response_SebastianRoom_enterRobin_Robin_event3",
+    "はぁ…家にいるからって、あそんでるワケじゃないんだぞ。": "response_SebastianRoom_enterRobin_Sebastian_event3",
+    "マルが診療所で仕事してるときはだれもジャマしないのに…みんな、オレが一日中ネットをながめてるだけとでも思ってるのか？": "response_SebastianRoom_enterRobin_Sebastian_event3_sv1",
+    "金を貯めて、いつかここを出ることかな。都会かどこかでひとり暮らししたいんだ。": "response_SebastianRoom_enterRobin_Sebastian_event4",
+    "ちゃんと大学に行ってたら、いまごろ年収8ケタは稼げてたのかもな…でも、会社どうしの競争に巻きこまれてあくせくするなんてごめんだろ？": "response_SebastianRoom_enterRobin_Sebastian_event5",
+    "それにオレの場合、パソコンごしの付きあいのほうが、直接顔をあわせるよりラクみたいだ。": "response_SebastianRoom_enterRobin_Sebastian_event5_sv1",
+    "さてと、仕事にもどるか…このモジュールを明日までに完成させないと。": "response_SebastianRoom_enterRobin_Sebastian_event6"
+}

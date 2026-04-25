@@ -1,0 +1,8 @@
+{
+  "enable": true,
+  "distance": 150.0,
+  "waitingTime": 0.75,
+  "requireGiftLog": false,
+  "unknownBubble": true,
+  "compatibility_giftWeekLimit": 2
+}

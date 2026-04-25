@@ -1,0 +1,15 @@
+{
+    "Ah, oi, @. Estava indo lanchar.": "SamHouse_46_Sam_Sam_event1",
+    "Aqui. Deixe-me pegar algo para você.": "SamHouse_46_Sam_Sam_event2",
+    "Ah, não... Que bagunça.": "SamHouse_46_Sam_Sam_event3",
+    "Que som foi esse?": "SamHouse_46_Sam_Jodi_event1",
+    "*Gasp*!": "SamHouse_46_Sam_Jodi_event2",
+    "Isso é terrível! O que houve?": "SamHouse_46_Sam_Jodi_event3",
+    "Diga a ela, @.": "SamHouse_46_Sam_Sam_event4",
+    "Obrigada por me dizer a verdade, @. Isso não é grande coisa.": "SamHouse_46_Sam_Jodi_event4_prereq_1",
+    "Você fez O QUÊ, Sam? O que deu em você?!": "SamHouse_46_Sam_Jodi_event4_prereq_2",
+    "Sinto muito, mãe. Eu limpo.": "SamHouse_46_Sam_Sam_event5",
+    "Obrigado.": "SamHouse_46_Sam_Jodi_event5",
+    "Estou bravo com você. Não tenho ideia de porque você mentiu assim.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_1",
+    "Desculpe pelo que aconteceu mais cedo.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_2"
+}

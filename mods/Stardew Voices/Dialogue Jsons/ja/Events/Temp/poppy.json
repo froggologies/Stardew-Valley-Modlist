@@ -1,0 +1,19 @@
+{
+    "よう、みんな。オレたちはペリカンタウンから来た…えー…「ザ・ペリカンズ」だ。": "response_Temp_poppy_Sam_event1",
+    "きょう歌うのは、農業や採掘、伐採をテーマにしてつくった曲だ。": "response_Temp_poppy_Sam_event2",
+    "きょう歌う曲は、海中都市をテーマにしてる。": "response_Temp_poppy_Sam_event2_sv1",
+    "きょう歌うのは、電車をテーマにした曲だ。": "response_Temp_poppy_Sam_event2_sv2",
+    "さあ、行くぜ…": "response_Temp_poppy_Sam_event2_sv3",
+    "ワオ！この電子音、カッコいい！": "response_Temp_poppy_Emily_event1_prereq_1",
+    "ヒューウ！サイコーだね！": "response_Temp_poppy_Emily_event1_prereq_2",
+    "超いいね！カントリーミュージックの新定番って感じ！": "response_Temp_poppy_Leah_event1_prereq_1",
+    "やるじゃん、みんな！": "response_Temp_poppy_Leah_event1_prereq_2",
+    "さいごのヘビーなブレイクダウンがたまんねえな。": "response_Temp_poppy_Shane_event1_prereq_1",
+    "低音のパートが気にいったぜ。": "response_Temp_poppy_Shane_event1_prereq_2",
+    "サンキュー、みんな！": "response_Temp_poppy_Sam_event3",
+    "@にも拍手してやってくれよな！あいつに手伝ってもらわなきゃ、さいしょにどんな曲をつくるか、きっといまでも迷ってたからな！": "response_Temp_poppy_Sam_event3_sv1",
+    "じゃあ、あなたはバンドの名誉メンバーってワケね？": "response_Temp_poppy_Penny_event1",
+    "そうだ！オレたちのデモカセット、帰りは忘れずに買ってってくれよな…たったの10Gだ！": "response_Temp_poppy_Sam_event4",
+    "盛り上がったな！きょうは来てくれてありがとよ。": "response_Temp_poppy_Sam_event5",
+    "いやあ、ライブ、大成功だったな！ホントにありがとな、@。": "response_Temp_poppy_Sam_endDialogue6"
+}

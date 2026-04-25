@@ -1,0 +1,20 @@
+{
+    "Hallo, alle zusammen. Wir sind aus Pelikan... und... äh... wir heißen 'Die Pelikane'.": "response_Temp_poppy_Sam_event1",
+    "In diesem Lied geht es um Landwirtschaft, das Arbeiten in der Mine und Holzhacken.": "response_Temp_poppy_Sam_event2",
+    "In diesem Lied geht es um eine Stadt im Meer.": "response_Temp_poppy_Sam_event2_sv1",
+    "In diesem Lied geht es um Züge.": "response_Temp_poppy_Sam_event2_sv2",
+    "Und los...": "response_Temp_poppy_Sam_event2_sv3",
+    "Wow! Dieser elektronische Sound ist echt super!": "response_Temp_poppy_Emily_event1_prereq_1",
+    "Woooh! Das war großartig!": "response_Temp_poppy_Emily_event1_prereq_2",
+    "Das war großartig! Ein neuer Pop-Klassiker!": "response_Temp_poppy_Leah_event1_prereq_1",
+    "Gute Arbeit, Leute!": "response_Temp_poppy_Leah_event1_prereq_2",
+    "Ich liebe diesen extremen Breakdown am Ende.": "response_Temp_poppy_Shane_event1_prereq_1",
+    "Der Bassteil hat mir echt gefallen.": "response_Temp_poppy_Shane_event1_prereq_2",
+    "Danke, ihr alle!": "response_Temp_poppy_Sam_event3",
+    "Aber der Applaus gebührt eigentlich @! Ohne seine": "response_Temp_poppy_Sam_event3_sv1_male_farmer",
+    "ihre}Hilfe hätten wir uns nie darauf geeinigt, welche Musik wir überhaupt machen sollen!": "response_Temp_poppy_Sam_event3_sv1_female_farmer",
+    "Du bist dann also praktisch das Ehrenmitglied der Band?": "response_Temp_poppy_Penny_event1",
+    "Oh! Und vergesst nicht, eine unserer Demos auf eurem Weg nach draußen mitzunehmen... Nur 10 G!": "response_Temp_poppy_Sam_event4",
+    "Das ist gut gelaufen! Danke, dass du mit uns mitgekommen bist.": "response_Temp_poppy_Sam_event5",
+    "Hey. Die Show war ein echter Erfolg! Danke nochmal, @.": "response_Temp_poppy_Sam_endDialogue6"
+}

@@ -1,0 +1,12 @@
+{
+    "Ох... Как же мне надоело возиться с этими пробами...": "Hospital_7_Maru_Maru_event1",
+    "Ай! О нет!..": "Hospital_7_Maru_Maru_event2",
+    "Я испортила весь материал... Харви меня убьет...": "Hospital_7_Maru_Maru_event3",
+    "@, что мне теперь делать?": "Hospital_7_Maru_Maru_event4",
+    "Что случилось? Я услышал, как что-то разбилось.": "Hospital_7_Maru_Harvey_event1",
+    "Я случайно разбила пробирку... Мне так жаль.": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@ ка-ак захлопнет дверь, я испугалась и уронила пробирку.": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "Не стоит винить других в своих бедах, Мару.": "Hospital_7_Maru_Harvey_event2",
+    "Эх... Придется вызвать пациента, чтобы забрать анализ еще раз.": "Hospital_7_Maru_Harvey_event3",
+    "Еще один месяц в убыток...": "Hospital_7_Maru_Harvey_event3_sv1"
+}

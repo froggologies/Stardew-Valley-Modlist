@@ -1,0 +1,18 @@
+{
+    "Name": "[CP] Visual Enemy Variety",
+    "Author": "Tea-Loving Lad",
+    "Version": "1.0.5",
+    "Description": "Provides all of Stardew Valley's monsters more visual variety.",
+    "UniqueID": "TeaLovingLad.VisualEnemyVariety",
+	"UpdateKeys": [ "Nexus:32218" ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": [
+        {
+            "UniqueID": "mushymato.MonsterVariety",
+			"MinimumVersion": "0.3.0",
+            "IsRequired": true
+        }
+    ]
+}

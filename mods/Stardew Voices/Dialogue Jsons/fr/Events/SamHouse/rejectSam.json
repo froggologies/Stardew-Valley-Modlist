@@ -1,0 +1,5 @@
+{
+    "Je vois...": "response_SamHouse_rejectSam_Sam_event1",
+    "Je suis désolé... C’était une mauvaise idée. À plus tard.": "response_SamHouse_rejectSam_Sam_event2",
+    "...": "response_SamHouse_rejectSam_Sam_endDialogue3"
+}

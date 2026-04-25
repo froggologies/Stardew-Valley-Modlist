@@ -1,0 +1,17 @@
+{
+    "ではジョージさん、大きく深呼吸してください。": "JoshHouse_56_George_Harvey_event1",
+    "ふーむ…では、こちらを向いてください。": "JoshHouse_56_George_Harvey_event2",
+    "ジョージさん、率直に言って、このまま健康でいたければ、生活習慣を変えなければいけませんよ。": "JoshHouse_56_George_Harvey_event3",
+    "できれば、いまより塩分を摂るのは控えてください。腕も適度に動かしていただきたいのですが。": "JoshHouse_56_George_Harvey_event3_sv1",
+    "ふん…なにが健康にいいかくらい、自分でわかる。自分をなにさまだと思っとるんだ、人の生活に指図しおって。": "JoshHouse_56_George_George_event1",
+    "ぼくはあなたの主治医です、ジョージさん。それではご不満でしょうか…": "JoshHouse_56_George_Harvey_event4",
+    "ぼくは学校に8年間かよって、人の健康をサポートする方法を学んだんです。": "JoshHouse_56_George_Harvey_event4_sv1",
+    "おっと！": "JoshHouse_56_George_Harvey_event5",
+    "失礼だけど、向こうに行ってくれないかな…健康診断はプライベートだからね。": "JoshHouse_56_George_Harvey_event5_sv1",
+    "行かんでけっこう！わしは、この若者から意見を聞きたいね。": "JoshHouse_56_George_George_event2",
+    "いいでしょう…": "JoshHouse_56_George_Harvey_event6",
+    "@、ジョージさんはどうするべきだと思う？": "JoshHouse_56_George_Harvey_event7",
+    "いいだろう。言うとおりにするとも、先生。": "JoshHouse_56_George_George_event3",
+    "助太刀してくれて助かったよ、@。ほんとうにありがとう。": "JoshHouse_56_George_Harvey_event8_prereq_1",
+    "患者さんを混乱させるようなことは言わないでほしいな、@。今後は気をつけてくれよ。": "JoshHouse_56_George_Harvey_event8_prereq_2"
+}

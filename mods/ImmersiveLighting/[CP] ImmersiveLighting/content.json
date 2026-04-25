@@ -1,0 +1,99 @@
+{
+  "Format": "2.9.0",
+  "DynamicTokens": [
+    {
+      "Name": "SunsetStart",
+      "Value": "1730",
+      "When": {
+        "Season": "Spring, Summer"
+      }
+    },
+    {
+      "Name": "SunsetEnd",
+      "Value": "2100",
+      "When": {
+        "Season": "Spring, Summer"
+      }
+    },
+    {
+      "Name": "SunsetStart",
+      "Value": "1700",
+      "When": {
+        "Season": "Fall"
+      }
+    },
+    {
+      "Name": "SunsetEnd",
+      "Value": "1930",
+      "When": {
+        "Season": "Fall"
+      }
+    },
+    {
+      "Name": "SunsetStart",
+      "Value": "1530",
+      "When": {
+        "Season": "Winter"
+      }
+    },
+    {
+      "Name": "SunsetEnd",
+      "Value": "1800",
+      "When": {
+        "Season": "Winter"
+      }
+    }
+  ],
+  "Changes": [
+    {
+      "LogName": "Load DL's Glows",
+      "Action": "Load",
+      "Target": "Mods/Kana.ImmersiveLighting/Glows",
+      "FromFile": "assets/Glows.png",
+      "When": {
+        "Kana.ImmersiveLighting.DLL/EnableCustomWindows": "True"
+      }
+    },
+    {
+      "LogName": "Load DL's Windows",
+      "Action": "Load",
+      "Target": "Mods/Kana.ImmersiveLighting/Windows",
+      "FromFile": "assets/Windows.png",
+      "When": {
+        "Kana.ImmersiveLighting.DLL/EnableCustomWindows": "True"
+      }
+    },
+    {
+      "LogName": "Load DL's GlowSunrise",
+      "Action": "Include",
+      "FromFile": "data/GlowSunrise.json",
+      "When": {
+        "Kana.ImmersiveLighting.DLL/EnableCustomWindows": "True"
+      }
+    },
+    {
+      "LogName": "Load DL's GlowSunset",
+      "Action": "Include",
+      "FromFile": "data/GlowSunset.json",
+      "When": {
+        "Kana.ImmersiveLighting.DLL/EnableCustomWindows": "True"
+      }
+    },
+    {
+      "LogName": "Load DL's WindowsSunrise",
+      "Action": "Include",
+      "FromFile": "data/WindowsSunrise.json",
+      "When": {
+        "Kana.ImmersiveLighting.DLL/EnableCustomWindows": "True"
+      }
+    },
+    {
+      "LogName": "Load DL's WindowsSunset",
+      "Action": "Include",
+      "FromFile": "data/WindowsSunset.json",
+      "When": {
+        "Kana.ImmersiveLighting.DLL/EnableCustomWindows": "True"
+      }
+    }
+  ]
+}

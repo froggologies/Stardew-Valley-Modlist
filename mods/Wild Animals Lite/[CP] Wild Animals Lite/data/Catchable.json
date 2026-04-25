@@ -1,0 +1,38 @@
+{
+	"Format": "2.0.0",
+
+	"Changes": [
+
+	{
+	"Action": "Load",
+	"Target": "Mods/NITVWildAnimals/Squirrel_Brown, Mods/NITVWildAnimals/Squirrel_Item, Mods/NITVWildAnimals/Squirrel_Gray",
+	"FromFile": "assets/Catchables/{{TargetWithoutPath}}.png"
+	},
+	{
+	"Action": "EditData",
+	"Target": "Nature.NITV/Creatures",
+	"Entries": {
+		"Squirrel_Roam": {
+			"spritePath": "Mods/NITVWildAnimals/Squirrel_Brown",
+			"itemTexture": "Mods/NITVWildAnimals/Squirrel_Item",
+			"speed": 0.007,
+			"pauseTime": 1000,
+			"scale": 1,
+			"range": 3,
+			"weatherCode ": 1,
+			"locations": ["1"],
+			"seasons": ["spring", "summer", "fall"],
+			"variantChance": 0.6,
+			"variantList": [
+				"Mods/NITVWildAnimals/Squirrel_Gray"
+			],
+			"cueName": "dustMeep",
+			"minTime": 600,
+			"Price": 300,
+			"displayName": "Squirrel",
+			"displayDescription": "A squirrel is a small, agile rodent with a bushy tail, known for climbibg trees and storing nuts."
+		}           
+	}
+	},
+	]
+}

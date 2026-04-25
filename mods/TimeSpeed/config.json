@@ -1,0 +1,30 @@
+{
+  "EnableOnFestivalDays": true,
+  "LocationNotify": false,
+  "SecondsPerMinute": {
+    "Indoors": 1.0,
+    "Outdoors": 1.0,
+    "Mines": 1.0,
+    "SkullCavern": 1.0,
+    "VolcanoDungeon": 1.0,
+    "ByLocationName": {}
+  },
+  "FreezeTime": {
+    "AnywhereAtTime": null,
+    "PassOut": false,
+    "Indoors": false,
+    "Outdoors": false,
+    "Mines": false,
+    "SkullCavern": false,
+    "VolcanoDungeon": false,
+    "ByLocationName": [],
+    "ExceptLocationNames": []
+  },
+  "LetFarmhandsManageTime": true,
+  "Keys": {
+    "FreezeTime": "F6",
+    "IncreaseTickInterval": "OemPeriod",
+    "DecreaseTickInterval": "OemComma",
+    "ReloadConfig": "F7"
+  }
+}

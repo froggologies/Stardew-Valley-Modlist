@@ -1,0 +1,239 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Amethyst Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Amethyst.png",
+			"ToArea": {"X": "128", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Amethyst": true
+			}
+		},
+        {
+			"LogName": "Aquamarine Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Aquamarine.png",
+			"ToArea": {"X": "224", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Aquamarine": true
+			}
+		},
+        {
+			"LogName": "Diamond Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Diamond.png",
+			"ToArea": {"X": "32", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Diamond": true
+			}
+		},
+        {
+			"LogName": "Emerald Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Emerald.png",
+			"ToArea": {"X": "192", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Emerald": true
+			}
+		},
+        {
+			"LogName": "Jade Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Jade.png",
+			"ToArea": {"X": "96", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Jade": true
+			}
+		},
+        {
+			"LogName": "Ruby Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Ruby.png",
+			"ToArea": {"X": "64", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Ruby": true
+			}
+		},
+        {
+			"LogName": "Topaz Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Topaz.png",
+			"ToArea": {"X": "160", "Y": "0", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Topaz": true
+			}
+		},
+        {
+			"LogName": "Gem Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Gem.png",
+			"ToArea": {"X": "320", "Y": "16", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Gem": true
+			}
+		},
+        {
+			"LogName": "Geode Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Geode.png",
+			"ToArea": {"X": "48", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Geode": true
+			}
+		},
+        {
+			"LogName": "Frozen Geode Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/FrozenGeode.png",
+			"ToArea": {"X": "64", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Frozen Geode": true
+			}
+		},
+        {
+			"LogName": "Magma Geode Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/MagmaGeode.png",
+			"ToArea": {"X": "80", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Magma Geode": true
+			}
+		},
+        {
+			"LogName": "Cinder Shard Node 1",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Cinder1.png",
+			"ToArea": {"X": "48", "Y": "560", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"MiningNodesRedesign |contains= Cinder Shard": true
+			}
+		},
+        {
+			"LogName": "Cinder Shard Node 2",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Cinder2.png",
+			"ToArea": {"X": "64", "Y": "560", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"MiningNodesRedesign |contains= Cinder Shard": true
+			}
+		},
+        {
+			"LogName": "Copper Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Copper.png",
+			"ToArea": {"X": "112", "Y": "496", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Copper": true
+			}
+		},
+        {
+			"LogName": "Iron Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Iron.png",
+			"ToArea": {"X": "32", "Y": "192", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Iron": true
+			}
+		},
+        {
+			"LogName": "Gold Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Gold.png",
+			"ToArea": {"X": "320", "Y": "496", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Gold": true
+			}
+		},
+        {
+			"LogName": "Iridium Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Iridium.png",
+			"ToArea": {"X": "336", "Y": "496", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Iridium": true
+			}
+		},
+        {
+			"LogName": "Iridium Crab",
+			"Action": "EditImage",
+			"Target": "Characters/Monsters/Iridium Crab",
+			"FromFile": "assets/MiningNodes/IridiumCrab.png",
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Iridium Crab": true
+			}
+		},
+        {
+			"LogName": "Mystic Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Mystic.png",
+			"ToArea": {"X": "352", "Y": "16", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MiningNodesRedesign |contains= Mystic": true
+			}
+		},
+        {
+			"LogName": "Radioactive Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Radioactive.png",
+			"ToArea": {"X": "368", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"MiningNodesRedesign |contains= Radioactive": true
+			}
+		},
+        {
+			"LogName": "Mussel Node",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/MiningNodes/Mussel.png",
+			"ToArea": {"X": "16", "Y": "16", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"MiningNodesRedesign |contains= Mussel": true
+			}
+		}
+    ]
+}

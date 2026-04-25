@@ -1,0 +1,8 @@
+{
+    "А? Что ты ему": "response_ScienceHouse_DadWeird_Maru_event1_male_farmer",
+    "ей}сказал, папа?": "response_ScienceHouse_DadWeird_Maru_event1_female_farmer",
+    "Ну хорошо, хорошо... Мы говорили о тебе, солнышко.": "response_ScienceHouse_DadWeird_Demetrius_event1",
+    "Я подумал, что так @ сможет больше узнать о тебе... Просто я не хотел тебя смущать. Не надо было мне об этом лгать.": "response_ScienceHouse_DadWeird_Demetrius_event1_sv1",
+    "Ничего, пап. Я понимаю.": "response_ScienceHouse_DadWeird_Maru_event2",
+    "Надо вернуться к исследованию, пока образцы не кристаллизовались.": "response_ScienceHouse_DadWeird_Maru_event2_sv1"
+}

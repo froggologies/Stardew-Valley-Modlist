@@ -1,0 +1,11 @@
+{
+    "Так «мистер К.» — это ты? Я... Я думала, это какой-то богач, которому действительно понравились мои работы.": "response_Forest_choseInternet_Leah_event1",
+    "Фу, не называй меня так!": "response_Forest_choseInternet_Leah_event2",
+    "Раньше я не могла дождаться от тебя поддержки... а теперь, когда мои работы пользуются успехом, ты хочешь меня вернуть? Меня тошнит от тебя.": "response_Forest_choseInternet_Leah_event2_sv1",
+    "О Господи!": "response_Forest_choseInternet_Leah_event3",
+    "Ничего, жить будет, но это было жестоко, @.": "response_Forest_choseInternet_Leah_event4_male_farmer",
+    "Она в порядке... но это было жестоко, @.": "response_Forest_choseInternet_Leah_event4_female_farmer",
+    "Пойдем отсюда. Не думаю, что Кел нас еще побеспокоит.": "response_Forest_choseInternet_Leah_event5",
+    "Найдем местечко поукромнее...": "response_Forest_choseInternet_Leah_event6",
+    "Да, пикник прошел не так, как планировалось.": "response_Forest_choseInternet_Leah_endDialogue7"
+}

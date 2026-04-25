@@ -1,0 +1,1588 @@
+{
+      "dialogue": {
+            "Ah, doğru... Eski çiftliğe yeni birinin yerleşeceğini duymuştum.": [
+                  "Introduction"
+            ],
+            "Bu, benim için biraz kötü oldu. Ormanı aratmayan tarlaları bir başıma keşfetmekten zevk alıyordum.": [
+                  "Introduction_sv1"
+            ],
+            "Tabii. Hadi yapalım. Böylece beraber utanabiliriz.": [
+                  "FlowerDance_Accept"
+            ],
+            "Doğum günümü hatırladın... Teşekkür ederim @! Bu gerçekten harika!": [
+                  "AcceptBirthdayGift_Positive"
+            ],
+            "Doğum günümü hatırladın... Teşekkür ederim @!": [
+                  "AcceptBirthdayGift_Negative"
+            ],
+            "Aa, bu... *koklar*... Bu da ne?": [
+                  "AcceptBirthdayGift_Negative_sv1"
+            ],
+            "Vay... Rengi aynı ametist gibi, çok güzel. Teşekkürler!": [
+                  "AcceptGift_StardropTea"
+            ],
+            "İğrenç... Bayıldım!": [
+                  "AcceptGift_BasiliskPaw"
+            ],
+            "Aa, en sevdiğim dergiden! Babam abonelik almama izin vermiyor, bu yüzden böyle farklı yollardan edinmek zorundayım...": [
+                  "AcceptGift_SkillBook_4"
+            ],
+            "Vay, bu kitap ürkünç duruyor... Bayıldım!": [
+                  "AcceptGift_Book_Void"
+            ],
+            "*hızla sayfaları çevirir*... Aa... Canavarlarla dolu...": [
+                  "AcceptGift_Book_Void_sv1"
+            ],
+            "Mağaralara girmeden önce incelemem gerekecek... Teşekkürler!": [
+                  "AcceptGift_Book_Void_sv2"
+            ],
+            "Vay... Bunu nerede buldun? İşçiliği çok ilginç...": [
+                  "AcceptGift_109"
+            ],
+            "Kullanmak için biraz paslı ama koleksiyonuma ekleyeceğim.": [
+                  "AcceptGift_109_sv1"
+            ],
+            "Bu beni düşündürüyor... Binlerce yıl önce, muhtemelen mor saçlı bir mağara kadını, tıpkı benim gibi bu flütü çalıyordu.": [
+                  "AcceptGift_119"
+            ],
+            "...Dudaklarıma değdirmeden önce yıkamam gerekecek.": [
+                  "AcceptGift_119_sv1"
+            ],
+            "Vay... Tam da benim rengim! Teşekkürler @!": [
+                  "AcceptGift_66_chance_1"
+            ],
+            "Teşekkür ederim! Bu benim favori taşım. Çok güzel.": [
+                  "AcceptGift_66_chance_2"
+            ],
+            "Keşfe çıkmak istiyorum ama annemin biraz endişeli olduğunu görebiliyorum. Onun daha da endişelendirmek istemem.": [
+                  "GreenRain"
+            ],
+            "Her şey tekrar normale döndü. Sihir gibi!": [
+                  "GreenRainFinished"
+            ],
+            "Kasaba etrafındaki çılgın ağaçları gördün mü? Her şey çok farklı görünüyor... Âdeta perili bir dünyadaymışız gibi.": [
+                  "GreenRain_2"
+            ],
+            "Kimseye söyleme ama dün akşam eski halkevine sızdım... Sanırım orası perili!": [
+                  "cc_Begin"
+            ],
+            "Vay be... @! Bunu bana vermek istediğine emin misin? Bu çok nadir bir şey!": [
+                  "AcceptGift_279"
+            ],
+            "İtiraf etmem gerek ki şimdiden ağzımın suyu aktı...": [
+                  "AcceptGift_279_sv1"
+            ],
+            "Eski madenleri keşfettiğini duydum. Kulağa eğlenceli geliyor!": [
+                  "mineArea_10_oneday"
+            ],
+            "...Madene gitmek için cesaretimi toplamaya çalışıyorum...": [
+                  "mineArea_10_oneday_sv1"
+            ],
+            "Sam ve Sebastian, gruplarında davul çalmamı istedi... Daha önce hiç davul çalmamıştım fakat oldukça eğlenceliymiş.": [
+                  "eventSeen_733330_memory_oneday"
+            ],
+            "Tam olarak aynı anda uzuvlarını nasıl farklı ritimlerde hareket ettirebileceğini öğrenmen gerek. Beynim büyüyor gibi hissediyorum.": [
+                  "eventSeen_733330_memory_oneday_sv1"
+            ],
+            "Sonunda Çayır Kralı'nın Yolculuğu oyununun ilk bölümünü geçebildim! Seni oynarken izlemenin çok faydası oldu.": [
+                  "eventSeen_1_memory_oneweek"
+            ],
+            "Sebastian geçen gece garip bir müzik sesi duyduğundan bahsetti...": [
+                  "eventSeen_2_memory_oneday"
+            ],
+            "Ona sesin bizden geldiğini söylemedim! Sır olarak saklamak daha iyi gibi geldi.": [
+                  "eventSeen_2_memory_oneday_sv1"
+            ],
+            "Ruhların kendi zekaları var...": [
+                  "eventSeen_3"
+            ],
+            "Dünden dolayı keyfin yerinde, değil mi? Seneye bu kadar şanslı olmayacaksın...": [
+                  "wonEggHunt"
+            ],
+            "Geçen yılki yumurta avında beni yendiğin için sana hâlâ kızgınım. Isınmaya başlasan iyi edersin...": [
+                  "wonEggHunt_memory_oneyear"
+            ],
+            "%Abigail'in yanakları kızardı fakat mutlu gözüküyor.": [
+                  "dating_Abigail"
+            ],
+            "...Tatlısın.": [
+                  "dating_Abigail_memory_oneday"
+            ],
+            "Şey... @? Neredeyse bir yıldır çıkıyoruz. İlişkimiz bir yerlere gidecek mi?": [
+                  "dating_Abigail_memory_oneyear"
+            ],
+            "Sebastian'la çıkmaya başladığını öğrendim... Aranızda bir şey olduğunu fark etmemiştim...": [
+                  "dating_Sebastian_memory_oneday"
+            ],
+            "Sam'le birlikte olduğunu duydum... O gerçekten iyi biri!": [
+                  "dating_Sam"
+            ],
+            "Onunla uzun zamandır arkadaşız. Onu incitmesen iyi olur, yoksa külahları değişiriz!": [
+                  "dating_Sam_sv1"
+            ],
+            "Evliliğinizi tebrik ederim. Sanırım bu, Sebastian'ın sürekli bahsettiği gibi şehre taşınmayacağı anlamına geliyor.": [
+                  "married_Sebastian"
+            ],
+            "Güzel olacak. Eğer onu bir daha hiç göremeyecek olsaydım bu beni üzerdi. Çocukluktan beri iyi birer arkadaşız.": [
+                  "married_Sebastian_sv1"
+            ],
+            "Haha... Sam'in artık evli bir adam olduğuna inanamıyorum. Kim düşünebilirdi?": [
+                  "married_Sam"
+            ],
+            "Şaka bir yana, bir gün harika bir baba olacağını düşünüyorum.": [
+                  "married_Sam_sv1"
+            ],
+            "Kasabaya yeni açılan sinemayı duydun mu? Gitmek için sabırsızlanıyorum!": [
+                  "movieTheater"
+            ],
+            "Umarım sahile denizkızı çıkar.": [
+                  "Resort_Entering"
+            ],
+            "Willy'den dönerken geldiğimiz o manzaralı rotadan gitmesini isteyeceğim.": [
+                  "Resort_Leaving"
+            ],
+            "Belki yolda bir deniz canavarı görürüz.": [
+                  "Resort_Leaving_2"
+            ],
+            "Sahil güzel ama çok çabuk sıkıyor. Ben daha çok ormana ya da yanardağa gitmek istiyorum!": [
+                  "Resort_Shore"
+            ],
+            "Hım, sence kobayımı adaya gizlice sokabilir miyim?": [
+                  "Resort_Shore_2"
+            ],
+            "Yok ya, David zaten yüzmeyi sevmez.": [
+                  "Resort_Shore_2_sv1"
+            ],
+            "Cildim çok kolay yanıyor. Bir süre bu şemsiyenin altında kalacağım.": [
+                  "Resort_Umbrella"
+            ],
+            "Gölgede kalmayı seviyorum. Güneşin altında çok kalınca başım dönüyor.": [
+                  "Resort_Umbrella_sv1"
+            ],
+            "Selam @. Benimle kumdan kale yapmak ister misin?": [
+                  "Resort_Umbrella_2"
+            ],
+            "Aslında kumdan zindan yapsak daha güzel olabilir!": [
+                  "Resort_Umbrella_2_sv1"
+            ],
+            "Merhaba @. Sence sal yapabilir miyiz?": [
+                  "Resort_Umbrella_3"
+            ],
+            "Buraya gelirken yolda birkaç güzel ada gördüm. Onları ziyaret ederdik.": [
+                  "Resort_Umbrella_3_sv1"
+            ],
+            "Böyle büyük bir adada mutlaka gömülü bir hazine vardır.": [
+                  "Resort_Wander"
+            ],
+            "Çabuk bana bir kürek bul!": [
+                  "Resort_Wander_sv1"
+            ],
+            "Sakin ol be. Şaka yapıyorum.": [
+                  "Resort_Wander_sv2"
+            ],
+            "Gus saçıma uysun diye koyu mor bir ferahlatıcı içecek yaptı. Tadı da çok güzel!": [
+                  "Resort_Bar"
+            ],
+            "Öf be... Willy sahilde kalmamız gerektiğini söyledi...": [
+                  "Resort"
+            ],
+            "Üstelik ben palamı falan da getirmiştim...": [
+                  "Resort_sv1"
+            ],
+            "A... Ama... Ben şeyle şey...": [
+                  "FlowerDance_Accept_Spouse"
+            ],
+            "Şaka yapıyorum! Elbette seninle dans ederim. Seni seviyorum.": [
+                  "FlowerDance_Accept_Spouse_sv1"
+            ],
+            "Onur duydum... Ancak, hayır demeliyim. Üzgünüm.": [
+                  "FlowerDance_Decline"
+            ],
+            "Burada ne arıyorsun? Beni rahat bırak!": [
+                  "divorced"
+            ],
+            "Benimle konuşma!": [
+                  "dumped_Girls"
+            ],
+            "*iç çeker*...Sana kızgın kalamam, @. Hayatlarımıza devam edelim.": [
+                  "secondChance_Girls"
+            ],
+            "Ah... A... anladım. Beni arkadaş olarak görüyorsun...": [
+                  "breakUp"
+            ],
+            "İyi bir çift olamadık demek ki...": [
+                  "breakUp_sv1"
+            ],
+            "Selam. Çalışmaya ara mı verdin?": [
+                  "Mon"
+            ],
+            "Ah, merhaba!": [
+                  "Mon2"
+            ],
+            "Hiç mezarlığa gider misin? Yalnız başına zaman geçirmek için oldukça huzurlu bir yer.": [
+                  "Mon2_sv1"
+            ],
+            "Ah... Şu an pek havamda değilim.": [
+                  "Tue"
+            ],
+            "Havamda değilim dedim ya... Ne istiyorsun?": [
+                  "Tue_sv1"
+            ],
+            "...*iç çeker*...": [
+                  "Tue2"
+            ],
+            "Anne ve babamın iyi niyetli olduğunu biliyorum. Ancak, bazen bakış açımı anlamıyorlar. Hiç mi genç olmadılar?": [
+                  "Tue2_sv1"
+            ],
+            "Hey. Kabalık etme olasılığıma karşın şimdiden özür dilerim. Dün gece pek uyuyamadım.": [
+                  "Wed"
+            ],
+            "Ne istiyorsun?": [
+                  "Wed_sv1"
+            ],
+            "Ah, merhaba.": [
+                  "4",
+                  "winter_Sun"
+            ],
+            "Olamaz. Sanırım akşama yemeği babam yapacak...": [
+                  "Thu_chance_1"
+            ],
+            "Bugün pek bir şey yapasım yok...": [
+                  "Thu_chance_2"
+            ],
+            "Oha, bugünün cuma olduğunu şimdi fark ettim.": [
+                  "Fri"
+            ],
+            "Kimileyin zaman kavramını yitiriyorum.": [
+                  "Fri_sv1"
+            ],
+            "Bu akşam hepimiz salonda takılacağız. Bu bir tür cuma geleneği sanırım.": [
+                  "Fri2"
+            ],
+            "Açık dağ havası böyle bir günde güzeldir.": [
+                  "Sat"
+            ],
+            "Acaba yakında kurbağalar da ortaya çıkar mı?": [
+                  "Sat_sv1"
+            ],
+            "Dostum... Hafta sonumu ödevimi yapmayı ertelemekle geçirdim. Görünüşe göre bütün gece ödevle uğraşmam gerekecek...": [
+                  "Sun"
+            ],
+            "Geceyi mezarlıkta geçirsem ne olur acaba?": [
+                  "Sun2"
+            ],
+            "@, sence öldükten sonra bize ne olacak?": [
+                  "Sun2_sv1"
+            ],
+            "Hiçbir şeyin olmayacağını düşünüyorsun, değil mi?": [
+                  "Sun_old_prereq_1"
+            ],
+            "Belki kötü bir hayalet falan ortaya çıkar!": [
+                  "Sun_old_prereq_2"
+            ],
+            "Hım, ilginç...": [
+                  "Sun_17"
+            ],
+            "İlginç bir teori aslında!": [
+                  "Sun_18"
+            ],
+            "Hani hiç de kötü olmazdı.": [
+                  "Sun_nothing"
+            ],
+            "Merhaba @. Çalışmaya ara mı verdin?": [
+                  "Wed2"
+            ],
+            "Ben de. Ah! Aslında somut bir durum yok... Yalnızca çevrim içi ders alıyorum.": [
+                  "Wed2_sv1"
+            ],
+            "Merhaba. Seni gördüğüme sevindim.": [
+                  "Tue4"
+            ],
+            "Bir süreliğine kafamı boşaltmak istiyorum... Günün nasıl geçiyor?": [
+                  "Tue4_sv1"
+            ],
+            "Bunca yolu beni görmek için mi geldin? Çok hoşsun.": [
+                  "Sat6"
+            ],
+            "Hiç dağdaki mağaraları araştırmaya gitmiş miydin?": [
+                  "Sat6_sv1"
+            ],
+            "İlginç duruyorlar. Bende bir gün gitmek istiyorum.": [
+                  "Sat6_sv2"
+            ],
+            "Kasabaya ilk geldiğinde, ağaçların kesilip yerlerini tarlalar alacağı için üzülmüştüm. Şimdiyse iyi ki taşınmışsın diyorum!": [
+                  "Mon8_query_1"
+            ],
+            "Ah @! Selam.": [
+                  "Mon8_query_2"
+            ],
+            "Takılmak ister misin? Ver bakalım. Avucunu okuyayım. *kıkırdar*": [
+                  "Mon8_query_2_sv1"
+            ],
+            "Merhaba.": [
+                  "Thu10",
+                  "fall_Sat6"
+            ],
+            "Son zamanlarda sana da her şey sanki gerçek değilmiş gibi geliyor mu?": [
+                  "Thu10_sv1"
+            ],
+            "Kötü bir şekilde değil gerçi.": [
+                  "Thu10_sv2"
+            ],
+            "Bugün kuşlar sevinçle cıvıldıyor. Geleceği anlayamayacak kadar saflar.": [
+                  "Fri6"
+            ],
+            "Onlar gibi olmak en iyisi aslında, değil mi?": [
+                  "Fri6_sv1"
+            ],
+            "Harika! Bu bölümü kolayca geçeceğine eminim.": [
+                  "Event_VideoGame_Yes"
+            ],
+            "Ah? *iç çeker* Sanırım bu bölümü asla geçemeyeceğim...": [
+                  "Event_VideoGame_No"
+            ],
+            "Gördün mü? Neden burada olduğumu biliyorsun o zaman.": [
+                  "Event_Grave1"
+            ],
+            "Hayatımın tamamını vadide geçirdim ama hatırlamaya değer hiçbir şey yapmadım. Maceraya atılmak istiyorum!": [
+                  "Event_Grave1_sv1",
+                  "Event_Grave2_sv1",
+                  "Event_Grave3_sv2",
+                  "Event_Grave4_sv1"
+            ],
+            "Hiçbir şey öldürmek istemiyorum elbette. Sadece boynumu tehlikeye atmadan azıcık olsun keşif yapmak istiyorum!": [
+                  "Event_Grave2"
+            ],
+            "Ah, kız olduğum için... değil mi? Of...": [
+                  "Event_Grave3_male_farmer"
+            ],
+            "Neden? Ben de en az senin kadar güçlüyüm!": [
+                  "Event_Grave3_female_farmer"
+            ],
+            "Kırılgan bir prenses değilim... Kendi başımın çaresine bakabilirim!": [
+                  "Event_Grave3_sv1"
+            ],
+            "Gerçekten mi? Bu çok şaşılası.": [
+                  "Event_Grave4"
+            ],
+            "Anlıyorum...": [
+                  "Event_Rain_1"
+            ],
+            "Evet... Sanırım bu kasvetli havayı takdir edersin.": [
+                  "Event_Rain_2"
+            ],
+            "...Bak orası doğru.": [
+                  "Event_Rain_3"
+            ],
+            "Evet... Sanırım hayat iyi gidiyor...": [
+                  "Event_Tragic_1"
+            ],
+            "...!": [
+                  "Event_Tragic_2"
+            ],
+            "Buna inansaydım daha iyi hissedebilirdim...": [
+                  "Event_Tragic_3"
+            ],
+            "Gel gör ki inanmıyorum.": [
+                  "Event_Tragic_3_sv1"
+            ],
+            "@...": [
+                  "Event_Cave2_1"
+            ],
+            "@... Bir şeyim yok.": [
+                  "Event_Cave2_2"
+            ],
+            "...Tamam.": [
+                  "Event_Cave_1"
+            ],
+            "Kaybedecek bir şeyin olunca korkman çok normal galiba...": [
+                  "Event_Cave_2"
+            ],
+            "...Ah, tamam. Affedersin.": [
+                  "Event_Cave_3"
+            ],
+            "Yaz geldi. En sevdiğim mevsim olduğunu söyleyemem.": [
+                  "summer_1"
+            ],
+            "Hava o kadar boğucu ki çorbada yüzüyormuş gibi hissediyorum.": [
+                  "summer_1_sv1"
+            ],
+            "Evcil kobayım David bu sıcak havadan nefret eder. Telaşlanıyor.": [
+                  "summer_Mon"
+            ],
+            "Yaz boyunca hava bal ve bal özü ile dolu olacak. Gözüm kararıyor.": [
+                  "summer_Tue"
+            ],
+            "Evine çekidüzen verdin mi? Kendime ait bir evim olsaydı ben verirdim.": [
+                  "summer_Wed"
+            ],
+            "Dün akşam hava karardıktan sonra kumsala indim... Kimileyin, denizde kırpışan garip ışıklar görülüyor.": [
+                  "summer_6"
+            ],
+            "Belki de düş görmüşümdür... Artık gerçekmiş gibi gelmiyor.": [
+                  "summer_6_sv1"
+            ],
+            "Kılıç kullanmasını bilseydim şimdi dağ gölünün oradaki mağaraları keşfediyor olurdum. Herhalde orası serin ve rahattır.": [
+                  "summer_Thu"
+            ],
+            "Iy, umarım bu yaz bronzlaşmam.": [
+                  "summer_Thu4"
+            ],
+            "Keşke bir kedim olsaydı. Ne yazık ki, babamın neredeyse her şeye alerjisi var.": [
+                  "summer_Fri"
+            ],
+            "Güzü sabırsızlıkla bekliyorum... Soğuk dağ esintisi, uçuşan kırmızı yapraklar, mantarların kokusu... *iç çeker*": [
+                  "summer_Sat"
+            ],
+            "Sana hiçbir anda keşfe çıkma isteği geliyor mu, @?": [
+                  "summer_Sun"
+            ],
+            "Tamam... Ücretsiz bir tatil kazanmış olsan nereye giderdin?": [
+                  "summer_Sun_sv1"
+            ],
+            "Bana geliyor... Sen muhtemelen düşündüğüm bu yerleri sevmezsin...": [
+                  "summer_Sun_old_prereq_1"
+            ],
+            "Belki bir gün komşu oluruz. Bence ikimizin de benzer, garip tatları var.": [
+                  "summer_Sun_old_prereq_2"
+            ],
+            "Hıh. Bence oralardan çabuk sıkılırsın.": [
+                  "Sun_25"
+            ],
+            "Aynen! Kulağa harika geliyor.": [
+                  "Sun_26"
+            ],
+            "Senin gibi eski bir çiftlik evinde yaşamayı çok istiyorum.": [
+                  "summer_Wed2"
+            ],
+            "Döşemelerin gıcırtısı, kirişlerin arasında fısıldayan tozların fısıltısı... Eski yapılarda özel bir sürü şey var, yanılıyor muyum?": [
+                  "summer_Wed2_sv1"
+            ],
+            "İlginç bir adamsın": [
+                  "summer_Tue4_male_farmer"
+            ],
+            "kadınsın} @. Buraya taşınmana sevindim.": [
+                  "summer_Tue4_female_farmer"
+            ],
+            "Bu yaz aslında hoş vakit geçiriyorum.": [
+                  "summer_Sat6"
+            ],
+            "İnsanın bakış açısının çabucak değişebilmesi ne kadar da gülünç.": [
+                  "summer_Sat6_sv1"
+            ],
+            "Pelikan Kasabası'nın sıkıcı olduğunu düşünürdüm. Son zamanlarda burayla ilgili bazı şeyleri sevmeye başladım.": [
+                  "summer_Mon8"
+            ],
+            "Bugün çok hoşsun.": [
+                  "summer_Thu10"
+            ],
+            "Demek istediğim, bu yaz havası cilde çok iyi gelmiyor mu?.. Heh...": [
+                  "summer_Thu10_sv1"
+            ],
+            "Çiftliğinde yalnız kaldığın oluyor mu?": [
+                  "summer_Fri10"
+            ],
+            "Ah... Güz geldi!": [
+                  "fall_1"
+            ],
+            "Ben de tam yazdan sıkılmaya başlamıştım.": [
+                  "fall_1_sv1"
+            ],
+            "Bugün bacaklarımı esnetip temiz hava almalıyım.": [
+                  "fall_Mon"
+            ],
+            "Çoğu günler dükkanda bizimkilere yardım ediyorum. Joja Mart açıldığından beri işler pek iyi gitmiyor gerçi.": [
+                  "fall_Tue_prereq_1"
+            ],
+            "Joja Mart kapandıktan sonra işlerimiz açıldı!": [
+                  "fall_Tue_prereq_2"
+            ],
+            "Bu yılki bal kabaklarını görmek için sabırsızlanıyorum.": [
+                  "fall_Wed"
+            ],
+            "Ruhluk Arefesi şöleni güzün sonunda gerçekleşiyor. Zuzu Şehri'nde göreceklerine göre sönük kalır ama burası gibi küçük bir kasabaya göre bayağı eğlenceli.": [
+                  "fall_Wed_sv1"
+            ],
+            "Dün gece düşümde sol elimin devasa bir %noun olduğunu gördüm. Bunun bir anlamı var mı?": [
+                  "fall_Thu_chance_1"
+            ],
+            "%Abigail şu anda konuşmakla ilgilenmiyor.": [
+                  "fall_Thu_chance_2"
+            ],
+            "Halkevi'ni tek başına onardığına inanamıyorum. Gerçekten etkilendim.": [
+                  "fall_Sat_prereq_1"
+            ],
+            "Çitfliğinde korkuluk var mı?": [
+                  "fall_Sat_prereq_2"
+            ],
+            "Hım... Bu akşam ne yapsam?": [
+                  "fall_Sun"
+            ],
+            "Saçımı boyamayı düşünüyorum... Ne diyorsun?": [
+                  "fall_Sun_sv1"
+            ],
+            "Saçımı boyayacaktım ama vazgeçtim.": [
+                  "fall_Sun_old_prereq_1"
+            ],
+            "Evet mi? Bu nedir?": [
+                  "fall_Sun_old_prereq_2"
+            ],
+            "Sanırım sağlam bir seçim, ha?": [
+                  "Sun_27"
+            ],
+            "Bunu düşüneceğim.": [
+                  "Sun_27_sv1"
+            ],
+            "Tabii öyle dersin.": [
+                  "Sun_28"
+            ],
+            "Güldürme konusunda formunu hiç bozmuyorsun.": [
+                  "Sun_WildColor"
+            ],
+            "Bu yıl çiftliğinde bal kabağı yetiştiriyor musun?": [
+                  "fall_Wed2"
+            ],
+            "Bir tanesini bana ayır!": [
+                  "fall_Wed2_sv1"
+            ],
+            "Ailemle çok kavga etsem de sadece beni sakındıklarını biliyorum. En iyisi olduğunu düşündükleri şeyi yapıyorlar.": [
+                  "fall_Tue4"
+            ],
+            "Bunu sana neden anlattığımı bilmiyorum. Kimseye söyleme sakın.": [
+                  "fall_Tue4_sv1"
+            ],
+            "Saçın bugün çok hoş duruyor... Farklı bir şey mi yaptın?": [
+                  "fall_Sat6_sv1"
+            ],
+            "Bilirsin ya hani, aslında günün birinde çiftçi olacağımı hissedebiliyorum...": [
+                  "fall_Mon8"
+            ],
+            "Ama nasıl olacağım? *kıkırdar*": [
+                  "fall_Mon8_sv1"
+            ],
+            "Dün gece ilginç bir rüya gördüm. Sen de vardın.": [
+                  "fall_Thu10"
+            ],
+            "Kötü bir rüya değildi.": [
+                  "fall_Thu10_sv1"
+            ],
+            "Keşke güz daha uzun sürse.": [
+                  "fall_Fri6"
+            ],
+            "Rüzgar kuvvetlendiğinde neredeyse çocukluk günlerime dönüyorum.": [
+                  "fall_Fri6_sv1"
+            ],
+            "Genellikle yılın bu zamanı yalnızmışım gibi gelirdi. Artık gelmiyor.": [
+                  "fall_Fri10"
+            ],
+            "@, geleceğe yönelik neler planlıyorsun?": [
+                  "fall_Fri10_sv1"
+            ],
+            "Güz sona erdi...": [
+                  "winter_1"
+            ],
+            "Ama ben kışı da seviyorum!": [
+                  "winter_1_sv1"
+            ],
+            "Sık sık dışarı çıkmak için hava çok soğuk.": [
+                  "winter_Mon"
+            ],
+            "Ancak kardan adam yapmayı seviyorum.": [
+                  "winter_Mon_sv1"
+            ],
+            "Bir bardak sıcak çikolata yapmak kulağa harika gelmiyor mu?": [
+                  "winter_Tue"
+            ],
+            "Merhaba. Kışın çiftçi olmak sıkıcı mı?": [
+                  "winter_Wed"
+            ],
+            "Yarın kesinlikle yumurta avına çıkacağım. Sen de çıkacak mısın?": [
+                  "spring_12"
+            ],
+            "Yarın çiçek dansı var. Dans etmek sıkıntı değil de, bu aptal beyaz elbiseyi giymem gerekiyor...": [
+                  "spring_23"
+            ],
+            "Yarın kardan adam yapmak için sabırsızlanıyorum.": [
+                  "winter_7"
+            ],
+            "Yarınki Ruhluk Arefesi'ne katılacak mısın? Perili labirentte beni bul.": [
+                  "fall_26"
+            ],
+            "Herkes yarınki Luau için oldukça heyecanlı. Vali'nin de geleceğini düşünürsek, azıcık gergin de olabilirler.": [
+                  "summer_10"
+            ],
+            "Yarınki şöleni kaçıramazsın. Vadi'nin en harika yanlarından birisi bu şölen.": [
+                  "summer_27"
+            ],
+            "Yarın bayağı kızılcık sosu yiyeceğim.": [
+                  "winter_24"
+            ],
+            "Bir yıl daha bitip gitmek üzere.": [
+                  "winter_Thu"
+            ],
+            "Çok hızlı geçiyor, değil mi?": [
+                  "winter_Thu_sv1"
+            ],
+            "Burada yaşarken öğrendiğim bir şey var... Farklı görünüyorsan, herkes sana dimdik bakıyor.": [
+                  "winter_Fri"
+            ],
+            "Hafta sonu geldi!": [
+                  "winter_Sat"
+            ],
+            "Bu da normalin iki katı bilgisayar oyunu oynayabileceğim anlamına geliyor.": [
+                  "winter_Sat_sv1"
+            ],
+            "Görüşürüz.": [
+                  "winter_Sat_sv2"
+            ],
+            "İki tane çizim yaptım. Sen ne düşünüyorsun?": [
+                  "winter_Sun_sv1"
+            ],
+            "Bir süre önce sana gösterdiğim çizimleri hatırlıyor musun? Yanlışlıkla onları attım.": [
+                  "winter_Sun_old_prereq_1"
+            ],
+            "Sana gösterdiğim orklu çizim vardı ya... Onunla çevrim içi bir yarışmaya girdim ve 50g kazandım!": [
+                  "winter_Sun_old_prereq_2"
+            ],
+            "Öyle mi? Sanırım mantıklı.": [
+                  "Sun_29"
+            ],
+            "Sevindim. Sanatını başkalarıyla paylaşmak utanç verici. Ancak, sanırım seninle hemfikiriz.": [
+                  "Sun_30"
+            ],
+            "Çok kabasın! Beni neden bu şekilde incitiyorsun? Çok duyarsızsın!": [
+                  "Sun_Bad"
+            ],
+            "Selam. Sıkılırsan odamda takılabilirsin.": [
+                  "winter_Wed2"
+            ],
+            "Üstümü değiştirmediğim sürece, elbette!": [
+                  "winter_Wed2_sv1"
+            ],
+            "Hava çok soğuk. Keşke paylaşabileceğimiz bir sıcak çikolatamız olsaydı.": [
+                  "winter_Tue4"
+            ],
+            "Son zamanlarda çok hayal kuruyorum...": [
+                  "winter_Sat6"
+            ],
+            "Ah! Ne hakkında kurduğumu bilmek ister misin? Şey...": [
+                  "winter_Sat6_sv1"
+            ],
+            "...Bu bir sır.": [
+                  "winter_Sat6_sv2"
+            ],
+            "Bir yıl daha bitip gitmek üzere...": [
+                  "winter_Thu10"
+            ],
+            "Ancak bu yıl çok güzeldi, sence de öyle değil mi?": [
+                  "winter_Thu10_sv1"
+            ],
+            "Yılın bu zamanı düşünecek ekininin olmaması hoş olmalı.": [
+                  "winter_Wed6"
+            ],
+            "Ki bu da daha sık takılabileceğimiz anlamına geliyor!": [
+                  "winter_Wed6_sv1"
+            ],
+            "@, sana söylemek istediğim bir şey var...": [
+                  "winter_Fri10"
+            ],
+            "Şey... ım... şey... ayakkabıların! Onlar, ah... çok temizler... *yutkunur*": [
+                  "winter_Fri10_sv1"
+            ],
+            "Hepsi buydu... *iç çeker*": [
+                  "winter_Fri10_sv2"
+            ],
+            "Hayvanları sevmeyen birine güvenemem...": [
+                  "Wed4"
+            ],
+            "Ya, endişelenme! Hayvansever olduğunu biliyorum!": [
+                  "Wed4_sv1"
+            ]
+      },
+      "marriage_dialogue": {
+            "Karanlık... Yağmur... Bu hava beni heyecanlandırıyor.": [
+                  "Rainy_Day_0"
+            ],
+            "Hey, göl kenarında yaptığımız düeti hatırlıyor musun? Bu hava bana o günü hatırlatıyor.": [
+                  "Rainy_Day_1"
+            ],
+            "O küçük arp ile beni çok şaşırtmıştın... Hiç beklemiyordum. Sanırım bu yüzden seni çok seviyorum.": [
+                  "Rainy_Day_1_sv1"
+            ],
+            "Hey! Erken kalkıp biraz keşfe çıktım. Bunu buldum, bana seni anımsattı.": [
+                  "Rainy_Day_2"
+            ],
+            "Bundan daha iyisini bulabileceğini mi düşünüyorsun? Pek emin değilim!": [
+                  "Rainy_Day_2_sv1"
+            ],
+            "Mağaraları ziyaret etmek için güzel bir gün sanki. Dikkatli ol.": [
+                  "Rainy_Day_3"
+            ],
+            "Mağaralara gidersen bir iki tane yaşam iksiri götürmeyi unutma.": [
+                  "Rainy_Day_3_sv1"
+            ],
+            "Belki bugün Çayır Kralı'nın Yolculuğu'nu açarım... yemin ederim ki bir gün kendi başıma bitireceğim o oyunu.": [
+                  "Rainy_Day_4"
+            ],
+            "%Abgail kendini müziğe kaptırmış.": [
+                  "patio_Abigail"
+            ],
+            "Böyle bir günde kırsal daha ilgi çekici görünüyor. Sence de öyle değil mi?": [
+                  "Rainy_Day_Abigail"
+            ],
+            "Yağmur yağmış ağaçlara bakıyordum... Yemin ederim ki ağaçların arasında siyahtan daha koyu bir şey gördüm.": [
+                  "Rainy_Night_0"
+            ],
+            "Hayalet görmek için güzel bir gece.": [
+                  "Rainy_Night_1"
+            ],
+            "Hissedebiliyor musun? Yağmurda dinginlik var...": [
+                  "Rainy_Night_2"
+            ],
+            "Böyle gecelerde ışıkları kapatıp dinlemeyi seviyorum...": [
+                  "Rainy_Night_3"
+            ],
+            "Akşam yemeği için içimden çorba yapmak geldi. Umarım tadı iğrenç olmamıştır.": [
+                  "Rainy_Night_4"
+            ],
+            "Hey! Çok çalışıyor gibisin. Rahatlamana yardımcı olabilir miyim?": [
+                  "Rainy_Night_5_male_farmer"
+            ],
+            "Çok mu çalışıyorsun? Yorulduğunda çok tatlı duruyorsun.": [
+                  "Rainy_Night_5_female_farmer"
+            ],
+            "Yağmurun sesi bu gece rahatça uyumamızı sağlayacak.": [
+                  "Rainy_Night_Abigail"
+            ],
+            "Burayı sen gelmeden önce de severdim. Şimdi çiftliği istediğim zaman keşfedebilirim!": [
+                  "Indoor_Day_0"
+            ],
+            "Merhaba, @. Vahşi doğaya mı karışacaksın? Sana bir şey vereceğim...": [
+                  "Indoor_Day_1"
+            ],
+            "Zorlanırsan onu kullan. Seni güvende tutacaktır.": [
+                  "Indoor_Day_1_sv1"
+            ],
+            "Madenlere mi gidiyorsun? Şey... Eğer lezzetli bir şey bulursan bana da bir parça getirmeyi unutma!": [
+                  "Indoor_Day_2"
+            ],
+            "Selam! Bugün ne yapsam diye düşünüyordum. Bu kadar özgürlüğe alışkın değilim!": [
+                  "Indoor_Day_3"
+            ],
+            "Ara sıra burayı dekore etsem rahatsız olmazsın değil mi? İlgilenebileceğim bir mekânımın olması beni heyecanlandırıyor.": [
+                  "Indoor_Day_4"
+            ],
+            "Çifliğimizde hep yeni bir şeyler oluyor... Bunu çok seviyorum.": [
+                  "Indoor_Day_Abigail"
+            ],
+            "Bugün iyi bir gün geçirdim. Eğer yakından bakarsan buralarda hep ilginç şeyler oluyor.": [
+                  "Indoor_Night_0"
+            ],
+            "Merhaba, bana gününü anlatsana. İlginç bir şey oldu mu?": [
+                  "Indoor_Night_1"
+            ],
+            "Eskiden gece kuşuydum, fakat şimdilerde çiftlik hayatının düzenine ayak uyduruyorum. Olması gereken buymuş gibi hissettiriyor.": [
+                  "Indoor_Night_2"
+            ],
+            "*esner*... Yakında yatmaya hazır olacağım.": [
+                  "Indoor_Night_3"
+            ],
+            "Gecenin sesleri burada daha iyi geliyor. Seslerin tadını çıkarmayı hiçbir zaman bırakmayacağım.": [
+                  "Indoor_Night_4"
+            ],
+            "Yatmaya hazır mısın? Bizim için elektirikli battaniyeyi çalıştırdım...": [
+                  "Indoor_Night_Abigail"
+            ],
+            "Bugünkü esinti dağların kokusunu taşıyor. Taze çam ağacı ve ada çayı kokuyor.": [
+                  "Outdoor_0"
+            ],
+            "Hım... Sanırım dışarıda balçıkça çiftliği kurmak için yeterince yerimiz var!": [
+                  "Outdoor_1"
+            ],
+            "Büyükbabanın kabrini temiz tuttuğundan emin ol. Orada özel bir şey olduğunu hissediyorum.": [
+                  "Outdoor_2"
+            ],
+            "Çiftliğimizde mağara olması çok hoş. Hep böyle bir şeyin hayalini kurardım.": [
+                  "Outdoor_3"
+            ],
+            "Cebime atıştırmalık koymayı sürekli unutuyorum. *söylenir*": [
+                  "Outdoor_4"
+            ],
+            "Buralarda takılacağım, tamam mı?": [
+                  "Outdoor_Abigail"
+            ],
+            "Burada çok sayıda ilginç böcek ve daha bir sürü şey var. *kıkırdar*": [
+                  "Outdoor_Abigail_sv1"
+            ],
+            "Bugün kasabaya gideceğim, haber vermek istedim. Az bacaklarımı esneteyim.": [
+                  "funLeave_Abigail"
+            ],
+            "Selam! Günün güzel geçti mi? Benimki iyiydi. Yürüyüşe çıkmak çok ferahlatıcıydı.": [
+                  "funReturn_Abigail"
+            ],
+            "\"Anne\" olduğuma inanamıyorum... Hayat çok garip.": [
+                  "OneKid_3"
+            ],
+            "%kid1 ve %kid2 mısır gevreklerini yediler bile. Artık ağlayacaklardı!": [
+                  "TwoKids_0"
+            ],
+            "Rüyamda %kid2 ünlü bir canavar avcısı olmuştu. Onun için ufak bir zırh bulmayı düşünüyorum.": [
+                  "TwoKids_2"
+            ],
+            "Eski, hoş bir ev, birkaç çocuk ve harika bir çiftlik. Bunların olacağını sanmazdım... Daha dur sen! Hayat yeni başlıyor.": [
+                  "TwoKids_3"
+            ],
+            "Sen de duydun mu? Bazen bu evin hayaletli olduğunu düşünüyorum.": [
+                  "Good_1"
+            ],
+            "Welwick, bugün baktığı falda benim için iyi şeyler gördü. Keyfim yerine geldi!": [
+                  "Good_2"
+            ],
+            "Saçımı en son boyadığım zamanı hatırlayamıyorum... Yemin ederim ki bu renk hiç solmuyor...": [
+                  "Good_3"
+            ],
+            "Taşınmadan önce bir çift çizme aldığım için çok mutluyum. Spor ayakkabılarımla çamur birinkitilerinin arasında sekerek gitmek çok zor olacaktı.": [
+                  "Good_4"
+            ],
+            "Bana verdiğin kolyeye hayran kaldım... Mezarıma kadar bunu gururla takacağım.": [
+                  "Good_5"
+            ],
+            "Zeki olduğunu biliyorum ama yine de senin için endişeleniyorum. Dünya canavarlarla dolu.": [
+                  "Good_6"
+            ],
+            "Dikkatli olacağına söz ver. Seni kaybetmek istemiyorum.": [
+                  "Good_6_sv1"
+            ],
+            "@, bizim için çok çalıştığını görüyorum ve bunu takdir ediyorum. Seninle gurur duyuyorum.": [
+                  "Good_7"
+            ],
+            "Umarım yaşlanıp buruştuğumda beni hâlâ seversin. Bir gün ben de yaşlanacağım!": [
+                  "Neutral_0"
+            ],
+            "Sence büyükbaban bizimle gurur duyar mıydı?": [
+                  "Neutral_1"
+            ],
+            "Bakkal ne durumda merak ediyorum. Yakında anne ve babamı ziyaret etmem gerekli.": [
+                  "Neutral_6"
+            ],
+            "Eğer diğer tarafa taşınırsan, senin için büyükbabanın yanına ufak bir kabir yapacağım.": [
+                  "Neutral_7"
+            ],
+            "Ne kadar temizlesem de ev yine de kirleniyor.": [
+                  "Neutral_8"
+            ],
+            "Sanırım çiftlik evleri hep böyle.": [
+                  "Neutral_8_sv1"
+            ],
+            "Tüm hayatımız boyunca burada mı yaşayacağız, merak ediyordum. Sıkılabilirim.": [
+                  "Neutral_9"
+            ],
+            "Eskiden senin için özeldim, en iyi arkadaşındım... Şimdilerde ise bir tek güzel yemek yaptığımda beni farkediyorsun.": [
+                  "Bad_7"
+            ],
+            "Bana karşı çok soğuk davranıyorsun, neyin var? Ruh gibisin...": [
+                  "Bad_8"
+            ],
+            "Daha iyisini yapabilir miydim acaba? Senden önce Sebastian ile çok iyi arkadaştık, aslında onunla olmalıydım...": [
+                  "Bad_9"
+            ],
+            "Pekâlâ, yeni yıl için planların var mı?": [
+                  "spring_1"
+            ],
+            "Hey, yarın yumurta şöleni var. Evliyiz diye sana iltimas göstermeyeceğim.": [
+                  "spring_12"
+            ],
+            "Yumurta avını kazanmayı planlıyorum, hadi beni yen!": [
+                  "spring_12_sv1"
+            ],
+            "Yeni yıl için hedeflerin var mı? Ben birkaç kilo vermek istiyorum.": [
+                  "spring_2"
+            ],
+            "Cildim güneşte kolayca yanıyor. Bu yüzden dikkat etmeliyim.": [
+                  "summer_1"
+            ],
+            "Umarım beni açık tenli de seversin!": [
+                  "summer_1_sv1"
+            ],
+            "Dikkat et aşkım, kalp krizi geçirmeni istemem.": [
+                  "summer_4"
+            ],
+            "Çok su iç ve aşırı çalışmamaya özen göster.": [
+                  "summer_4_sv1"
+            ],
+            "Kokunun kusuruna bakma... Tüm gece sıcaktan terledim.": [
+                  "summer_8"
+            ],
+            "Yaz geldi... Ev sinek dolacak.": [
+                  "summer_15"
+            ],
+            "Merak etme, onlarla ben ilgilenirim. Bu aslında çok eğlenceli olabiliyor!": [
+                  "summer_15_sv1"
+            ],
+            "Ah, güz mevsimi, yılın en sevdiğim dönemi... Renkler saçımı çok güzel gösteriyor... Değil mi?": [
+                  "fall_6"
+            ],
+            "Bu kokuyu tanımakta yanılmam... Mantar, çürüyen yapraklar, bal kabağı. Güz ne kadar hoş, değil mi?": [
+                  "fall_1"
+            ],
+            "Bebeğim, bu mevsimde devasa bal kabakları yetiştirebilir miyiz lütfen?": [
+                  "fall_2"
+            ],
+            "Balım... Benim için bir kasa dolusu kuvarstan daha değerlisin.": [
+                  "fall_20"
+            ],
+            "Tabii... Bir de bir kasa dolusu ametist var. Hım... Düşünmem gerek...": [
+                  "fall_20_sv1"
+            ],
+            "Aslında soğuk havayı severim. Bana ısınmam için neden sunuyor sonuçta!": [
+                  "winter_3"
+            ],
+            "Kışın vadiyi keşfetmek çok eğlenceli! Kar örtüsünün altında her şey çok farklı duruyor. Çok sessiz...": [
+                  "winter_15"
+            ],
+            "Daha soğuk havaları seviyor olabilir. Yine de sonunda baharın gelmesine çok seviniyorum.": [
+                  "spring_Abigail"
+            ],
+            "Şu anda çikolatalı pasta olsa hayır diyemem.": [
+                  "summer_Abigail"
+            ],
+            "Bal kabağı mı kokuyorsun? Belki de yanılıyorumdur...": [
+                  "fall_Abigail"
+            ],
+            "Eskiden odamda \"Çayır Kralı\" oynardık. Hatırlıyor musun? Harika zamanlardı.": [
+                  "winter_Abigail"
+            ],
+            "Senden biraz önce kalkıp Küçük David'i besledim. Bu sabah yerinde durmuyor.": [
+                  "spouseRoom_Abigail_chance_1"
+            ],
+            "Umarım kobay kokusundan rahatsız olmazsın.": [
+                  "spouseRoom_Abigail_chance_2"
+            ]
+      },
+      "gift_tastes": {
+            "Buna ciddi ciddi bayıldım! @, sen bir tanesin!": [
+                  "AbigailGiftTaste_1"
+            ],
+            "Hey, aç olduğumu nereden bildin? Çok lezzetli duruyor!": [
+                  "AbigailGiftTaste_2"
+            ],
+            "Bununla ne yapacağım ben?": [
+                  "AbigailGiftTaste_3"
+            ],
+            "Ne düşünüyordun ki? Bu iğrenç bir şey!": [
+                  "AbigailGiftTaste_4"
+            ],
+            "Bana hediye mi aldın? Teşekkürler.": [
+                  "AbigailGiftTaste_5"
+            ]
+      },
+      "misc": {
+            "Otobüsü tamir etmenden dolayı çok mutluyum! Çok güzel oldu.": [
+                  "DesertFestival_Abigail"
+            ],
+            "Hep Pelikan Kasabası dışında bir yerler görmek istemişimdir.": [
+                  "DesertFestival_Abigail_sv1"
+            ],
+            "Kafatası Mağarası'nda sana katılmayı düşünüyorum ama şimdi yemek reyonunu gördüm...": [
+                  "DesertFestival_Abigail_marriage"
+            ],
+            "Bensiz devam et... Dikkatli ol ha!": [
+                  "DesertFestival_Abigail_marriage_sv1"
+            ],
+            "Dolaptan rastgele birkaç parça aldım. Beğendiğin var mı?": [
+                  "Shop_Abigail"
+            ],
+            "Sen şu yeni çiftçisin, değil mi?": [
+                  "WipedMemory"
+            ],
+            "Sanki... hayır. Daha önce hiç karşılaşmadığımıza eminim.": [
+                  "WipedMemory_sv1"
+            ],
+            "%Abigail müziğe dalmış...": [
+                  "AbigailInMineFlute"
+            ],
+            "Selam @. Şaşırdın mı? ...Sonunda buraya inecek cesareti bulabildim.": [
+                  "AbigailInMineFirst"
+            ],
+            "Başlarda korksam da sonunda sindirebildim.": [
+                  "AbigailInMineFirst_sv1"
+            ],
+            "Artık kendime daha çok güveniyorum. Aslında çok keyifliymiş!": [
+                  "AbigailInMineFirst_sv2"
+            ],
+            "Hey! Bayağı ilerledim, değil mi?": [
+                  "AbigailInMine0"
+            ],
+            "Ah!": [
+                  "AbigailInMine1"
+            ],
+            "Haha! Beni korkuttun! Burada kimseyi görmeyi beklemiyordum!": [
+                  "AbigailInMine1_sv1"
+            ],
+            "Affedersin, gerilince birden ter bastı...": [
+                  "AbigailInMine1_sv2"
+            ],
+            "Merhaba @! Hiçbir canavarla savaşmadan buraya kadar geldim...": [
+                  "AbigailInMine2"
+            ],
+            "Hey! Seni burada görmek beni rahatlattı...": [
+                  "AbigailInMine3"
+            ],
+            "Şey... Babama beni burada gördüğünü söyleme, olur mu?": [
+                  "AbigailInMine3_sv1"
+            ],
+            "Selam! Yağmuru fırsat bilip madenleri keşfe mi çıktın? Ben de!": [
+                  "AbigailInMine4"
+            ],
+            "Sinema salonu, festival günlerinde kapalıdır!": [
+                  "MovieInvite_Festival"
+            ],
+            "Sinema salonu, geceleri kapalıdır...": [
+                  "MovieInvite_Closed"
+            ],
+            "Bugün {0} ile sinemaya gitmeyi planlıyorsun zaten!": [
+                  "MovieInvite_AlreadyInvitedSomeone"
+            ],
+            "{0} şaşırmış gibi...": [
+                  "MovieInvite_NoTheater"
+            ],
+            "{0} sinemaya davet edilemez.": [
+                  "MovieInvite_CantInvite"
+            ],
+            "Üzgünüm. Bugün bir başkasıyla sinemaya gitmeyi düşünüyordum. Bize katılmak ister misin?": [
+                  "MovieInvite_InvitedBySomeoneElse"
+            ],
+            "Şu anda sinemaya gitmek istemiyorum...": [
+                  "MovieInvite_FarmerAlreadySeen"
+            ],
+            "Kusura bakma ama daha bu hafta gittim...": [
+                  "MovieInvite_AlreadySeen"
+            ],
+            "Film mi? Olur. Salonda görüşürüz.": [
+                  "MovieInvite_Invited"
+            ],
+            "Film mi? Olur herhalde. Salonda görüşürüz...": [
+                  "MovieInvite_Invited_Rude"
+            ],
+            "Film mi? Yaşasın! Salonda buluşuruz!": [
+                  "MovieInvite_Invited_Child"
+            ],
+            "Sinemaya gidebileceğimi sanmıyorum...": [
+                  "MovieInvite_Reject_Child"
+            ],
+            "Üzgünüm ama şu anda hiç film seyredecek havada değilim...": [
+                  "MovieInvite_Reject"
+            ],
+            "Sinema mı? Çok güzel olur! Salonda buluşuruz.": [
+                  "MovieInvite_Spouse_Abigail",
+                  "MovieInvite_Spouse_Abigail"
+            ],
+            "Umarım heyecanla izleyeceğim bir filmdir.": [
+                  "MovieInvite_Spouse_Abigail_sv1",
+                  "MovieInvite_Spouse_Abigail_sv1"
+            ],
+            "Çayır Kralı'nın filmini yaptıklarını inanamıyorum... Umarım güzeldir!": [
+                  "Abigail_summer_movie_0_BeforeMovie"
+            ],
+            "Dinlesene... Müzik çok tanıdık geliyor.": [
+                  "Abigail_summer_movie_0_DuringMovie"
+            ],
+            "Her ne kadar oyunculuk rezalet olsa da keyif aldım.": [
+                  "Abigail_summer_movie_0_AfterMovie"
+            ],
+            "'Canlı dünyamızı keşfetmek' için sabırsızlanıyorum... Ya sen?": [
+                  "Abigail_spring_movie_1_BeforeMovie"
+            ],
+            "Bak bunu bilmiyordum!": [
+                  "Abigail_spring_movie_1_DuringMovie"
+            ],
+            "İlginç bir gösterimdi. En çok rakunları sevdim... Çok tatlıydılar!": [
+                  "Abigail_spring_movie_1_AfterMovie"
+            ],
+            "Korku filmlerine bayılıyorum... Umarım gerçekten korkunçtur!": [
+                  "Abigail_love_BeforeMovie"
+            ],
+            "Haha! Hiç korkmasam da beğendim.": [
+                  "Abigail_love_DuringMovie"
+            ],
+            "Abigail kıkırdıyor!": [
+                  "Abigail_love_DuringMovie_2"
+            ],
+            "Çok yapmacıktı. Yine de gideri var.": [
+                  "Abigail_love_AfterMovie"
+            ],
+            "Hey! Beni çağırdığın için teşekkür ederim. Sinemaya gitmeye bayılıyorum.": [
+                  "Abigail_like_BeforeMovie"
+            ],
+            "İlginçti... Acaba aynı durumda ben olsam ne yapardım?": [
+                  "Abigail_like_AfterMovie"
+            ],
+            "Fragmandan anladığım kadarıyla tam anlamıyla uyumalık bir film...": [
+                  "Abigail_dislike_BeforeMovie"
+            ],
+            "İlgi çekici bir şey olursa beni uyandırırsın.": [
+                  "Abigail_dislike_DuringMovie"
+            ],
+            "*esner*... Sence de çok sıkıcı değil miydi?": [
+                  "Abigail_dislike_AfterMovie"
+            ],
+            "Elbette seninle dans ederim!": [
+                  "Event_cs_1632"
+            ],
+            "Çiçek dansında eşim mi olmak istiyorsun?": [
+                  "Event_cs_1633"
+            ],
+            "Tamam. Dansı dört gözle bekliyor olacağım.": [
+                  "Event_cs_1633_sv1"
+            ],
+            "Çiçek dansında benimle mi eşleşmek istiyorsun?": [
+                  "Event_cs_1634"
+            ],
+            "Tamam! Seve seve.": [
+                  "Event_cs_1634_sv1"
+            ],
+            "Üzgünüm... Zaten bir eşim var.": [
+                  "Event_cs_1635"
+            ],
+            "Düğün harikaydı... değil mi, canım?": [
+                  "Game1_cs_2782"
+            ],
+            "Tabii çiftliği unutamayız... Çalışma zamanı geldi.": [
+                  "Game1_cs_2782_sv1"
+            ],
+            "Heh... {0} bugün senden gizli hediyesini almış...": [
+                  "NPC_cs_3985"
+            ],
+            "Senden şüphelenmeli miyim?": [
+                  "NPC_cs_3985_sv1"
+            ],
+            "...": [
+                  "NPC_cs_3985_sv2",
+                  "NPC_cs_4431"
+            ],
+            "Tatlım... Aşkımı simgesi olarak bu meyveyi sana vermek istedim.": [
+                  "NPC_cs_4001"
+            ],
+            "Selam...": [
+                  "NPC_cs_4058"
+            ],
+            "Selam!": [
+                  "NPC_cs_4059"
+            ],
+            "Merhaba.": [
+                  "NPC_cs_4060",
+                  "NPC_cs_4061",
+                  "NPC_cs_4072"
+            ],
+            "Selamlar!": [
+                  "NPC_cs_4062"
+            ],
+            "Günaydın.": [
+                  "NPC_cs_4063"
+            ],
+            "İyi öğlenler.": [
+                  "NPC_cs_4064"
+            ],
+            "İyi akşamlar.": [
+                  "NPC_cs_4065"
+            ],
+            "{0}!": [
+                  "NPC_cs_4066"
+            ],
+            "Selam {0}!": [
+                  "NPC_cs_4068"
+            ],
+            "Merhaba {0}.": [
+                  "NPC_cs_4071"
+            ],
+            "{0}m": [
+                  "NPC_cs_4079",
+                  "NPC_cs_4080"
+            ],
+            "Biliyor musun, {0}": [
+                  "NPC_cs_4083"
+            ],
+            "ile '{0}' arasında bir şeyler varmış.": [
+                  "NPC_cs_4084"
+            ],
+            "{0} ile '{1}' arasında bir şeyler varmış!": [
+                  "NPC_cs_4086"
+            ],
+            "Söylemişti.": [
+                  "NPC_cs_4088",
+                  "NPC_cs_4089"
+            ],
+            "Sana bir sır vereyim, {0} ile '{1}' arasında bir şeyler varmış.": [
+                  "NPC_cs_4091"
+            ],
+            "{0} seni sevsin istiyorsan, ona '{1}' ver.": [
+                  "NPC_cs_4094",
+                  "NPC_cs_4097"
+            ],
+            "{0} ile yakınlık kurmak istiyorsan, ona '{1}' ver.": [
+                  "NPC_cs_4100",
+                  "NPC_cs_4103"
+            ],
+            "{0} ile arkadaş olmak istiyorsan, '{1}' ile ters düşmemelisin.": [
+                  "NPC_cs_4106"
+            ],
+            "En sevdiği bu.": [
+                  "NPC_cs_4109",
+                  "NPC_cs_4111"
+            ],
+            "Bunu seviyor.": [
+                  "NPC_cs_4113",
+                  "NPC_cs_4115"
+            ],
+            "Buna bayılıyor.": [
+                  "NPC_cs_4114",
+                  "NPC_cs_4116"
+            ],
+            "Bir ara ona vermiştim. Sonrasında sürekli sözünü eder oldu.": [
+                  "NPC_cs_4118",
+                  "NPC_cs_4120"
+            ],
+            "Bundan harika hediye olur.": [
+                  "NPC_cs_4125"
+            ],
+            "Bununla onu mutlu edebilirsin.": [
+                  "NPC_cs_4126",
+                  "NPC_cs_4128"
+            ],
+            "'{0}' sevmez, hatta nefret eder. Kesinlikle {1} buluyor.": [
+                  "NPC_cs_4135",
+                  "NPC_cs_4138"
+            ],
+            "{0} hiç mi hiç '{1}' sevmez! Bana söylemişti.": [
+                  "NPC_cs_4141",
+                  "NPC_cs_4144"
+            ],
+            "Ben uyarmış olayım:": [
+                  "NPC_cs_4146"
+            ],
+            "{0}, '{1}' varya ondan gerçekten nefret ediyor.": [
+                  "NPC_cs_4147"
+            ],
+            "{0} senden hoşlanmasın istiyorsan, ona '{1}' ver. Bundan tutkulu bir şekilde nefret ediyor.": [
+                  "NPC_cs_4149",
+                  "NPC_cs_4153"
+            ],
+            "{0} senden hoşlanmasın istiyorsan, ona '{1}' ver. Bundan tutkulu bir şekilde nefret eder.": [
+                  "NPC_cs_4152",
+                  "NPC_cs_4154"
+            ],
+            "{0}, '{1}' hiç sevmez. Ona hoş olmayan bir şaka yapmak istiyorsan ondan verebilirsin. Seni affetmeyebilir yalnız.": [
+                  "NPC_cs_4161",
+                  "NPC_cs_4164"
+            ],
+            "Bunu tecrübe ederek öğrendim.": [
+                  "NPC_cs_4170"
+            ],
+            "Nedeninden emin değilim.": [
+                  "NPC_cs_4171"
+            ],
+            "Düşüncesi bile sinirlerini bozabilir.": [
+                  "NPC_cs_4172",
+                  "NPC_cs_4174"
+            ],
+            "Alerjisi olabilir.": [
+                  "NPC_cs_4176",
+                  "NPC_cs_4178"
+            ],
+            "Herkesin bir şeye takıntısı var sonuçta.": [
+                  "NPC_cs_4180"
+            ],
+            "{0} hiç mi hiç '{1}' sevmez. Nedenini falan bilmek istemezsin. Güven bana.": [
+                  "NPC_cs_4182"
+            ],
+            "Doğum günümü unutmadın mı? Etkilendim doğrusu. Teşekkürler.": [
+                  "NPC_cs_4274"
+            ],
+            "Doğum günü hediyesi mi? Çok naziksin! Çok beğendim.": [
+                  "NPC_cs_4275"
+            ],
+            "Doğum günümü hatırlamışsın! Teşekkür ederim. Harikasın.": [
+                  "NPC_cs_4277"
+            ],
+            "Doğum günüm için mi? Teşekkürler.": [
+                  "NPC_cs_4280"
+            ],
+            "Ah! Bana bunu yaptığına inanamıyorum!": [
+                  "NPC_cs_4293"
+            ],
+            "Çok bozuldum! Sorunun ne ki senin?": [
+                  "NPC_cs_4294"
+            ],
+            "Bugün sanki uyuyormuşum gibi geçiyor.": [
+                  "NPC_cs_4406"
+            ],
+            "*iç çeker*...": [
+                  "NPC_cs_4420"
+            ],
+            "Sıkıldım...": [
+                  "NPC_cs_4421"
+            ],
+            "Bazen hayatta doğru şeyi yapıp yapmadığımı merak ediyorum...": [
+                  "NPC_cs_4422"
+            ],
+            "Ha? Bir şey yok... Ben iyiyim.": [
+                  "NPC_cs_4423"
+            ],
+            "Bugün enerjik değilim, o kadar.": [
+                  "NPC_cs_4424"
+            ],
+            "Evlendiğimizden beri hayatım kesinlikle çok ama çok değişti...": [
+                  "NPC_cs_4425"
+            ],
+            "Ne... Temizlik yapmamı, sana yemek hazırlamamı mı istiyorsun? *iç çeker*...": [
+                  "NPC_cs_4426"
+            ],
+            "*iç çeker*... Cildim bugün korkunç görünüyor.": [
+                  "NPC_cs_4427"
+            ],
+            "Korkunç işte... Bana bakış biçiminden belli oluyor.": [
+                  "NPC_cs_4427_sv1",
+                  "NPC_cs_4429_sv1"
+            ],
+            "*iç çeker*... Saçım bugün korkunç görünüyor.": [
+                  "NPC_cs_4429"
+            ],
+            "Hiç köşeye sıkıştığını hissetmez misin?": [
+                  "NPC_cs_4431_sv1"
+            ],
+            "*söylenir*... Ev işleri...": [
+                  "NPC_cs_4432"
+            ],
+            "Yapacak işin yok mu?": [
+                  "NPC_cs_4433"
+            ],
+            "Acaba bebişimiz hayatımızı ne kadar değiştirecek?": [
+                  "NPC_cs_4439"
+            ],
+            "{0}, umarım evlat edinme isteğimiz kabul edilir. Çocuğum olsun istiyorum.": [
+                  "NPC_cs_4440"
+            ],
+            "{0}, evlat edinme belgelerini doldurdum. Geriye bir tek dua edip beklemek kaldı.": [
+                  "NPC_cs_4441"
+            ],
+            "Ah... Uyandığımdan beri midem bulanıyor.": [
+                  "NPC_cs_4442"
+            ],
+            "Hamileyim ya... Kahvaltını kendin hazırlayamaz mısın?": [
+                  "NPC_cs_4443"
+            ],
+            "{0}, yakında çocuğumuz olacak.": [
+                  "NPC_cs_4444"
+            ],
+            "{0}, hamileyim. Bu harika değil mi?": [
+                  "NPC_cs_4445"
+            ],
+            "Bugün uyumak istiyorum. Endişelenecek bir şey yok.": [
+                  "NPC_cs_4446"
+            ],
+            "{0}, yakında bir bebeğimiz olacak.": [
+                  "NPC_cs_4447"
+            ],
+            "{0}, anlamadın mı? Hamilesin işte.": [
+                  "NPC_cs_4448"
+            ],
+            "Ebeveyn olmak can sıkabiliyor... Bazı zamanlar hiç kalkmak istemiyorum.": [
+                  "NPC_cs_4449"
+            ],
+            "Biraz yalnız kalmalıyım... Değişiklik olsun diye neden çocuklarla sen ilgilenmiyorsun?": [
+                  "NPC_cs_4452"
+            ],
+            "Sana kahvaltı hazırlayacaktım ama vazgeçtim.": [
+                  "NPC_cs_4455"
+            ],
+            "Erkenden uyanıp bazı ekinleri suladım. Umarım bugünkü işini hafifletebilmişimdir.": [
+                  "NPC_cs_4462"
+            ],
+            "Ayrıca {0} için koyduğumuz kap boştu, bende doldurdum.": [
+                  "NPC_cs_4463_sv1"
+            ],
+            "Ayrıca hayvanların taslarını doldurdum.": [
+                  "MultiplePetBowls_watered_sv1"
+            ],
+            "Merhaba {0}!": [
+                  "NPC_cs_4465"
+            ],
+            "Günaydın {0}!": [
+                  "NPC_cs_4466"
+            ],
+            "Erkenden uyanınca ekinleri sulayayım dedim ama çoktan sulanmışlardı! Çiflikte düzeni kurmuşsun gerçekten.": [
+                  "NPC_cs_4470"
+            ],
+            "Erkenden uyanıp tüm hayvanları yedirdim. Umarım bugünkü işini hafifletebilmişimdir.": [
+                  "NPC_cs_4474"
+            ],
+            "Bu sabah çitlerin bir kısmını onardım. Yeni gibi oldular.": [
+                  "NPC_cs_4481"
+            ],
+            "{0}, ne düşünüyorsun?": [
+                  "NPC_cs_4486"
+            ],
+            "Bunu daha geçen gün söylemiştim. Hemencecik gelmiş.": [
+                  "NPC_cs_4488"
+            ],
+            "Bu odaya azıcık süs iyi gider diye düşündüm.": [
+                  "NPC_cs_4489"
+            ],
+            "Bugün etrafı biraz süsleyecektim ama vazgeçtim.": [
+                  "NPC_cs_4490"
+            ],
+            "Yeni duvar kağıdı seçimim hakkında ne düşünüyorsun?": [
+                  "NPC_cs_4496"
+            ],
+            "Yeni döşeme seçimim hakkında ne düşünüyorsun?": [
+                  "NPC_cs_4497"
+            ],
+            "*iç çeker*... Bazen eski hayatımı özlüyorum.": [
+                  "NPC_cs_4498"
+            ],
+            "Hava yataktan çıkmak için fazla kasvetli.": [
+                  "NPC_cs_4499"
+            ],
+            "Ben yokken burayı temizleyebilirdin...": [
+                  "NPC_cs_4500"
+            ],
+            "Sabahtan akşama kadar çalıştıktan sonra çöplerin arasından ağır ağır ve güçlükle ilerlemek hiç hoş değil.": [
+                  "NPC_cs_4500_sv1"
+            ],
+            "Geliyor!": [
+                  "AbigailGame_cs_11896"
+            ],
+            "Yarısı tamamdır!": [
+                  "AbigailGame_cs_11897"
+            ],
+            "Hey! Başardık!": [
+                  "AbigailGame_cs_11898"
+            ],
+            "Ah ya...": [
+                  "AbigailGame_cs_11901"
+            ],
+            "Hayır!": [
+                  "AbigailGame_cs_11902"
+            ],
+            "Oyun Bitti": [
+                  "AbigailGame_cs_11914"
+            ],
+            "Yeniden Başla": [
+                  "AbigailGame_cs_11917"
+            ],
+            "Bu istediğim {0} mı?": [
+                  "ItemDeliveryQuest_cs_13530"
+            ],
+            "İstediğim şeyi getirmişsin!": [
+                  "ItemDeliveryQuest_cs_13532"
+            ],
+            "Astığım ilanı mı gördün?": [
+                  "ItemDeliveryQuest_cs_13534"
+            ],
+            "Astığım duyuruyu mu gördün?": [
+                  "ItemDeliveryQuest_cs_13535"
+            ],
+            "Astığım bildiriyi mi gördün?": [
+                  "ItemDeliveryQuest_cs_13536"
+            ],
+            "Çok teşekkür ederim!": [
+                  "ItemDeliveryQuest_cs_13538"
+            ],
+            "Gerçekten müteşekkirim.": [
+                  "ItemDeliveryQuest_cs_13539"
+            ],
+            "Mükemmel görünüyor.": [
+                  "ItemDeliveryQuest_cs_13540"
+            ],
+            "": [
+                  "ItemDeliveryQuest_cs_13542",
+                  "ItemDeliveryQuest_cs_13543",
+                  "ItemDeliveryQuest_cs_13544"
+            ],
+            "Sıkıntını çözecek küçük bir şey getirdim.": [
+                  "ItemDeliveryQuest_cs_13542_sv1"
+            ],
+            "Söz verdiğim gibi ödemeni buyur.": [
+                  "ItemDeliveryQuest_cs_13543_sv1"
+            ],
+            "...Bir bakalım. Sana borcum bu kadar.": [
+                  "ItemDeliveryQuest_cs_13544_sv1"
+            ],
+            "Hım... Bu düşündüğüm kadar heyecan verici değil...": [
+                  "ItemDeliveryQuest_cs_13597"
+            ],
+            "Tabii bu senin suçun değil! Haha. İlanımla ilgilendiğin için teşekkür ederim, @.": [
+                  "ItemDeliveryQuest_cs_13597_sv1"
+            ],
+            "Heh heh... Mükemmel. İşte ödülün, @. Babama tek kelime etme ama.": [
+                  "ItemDeliveryQuest_cs_13599"
+            ],
+            "Hey, yardımın için teşekkürler. Bu, tam da istediğim şey.": [
+                  "ItemDeliveryQuest_cs_13602"
+            ]
+      },
+      "schedule": {
+            "Burada saklanıyoruz ki kimse ile konuşmak zorunda kalmayalım.": [
+                  "Sun_000"
+            ],
+            "Of... Hâlâ kendi başıma bitiremiyorum.": [
+                  "marriage_Mon_002"
+            ],
+            "Of... Bugün doktor randevum var.": [
+                  "spring_4_000"
+            ],
+            "Eski tayfayı görmek çok güzel. Hiçbir şey değişmemiş.": [
+                  "marriage_Fri_001"
+            ],
+            "Daha ne kadar var doktor? Çok acıktım.": [
+                  "spring_4_002"
+            ],
+            "Merhaba @. Burada dinlenmeyi seviyorum... Çok huzurlu.": [
+                  "marriage_Mon_001"
+            ],
+            "Ne haber @? Tam da anneme selam veriyordum.": [
+                  "marriage_Fri_000"
+            ],
+            "Babam ben yokken idare ediyor gibi.": [
+                  "marriage_Mon_000"
+            ],
+            "Bu çok gizemli... Bayıldım!": [
+                  "winter_15_000"
+            ],
+            "Buraya yıllık kontrolüm için geldim, korkma, hamile değilim... Yani şey, hasta değilim! Heh.": [
+                  "spring_4_001"
+            ]
+      },
+      "continuation_dialogue": {
+            "continuation_dialogue": [
+                  "AcceptBirthdayGift_Negative",
+                  "AcceptGift_Book_Void",
+                  "AcceptGift_Book_Void_sv1",
+                  "AcceptGift_109",
+                  "AcceptGift_119",
+                  "AcceptGift_279",
+                  "married_Sebastian",
+                  "Resort",
+                  "FlowerDance_Accept_Spouse",
+                  "breakUp",
+                  "Sun2",
+                  "Sun2_sv1",
+                  "Thus10_sv1",
+                  "summer_sun",
+                  "summer_sun_sv1",
+                  "summer_Wed2",
+                  "fall_sun",
+                  "fall_sun_sv1",
+                  "fall_Tue4",
+                  "winter_Sun",
+                  "winter_Sun_sv1",
+                  "winter_Sat6_sv1",
+                  "winter_Thu10",
+                  "PurchasedItem_Abigail_QualityLow",
+                  "PurchasedItem_Abigail_QualityHigh",
+                  "SummitEvent_Dialogue3_Abigail",
+                  "AbigailInMineFirst",
+                  "AbigailInMineFirst_sv1"
+            ]
+      }
+}

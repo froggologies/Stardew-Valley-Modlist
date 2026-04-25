@@ -1,0 +1,15 @@
+{
+    "Ah, selam @. Tam da bir şeyler atıştırmak üzereydim.": "SamHouse_46_Sam_Sam_event1",
+    "Dur sana bir şey getireyim.": "SamHouse_46_Sam_Sam_event2",
+    "Ah, olamaz... Ne dağınıklık ama.": "SamHouse_46_Sam_Sam_event3",
+    "O ses neydi?": "SamHouse_46_Sam_Jodi_event1",
+    "*yutkunur*": "SamHouse_46_Sam_Jodi_event2",
+    "Çok korkunç! Ne oldu?": "SamHouse_46_Sam_Jodi_event3",
+    "...Söyle ona, @.": "SamHouse_46_Sam_Sam_event4",
+    "Doğruyu söylediğin için teşekkürler, @. Çok da dert değil.": "SamHouse_46_Sam_Jodi_event4_prereq_1",
+    "NE yaptın Sam?! Aklından ne geçiyordu?!": "SamHouse_46_Sam_Jodi_event4_prereq_2",
+    "Bunun için üzgünüm anne. Ben temizlerim.": "SamHouse_46_Sam_Sam_event5",
+    "Teşekkürler, tatlım.": "SamHouse_46_Sam_Jodi_event5",
+    "Sana kızgınım! Neden öyle yalan söyledin ki?": "SamHouse_46_Sam_Sam_endDialogue6_prereq_1",
+    "Önceden olanlar için üzgünüm.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_2"
+}

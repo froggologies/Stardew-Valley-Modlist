@@ -1,0 +1,692 @@
+{
+      "Megtaláltad! Köszönöm.": [
+            "LostItemQuest_DefaultThankYou"
+      ],
+      "Nézz csak rá kicsiny családunkra... Jó sokat megéltünk már, ugye?": [
+            "NewChild_SecondChild1"
+      ],
+      "Két gyönyörű gyerek... Sokat megéltünk már, ugye?": [
+            "NewChild_SecondChild2"
+      ],
+      "Olyan csodálatos, hogy a kis {0} is belépett az életünkbe.": [
+            "NewChild_Adoption"
+      ],
+      "Minden jól ment, és a kis {0} is a családunk része lett. Nagyon szerencsések vagyunk.": [
+            "NewChild_FirstChild"
+      ],
+      "Őőő... Drágám? Mit keresnek szörnyek a házban?": [
+            "Spouse_MonstersInHouse"
+      ],
+      "Az új {0} holnapra kész! Izgulsz már?": [
+            "Farm_RobinWorking_ReadyTomorrow"
+      ],
+      "Az új {0} {1} nap múlva készül el. Csak tégy úgy, mintha itt se lennék.": [
+            "Farm_RobinWorking1"
+      ],
+      "Az új {0} {1} nap múlva készül el. Éjt-nappallá téve fogok rajta dolgozni!": [
+            "Farm_RobinWorking2"
+      ],
+      "Izé... Te meg mit művelsz?": [
+            "JoshHouse_Alex_Trash"
+      ],
+      "Hé, ne kutakodj ott!": [
+            "SamHouse_Sam_Trash"
+      ],
+      "Hé, te meg mégis mit képzelsz? Az privát!": [
+            "SeedShop_Abigail_Drawers"
+      ],
+      "Te meg mit művelsz? Csak azokat engedem be oda, akikben megbízok.": [
+            "Wizard_Hatch"
+      ],
+      "Hé. Elkészült az eszközöd, de nincs rá szabad helyed a tárgymenüdben.": [
+            "Clint_NoInventorySpace"
+      ],
+      "Őőő, még mindig dolgozok a kért {0} fejlesztésen. Mára nem lesz kész.": [
+            "Clint_StillWorking"
+      ],
+      "A múzeum fantasztikusan néz ki! Ismét köszönöm a segítségedet.": [
+            "Gunther_MuseumComplete"
+      ],
+      "Nem úgy tűnik, mintha lenne nálad a múzeumnak adományozható tárgy. Jobb lesz, ha kimész egy kicsit kincsekre vadászni, nem gondolod?": [
+            "Gunther_NothingToDonate"
+      ],
+      "Üdv néked! Üdvözöllek a Stardew Valley archeológiai irodában.": [
+            "Gunther_NoArtifactsFound"
+      ],
+      "Öhm... Ez kissé kínos, de az előző múzeumvezetőnk a teljes kollekciót magával vitte. Jelenleg egy ereklyénk sincs, ami ki lenne állítva.": [
+            "Gunther_NoArtifactsFound_sv1"
+      ],
+      "De reménykedem, hogy ezt hamarosan orvosolni tudom! Hé, ha netán találnál pár ereklyét vagy ásványt odakint... szólnál nekem?": [
+            "Gunther_NoArtifactsFound_sv2"
+      ],
+      "Mi történt? Te klubtag vagy?!": [
+            "Sandy_PlayerClubMember"
+      ],
+      "Nocsak, nocsak, nocsak... Nézzenek oda, hogy ki jutott be az exkluzív klubházamba.": [
+            "MisterQi_PlayerClubMember"
+      ],
+      "Benned van a 'szikra'... ezért is válogattalak be téged.": [
+            "MisterQi_PlayerClubMember_sv1"
+      ],
+      "Miféle szikra? Ah... A rejtély vezetője, és a művészeté...": [
+            "MisterQi_PlayerClubMember_sv2"
+      ],
+      "A magunkfajtáknak kell a világot életben tartani, a népnek egy kis ízelítőt adni a szokatlanból.": [
+            "MisterQi_PlayerClubMember_sv3"
+      ],
+      "Tudod, kölyök... A világ olyan, mint egy tál rizs. Van benne anyag, de nem ér túl sokat egy jó pikáns szósz nélkül. Itt jövünk mi a képbe.": [
+            "MisterQi_PlayerClubMember_sv4"
+      ],
+      "Nem gondolkoztál még el azon, hogy ki rakta azokat a kincsesládákat a régi bányákba? Nos, szeretem meglepni az embereket.": [
+            "MisterQi_PlayerClubMember_sv5"
+      ],
+      "Egy napon majd te is megérted. Csak hozd a legjobb formádat, és sose add fel.": [
+            "MisterQi_PlayerClubMember_sv6"
+      ],
+      "Köszönöm! Holnap el is kezdek munkálkodni rajta. Nagyjából három nap múlva kész is lesz.": [
+            "Robin_HouseUpgrade_Accepted"
+      ],
+      "Ez annyira kedves tőled! Holnap elkezdek dolgozni a fejlesztésen. Nagyjából három nap múlva kész is lesz.": [
+            "Robin_PamUpgrade_Accepted"
+      ],
+      "...Eszméletlenül találtam rád a bányában. Majdnem összetévesztettelek egy egzotikus fadarabbal!": [
+            "Mines_PlayerKilled_Robin"
+      ],
+      "Legközelebb légy egy kicsit óvatosabb, rendben?": [
+            "Mines_PlayerKilled_Robin_sv1",
+            "Mines_PlayerKilled_Clint_sv1",
+            "Mines_PlayerKilled_Maru_Spouse_sv1",
+            "Mines_PlayerKilled_Maru_NotSpouse_sv1",
+            "Mines_PlayerKilled_Linus_sv1"
+      ],
+      "...Eszméletlenül találtam rád a bányában. Azt hiszem beállt a derekam, miközben egész idáig vonszoltalak téged.": [
+            "Mines_PlayerKilled_Clint"
+      ],
+      "...Eszméletlenül találtam rád a bányában. Olyan sokáig eltűntél, hogy már kezdtem aggódni érted!": [
+            "Mines_PlayerKilled_Maru_Spouse"
+      ],
+      "...Eszméletlenül találtam rád a bányában. Épp ásványokat gyűjtögettem, mikor majdnem ráléptem a fejedre!": [
+            "Mines_PlayerKilled_Maru_NotSpouse"
+      ],
+      "...Eszméletlenül találtam rád a bányában. Szerencséd van, hogy épp arrafelé jártam!": [
+            "Mines_PlayerKilled_Linus"
+      ],
+      "Olyan sokáig eltűntél, hogy már kezdtem aggódni érted! Sírni kezdtem, mikor megláttam erőtlen testedet...": [
+            "Mines_PlayerKilled_Spouse_PlayerMale"
+      ],
+      "Olyan sokáig eltűntél, hogy már kezdtem aggódni érted! Majdnem szívrohamot kaptam, mikor megláttam erőtlen testedet...": [
+            "Mines_PlayerKilled_Spouse_PlayerFemale"
+      ],
+      "Kiváló! Üdvözlünk a Joja Vállalatnál! Jöjj vissza holnap, és akkor majd beszélhetünk pár közösségfejlesztési tervről... Ó, és ne feledkezz meg a pénztárcádról! Hehe.": [
+            "Morris_PlayerSignedUp"
+      ],
+      "Most hadd hívjam fel Lewis polgármestert, hogy szétszedjük azt a csúnya és régi közösségi központot...": [
+            "Morris_PlayerSignedUp_sv1"
+      ],
+      "Jöjj vissza holnap, és akkor majd beszélhetünk pár közösségfejlesztési tervről... És ne felejts el egy halom pénzt hozni magaddal. Hehe.": [
+            "Morris_ComeBackLater"
+      ],
+      "Üdvözlünk a JojaMartban! Milyen napod van?": [
+            "Morris_Greeting",
+            "Morris_FirstGreeting",
+            "Morris_FirstGreeting_MembershipAvailable",
+            "Morris_FirstGreeting_SecondPlayer"
+      ],
+      "Nem hiszem, hogy ismernénk egymást. A nevem Morris, én vagyok a Joja Fogyasztói Elégedettség Képviselője.": [
+            "Morris_Greeting_sv1"
+      ],
+      "Ha úgy döntesz, hogy Joja Taggá akarsz válni, örömmel segítek neked elérni átmenetedet egy boldogabb tapasztalatszerzéshez.": [
+            "Morris_Greeting_sv2"
+      ],
+      "Üdvözlünk a JojaMartban! Hogy telik a hétvégéd?": [
+            "Morris_WeekendGreeting",
+            "Morris_WeekendGreeting_CommunityCenterComplete",
+            "Morris_WeekendGreeting_MembershipAvailable",
+            "Morris_WeekendGreeting_SecondPlayer"
+      ],
+      "Jelenleg egy vadiúj tagsági rendszert vezetnénk be a fogyasztóink számára. Kérjük hamarosan nézz vissza, ha társulni szeretnél!": [
+            "Morris_WeekendGreeting_sv1",
+            "Morris_FirstGreeting_sv1"
+      ],
+      "Üdvözlünk a JojaMartban! Hogy érzed magad?": [
+            "Morris_FirstGreeting_CommunityCenterComplete"
+      ],
+      "Sajnos nem várt körülmények miatt a Joja Tagsági ajánlatunk jelenleg nem elérhető. Biztos vagyok benne, hogy hamarosan megoldódik a dolog!": [
+            "Morris_FirstGreeting_CommunityCenterComplete_sv1",
+            "Morris_WeekendGreeting_CommunityCenterComplete_sv1"
+      ],
+      "Elérhető a tagságunk! Joja Tagsággal képes leszel fejleszteni a közösséget, méghozzá külön erre a célra szánt személyzetünkkel... Persze csak díj fejében.": [
+            "Morris_WeekendGreeting_MembershipAvailable_sv1",
+            "Morris_FirstGreeting_MembershipAvailable_sv1"
+      ],
+      "Oh, és még valami... Lewis polgármester megígérte, hogyha bárki más társulna, akkor megengedné, hogy azt a régi közösségi központot Joja raktárépületté alakítsuk át. Hát nem csodálatos?": [
+            "Morris_WeekendGreeting_MembershipAvailable_sv2",
+            "Morris_FirstGreeting_MembershipAvailable_sv2"
+      ],
+      "A Tagság {0}g-be kerül. Nos, szeretnél velünk társulni?": [
+            "Morris_WeekendGreeting_MembershipAvailable_sv3",
+            "Morris_FirstGreeting_MembershipAvailable_sv3"
+      ],
+      "Hmm... Nyilvántartásaink szerint te egy farmon élsz pár másik emberrel... Sajnálom, de csak a birtok tulajának adhatunk tagságot.": [
+            "Morris_WeekendGreeting_SecondPlayer_sv1",
+            "Morris_FirstGreeting_SecondPlayer_sv1"
+      ],
+      "Jelen pillanatban épp a legutóbbi Közösségfejlesztési terveden dolgozunk. Kérjük térj vissza akkor, ha az elkészült.": [
+            "Morris_StillProcessingOrder"
+      ],
+      "Itt van a Joja Közösségfejlesztési Terv formanyomtatványa, uram. Megtekintené?": [
+            "Morris_CommunityDevelopmentForm_PlayerMale"
+      ],
+      "Itt van a Joja Közösségfejlesztési Terv formanyomtatványa, hölgyem. Megtekintené?": [
+            "Morris_CommunityDevelopmentForm_PlayerFemale"
+      ],
+      "Hé, {0}.": [
+            "PurchasedItem_1_QualityHigh",
+            "PurchasedItem_1_QualityLow",
+            "PurchasedItem_1_QualityHigh_Willy",
+            "PurchasedItem_1_QualityLow_Willy"
+      ],
+      "Szóval benéztem a minap Pierrehez és vettem egy {2}-t. Jó ideje nem láttam már ilyet errefelé...": [
+            "PurchasedItem_1_QualityHigh_sv1",
+            "PurchasedItem_1_QualityLow_sv1"
+      ],
+      "Tegnap este megfőztem vacsorára... Utána az egész háznak {3} illata volt. Nagyon jól sikerült!": [
+            "PurchasedItem_1_QualityHigh_sv2"
+      ],
+      "Örülök, hogy Pierre ismét többféle árut gyűjt be.": [
+            "PurchasedItem_1_QualityHigh_sv3"
+      ],
+      "Egyébként...": [
+            "PurchasedItem_1_QualityHigh_sv4",
+            "PurchasedItem_1_QualityLow_sv3"
+      ],
+      "Tegnap este megfőztem vacsorára... Utána az egész háznak {3} illata volt. Nem is akarom tudni, hogy honnét szerezhette Pierre azt az izét.": [
+            "PurchasedItem_1_QualityLow_sv2"
+      ],
+      "Szia... tegnap te adtál el egy {2}-t a boltban? Azt hiszem én vettem meg...": [
+            "PurchasedItem_2_QualityHigh",
+            "PurchasedItem_2_QualityHigh_Jodi",
+            "PurchasedItem_2_QualityLow"
+      ],
+      "Nagyon jó minőségű cucc volt. Le vagyok nyűgözve.": [
+            "PurchasedItem_2_QualityHigh_sv1"
+      ],
+      "Elég jó minőségű cucc volt. Amint megszagoltam úgy éreztem ismét a nagymamám régi kunyhójában vagyok...": [
+            "PurchasedItem_2_QualityHigh_Jodi_sv1"
+      ],
+      "Jó volt a minősége.": [
+            "PurchasedItem_2_QualityLow_sv1"
+      ],
+      "Tegnap este elmentem vásárolni, és vettem egy {2}-t, mert le volt árazva {3}g-re.": [
+            "PurchasedItem_3_QualityLow_Rude",
+            "PurchasedItem_3_QualityHigh_Rude",
+            "PurchasedItem_3_NonRude"
+      ],
+      "Egyszerűen {4} volt! Nem csoda, hogy Pierre az ilyen {5} portékát ilyen olcsón adja...": [
+            "PurchasedItem_3_QualityLow_Rude_sv1"
+      ],
+      "Egészen {4} volt.": [
+            "PurchasedItem_3_QualityHigh_Rude_sv1"
+      ],
+      "Ilyen áron bűn lett volna otthagyni.": [
+            "PurchasedItem_3_NonRude_sv1"
+      ],
+      "Szóval tegnap benéztem a boltba, és Pierre mutatott nekem egy {2}-t, amit te hoztál be.": [
+            "PurchasedItem_4"
+      ],
+      "Megvettem tőle.": [
+            "PurchasedItem_4_sv1"
+      ],
+      "A minap megvettem a legfinomabb {2}-t Pierre boltjából.": [
+            "PurchasedItem_5_VegetableOrFruit",
+            "PurchasedItem_5_Cooking"
+      ],
+      "Azt mondta, hogy a saját kertjében termesztette. Nem is tudtam, hogy Pierre ilyen tehetséges gazda!": [
+            "PurchasedItem_5_VegetableOrFruit_sv1"
+      ],
+      "Úgy tűnik vetélytársra akadtál, mi?": [
+            "PurchasedItem_5_VegetableOrFruit_sv2"
+      ],
+      "Azt mondta, hogy maga főzte helyi hozzávalókból. Nem is tudtam, hogy Pierre ilyen {4} séf!": [
+            "PurchasedItem_5_Cooking_sv1"
+      ],
+      "A minap megvettem a legfinomabb {2}-t Pierre boltjából. Azt mondta, hogy maga találta, miközben a hegyekben kirándult. Nem is tudtam, hogy Pierre ilyen tehetséges gyűjtögető!": [
+            "PurchasedItem_5_Foraged"
+      ],
+      "Hé, szóval tegnap este a boltból megvettem az egyik {2}-t, amit te hagytál ott. Anyám valami jót akart készíteni vacsorára.": [
+            "PurchasedItem_Teen"
+      ],
+      "Hé. Tegnap a boltban vettünk pár {2}-t, amit te hagytál még ott, és elkészítettük vacsorára... Azt hiszem már kezdett megromlani, és apu nem akarta kidobni.": [
+            "PurchasedItem_Abigail_QualityLow",
+            "PurchasedItem_Abigail_QualityHigh"
+      ],
+      "Sajnos eléggé {3} íze volt.": [
+            "PurchasedItem_Abigail_QualityLow_sv1"
+      ],
+      "Bár egész jó volt.": [
+            "PurchasedItem_Abigail_QualityHigh_sv1"
+      ],
+      "Ó, @... Ez kissé kínos. Az általad eladott {2}-t bedobtam a komposztálóba.": [
+            "PurchasedItem_Caroline_QualityLow",
+            "PurchasedItem_Caroline_QualityHigh"
+      ],
+      "Most az egésznek borzalmas szaga van. Hol is találtad ezt a valamit?": [
+            "PurchasedItem_Caroline_QualityLow_sv1"
+      ],
+      "De nézzük a jó oldalát, a giliszták nagyon kedvelik! Még sose tűntek ennél boldogabbnak!": [
+            "PurchasedItem_Caroline_QualityHigh_sv1"
+      ],
+      "Hé, emlékszel arra, hogy egy {2}-t adtál el nekem a minap? Felszolgáltam a családomnak egy különleges vacsora alkalmából.": [
+            "PurchasedItem_Pierre_QualityLow",
+            "PurchasedItem_Pierre_QualityHigh"
+      ],
+      "Nem mondanám, hogy nagy sikert aratott...": [
+            "PurchasedItem_Pierre_QualityLow_sv1"
+      ],
+      "... nos... térjünk vissza az üzletre, oké?": [
+            "PurchasedItem_Pierre_QualityLow_sv2",
+            "PurchasedItem_Pierre_QualityHigh_sv2"
+      ],
+      "A feleségem imádta! ...És Abby csak úgy falta az egészet, miután hoisin szószt kentem rá.": [
+            "PurchasedItem_Pierre_QualityHigh_sv1"
+      ],
+      "Emily próbált nekem egy {2}-t adni vacsorára... Kidobtam, mikor nem figyelt.": [
+            "PurchasedItem_Haley"
+      ],
+      "Nem igazán szeretem az egészséges ételeket...": [
+            "PurchasedItem_Haley_sv1"
+      ],
+      "Láttam, hogy Pierre egy friss {2}-t árul a boltjában a minap! Csodálatos. Tökéletes volt az illata... és erős is!": [
+            "PurchasedItem_Elliott"
+      ],
+      "Hé, szóval tegnap este vásároltam egy {2}-t a boltban. A nagyi a kedvenc raguját készítette...": [
+            "PurchasedItem_Alex"
+      ],
+      "A minap vettem egy {2}-t Pierrenél. Kiváló volt a zöldséges tálamhoz, meg a 'különleges' kóstolómhoz.": [
+            "PurchasedItem_Leah"
+      ],
+      "A minap Willynél voltam, és vettem egy {2}-t. Még sose láttam ilyen frisset!": [
+            "PurchasedItem_1_QualityHigh_Willy_sv1"
+      ],
+      "Azt főztem meg tegnap este vacsorára, és az egész háznak {3} illata volt... Nagyon bejött!": [
+            "PurchasedItem_1_QualityHigh_Willy_sv2"
+      ],
+      "Azt mondta, hogy te magad fogtad ki... Le vagyok nyűgözve!": [
+            "PurchasedItem_1_QualityHigh_Willy_sv3"
+      ],
+      "Mellesleg...": [
+            "PurchasedItem_1_QualityHigh_Willy_sv4",
+            "PurchasedItem_1_QualityLow_Willy_sv3"
+      ],
+      "A minap Willynél voltam, és vettem egy {2}-t. Azt mondta, hogy te magad fogtad ki!": [
+            "PurchasedItem_1_QualityLow_Willy_sv1"
+      ],
+      "Azt főztem meg tegnap este vacsorára... és, öhm... Az egész háznak {3} illata volt. Nem akarom tudni, hogy hol szerezted azt az izét...": [
+            "PurchasedItem_1_QualityLow_Willy_sv2"
+      ],
+      "Szia... te adtál el a minap egy {2}-t a halas boltban? Azt hiszem pont azt vettem meg...": [
+            "PurchasedItem_2_QualityHigh_Willy"
+      ],
+      "Nagyon jó volt a minősége. Le vagyok nyűgözve.": [
+            "PurchasedItem_2_QualityHigh_Willy_sv1"
+      ],
+      "Üdv... te adtál el a minap egy {2}-t a halas boltban? Azt hiszem pont azt vettem meg...": [
+            "PurchasedItem_2_QualityHigh_Jodi_Willy",
+            "PurchasedItem_2_QualityLow_Willy"
+      ],
+      "Nagyon jó volt a minősége. Nagyon szilárd volt a húsa.": [
+            "PurchasedItem_2_QualityHigh_Jodi_Willy_sv1"
+      ],
+      "Kissé fura volt a szaga, de nem volt rossz.": [
+            "PurchasedItem_2_QualityLow_Willy_sv1"
+      ],
+      "Tegnap este vásároltam egy {2}-t, mivel \"vödörszámra\" adták csupán {3}g áron.": [
+            "PurchasedItem_3_QualityLow_Rude_Willy"
+      ],
+      "Egyszerűen {4} volt! Nem csoda, hogy Willy az ilyen {5} dolgokat szinte ingyen adja el...": [
+            "PurchasedItem_3_QualityLow_Rude_Willy_sv1"
+      ],
+      "Tegnap este vásároltam egy {2}-t, mivel csupán {3}g áron adták.": [
+            "PurchasedItem_3_QualityHigh_Rude_Willy",
+            "PurchasedItem_3_NonRude_Willy"
+      ],
+      "Valójában elég {4} volt.": [
+            "PurchasedItem_3_QualityHigh_Rude_Willy_sv1"
+      ],
+      "Nem tudtam ellenállni ennek a remek árnak.": [
+            "PurchasedItem_3_NonRude_Willy_sv1"
+      ],
+      "A minap Willynél voltam, és mutatta a tőled vásárolt {2}-t.": [
+            "PurchasedItem_4_Willy"
+      ],
+      "Azt főztem meg vacsorára egy kis citrommal és rizses piláffal. Nagyon jó volt!": [
+            "PurchasedItem_4_Willy_sv1"
+      ],
+      "Ahoy... emlékszel, hogy a minap eladtál egy {2}-t nekem? Nos, kissé megsütöttem a kabinban tegnap este...": [
+            "PurchasedItem_Pierre_QualityLow_Willy"
+      ],
+      "Ez volt a legrágósabb hal, amit valaha is megrágcsáltam...": [
+            "PurchasedItem_Pierre_QualityLow_Willy_sv1"
+      ],
+      "Ahoy! Emlékszel, hogy a minap hoztál egy {2}-t? Nos, kissé megsütöttem a kabinban tegnap este...": [
+            "PurchasedItem_Pierre_QualityHigh_Willy"
+      ],
+      "Gyerekkorom óta ez volt a legjobb hal, amit ettem!": [
+            "PurchasedItem_Pierre_QualityHigh_Willy_sv1"
+      ],
+      "Fúj... Te meg mit csinálsz?": [
+            "Town_DumpsterDiveComment_Child"
+      ],
+      "Izé... Te meg mit kutakodsz a szemétben?": [
+            "Town_DumpsterDiveComment_Teen"
+      ],
+      "Hé, hagyd ezt abba! ...Fúúúj!": [
+            "Town_DumpsterDiveComment_Adult"
+      ],
+      "Nocsak, nocsak, nocsak... megcsináltad.": [
+            "SkullCavern_100_event_MrQi_event1",
+            "SkullCavern_100_event_honorable_MrQi_event1"
+      ],
+      "Jöjj közelebb... ne szégyenlősködj.": [
+            "SkullCavern_100_event_MrQi_event2",
+            "SkullCavern_100_event_honorable_MrQi_event2"
+      ],
+      "Úgy hallottam, hogy ma a bányák legmélyére próbálsz lejutni...": [
+            "SkullCavern_100_event_MrQi_event3",
+            "SkullCavern_100_event_honorable_MrQi_event3"
+      ],
+      "Lenyűgöző... nagyon lenyűgöző. Egyáltalán nem könnyű idáig lejutni!": [
+            "SkullCavern_100_event_MrQi_event4"
+      ],
+      "Most pedig... menj oda az asztalhoz, és idd meg ezt a speciális tejet, amit neked készítettem.": [
+            "SkullCavern_100_event_MrQi_event5",
+            "SkullCavern_100_event_honorable_MrQi_event5"
+      ],
+      "A neve 'irídium kígyótej'... egy kis hörpintés és attól még erősebb leszel.": [
+            "SkullCavern_100_event_MrQi_event6",
+            "SkullCavern_100_event_honorable_MrQi_event6"
+      ],
+      "Sok szerencsét odakint, kölyök.": [
+            "SkullCavern_100_event_MrQi_event7",
+            "SkullCavern_100_event_honorable_MrQi_event7"
+      ],
+      "Lenyűgöző... nagyon lenyűgöző. Maximális pontszámmal mentél át a tesztemen, kölyök.": [
+            "SkullCavern_100_event_honorable_MrQi_event4"
+      ],
+      "Oké, el fogom készíteni az általad rendelt {0}fejlesztést, és holnapután kezdek bele. Az ünnepnapokon mindig pihenek.": [
+            "Robin_UpgradeConstruction_Festival"
+      ],
+      "Oké, akkor holnap reggel nekiállok az általad rendelt {0}fejlesztésnek!": [
+            "Robin_UpgradeConstruction"
+      ],
+      "Oké, az általad rendelt {0} építésébe holnapután kezdek bele. Az ünnepnapokon mindig pihenek.": [
+            "Robin_NewConstruction_Festival"
+      ],
+      "Oké, akkor holnap reggel nekiállok az általad rendelt {0} elkészítésének!": [
+            "Robin_NewConstruction"
+      ],
+      "Ez egy előre legyártott {0}, vagyis nem kell várni a felépítésével! Hasznos, nemde?": [
+            "Robin_Instant"
+      ],
+      "Kiváló! Még ma este ráállítjuk a munkásainkat. Ha minden igaz holnapra már el is fog készülni.": [
+            "Morris_JojaCDConfirm"
+      ],
+      "Áh, a kedvenc vásárlónk... Izgalmas hírekkel szolgálhatok! A Joja főhadiszállás engedélyezte az új Joja 'szórakoztató központot', amire lecserélhetjük a közeli Joja raktárépületet. Már csak egy befektetőre van szükségünk, aki támogatná az ötletünket! Így természetesen hozzád fordulok... a legelhivatottabb és legnagylelkűbb Joja tagunkhoz.": [
+            "Morris_BuyMovieTheater"
+      ],
+      "Mindezt megoldhatnánk egy csekélyke... *köhöm*... 500.000g összeggel...": [
+            "Morris_BuyMovieTheater_sv1"
+      ],
+      "Fél mil...!": [
+            "Morris_TheaterBought"
+      ],
+      "*Köhöm*... Úgy értem... Kiváló! A Joja építkezési csapatunk még ma este nekilát az új épületnek! Köszönjük, hogy támogattad a munkánkat.": [
+            "Morris_TheaterBought_sv1"
+      ],
+      "Áh! A kedvenc vásárlóm... Sajnos jelenleg nincs több közösségfejlesztési projektünk.": [
+            "Morris_NoMoreCD"
+      ],
+      "Jól vagy? A partra vetve találtam rád, fiacskám.": [
+            "Island_willy_rescue_male_farmer"
+      ],
+      "Jól vagy? A partra vetve találtam rád, kisasszony.": [
+            "Island_willy_rescue_female_farmer"
+      ],
+      "Nagyon aggódtam miattad... Azt hittem, hogy véged van! Légy kissé óvatosabb odakint...": [
+            "Island_willy_rescue_sv1"
+      ],
+      "A sziget veszélyes tud lenni.": [
+            "Island_willy_rescue_sv2"
+      ],
+      "Úgy tűnik, hogy életben fogsz maradni.": [
+            "Island_leo_rescue"
+      ],
+      "A madár barátaim megláttak téged, és mondták, hogy bajban vagy, ezért egész idáig húztalak.": [
+            "Island_leo_rescue_sv1"
+      ],
+      "Kérlek légy óvatos odakint. Nem akarok többé szomorú lenni...": [
+            "Island_leo_rescue_sv2"
+      ],
+      "Azt hittem kedvesem, hogy már nem látok itt új arcot a szigeten. De örülök, hogy itt vagy!": [
+            "Birdie0"
+      ],
+      "Régóta pletykálják, hogy egy nagy törpe civilizáció élt ezen a szigeten.": [
+            "Birdie1"
+      ],
+      "Voltál már a vulkán belsejében? A furcsa gépezetük roncsaival van tele...": [
+            "Birdie1_sv1"
+      ],
+      "Ha bármikor émelyegne a gyomrod, egy kis gyömbér csodákra képes, kedvesem...": [
+            "Birdie2"
+      ],
+      "Voltál a dzsungelben található titkos szentélynél? Olyan finom illatúak ott a virágok... Az az egyik kedvenc helyem a szigeten.": [
+            "Birdie3"
+      ],
+      "Minden reggel egy tál poit és frissen facsart mangólevet reggelizem. Ez tart engem fiatalon!": [
+            "Birdie4"
+      ],
+      "Minden nap sétálok a strandon, hátha valami új vetődik partra. Sok dolog lebeg ám odakint!": [
+            "Birdie5"
+      ],
+      "Lehet, hogy a kunyhóm kicsi, de bőven megfelel arra, amire használom. És az a legjobb, hogy én magam építettem.": [
+            "Birdie6"
+      ],
+      "*sóhaj*... Attól, hogy a végtelen potenciállal rendelkező világban élünk, sose tudhatjuk meg, hogy jó döntéseket hoztunk vagy sem.": [
+            "Birdie12"
+      ],
+      "Elnézést kérek, ha ezzel aggasztottalak, kedvesem. Néha elmerülök a gondolataimban...": [
+            "Birdie12_sv1"
+      ],
+      "Gyümölcsök, halak, és gyűjtött élelmiszer... Ez egy remek diéta! Nagyon egészségesnek érzem magam.": [
+            "Birdie15"
+      ],
+      "Az időjárás egész évben meleg és kellemes, kedvesem... tökéletes a csontjaimnak...": [
+            "Birdie17"
+      ],
+      "Találkoztál már a dzsungelben lévő kis banános oltárral? Ha lenne nálam egy banán, biztosan ráhelyezném, hátha történik valami... heh heh...": [
+            "Birdie19"
+      ],
+      "Üdvözöllek, kedvesem... ma nagyon egészségesnek és jókedvűnek tűnsz!": [
+            "Birdie22"
+      ],
+      "Oly sokáig voltam itt, hogy már nem is hallom az óceánt...": [
+            "Birdie23"
+      ],
+      "Ma este telihold van... Akár jó vagy rossz szerencséd van ma, légy résen, kedvesem... A lelkek nyugtalankodnak.": [
+            "Birdie28"
+      ],
+      "Jaj, nem, nem, nem... Nekem nincs szükségem ajándékokra, kedvesem. Tartsd meg.": [
+            "Birdie_NoGift"
+      ],
+      "A kutatásaim szerint valaha egy békafajta élt ezen a szigeten. A sötét, nyirkos területeket kedvelték, ahol sok volt a növényzet...": [
+            "ProfessorSnail_Hint_828"
+      ],
+      "Réges-régen ritka barlangi denevéreknek költöztek ide. A bizonyítékok szerint nagyon jól bírták az extrém hőséget. Érdekes, mi?": [
+            "ProfessorSnail_Hint_827"
+      ],
+      "Hmm... Az orrom azt sugallja, hogy a sziget nyugati régiójában kígyógerincet lehet találni.": [
+            "ProfessorSnail_Hint_826"
+      ],
+      "Ha látsz valamit a földben mozgolódni, próbáld meg kiásni. Sose lehet tudni, hogy mi rejlik alatta!": [
+            "ProfessorSnail_Hint_825"
+      ],
+      "Mielőtt beragadtam volna abba a barlangba, próbáltam felfedezni a közeli vájatot. Az ottani kövek tele vannak kövületekkel! Én a helyedben széttörném azokat és csontokat keresnék.": [
+            "ProfessorSnail_Hint_824"
+      ],
+      "Tudod, ha a közeli folyóknál serpenyőt használnál, akkor biztosan érdekes dolgokra lelnél.": [
+            "ProfessorSnail_Hint_822"
+      ],
+      "Tudod, nagyon jókat lehet horgászni ezen a szigeten. Úgy tudom az itteni halak különösen kedvelik az ősi csontokat...": [
+            "ProfessorSnail_Hint_821"
+      ],
+      "Találtál már arany kókuszdiót a szigeten? Azt beszélik, hogy sok érdekes dolog rejlik bennük...": [
+            "ProfessorSnail_Hint_820"
+      ],
+      "Váó... Nézd ezt a kilátást!": [
+            "SummitEvent_Intro_Lewis"
+      ],
+      "Tudod @... Én már régóta vagyok Pelikán város polgármestere.": [
+            "SummitEvent_Dialogue1_Lewis"
+      ],
+      "Az emberek jöttek és mentek. Sokszor éltünk át nehéz időket, és néha remek időszakokat is.": [
+            "SummitEvent_Dialogue1_Lewis_sv1"
+      ],
+      "De meg kell mondanom, hogy a sok polgármesteri évem alatt semmi se tett engem annyira büszkévé, mint azt látni, ahogyan %farm farmot virágzásnak indítottad.": [
+            "SummitEvent_Dialogue2_Lewis"
+      ],
+      "Még nagyapád legvadabb álmain is túlteljesítettél azzal a farmmal.": [
+            "SummitEvent_Dialogue2_Lewis_sv1"
+      ],
+      "És mindeközben örökké megváltoztattad a völgyet.": [
+            "SummitEvent_Dialogue2_Lewis_sv2"
+      ],
+      "Lehet nem tűnik fel, de nagyon is érdekel engem a város sorsa, @.": [
+            "SummitEvent_Outro_Lewis"
+      ],
+      "%year évvel ezelőtt, nagyon aggódtam a völgy jövőjéért.": [
+            "SummitEvent_Outro_Lewis_sv1"
+      ],
+      "De most már teljesen nyugodt vagyok.": [
+            "SummitEvent_Outro_Lewis_sv2"
+      ],
+      "Ki hitte volna, hogy egy városból ideköltöző szerény gazda mindent megváltoztat majd?": [
+            "SummitEvent_Outro_Lewis_sv3"
+      ],
+      "...Hálásan köszönöm.": [
+            "SummitEvent_Outro_Lewis_sv4"
+      ],
+      "Áh, @... A kedvenc Joja tagom.": [
+            "SummitEvent_Intro_Morris"
+      ],
+      "Tudod, mikor először kihelyeztek engem erre a helyszínre még %year évvel ezelőtt, úgy gondoltam, hogy ez visszalépés a karrieremben.": [
+            "SummitEvent_Dialogue1_Morris"
+      ],
+      "Mégis miféle önkritikus Joja Manager akarna uralkodni egy aprócska, a semmi háta mögötti kis helyszínen, mint amilyen Pelikán város is?": [
+            "SummitEvent_Dialogue1_Morris_sv1"
+      ],
+      "De be kell vallanom, hogy egészen megkedveltem a völgyet, így az évek során.": [
+            "SummitEvent_Dialogue2_Morris"
+      ],
+      "Az itteni munka egy másfajta életmódra nyitotta ki a szemeimet. Nehezemre esik kimondani, de... eléggé... szerény élmény volt.": [
+            "SummitEvent_Dialogue2_Morris_sv1"
+      ],
+      "Csak azt akarom mondani @... Nagyra értékelem azt a kemény munkát, amit a Joja vállalatért tettél.": [
+            "SummitEvent_Outro_Morris"
+      ],
+      "Az erősségünket a tagjaink jelentik, és te példaértékű lendületet és leleményességet mutattál. Büszke vagyok azért, hogy a vállalatnak dolgozhatok.": [
+            "SummitEvent_Outro_Morris_sv1"
+      ],
+      "Hé @.": [
+            "SummitEvent_Intro_Spouse"
+      ],
+      "Olyan csodaszép idefent...": [
+            "SummitEvent_Intro2_Spouse"
+      ],
+      "Szép kilátás, mi?": [
+            "SummitEvent_Intro2_Spouse_Gruff"
+      ],
+      "Elmélkedtem az elmúlt %year éven...": [
+            "SummitEvent_Dialogue1_Spouse"
+      ],
+      "Sok dolgon keresztülmentünk együtt, nemde?": [
+            "SummitEvent_Dialogue1B_Spouse"
+      ],
+      "...de nézd, hogy milyen messzire jutottunk!": [
+            "SummitEvent_Dialogue2_Spouse"
+      ],
+      "Nem hiszem, hogy nélküled eljutottam volna idáig, @.": [
+            "SummitEvent_Dialogue3_Alex_Alex_event1"
+      ],
+      "...Ez az egyik oka annak, amiért szeretlek téged...": [
+            "SummitEvent_Dialogue3_Sebastian_Sebastian_event1"
+      ],
+      "Úgy érzem sokat változtam az első találkozásunk óta... érted?": [
+            "SummitEvent_Dialogue3_Sam"
+      ],
+      "...nevezheted akár 'érettségnek' is... hehe.0": [
+            "SummitEvent_Dialogue3_Sam_sv1"
+      ],
+      "De most ott tartok, hogy valóban izgatott vagyok a közös jövőnket érintően...": [
+            "SummitEvent_Dialogue3_Sam_sv2"
+      ],
+      "Még akkor is, ha ez azt jelenti, hogy normális dolgokat kell csinálnunk, mint például... ööö... zöldségeket venni és pelenkákat cserélni... hah...0": [
+            "SummitEvent_Dialogue3_Sam_sv3"
+      ],
+      "Heh... Én... én sokszor viccelődöm, mert... nos...": [
+            "SummitEvent_Dialogue3_Shane_Shane_event1"
+      ],
+      "De minden évszakkal, amit melletted töltök el, egyre inkább megbékélek magammal.": [
+            "SummitEvent_Dialogue3_Shane_Shane_event2"
+      ],
+      "Heh... most döbbentem csak rá...": [
+            "SummitEvent_Dialogue3_Elliott"
+      ],
+      "Felértünk a csúcsra, de nem csak fizikálisan... metaforikusan is.": [
+            "SummitEvent_Dialogue3_Elliott_sv1"
+      ],
+      "Milyen költői!": [
+            "SummitEvent_Dialogue3_Elliott_sv2"
+      ],
+      "...": [
+            "SummitEvent_Dialogue3_Harvey_Harvey_event1"
+      ],
+      "Itt álldogálva, a horizontot bámulva... Végtelen lehetőségeken gondolkozom.": [
+            "SummitEvent_Dialogue3_Abigail"
+      ],
+      "Olyan boldog vagyok, hogy veled az oldalamon fedezhetem fel ezt a világot...": [
+            "SummitEvent_Dialogue3_Abigail_sv1"
+      ],
+      "A világ egy rejtélyes és különleges hely...": [
+            "SummitEvent_Dialogue3_Emily_Emily_event1"
+      ],
+      "Ó, csak, tudod...": [
+            "SummitEvent_Dialogue3_Haley_Haley_event1"
+      ],
+      "Úgy hiszem mindketten megleltük azt, amit ezen a helyen kerestünk.": [
+            "SummitEvent_Dialogue3_Leah"
+      ],
+      "Sehol máshol nem szeretnék lenni, csak itt, és csak veled.": [
+            "SummitEvent_Dialogue3_Leah_sv1"
+      ],
+      "Csodálatos otthonunk van, és gyarapodó családunk... erről álmodtam, és még többet kaptam.": [
+            "SummitEvent_Dialogue3_Penny"
+      ],
+      "Akár nyugodtan mondhatjuk úgy is, hogy te gazdának születtél!": [
+            "SummitEvent_Dialogue3_Maru_Maru_event1"
+      ],
+      "Hosszú volt az út...": [
+            "SummitEvent_closingmessage"
+      ],
+      "Kihívtad magad arra, hogy feljuss a csúcsra": [
+            "SummitEvent_closingmessage2"
+      ],
+      "Micsoda teljesítmény!": [
+            "SummitEvent_closingmessage3"
+      ],
+      "Minden egyes lépésedet figyelemmel kísértük": [
+            "SummitEvent_closingmessage4"
+      ],
+      "És nagyon büszkévé tettél minket!": [
+            "SummitEvent_closingmessage5"
+      ]
+}

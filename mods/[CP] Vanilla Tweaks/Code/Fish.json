@@ -1,0 +1,780 @@
+{
+    "Changes": 
+    [
+
+// REGULAR FISH
+
+        {
+			"LogName": "Albacore",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Albacore.png",
+			"ToArea": { "X": 144, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Albacore": true
+			}
+		},
+        {
+			"LogName": "Anchovy",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Anchovy.png",
+			"ToArea": { "X": 144, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Anchovy": true
+			}
+		},
+        {
+			"LogName": "Blobfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Blobfish.png",
+			"ToArea": { "X": 128, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Blobfish": true
+			}
+		},
+        {
+			"LogName": "Bream",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Bream.png",
+			"ToArea": { "X": 192, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Bream": true
+			}
+		},
+        {
+			"LogName": "Bullhead",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Bullhead.png",
+			"ToArea": { "X": 64, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Bullhead": true
+			}
+		},
+        {
+			"LogName": "Carp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Carp.png",
+			"ToArea": { "X": 352, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Carp": true
+			}
+		},
+        {
+			"LogName": "Catfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Catfish.png",
+			"ToArea": { "X": 368, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Catfish": true
+			}
+		},
+        {
+			"LogName": "Chub",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Chub.png",
+			"ToArea": { "X": 96, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Chub": true
+			}
+		},
+        {
+			"LogName": "Dorado",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Dorado.png",
+			"ToArea": { "X": 128, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Dorado": true
+			}
+		},
+        {
+			"LogName": "Eel",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Eel.png",
+			"ToArea": { "X": 64, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Eel": true
+			}
+		},
+        {
+			"LogName": "Flounder",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Flounder.png",
+			"ToArea": { "X": 48, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Flounder": true
+			}
+		},
+        {
+			"LogName": "Ghostfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Ghostfish.png",
+			"ToArea": { "X": 192, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Ghostfish": true
+			}
+		},
+        {
+			"LogName": "Halibut",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Halibut.png",
+			"ToArea": { "X": 192, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Halibut": true
+			}
+		},
+        {
+			"LogName": "Herring",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Herring.png",
+			"ToArea": { "X": 48, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Herring": true
+			}
+		},
+        {
+			"LogName": "Ice Pip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/IcePip.png",
+			"ToArea": { "X": 272, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Ice Pip": true
+			}
+		},
+        {
+			"LogName": "Largemouth Bass",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/LargemouthBass.png",
+			"ToArea": { "X": 256, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Largemouth Bass": true
+			}
+		},
+        {
+			"LogName": "Lava Eel",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/LavaEel.png",
+			"ToArea": { "X": 288, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Lava Eel": true
+			}
+		},
+        {
+			"LogName": "Lingcod",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Lingcod.png",
+			"ToArea": { "X": 176, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Lingcod": true
+			}
+		},
+        {
+			"LogName": "Lionfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Lionfish.png",
+			"ToArea": { "X": 336, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Lionfish": true
+			}
+		},
+        {
+			"LogName": "Midnight Carp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/MidnightCarp.png",
+			"ToArea": { "X": 80, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Midnight Carp": true
+			}
+		},
+        {
+			"LogName": "Midnight Squid",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/MidnightSquid.png",
+			"ToArea": { "X": 96, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Midnight Squid": true
+			}
+		},
+        {
+			"LogName": "Octopus",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Octopus.png",
+			"ToArea": { "X": 80, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Octopus": true
+			}
+		},
+        {
+			"LogName": "Perch",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Perch.png",
+			"ToArea": { "X": 336, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Perch": true
+			}
+		},
+        {
+			"LogName": "Pike",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Pike.png",
+			"ToArea": { "X": 0, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Pike": true
+			}
+		},
+        {
+			"LogName": "Pufferfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Pufferfish.png",
+			"ToArea": { "X": 128, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Pufferfish": true
+			}
+		},
+        {
+			"LogName": "Rainbow Trout",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/RainbowTrout.png",
+			"ToArea": { "X": 288, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Rainbow Trout": true
+			}
+		},
+        {
+			"LogName": "Red Mullet",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/RedMullet.png",
+			"ToArea": { "X": 32, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Red Mullet": true
+			}
+		},
+        {
+			"LogName": "Red Snapper",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/RedSnapper.png",
+			"ToArea": { "X": 96, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Red Snapper": true
+			}
+		},
+        {
+			"LogName": "Salmon",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Salmon.png",
+			"ToArea": { "X": 304, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Salmon": true
+			}
+		},
+        {
+			"LogName": "Sandfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Sandfish.png",
+			"ToArea": { "X": 320, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Sandfish": true
+			}
+		},
+        {
+			"LogName": "Sardine",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Sardine.png",
+			"ToArea": { "X": 176, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Sardine": true
+			}
+		},
+        {
+			"LogName": "Scorpion Carp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/ScorpionCarp.png",
+			"ToArea": { "X": 336, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Scorpion Carp": true
+			}
+		},
+        {
+			"LogName": "Sea Cucumber",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/SeaCucumber.png",
+			"ToArea": { "X": 160, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Sea Cucumber": true
+			}
+		},
+        {
+			"LogName": "Shad",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Shad.png",
+			"ToArea": { "X": 160, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Shad": true
+			}
+		},
+        {
+			"LogName": "Slimejack",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Slimejack.png",
+			"ToArea": { "X": 64, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Slimejack": true
+			}
+		},
+        {
+			"LogName": "Smallmouth Bass",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/SmallmouthBass.png",
+			"ToArea": { "X": 272, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Smallmouth Bass": true
+			}
+		},
+        {
+			"LogName": "Spook Fish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/SpookFish.png",
+			"ToArea": { "X": 112, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Spook Fish": true
+			}
+		},
+        {
+			"LogName": "Squid",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Squid.png",
+			"ToArea": { "X": 112, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Squid": true
+			}
+		},
+        {
+			"LogName": "Stingray",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Stingray.png",
+			"ToArea": { "X": 320, "Y": 544, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Stingray": true
+			}
+		},
+        {
+			"LogName": "Stonefish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Stonefish.png",
+			"ToArea": { "X": 224, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Stonefish": true
+			}
+		},
+        {
+			"LogName": "Sturgeon",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Sturgeon.png",
+			"ToArea": { "X": 32, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Sturgeon": true
+			}
+		},
+        {
+			"LogName": "Sunfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Sunfish.png",
+			"ToArea": { "X": 16, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Sunfish": true
+			}
+		},
+        {
+			"LogName": "Super Cucumber",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/SuperCucumber.png",
+			"ToArea": { "X": 176, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Super Cucumber": true
+			}
+		},
+        {
+			"LogName": "Tiger Trout",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/TigerTrout.png",
+			"ToArea": { "X": 48, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Tiger Trout": true
+			}
+		},
+        {
+			"LogName": "Tilapia",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Tilapia.png",
+			"ToArea": { "X": 80, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Tilapia": true
+			}
+		},
+        {
+			"LogName": "Tuna",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Tuna.png",
+			"ToArea": { "X": 160, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Tuna": true
+			}
+		},
+        {
+			"LogName": "Void Salmon",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/VoidSalmon.png",
+			"ToArea": { "X": 48, "Y": 528, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Void Salmon": true
+			}
+		},
+        {
+			"LogName": "Walleye",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Walleye.png",
+			"ToArea": { "X": 320, "Y": 80, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Walleye": true
+			}
+		},
+        {
+			"LogName": "Woodskip",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Regular/Woodskip.png",
+			"ToArea": { "X": 224, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Woodskip": true
+			}
+		},
+
+// LEGENDARY FISH
+
+		{
+			"LogName": "Angler",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/Angler.png",
+			"ToArea": { "X": 256, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Angler": true
+			}
+		},
+		{
+			"LogName": "Crimsonfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/Crimsonfish.png",
+			"ToArea": { "X": 240, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Crimsonfish": true
+			}
+		},
+		{
+			"LogName": "Glacierfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/Glacierfish.png",
+			"ToArea": { "X": 112, "Y": 512, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Glacierfish": true
+			}
+		},
+		{
+			"LogName": "Glacierfish Jr",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/GlacierfishJr.png",
+			"ToArea": { "X": 224, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Glacierfish Jr": true
+			}
+		},
+		{
+			"LogName": "Legend",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/Legend.png",
+			"ToArea": { "X": 304, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Legend": true
+			}
+		},
+		{
+			"LogName": "Legend II",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/LegendII.png",
+			"ToArea": { "X": 192, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Legend II": true
+			}
+		},
+		{
+			"LogName": "Ms Angler",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/MsAngler.png",
+			"ToArea": { "X": 176, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Ms Angler": true
+			}
+		},
+		{
+			"LogName": "Mutant Carp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/MutantCarp.png",
+			"ToArea": { "X": 160, "Y": 448, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Mutant Carp": true
+			}
+		},
+		{
+			"LogName": "Mutant Carp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/MutantCarp.png",
+			"ToArea": { "X": 176, "Y": 448, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Mutant Carp": true
+			}
+		},
+		{
+			"LogName": "Radioactive Carp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/RadioactiveCarp.png",
+			"ToArea": { "X": 208, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Radioactive Carp": true
+			}
+		},
+		{
+			"LogName": "Son of Crimsonfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Legendary/SonOfCrimsonfish.png",
+			"ToArea": { "X": 160, "Y": 592, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"FishRedesign |contains= Son of Crimsonfish": true
+			}
+		},
+
+// CRABPOT FISH
+
+		{
+			"LogName": "Clam",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Clam.png",
+			"ToArea": { "X": 192, "Y": 240, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Clam": true
+			}
+		},
+		{
+			"LogName": "Cockle",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Cockle.png",
+			"ToArea": { "X": 352, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Cockle": true
+			}
+		},
+		{
+			"LogName": "Crab",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Crab.png",
+			"ToArea": { "X": 336, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Crab": true
+			}
+		},
+		{
+			"LogName": "Crayfish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Crayfish.png",
+			"ToArea": { "X": 320, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Crayfish": true
+			}
+		},
+		{
+			"LogName": "Lobster",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Lobster.png",
+			"ToArea": { "X": 304, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Lobster": true
+			}
+		},
+		{
+			"LogName": "Mussel",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Mussel.png",
+			"ToArea": { "X": 368, "Y": 464, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Mussel": true
+			}
+		},
+		{
+			"LogName": "Oyster",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Oyster.png",
+			"ToArea": { "X": 48, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Oyster": true
+			}
+		},
+		{
+			"LogName": "Shrimp",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Shrimp.png",
+			"ToArea": { "X": 0, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Shrimp": true
+			}
+		},
+		{
+			"LogName": "Snail",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Fish/Crabpot/Snail.png",
+			"ToArea": { "X": 16, "Y": 480, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"FishRedesign |contains= Snail": true
+			}
+		}
+    ]
+}

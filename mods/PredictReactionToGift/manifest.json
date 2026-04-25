@@ -1,0 +1,18 @@
+{
+    "Name": "PredictReactionToGift",
+    "Author": "YunHikari",
+    "Version": "1.0.5",
+    "Description": "Predict the NPC's reaction to the gift and display it with an Emoji.",
+    "UniqueID": "YunHikari.PredictReactionToGift",
+    "EntryDll": "PredictReactionToGift.dll",
+    "MinimumApiVersion": "4.0.2",
+    "UpdateKeys": [
+        "Nexus:28556"
+    ],
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.GenericModConfigMenu",
+            "IsRequired": false
+        }
+    ]
+}

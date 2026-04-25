@@ -1,0 +1,350 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Cave Carrot",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/CaveCarrot.png",
+			"ToArea": { "X": 96, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Cave Carrot": true
+			}
+		},
+        {
+			"LogName": "Common Mushroom",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/CommonMushroom.png",
+			"ToArea": { "X": 320, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Common Mushroom": true
+			}
+		},
+        {
+			"LogName": "Coral",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/Coral.png",
+			"ToArea": { "X": 144, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Coral": true
+			}
+		},
+        {
+			"LogName": "Crystal Fruit",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/CrystalFruit.png",
+			"ToArea": { "X": 96, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Crystal Fruit": true
+			}
+		},
+        {
+			"LogName": "Fiddlehead Fern",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/FiddleheadFern.png",
+			"ToArea": { "X": 304, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Fiddlehead Fern": true
+			}
+		},
+        {
+			"LogName": "Hazelnut",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/Hazelnut.png",
+			"ToArea": { "X": 0, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Hazelnut": true
+			}
+		},
+        {
+			"LogName": "Holly",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/Holly.png",
+			"ToArea": { "X": 304, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Holly": true
+			}
+		},
+        {
+			"LogName": "Leek",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/Leek.png",
+			"ToArea": { "X": 320, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Leek": true
+			}
+		},
+        {
+			"LogName": "Magma Cap",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/MagmaCap.png",
+			"ToArea": { "X": 176, "Y": 560, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"ForageRedesign |contains= Magma Cap": true
+			}
+		},
+        {
+			"LogName": "False Magma Cap",
+			"Action": "EditImage",
+			"Target": "Characters/Monsters/False Magma Cap",
+			"FromFile": "assets/Forage/FalseMagmaCap.png",
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"ForageRedesign |contains= False Magma Cap": true
+			}
+		},
+        {
+			"LogName": "Purple Mushroom",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/PurpleMushroom.png",
+			"ToArea": { "X": 224, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Purple Mushroom": true
+			}
+		},
+        {
+			"LogName": "Salmonberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/Salmonberry.png",
+			"ToArea": { "X": 128, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Salmonberry": true
+			}
+		},
+        {
+			"LogName": "Sap",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/Sap.png",
+			"ToArea": { "X": 320, "Y": 48, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Sap": true
+			}
+		},
+        {
+			"LogName": "Snow Yam",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/SnowYam.png",
+			"ToArea": { "X": 128, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Snow Yam": true
+			}
+		},
+        {
+			"LogName": "Spice Berry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/SpiceBerry.png",
+			"ToArea": { "X": 192, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Spice Berry": true
+			}
+		},
+        {
+			"LogName": "Spring Onion",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/SpringOnion.png",
+			"ToArea": { "X": 240, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Spring Onion": true
+			}
+		},
+        {
+			"LogName": "Sweet Pea",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/SweetPea.png",
+			"ToArea": { "X": 288, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Sweet Pea": true
+			}
+		},
+        {
+			"LogName": "Wild Horseradish",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/WildHorseradish.png",
+			"ToArea": { "X": 256, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Wild Horseradish": true
+			}
+		},
+        {
+			"LogName": "Wild Plum",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/WildPlum.png",
+			"ToArea": { "X": 352, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Wild Plum": true
+			}
+		},
+        {
+			"LogName": "Winter Root",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/WinterRoot.png",
+			"ToArea": { "X": 64, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"ForageRedesign |contains= Winter Root": true
+			}
+		},
+
+// FORAGE WITH SC vs VT OPTION
+		
+		{
+			"LogName": "Blackberry",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{BlackberryStyle}}/Blackberry.png",
+			"ToArea": { "X": 32, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Blackberry}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Blackberry}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Chanterelle",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{ChanterelleStyle}}/Chanterelle.png",
+			"ToArea": { "X": 272, "Y": 176, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Chanterelle}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Chanterelle}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Crocus",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{CrocusStyle}}/Crocus.png",
+			"ToArea": { "X": 160, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Crocus}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Crocus}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Daffodil",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{DaffodilStyle}}/Daffodil.png",
+			"ToArea": { "X": 288, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Daffodil}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Daffodil}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Dandelion",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{DandelionStyle}}/Dandelion.png",
+			"ToArea": { "X": 352, "Y": 0, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Dandelion}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Dandelion}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Morel",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{MorelStyle}}/Morel.png",
+			"ToArea": { "X": 272, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Morel}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Morel}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Nautilus Shell",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{NautilusShellStyle}}/NautilusShell.png",
+			"ToArea": { "X": 128, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Nautilus Shell}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Nautilus Shell}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Rainbow Shell",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{RainbowShellStyle}}/RainbowShell.png",
+			"ToArea": { "X": 160, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Rainbow Shell}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Rainbow Shell}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Red Mushroom",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{RedMushroomStyle}}/RedMushroom.png",
+			"ToArea": { "X": 192, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Red Mushroom}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Red Mushroom}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Sea Urchin",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{SeaUrchinStyle}}/SeaUrchin.png",
+			"ToArea": { "X": 208, "Y": 256, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Sea Urchin}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Sea Urchin}}' = 'true'": true
+			}
+		},
+		{
+			"LogName": "Seaweed",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Forage/{{SeaweedStyle}}/Seaweed.png",
+			"ToArea": { "X": 128, "Y": 96, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Query: '{{ForageRedesignVanillaTweaksStyle |contains= Seaweed}}' = 'true' OR '{{ForageRedesignSunnyCropsStyle |contains= Seaweed}}' = 'true'": true
+			}
+		}
+    ]
+}

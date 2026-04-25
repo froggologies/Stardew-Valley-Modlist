@@ -1,0 +1,18 @@
+{
+    "Name": "Immersive Lighting",
+    "Author": "Kanadeyoru",
+    "Version": "1.2.2",
+    "Description": "Adds smoother day-night transitions with realistic sunrise and sunset, improved lighting, and a more natural atmosphere.",
+    "UniqueID": "Kana.ImmersiveLighting.DLL",
+    "EntryDll": "ImmersiveLighting.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [
+        "Nexus:43126"
+    ],
+    "Dependencies": [
+        {
+            "UniqueID": "Pathoschild.ContentPatcher",
+            "IsRequired": false
+        }
+    ]
+}

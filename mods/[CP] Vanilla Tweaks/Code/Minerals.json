@@ -1,0 +1,500 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Aerinite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Aerinite.png",
+			"ToArea": {"X": "208", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Aerinite": true
+			}
+		},
+        {
+			"LogName": "Alamite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Alamite.png",
+			"ToArea": {"X": "160", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Alamite": true
+			}
+		},
+        {
+			"LogName": "Baryte",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Baryte.png",
+			"ToArea": {"X": "192", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Baryte": true
+			}
+		},
+        {
+			"LogName": "Basalt",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Basalt.png",
+			"ToArea": {"X": "288", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Basalt": true
+			}
+		},
+        {
+			"LogName": "Bixite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Bixite.png",
+			"ToArea": {"X": "176", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Bixite": true
+			}
+		},
+        {
+			"LogName": "Calcite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Calcite.png",
+			"ToArea": {"X": "224", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Calcite": true
+			}
+		},
+        {
+			"LogName": "Celestine",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Celestine.png",
+			"ToArea": {"X": "224", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Celestine": true
+			}
+		},
+        {
+			"LogName": "Dolomite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Dolomite.png",
+			"ToArea": {"X": "240", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Dolomite": true
+			}
+		},
+        {
+			"LogName": "Earth Crystal",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/EarthCrystal.png",
+			"ToArea": {"X": "224", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Earth Crystal": true
+			}
+		},
+        {
+			"LogName": "Esperite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Esperite.png",
+			"ToArea": {"X": "256", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Esperite": true
+			}
+		},
+        {
+			"LogName": "Fairy Stone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/FairyStone.png",
+			"ToArea": {"X": "16", "Y": "384", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Fairy Stone": true
+			}
+		},
+        {
+			"LogName": "Fire Opal",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/FireOpal.png",
+			"ToArea": {"X": "208", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Fire Opal": true
+			}
+		},
+        {
+			"LogName": "Fire Quartz",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/FireQuartz.png",
+			"ToArea": {"X": "160", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Fire Quartz": true
+			}
+		},
+        {
+			"LogName": "Fluorapatite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Fluorapatite.png",
+			"ToArea": {"X": "272", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Fluorapatite": true
+			}
+		},
+        {
+			"LogName": "Frozen Tear",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/FrozenTear.png",
+			"ToArea": {"X": "192", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Frozen Tear": true
+			}
+		},
+        {
+			"LogName": "Geminite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Geminite.png",
+			"ToArea": {"X": "288", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Geminite": true
+			}
+		},
+        {
+			"LogName": "Ghost Crystal",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/GhostCrystal.png",
+			"ToArea": {"X": "144", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Ghost Crystal": true
+			}
+		},
+        {
+			"LogName": "Granite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Granite.png",
+			"ToArea": {"X": "272", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Granite": true
+			}
+		},
+        {
+			"LogName": "Helvite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Helvite.png",
+			"ToArea": {"X": "304", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Helvite": true
+			}
+		},
+        {
+			"LogName": "Hematite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Hematite.png",
+			"ToArea": {"X": "336", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Hematite": true
+			}
+		},
+        {
+			"LogName": "Jagoite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Jagoite.png",
+			"ToArea": {"X": "336", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Jagoite": true
+			}
+		},
+        {
+			"LogName": "Jamborite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Jamborite.png",
+			"ToArea": {"X": "320", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Jamborite": true
+			}
+		},
+        {
+			"LogName": "Jasper",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Jasper.png",
+			"ToArea": {"X": "176", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Jasper": true
+			}
+		},
+        {
+			"LogName": "Kyanite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Kyanite.png",
+			"ToArea": {"X": "352", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Kyanite": true
+			}
+		},
+        {
+			"LogName": "Lemon Stone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/LemonStone.png",
+			"ToArea": {"X": "32", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Lemon Stone": true
+			}
+		},
+        {
+			"LogName": "Limestone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Limestone.png",
+			"ToArea": {"X": "304", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Limestone": true
+			}
+		},
+        {
+			"LogName": "Lunarite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Lunarite.png",
+			"ToArea": {"X": "368", "Y": "352", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Lunarite": true
+			}
+		},
+        {
+			"LogName": "Malachite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Malachite.png",
+			"ToArea": {"X": "0", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Malachite": true
+			}
+		},
+        {
+			"LogName": "Marble",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Marble.png",
+			"ToArea": {"X": "240", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Marble": true
+			}
+		},
+        {
+			"LogName": "Mudstone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Mudstone.png",
+			"ToArea": {"X": "352", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Mudstone": true
+			}
+		},
+        {
+			"LogName": "Nekoite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Nekoite.png",
+			"ToArea": {"X": "48", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Nekoite": true
+			}
+		},
+        {
+			"LogName": "Neptunite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Neptunite.png",
+			"ToArea": {"X": "16", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Neptunite": true
+			}
+		},
+        {
+			"LogName": "Obsidian",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Obsidian.png",
+			"ToArea": {"X": "368", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Obsidian": true
+			}
+		},
+        {
+			"LogName": "Ocean Stone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/OceanStone.png",
+			"ToArea": {"X": "128", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Ocean Stone": true
+			}
+		},
+        {
+			"LogName": "Opal",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Opal.png",
+			"ToArea": {"X": "192", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Opal": true
+			}
+		},
+        {
+			"LogName": "Orpiment",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Orpiment.png",
+			"ToArea": {"X": "64", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Orpiment": true
+			}
+		},
+        {
+			"LogName": "Petrified Slime",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/PetrifiedSlime.png",
+			"ToArea": {"X": "80", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Petrified Slime": true
+			}
+		},
+        {
+			"LogName": "Pyrite",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Pyrite.png",
+			"ToArea": {"X": "112", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Pyrite": true
+			}
+		},
+        {
+			"LogName": "Quartz",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Quartz.png",
+			"ToArea": {"X": "128", "Y": "48", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Quartz": true
+			}
+		},
+        {
+			"LogName": "Sandstone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Sandstone.png",
+			"ToArea": {"X": "256", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Sandstone": true
+			}
+		},
+        {
+			"LogName": "Slate",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Slate.png",
+			"ToArea": {"X": "0", "Y": "384", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Slate": true
+			}
+		},
+        {
+			"LogName": "Soapstone",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Soapstone.png",
+			"ToArea": {"X": "320", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Soapstone": true
+			}
+		},
+        {
+			"LogName": "Star Shards",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/StarShards.png",
+			"ToArea": {"X": "32", "Y": "384", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Star Shards": true
+			}
+		},
+        {
+			"LogName": "Thunder Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/ThunderEgg.png",
+			"ToArea": {"X": "96", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Thunder Egg": true
+			}
+		},
+        {
+			"LogName": "Tigerseye",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Minerals/Tigerseye.png",
+			"ToArea": {"X": "160", "Y": "368", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"MineralsRedesign |contains= Tigerseye": true
+			}
+		}
+    ]
+}

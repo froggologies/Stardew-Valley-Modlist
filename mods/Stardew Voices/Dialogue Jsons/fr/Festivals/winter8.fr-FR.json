@@ -1,0 +1,445 @@
+{
+      "Festival des Glaces": [
+            "winter8_name"
+      ],
+      "Bien... Il est temps de commencer le concours de pêche sur glace de cette année.": [
+            "winter8_mainEvent_Lewis_event1"
+      ],
+      "À tous les concurrents, votre objectif est d’attraper le plus de poissons possible en deux minutes à l’aide des cannes à pêche fournies.": [
+            "winter8_mainEvent_Lewis_event2"
+      ],
+      "Tout le monde est prêt ?": [
+            "winter8_mainEvent_Lewis_event3"
+      ],
+      "C’est parti !": [
+            "winter8_mainEvent_Lewis_event4"
+      ],
+      "Waouh, ça fait beaucoup de poissons !": [
+            "winter8_afterIceFishing_Lewis_event1"
+      ],
+      "*Haut-le-coeur*... cette odeur...": [
+            "winter8_afterIceFishing_Lewis_event2"
+      ],
+      "Et maintenant, voici le gagnant du concours de pêche sur glace de cette année...": [
+            "winter8_afterIceFishing_Lewis_event3"
+      ],
+      "Voici votre prix ! Félicitations !": [
+            "winter8_afterIceFishing_Lewis_event4"
+      ],
+      "Eh bien, le festival des glaces de cette année touche à sa fin. Merci à tous d’être venu !": [
+            "winter8_afterIceFishing_Lewis_event5",
+            "winter8_DickWin_Lewis_event2"
+      ],
+      "Voici votre prix, Willy. Félicitations !": [
+            "winter8_DickWin_Lewis_event1"
+      ],
+      "Hé, mon coeur... regarde, c’est toi !": [
+            "winter8_Abigail_spouse"
+      ],
+      "Est-ce que tu participes au concours de pêche cette année, @ ? Ma mère veut gagner coûte que coûte.": [
+            "winter8_Penny_spouse"
+      ],
+      "Brrr... mes mains sont gelées après avoir fait ce bonhomme de neige.": [
+            "winter8_Haley_spouse"
+      ],
+      "Ne t’inquiète pas pour moi, je n'attrape jamais froid...": [
+            "winter8_Sebastian_spouse"
+      ],
+      "Tu n’as pas froid ? Tu es sûr de ne pas vouloir ma veste ?": [
+            "winter8_Sam_spouse"
+      ],
+      "Je t’encouragerais pendant la compétition de pêche.": [
+            "winter8_Alex_spouse"
+      ],
+      "J’ai hâte de retrouver notre feu de cheminée à la maison...": [
+            "winter8_Harvey_spouse"
+      ],
+      "Je sais que tu vas me battre à la compétition de pêche, mais ça ne me dérange pas. Je suis juste là pour m’amuser.": [
+            "winter8_Elliott_spouse"
+      ],
+      "Que penses-tu de mon \"bonhomme de main\" ?": [
+            "winter8_Abigail"
+      ],
+      "Je suis désolée, mais faire des parapets sur la glace nécessite toute mon attention !": [
+            "winter8_Robin"
+      ],
+      "Tu sais quoi ? J’aurais probablement dû mettre une veste.": [
+            "winter8_Demetrius"
+      ],
+      "Je ne suis pas très créative quand il s’agit de faire des bonshommes de neige.": [
+            "winter8_Maru"
+      ],
+      "Froid, moi ? Jamais !": [
+            "winter8_Sebastian"
+      ],
+      "Cette neige est si froide que je ne sens plus mes doigts ...": [
+            "winter8_Pierre"
+      ],
+      "Si cela ne tenait qu’à moi, j’aurais probablement fait un festival de pizza au saloon à la place...": [
+            "winter8_Shane"
+      ],
+      "Comment se passe cette saison hivernale pour toi, @ ?": [
+            "winter8_Caroline"
+      ],
+      "Construire un igloo est un art que j’ai appris parmi les habitants de la toundra qui vivent au-delà de la mer gelée.": [
+            "winter8_Linus"
+      ],
+      "C’était il y a bien longtemps.": [
+            "winter8_Linus_sv1"
+      ],
+      "Un igloo est une belle maison, mais c’est plus facile de rester dans ma tente toute l’année.": [
+            "winter8_Linus_sv2"
+      ],
+      "C'est pas mal de faire des bonshommes de neige. Cependant, j’attends le printemps avec impatience.": [
+            "winter8_Alex"
+      ],
+      "Mmff... Ma femme m’a traîné dans le froid pour ça ?": [
+            "winter8_George"
+      ],
+      "Est-ce que je t’ai déjà raconté comment George et moi nous sommes rencontrés ? Et bien, il m’a lancé une boule de neige pendant ce festival.": [
+            "winter8_Evelyn"
+      ],
+      "C’était un gentleman à l’époque alors il est venu voir si j’allais bien.": [
+            "winter8_Evelyn_sv1"
+      ],
+      "Bienvenue au festival des glaces !": [
+            "winter8_Lewis"
+      ],
+      "Le concours de pêche sur glace est le clou du festival. Nous avons aménagé ce \"lac gelé\" et l’avons rempli de poissons.": [
+            "winter8_Lewis_sv1"
+      ],
+      "Faites-moi savoir quand vous serez prêt à participer à la compétition.": [
+            "winter8_Lewis_sv2"
+      ],
+      "Emily m’a aidé sans me provoquer une seule fois... ça veut dire quelque chose ? *Déglutit*": [
+            "winter8_Clint"
+      ],
+      "Waouh, ce bonhomme de neige a besoin d’un relooking express. Qui a fait celui-là ?": [
+            "winter8_Emily"
+      ],
+      "Mmm... Quel genre de bonhomme de neige devrions-nous faire ?": [
+            "winter8_Penny"
+      ],
+      "J’imagine que c’est peut-être préférable de s’en tenir aux classiques, non ?": [
+            "winter8_Penny__Genre_classique__Nez_de_carotte__chapeau_haut-de-forme__écharpe___response"
+      ],
+      "D’accord ! Cela semble amusant.": [
+            "winter8_Penny__Quelque_chose_d’un_peu_drôle__Des_antennes_en_stalagmites__yeux_en_pomme_de_pin___response"
+      ],
+      "Euh, d’accord... Je pense que je vais m’en tenir à quelque chose de plus conventionnel.'": [
+            "winter8_Penny__Les_bonshommes_de_neige_sont_ennuyeux__Il_faut_faire_preuve_d’originalité____response"
+      ],
+      "J'ai l'intention de gagner le concours de pêche sur glace !": [
+            "winter8_Pam"
+      ],
+      "Willy va être assez difficile à battre... Il fait ce genre de choses jour et nuit.": [
+            "winter8_Pam_sv1"
+      ],
+      "Je suppose que l’hiver n’est pas si mal... jouer dans la neige peut être amusant !": [
+            "winter8_Haley"
+      ],
+      "La forêt est magnifique en hiver, n’est-ce pas ?": [
+            "winter8_Jodi"
+      ],
+      "J’aime l’hiver. C’est si paisible.": [
+            "winter8_Kent"
+      ],
+      "Salut, @. Est-ce que tu participes à la compétition de pêche sur glace ?": [
+            "winter8_Sam"
+      ],
+      "Oh, pas moi. Je ne sais pas pêcher.": [
+            "winter8_Sam_sv1"
+      ],
+      "Oh, de la glace. C’est quelque chose de superbe à sculpter, mais tellement éphémère.": [
+            "winter8_Leah"
+      ],
+      "Mais je suppose que c'est ce qui rend cet art encore meilleur.": [
+            "winter8_Leah_sv1"
+      ],
+      "J'ai de la peine pour les pauvres animaux qui restent dehors dans le froid.": [
+            "winter8_Marnie"
+      ],
+      "Je participe au concours de pêche sur glace aujourd’hui. Après tout, pourquoi pas ?": [
+            "winter8_Elliott"
+      ],
+      "Par contre, c’est rare que Willy perde.": [
+            "winter8_Elliott_sv1"
+      ],
+      "Désolé, il n'y a rien à manger.": [
+            "winter8_Gus"
+      ],
+      "Attends la fête de l’étoile hivernale. Tu seras rassasié pendant des jours.": [
+            "winter8_Gus_sv1"
+      ],
+      "Salut, @. Tu participes au concours de pêche sous glace ?": [
+            "winter8_Willy"
+      ],
+      "C’est une bonne mentalité !": [
+            "winter8_Willy__Oui__Je_ferai_de_mon_mieux____response"
+      ],
+      "C’est ce que nous verrons.": [
+            "winter8_Willy__Oui__et_je_vais_te_battre____response"
+      ],
+      "Eh bien, considère ça comme un bon entraînement !'": [
+            "winter8_Willy__Pour_être_honnête__non__Je_ne_sais_pas_très_bien_pêcher___response"
+      ],
+      "Se faufiler en douce pour visiter ma tour bizarre ? Tu es vraiment étrange pour quelqu’un d’aussi ordinaire.": [
+            "winter8_Wizard"
+      ],
+      "Les températures extrêmes peuvent causer beaucoup de stress à ton corps, alors assure-toi de bien te couvrir !": [
+            "winter8_Harvey"
+      ],
+      "Oh, et profite bien du festival !": [
+            "winter8_Harvey_sv1"
+      ],
+      "J’ai entendu dire qu’il pleut souvent là où tu habitais avant. Est-ce la raison pour laquelle tu es venu vivre ici ?": [
+            "winter8_Sandy"
+      ],
+      "La pluie me manque un peu, en fait...": [
+            "winter8_Sandy_sv1"
+      ],
+      "Je vais lui mettre une carotte en guise de nez !": [
+            "winter8_Jas"
+      ],
+      "J’ai vu un gros poisson là-bas !": [
+            "winter8_Vincent"
+      ],
+      "Tiens, bonjour.": [
+            "winter8_Marlon"
+      ],
+      "Vous pourriez faire un igloo deux fois plus chaud en mettant des plumes dans les murs !": [
+            "winter8_Leo"
+      ],
+      "Très bien, tout le monde. Commençons le concours de pêche sur glace de cette année.": [
+            "winter8_mainEvent_y2_Lewis_event1"
+      ],
+      "Concurrents ! Utilisez les cannes à pêche fournies et attrapez autant de poissons que possible dans les trous de glace.": [
+            "winter8_mainEvent_y2_Lewis_event2"
+      ],
+      "Vous êtes tous prêts ?": [
+            "winter8_mainEvent_y2_Lewis_event3"
+      ],
+      "C'est parti !": [
+            "winter8_mainEvent_y2_Lewis_event4"
+      ],
+      "Impressionnant, vous avez capturé beaucoup de poissons !": [
+            "winter8_afterIceFishing_y2_Lewis_event1"
+      ],
+      "*Beurk* Je ne m'habituerai jamais à cette odeur...": [
+            "winter8_afterIceFishing_y2_Lewis_event2"
+      ],
+      "Et maintenant, le gagnant de la compétition de pêche sur glace de cette année...": [
+            "winter8_afterIceFishing_y2_Lewis_event3"
+      ],
+      "Voici ta récompense ! Félicitation.": [
+            "winter8_afterIceFishing_y2_Lewis_event4"
+      ],
+      "Le festival des glaces de cette année touche à sa fin. Merci à tous d'être venus !": [
+            "winter8_afterIceFishing_y2_Lewis_event5",
+            "winter8_DickWin_y2_Lewis_event2"
+      ],
+      "Voici ta récompense, Willy. Félicitation.": [
+            "winter8_DickWin_y2_Lewis_event1"
+      ],
+      "Tu imagines si nous vivions dans un igloo !": [
+            "winter8_Abigail_spouse_y2"
+      ],
+      "Ce serait amusant, mais en toute honnêteté, je suis parfaitement heureuse de vivre avec toi n'importe où !": [
+            "winter8_Abigail_spouse_y2_sv1"
+      ],
+      "Un de ces jours, il faudra que je t'apprenne à sculpter la glace ! Ce serait amusant !": [
+            "winter8_Leah_spouse_y2"
+      ],
+      "Je me demande ce que tu pourrais créer.": [
+            "winter8_Leah_spouse_y2_sv1"
+      ],
+      "Tu vas te débrouiller comme un chef, mon amour ! Reste calme et garde ta concentration.": [
+            "winter8_Maru_spouse_y2"
+      ],
+      "Quand nous rentrerons à la maison, nous ferons un feu et nous boirons du chocolat chaud.": [
+            "winter8_Penny_spouse_y2"
+      ],
+      "... avec des marshmallows ?": [
+            "winter8_Penny_spouse_y2_sv1"
+      ],
+      "Viens ici, laisse-moi arranger tes cheveux... Je veux prendre une photo de toi pendant le concours !": [
+            "winter8_Haley_spouse_y2"
+      ],
+      "Ta Da ! C'est ton portrait tout craché !": [
+            "winter8_Emily_spouse_y2"
+      ],
+      "Quoi ? Tu ne vois pas la ressemblance ? Je pense que c'est parfait !": [
+            "winter8_Emily_spouse_y2_sv1"
+      ],
+      "Hé, il faut vraiment que tu gagnes le concours aujourd'hui.": [
+            "winter8_Sebastian_spouse_y2"
+      ],
+      "Euh... eh bien, j'ai fait un petit pari avec Marlon...": [
+            "winter8_Sebastian_spouse_y2_sv1"
+      ],
+      "Tu devrais m'apprendre à utiliser une canne à pêche un de ces jours. Je pense que j'ai un talent caché pour la pêche.": [
+            "winter8_Sam_spouse_y2"
+      ],
+      "Hé ! Tu vas remporter la victoire aujourd'hui, j'en suis convaincu. Tu vas être notre fierté !": [
+            "winter8_Alex_spouse_y2"
+      ],
+      "Bonjour, mon amour. Bonne chance aujourd'hui pour le concours de pêche sur glace.": [
+            "winter8_Harvey_spouse_y2"
+      ],
+      "J'ai amélioré ma technique de pêche. Je ne te laisserai pas gagné, mon amour.": [
+            "winter8_Elliott_spouse_y2"
+      ],
+      "Tu te souviens quand on s'est assis au bord du vieil étang et qu'on a partagé une bière ? C'était quelque part par ici.": [
+            "winter8_Shane_spouse_y2"
+      ],
+      "Eh bien, il vaut mieux ne pas s'attarder sur le passé... même les bons souvenirs me font de la peine.": [
+            "winter8_Shane_spouse_y2_sv1"
+      ],
+      "As-tu déjà jeté des cailloux sur un lac gelé ? Ça fait un bruit très intéressant.": [
+            "winter8_Abigail_y2"
+      ],
+      "... Ne le dis pas à mon père, mais je porte mon pull de l'étoile hivernale sous mon manteau.": [
+            "winter8_Abigail_y2_sv1"
+      ],
+      "La sculpture sur glace est un défi très gratifiant pour moi. C'est un matériau particulier auquel je ne suis pas habitué !": [
+            "winter8_Robin_y2"
+      ],
+      "La glace d'eau... une substance très profonde, en effet. Nécessaire à la vie, elle constitue un matériau approprié pour une sculpture destinée à représenter une forme vivante.": [
+            "winter8_Demetrius_y2"
+      ],
+      "Pour réussir à faire un bonhomme de neige solide, il faut d'abord s'assurer d'avoir des fondations parfaitement égales et éviter de faire peser un poids excessif sur la partie supérieure.": [
+            "winter8_Maru_y2"
+      ],
+      "As-tu déjà remarqué à quel point la neige est silencieuse ?": [
+            "winter8_Sebastian_y2"
+      ],
+      "Ha... La forêt est maintenant dormante pour la saison hivernale...": [
+            "winter8_Linus_y2"
+      ],
+      "Notre famille a des pulls de l'étoile hivernale assortis.": [
+            "winter8_Pierre_y2"
+      ],
+      "Si seulement Abigaïl voulait bien porter le sien...": [
+            "winter8_Pierre_y2_sv1"
+      ],
+      "Hé, @. Tu arrives à te relaxer un peu avec tous tes travaux agricoles cet hiver ?": [
+            "winter8_Caroline_y2"
+      ],
+      "Tu penses que ça dérangerait quelqu'un si je me baignais dans le lac gelé après le festival ?": [
+            "winter8_Alex_y2"
+      ],
+      "J'ai entendu dire que les bains glacés sont très bons pour les muscles.": [
+            "winter8_Alex_y2_sv1"
+      ],
+      "Quand on devient vieux et chauve comme moi, tu as besoin d'un bon chapeau qui tient chaud.": [
+            "winter8_George_y2"
+      ],
+      "On ne sait jamais... c'est peut-être la dernière fois que je fais un bonhomme de neige avec Alex.": [
+            "winter8_Evelyn_y2"
+      ],
+      "La vie est courte, mon amour. N'oublie pas de chérir chaque instant que tu as.": [
+            "winter8_Evelyn_y2_sv1"
+      ],
+      "Bonjour @. C'est de nouveau cette période de l'année qui marque le début du festival de pêche sur glace.": [
+            "winter8_Lewis_y2"
+      ],
+      "Viens me voir lorsque tu voudras commencer la compétition !": [
+            "winter8_Lewis_y2_sv1"
+      ],
+      "Ces morceaux de neige ne formeront pas de boules de neige...": [
+            "winter8_Clint_y2"
+      ],
+      "Je pense que je travaille mieux dans la chaleur que dans le froid.": [
+            "winter8_Clint_y2_sv1"
+      ],
+      "J'ai trop peur de marcher sur le lac gelé...": [
+            "winter8_Penny_y2"
+      ],
+      "J'ai lu un livre une fois, qui racontait l'histoire d'une fille qui tombe à travers la glace.": [
+            "winter8_Penny_y2_sv1"
+      ],
+      "Elle s'en est bien sortie ! Mais... je préfère rester prudente.": [
+            "winter8_Penny_y2_sv2"
+      ],
+      "J'ai perdu l'année dernière parce que j'avais choisi un mauvais endroit. J'ai un bon pressentiment que les choses seront différentes cette fois-ci.": [
+            "winter8_Pam_y2"
+      ],
+      "Ha. C'est ce que tu crois ! Je vais te prouver le contraire.": [
+            "winter8_Pam_y2__Je_ne_pense_pas_que_l'emplacement_compte_vraiment___response"
+      ],
+      "...": [
+            "winter8_Pam_y2__Je_te_battrai_de_toute_façon___response"
+      ],
+      "Bonne chance à toi aussi.'": [
+            "winter8_Pam_y2__Eh_bien__bonne_chance___response"
+      ],
+      "Un bonhomme de neige doit avoir fière allure ! Un chapeau haut de forme et une écharpe sont élégants, tu ne penses pas ?": [
+            "winter8_Emily_y2"
+      ],
+      "Je suis contente d'avoir des cache-oreilles, il fait si froid ici !": [
+            "winter8_Haley_y2"
+      ],
+      "J'ai apporté mon appareil photo cette année. L'éclairage est parfait pour une séance de photo hivernale !": [
+            "winter8_Haley_y2_sv1"
+      ],
+      "Des rassemblements comme celui-ci sont un bon moyen de fonder une communauté avec nos voisins.": [
+            "winter8_Jodi_y2"
+      ],
+      "C'est génial de voir à quel point les temps froids semblent rassembler les gens.": [
+            "winter8_Jodi_y2_sv1"
+      ],
+      "Tu penses être à la hauteur pour le concours ? Nous pensons tous que tu vas gagner.": [
+            "winter8_Kent_y2"
+      ],
+      "Cette période de l'année n'est pas si mauvaise. Pas d'insectes pendant l'hiver...": [
+            "winter8_Marlon_y2"
+      ],
+      "Tu crois pouvoir battre Willy cette année ? C'est un compétiteur coriace...": [
+            "winter8_Marlon_y2_sv1"
+      ],
+      "Hé, pourquoi rigoles-tu ? Ce n'est même pas encore fini !": [
+            "winter8_Sam_y2"
+      ],
+      "Attends un peu... une fois que nous aurons terminé, ce sera un véritable bonhomme de neige.": [
+            "winter8_Sam_y2_sv1"
+      ],
+      "Il faut tempérer la glace avant de la couper, sinon on ne peut pas la façonner !": [
+            "winter8_Leah_y2"
+      ],
+      "L'hiver peut être très dur pour les animaux. As-tu installé des chauffages dans tes poulaillers et tes granges ?": [
+            "winter8_Shane_y2"
+      ],
+      "Hooo... Ce cochon a l'air adorable, tout emmitouflé comme ça !": [
+            "winter8_Marnie_y2"
+      ],
+      "Regarde ça, c'est mon arme secrète... une flasque d'alcool de qualité, juste pour tremper mes lèvres avant que le coup de sifflet ne retentisse...": [
+            "winter8_Elliott_y2"
+      ],
+      "J'ai passé trop de temps enfermé à l'intérieur, à regarder des matches de Gridball... ça fait du bien de sortir un peu et prendre un bon bol d'air frais d'hiver.": [
+            "winter8_Gus_y2"
+      ],
+      "Hmm ? Comment es-tu arrivé jusqu’ici ?": [
+            "winter8_Wizard_y2"
+      ],
+      "Ne fais pas attention à moi. Je ne fais que regarder...": [
+            "winter8_Wizard_y2_sv1"
+      ],
+      "Je n'aurais pas dû couper les pointes de ma moustache ce matin, elle est toute gelée maintenant ! Ho...": [
+            "winter8_Harvey_y2"
+      ],
+      "Eh bien, si tu as besoin d'un pic à glace, tu sais où me trouver...": [
+            "winter8_Harvey_y2_sv1"
+      ],
+      "Est-ce que les poissons peuvent attraper froid là-dessous ?": [
+            "winter8_Jas_y2"
+      ],
+      "Mon grand frère m'aide à construire un bonhomme de neige !": [
+            "winter8_Vincent_y2"
+      ],
+      "Oui, toute la vallée va regarder notre petit concours aujourd'hui. Donnons-leur à tous un bon spectacle.": [
+            "winter8_Willy_y2"
+      ],
+      "*scroutch* *scroutch* La neige fait un drôle de bruit quand tu marches dessus !": [
+            "winter8_Leo_y2"
+      ]
+}

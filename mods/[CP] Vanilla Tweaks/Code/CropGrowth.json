@@ -1,0 +1,127 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Ancient Fruit Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/AncientFruitGrowth.png",
+			"ToArea": { "X": 0, "Y": 384, "Width": 128, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Ancient Fruit": true
+			}
+		},
+        {
+			"LogName": "Cactus Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/CactusGrowth.png",
+			"ToArea": { "X": 128, "Y": 640, "Width": 128, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Cactus": true
+			}
+		},
+        {
+			"LogName": "Fairy Rose Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/FairyRoseGrowth.png",
+			"ToArea": { "X": 128, "Y": 480, "Width": 112, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Fairy Rose": true
+			}
+		},
+        {
+			"LogName": "Pineapple Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/PineappleGrowth.png",
+			"ToArea": { "X": 128, "Y": 672, "Width": 128, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Pineapple": true
+			}
+		},
+        {
+			"LogName": "Poppy Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/PoppyGrowth.png",
+			"ToArea": { "X": 0, "Y": 448, "Width": 112, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Poppy": true
+			}
+		},
+        {
+			"LogName": "Pumpkin Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/PumpkinGrowth.png",
+			"ToArea": { "X": 0, "Y": 288, "Width": 112, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Pumpkin": true
+			}
+		},
+        {
+			"LogName": "Qi Fruit Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/QiFruitGrowth.png",
+			"ToArea": { "X": 128, "Y": 736, "Width": 96, "Height": 32 },
+			"When": 
+            {
+				"Enable1.5Items": true,
+				"CropGrowthRedesign |contains= Qi Fruit": true
+			}
+		},
+        {
+			"LogName": "Rhubarb Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/RhubarbGrowth.png",
+			"ToArea": { "X": 0, "Y": 96, "Width": 112, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Rhubarb": true
+			}
+		},
+        {
+			"LogName": "Sunflower Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/SunflowerGrowth.png",
+			"ToArea": { "X": 0, "Y": 480, "Width": 96, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Sunflower": true
+			}
+		},
+        {
+			"LogName": "Sweet Gem Berry Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/SweetGemBerryGrowth.png",
+			"ToArea": { "X": 0, "Y": 512, "Width": 112, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Sweet Gem Berry": true
+			}
+		},
+        {
+			"LogName": "Tulip Growth",
+			"Action": "EditImage",
+			"Target": "Tilesheets/Crops",
+			"FromFile": "assets/CropGrowth/TulipGrowth.png",
+			"ToArea": { "X": 0, "Y": 416, "Width": 112, "Height": 32 },
+			"When": 
+            {
+				"CropGrowthRedesign |contains= Tulip": true
+			}
+		}
+    ]
+}

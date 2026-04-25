@@ -1,0 +1,12 @@
+{
+    "*叹息*……我对于准备这些样本很不在行……": "Hospital_7_Maru_Maru_event1",
+    "啊！糟糕！": "Hospital_7_Maru_Maru_event2",
+    "整份样本都被毁了……哈维会把我杀了……": "Hospital_7_Maru_Maru_event3",
+    "@，我应该怎么办？": "Hospital_7_Maru_Maru_event4",
+    "发生了什么？我听到东西打碎的声音。": "Hospital_7_Maru_Harvey_event1",
+    "我不小心摔碎了一份样本……真是对不起。": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@进来后猛地一关门，吓得我打碎了一份样本。": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "玛鲁，你不能把自己的问题推卸到别人身上。": "Hospital_7_Maru_Harvey_event2",
+    "*唉*……我只好让病人再来采集一次样本了。": "Hospital_7_Maru_Harvey_event3",
+    "这很可能会害得我们又亏损一个月……": "Hospital_7_Maru_Harvey_event3_sv1"
+}

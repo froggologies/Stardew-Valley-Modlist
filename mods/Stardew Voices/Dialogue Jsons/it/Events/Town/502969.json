@@ -1,0 +1,21 @@
+{
+    "Grr... sembra che siano tornati quei procioni. Luridi parassiti...": "Town_502969_2400_George_event1",
+    "Ah, arrivi al momento giusto, figliolo.": "Town_502969_2400_George_event2_male_farmer",
+    "Ah, arrivi al momento giusto, signorina.": "Town_502969_2400_George_event2_female_farmer",
+    "Faresti un favore ad un vecchio? Volteresti l'angolo per spaventarmi quei procioni? Stanno facendo un vero macello.": "Town_502969_2400_George_event2_sv1",
+    "Grazie. Assicurati di spaventarli per bene, in modo che non tornino più.": "Town_502969_2400_George_event2_sv2",
+    "Ero io... Mi spiace.": "Town_502969_2400_Linus_event1",
+    "Si trova un sacco di cibo caldo e fresco, in questi bidoni... roba che andrà sprecata, se non la prendo io.": "Town_502969_2400_Linus_event2",
+    "Pensi che ci sia qualcosa di sbagliato, in quello che faccio?": "Town_502969_2400_Linus_event3",
+    "Disgustoso per te, forse. Per me, è uno stile di vita. E ancora non mi sono ammalato. Mangio solo la roba che sembra fresca.": "Town_502969_2400_Linus_event3__Sì__è_disgustoso___response",
+    "Grazie, @. Sapevo che eri di mentalità aperta. Ciò che faccio mi piace. Non faccio del male a nessuno.": "Town_502969_2400_Linus_event3__No__È_un_peccato_sprecare_il_cibo___response",
+    "Io non credo alla  'proprietà privata'. E poi, che cosa dovrei fare? Questo cibo mi serve per sopravvivere. Abbi cuore.": "Town_502969_2400_Linus_event3__Sì__è_illegale__Quella_è_proprietà_privata_di_George___response",
+    "**Sospira**... Non tutti sono tagliati per questo mondo, @. Non sai com'è essere me. Non faccio del male a nessuno, voglio solo vivere la vita a modo mio. È così sbagliato?'": "Town_502969_2400_Linus_event3__No__ma_dovresti_trovarti_un_lavoro_e_smettere_di_fare_la_sanguisuga___response",
+    "Puoi andare a casa. Prometto di non frugare più nel bidone di George.": "Town_502969_2400_Linus_event4",
+    "Puoi dirgli che hai cacciato i procioni per sempre.": "Town_502969_2400_Linus_event4_sv1",
+    "Un attimo.": "Town_502969_2400_Gus_event1",
+    "So cosa stai facendo, Linus.": "Town_502969_2400_Gus_event2",
+    "Se hai bisogno di cibo... basta chiedere. Voglio che a Pelican Town nessuno soffra la fame.": "Town_502969_2400_Gus_event3",
+    "Tieni. Ho qui per te un cestino di frittelle di zucchine. Ma vedi d'intingerle nella mia marinara piccante!": "Town_502969_2400_Gus_event4",
+    "Coraggio... prendilo.": "Town_502969_2400_Gus_event4_sv1"
+}

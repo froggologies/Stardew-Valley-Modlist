@@ -1,0 +1,16 @@
+{
+    "GCMC.BasicSettings": "การตั้งค่าพื้นฐาน",
+    "GCMC.Enable": "เปิดใช้งานม็อต",
+    "GCMC.Enable.Desc": "เปิดใช้งานม็อด Enable Predict Reaction To Gift",
+    "GCMC.Distance": "ระยะ",
+    "GCMC.Distance.Desc": "ระยะการแสดงผลของความรู็สึก",
+    "GCMC.WaitingTime": "เวลาในการรอ (วินาที)",
+    "GCMC.WaitingTime.Desc": "เวลาในการรอของ NPC เมื่อเกิดปฏิกิริยา",
+    "GCMC.RequireGiftLog": "ต้องการบันทึกของขวัญ",
+    "GCMC.RequireGiftLog.Desc": "ปฏิกิริยาของขวัญจะไม่แสดงหากไม่มีบันทึกของขวัญ.",
+    "GCMC.UnknownBubble": "แสดงข้อมูลที่ไม่รู้จัก",
+    "GCMC.UnknownBubble.Desc": "หากต้องการบันทึกของขวัญ ของขวัญที่ยังไม่ได้มอบจะมีการแสดงเครื่องหมายคำถาม.",
+    "GCMC.Compatibility": "ความเข้ากันได้",
+    "GCMC.GiftWeekLimit": "ขีดจำกัดของของขวัญรายสัปดาห์",
+    "GCMC.GiftWeekLimit.Desc": "พารามิเตอร์นี้จะไม่ส่งผลต่อขีดจำกัดของของขวัญรายสัปดาห์ของ NPC ในเกม\nหากคุณใช้ม็อดอื่นที่แก้ไขขีดจำกัดของของขวัญรายสัปดาห์ การแสดงผลของ Enable Predict Reaction To Gift อาจไม่เป็นไปตามที่คาดไว้ ในกรณีนี้โปรดปรับค่าที่เปลี่ยนแปลงด้วยตนเองที่นี่"
+}

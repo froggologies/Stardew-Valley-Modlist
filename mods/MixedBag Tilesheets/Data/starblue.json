@@ -1,0 +1,195 @@
+{
+	"Changes": [
+	//Blue Spring
+		//Town
+		{
+			"LogName": "Town Path BS",
+			"Action": "EditImage",
+			"Target": "Maps/spring_town",
+			"FromFile": "assets/Starblue/blue spring/spring_z_grasspath_blue.png",
+			"PatchMode": "Overlay",
+			"FromArea": { "X": 0, "Y": 0, "Width": 96, "Height": 80 },
+			"ToArea": { "X": 0, "Y": 304, "Width": 96, "Height": 80 }
+		},
+		//z_dirtpath
+		{
+			"LogName": "Dirt Path BS",
+			"Action": "EditImage",
+			"Target": "Maps/spring_z_dirtpath",
+			"FromFile": "assets/Starblue/blue spring/{{TargetWithoutPath}}_blue.png",
+			"PatchMode": "Overlay"
+		},
+			//island_tilesheet_1
+			{
+				"LogName": "it1 641 642 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_island_tilesheet_1",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 16, "Y": 32, "Width": 32, "Height": 16 },
+				"ToArea": { "X": 16, "Y": 320, "Width": 32, "Height": 16 }
+			},
+			{
+				"LogName": "it1 611 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_island_tilesheet_1",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 48, "Y": 32, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 48, "Y": 304, "Width": 16, "Height": 16 }
+			},
+			//outdoorsTileSheet
+			{
+				"LogName": "ots 200 201 202 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 16 },
+				"ToArea": { "X": 0, "Y": 128, "Width": 48, "Height": 16 }
+			},
+			{
+				"LogName": "ots 178 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 48, "Y": 0, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 48, "Y": 112, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots 655 656 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 16, "Y": 16, "Width": 32, "Height": 16 },
+				"ToArea": { "X": 80, "Y": 416, "Width": 32, "Height": 16 }
+			},
+			{
+				"LogName": "ots 632 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 48, "Y": 16, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 112, "Y": 400, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots 252 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 64, "Y": 16, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 32, "Y": 160, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots 706 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 16, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 96, "Y": 448, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots 204 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 64, "Y": 32, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 128, "Width": 16, "Height": 16 }
+			},
+			//outdoorsTileSheet2
+			{
+				"LogName": "ots2 743 759 775 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 0, "Y": 112, "Width": 16, "Height": 48 },
+				"ToArea": { "X": 112, "Y": 736, "Width": 16, "Height": 48 }
+			},
+			{
+				"LogName": "ots2 742 758 774 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 16, "Y": 112, "Width": 16, "Height": 48 },
+				"ToArea": { "X": 96, "Y": 736, "Width": 16, "Height": 48 }
+			},
+			{
+				"LogName": "ots2 804 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 80, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 800, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots2 788 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 160, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 64, "Y": 784, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots2 806 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 96, "Y": 800, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots2 790 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 112, "Y": 112, "Width": 16, "Height": 16 },
+				"ToArea": { "X": 96, "Y": 784, "Width": 16, "Height": 16 }
+			},
+			{
+				"LogName": "ots2 789 805 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 96, "Y": 128, "Width": 16, "Height": 32 },
+				"ToArea": { "X": 80, "Y": 784, "Width": 16, "Height": 32 }
+			},
+			{
+				"LogName": "ots2 791 807 BS",
+				"Action": "EditImage",
+				"Target": "Maps/spring_outdoorsTileSheet2",
+				"FromFile": "assets/Starblue/blue spring/spring_z_dirtpath_blue.png",
+				"PatchMode": "Overlay",
+				"FromArea": { "X": 112, "Y": 128, "Width": 16, "Height": 32 },
+				"ToArea": { "X": 112, "Y": 784, "Width": 16, "Height": 32 }
+			},
+		//z_grasspath
+		{
+			"LogName": "Grass Path BS",
+			"Action": "EditImage",
+			"Target": "Maps/spring_z_grasspath",
+			"FromFile": "assets/Starblue/blue spring/{{TargetWithoutPath}}_blue.png",
+			"PatchMode": "Overlay"
+		},
+		//z_rndpath
+		{
+			"LogName": "Rounded and Diagonal Path BS",
+			"Action": "EditImage",
+			"Target": "Maps/spring_z_rndpath",
+			"FromFile": "assets/Starblue/blue spring/{{TargetWithoutPath}}_blue.png",
+			"PatchMode": "Overlay"
+		}
+	]
+}

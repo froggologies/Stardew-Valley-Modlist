@@ -1,0 +1,14 @@
+{
+    "Sam'den anında bir mesaj geldi... Sanırım takılmak istiyor...": "response_SebastianRoom_enterRobin_Sebastian_event1",
+    "Eh, bugün hiç dışarı çıkasım yok.": "response_SebastianRoom_enterRobin_Sebastian_event1_sv1",
+    "Ah, merhaba @.": "response_SebastianRoom_enterRobin_Robin_event1",
+    "Sebby, buraya gelmemi savmediğini biliyorum... ama mağazada Abigail'e rastladım ve seni aradığını söyledi.": "response_SebastianRoom_enterRobin_Robin_event2",
+    "Ona çalıştığımı söyledin mi?": "response_SebastianRoom_enterRobin_Sebastian_event2",
+    "Söyledim... ama yine de uğrayacakmış.": "response_SebastianRoom_enterRobin_Robin_event3",
+    "*iç çeker*... Kimse işimi ciddiye almıyor.": "response_SebastianRoom_enterRobin_Sebastian_event3",
+    "Kimse sağlık ocağında çalışırken Maru'yu rahatsız etmiyor... Herkes benim gün boyunca internette sörf yaptığımı mı düşünüyor?": "response_SebastianRoom_enterRobin_Sebastian_event3_sv1",
+    "Buradan taşınmak için para biriktiriyorum. Muhtemelen şehre gideceğim.": "response_SebastianRoom_enterRobin_Sebastian_event4",
+    "Biliyor musun, eğer üniversiteye gitmiş olsaydım çok daha fazla para kazanıyor olurdum... Ancak, o toplu fare yarışının bir parçası olmamak da güzel, anlarsın ya.": "response_SebastianRoom_enterRobin_Sebastian_event5",
+    "Sanırım bilgisayardan kurulan iletişim, yüz yüze kurulan iletişimden çok daha kolay geliyor.": "response_SebastianRoom_enterRobin_Sebastian_event5_sv1",
+    "Pekâlâ, şimdi işe dönmeliyim... Bu kısmı yarına bitirmem gerek.": "response_SebastianRoom_enterRobin_Sebastian_event6"
+}

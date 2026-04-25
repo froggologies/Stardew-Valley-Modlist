@@ -1,0 +1,6 @@
+{
+    "Oui, Vincent ?": "response_Forest_choseFarming_Penny_event1",
+    "Euh, @ ? Si je mange tes légumes, deviendrais-je fort comme mon grand frère Sam ?": "response_Forest_choseFarming_Vincent_event1",
+    "Il est tellement fort ! Je l’ai vu soulever Miss Penny du sol la nuit dernière quand ils grimpaient dans un arbre.": "response_Forest_choseFarming_Vincent_event1_sv1",
+    "Vincent ! Ce n’est pas bien de raconter des histoires !": "response_Forest_choseFarming_Penny_event2"
+}

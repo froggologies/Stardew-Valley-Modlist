@@ -1,0 +1,18 @@
+{
+  "Urgghh! I always clean under the cushions! It's YOUR turn this week!": "HaleyHouse_11_Emily_Haley_event1",
+  "You're being childish, Haley. I do the vast majority of work in this house, and you know it.": "HaleyHouse_11_Emily_Emily_event1",
+  "Oh, it's that new farm boy.": "HaleyHouse_11_Emily_Haley_event2_male_farmer",
+  "Oh, it's that new girl from the farm.": "HaleyHouse_11_Emily_Haley_event2_female_farmer",
+  "He has a name, you know.": "HaleyHouse_11_Emily_Emily_event2_male_farmer",
+  "She has a name, you know.": "HaleyHouse_11_Emily_Emily_event2_female_farmer",
+  "Hey, I bet you'll understand my point of view here.": "HaleyHouse_11_Emily_Haley_event3",
+  "*sigh*... I'm really sorry to involve you in this, @. Haley is complaining because I asked her to clean under the cushions.": "HaleyHouse_11_Emily_Emily_event3",
+  "It's only because I cleaned them last week!": "HaleyHouse_11_Emily_Haley_event4",
+  "Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it.": "HaleyHouse_11_Emily_Haley_event5",
+  "Thanks, @. That was a great solution.": "HaleyHouse_11_Emily_Emily_event4",
+  "*sigh*...": "Event_clean1",
+  "NO!! I'm not going to do it!": "Event_clean2",
+  "You guys are both stupid!": "Event_clean2_sv1",
+  "She should take the 'high road'? What's that supposed to mean?": "Event_clean3",
+  "You think I'm being a baby, huh?": "Event_clean3_sv1"
+}

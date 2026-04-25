@@ -1,0 +1,366 @@
+{
+      "Geisternacht": [
+            "fall27_name"
+      ],
+      "Du musst mir sagen, was noch kommt, ich kann nicht weiter... Spinnen...": [
+            "fall27_Abigail_spouse"
+      ],
+      "Ich hatte vielleicht ein wenig zu viel Kürbisbier...": [
+            "fall27_Leah_spouse"
+      ],
+      "Ich bin verwirrt... Geh du voraus und lass mich das hier erstmal verstehen.": [
+            "fall27_Maru_spouse"
+      ],
+      "Oh... Diese Dämpfe... Hmmm... Du siehst heute schick aus.": [
+            "fall27_Penny_spouse"
+      ],
+      "Ich erschrecke mich viel zu schnell... Ich denke, ich bleibe genau hier.": [
+            "fall27_Haley_spouse"
+      ],
+      "Es wäre interessant, so etwas auf der Farm zu haben.": [
+            "fall27_Sebastian_spouse"
+      ],
+      "Huhu, ich habe mich schon gefragt, wann du auftauchst.": [
+            "fall27_Sam_spouse"
+      ],
+      "Hi... Ich hatte darauf gehofft, dass du mich hier findest...": [
+            "fall27_Harvey_spouse"
+      ],
+      "Puuh... Ich habe vielleicht ein paar Stücke Kürbiskuchen zu viel verputzt.": [
+            "fall27_Elliott_spouse"
+      ],
+      "Ich kann nicht weiter... Spinnen...": [
+            "fall27_Abigail"
+      ],
+      "Der Winter ist ja schon fast da. Die beste Zeit, um etwas Holz und Steine zu horten.": [
+            "fall27_Robin"
+      ],
+      "Ich habe Maru schon seit Stunden nicht mehr gesehen... Ich hoffe, ihr geht es gut.": [
+            "fall27_Demetrius"
+      ],
+      "Hier bin ich doch schon mal langgegangen... Nein, warte...": [
+            "fall27_Maru"
+      ],
+      "Ich habe mich verlaufen...": [
+            "fall27_Maru_sv1"
+      ],
+      "Ich habe keine Ahnung, wie sich diese Skelette bewegen... Gruselig.": [
+            "fall27_Sebastian"
+      ],
+      "Aber auch irgendwie ziemlich cool.": [
+            "fall27_Sebastian_sv1"
+      ],
+      "??": [
+            "fall27_Pierre"
+      ],
+      "Ich erschrecke mich so leicht. Ich lasse das verfluchte Labyrinth lieber den jüngeren Leuten.": [
+            "fall27_Caroline"
+      ],
+      "Nette Show, alter Freund.": [
+            "fall27_Linus"
+      ],
+      "Dort drüben ist irgendetwas Merkwürdiges. Aber wie komme ich dorthin?": [
+            "fall27_Alex"
+      ],
+      "Es muss hier irgendwo einen geheimen Durchgang geben.": [
+            "fall27_Alex_sv1"
+      ],
+      "Hmm... geräucherte Truthahnkeulen? Vielleicht ist dieses Fest doch nicht ganz so schlecht.": [
+            "fall27_George"
+      ],
+      "Ich wünschte, Gus würde etwas Vegetarisches anbieten. Ein paar Zucchini-Spieße vielleicht?": [
+            "fall27_Evelyn"
+      ],
+      "Guten Abend, @. Warst du schon im verfluchten Labyrinth? Es ist ziemlich gruselig.": [
+            "fall27_Lewis"
+      ],
+      "Der merkwürdige Mann, der in dem Turm haust, hat das alles selbst auf die Beine gestellt. Er hat niemanden in die Nähe gelassen, während er daran gearbeitet hat.": [
+            "fall27_Lewis_sv1"
+      ],
+      "Eine meiner Iridium-Keulen würde kurzen Prozess mit diesen Teilen machen.": [
+            "fall27_Clint"
+      ],
+      "Magst du die Kürbislaternen? Ich habe sie selbst geschnitzt.": [
+            "fall27_Emily"
+      ],
+      "Die Dämpfe aus diesem Kessel... Sie machen mich ganz schwindelig, aber ich kann mich einfach nicht abwenden...": [
+            "fall27_Penny"
+      ],
+      "Ich komme zu jeder Veranstaltung mit kostenlosem Essen! Du wirst mich aber definitiv nicht im verfluchten Labyrinth finden.": [
+            "fall27_Pam"
+      ],
+      "Aaargh! Ich habe zu viel Angst.": [
+            "fall27_Haley"
+      ],
+      "Vincent ist beleidigt, weil ich ihn nicht in das verfluchte Labyrinth lasse... Aber er ist doch noch so klein!": [
+            "fall27_Jodi"
+      ],
+      "Hey, @. Netter Abend, was?": [
+            "fall27_Kent"
+      ],
+      "Das ist merkwürdig... Hier ist eine Sackgasse.": [
+            "fall27_Sam"
+      ],
+      "Ich hätte schwören können, jemand war vor mir auf meinem Weg durch das Labyrinth. Wo ist er oder sie hin?": [
+            "fall27_Sam_sv1"
+      ],
+      "Mm, hi. 'Tschuldigung... Mein Mund war voller Brombeeren.": [
+            "fall27_Leah"
+      ],
+      "Hallo, @. Hattest du einen produktiven Herbst?": [
+            "fall27_Marnie"
+      ],
+      "Es wird langsam ziemlich kalt. Die Pflanzen werden nicht viel länger durchhalten.": [
+            "fall27_Marnie_sv1"
+      ],
+      "Ah, hallo, @. Es ist schon ziemlich kühl, was?": [
+            "fall27_Elliott"
+      ],
+      "Ich finde es toll, mit Kürbissen zu kochen. So eine interessante Frucht.": [
+            "fall27_Gus"
+      ],
+      "Was, es regnet oben? *schock*": [
+            "fall27_Dwarf"
+      ],
+      "Regen... Er ist schon fast ein Mythos für uns. Manche von uns erleben ihn ihr ganzes Leben lang nicht.": [
+            "fall27_Dwarf_sv1"
+      ],
+      "Die Angelegenheiten des gewöhnlichen Volkes interessieren mich nicht, aber die Elementare wollten dich mal gerne aus der Nähe betrachten.": [
+            "fall27_Wizard"
+      ],
+      "Ich habe dieses alberne Labyrinth für sie gebaut.": [
+            "fall27_Wizard_sv1"
+      ],
+      "Oh! Du hast mich gefunden...": [
+            "fall27_Harvey"
+      ],
+      "Ehrlich gesagt hatte ich zu viel Angst und wollte mich hier verstecken. Aber verrate das niemandem.": [
+            "fall27_Harvey_sv1"
+      ],
+      "Warum gibt es kein Kürbisbier mehr?": [
+            "fall27_Shane"
+      ],
+      "Ich habe gehört, dass es zu Hause regnet. Bist du deswegen hier?": [
+            "fall27_Sandy"
+      ],
+      "Ich vermisse den Regen irgendwie...": [
+            "fall27_Sandy_sv1",
+            "fall27_Sandy_y2_sv1"
+      ],
+      "Aber Tante Marnie! Ich will in das Labyrinth! Ich habe keine Angst!": [
+            "fall27_Jas"
+      ],
+      "Meine Mutter lässt mich nicht in das Labyrinth. *schluchz*": [
+            "fall27_Vincent"
+      ],
+      "Geh nicht zu nah an den Käfig.": [
+            "fall27_Marlon"
+      ],
+      "%Leos Augen kleben gerade zu, ohne zu blinzeln, am  Bildschirm geklebt. Du bist nicht in der Lage, seine Aufmerksamkeit zu gewinnen.": [
+            "fall27_Leo"
+      ],
+      "BO 113 5000 1 O 746 750 5 BL 746 2000 1 BO 47 350 -1 F 2870 4000 -1": [
+            "fall27_shop_y2"
+      ],
+      "Hast du schon mal gegen eines dieser Monster gekämpft?": [
+            "fall27_Abigail_spouse_y2"
+      ],
+      "Sogar gegen die S-Spinnen?": [
+            "fall27_Abigail_spouse_y2_sv1"
+      ],
+      "Wahrscheinlich habe ich zu viel Kürbisbier getrunken, bevor ich in den Irrgarten gesprungen bin.": [
+            "fall27_Leah_spouse_y2"
+      ],
+      "Geh schon mal vor. Ich komme gleich nach.": [
+            "fall27_Leah_spouse_y2_sv1"
+      ],
+      "Schnapp dir einen Teller und setz dich zur Familie!": [
+            "fall27_Maru_spouse_y2"
+      ],
+      "*puh* Ich habe mich im Labyrinth verirrt...": [
+            "fall27_Penny_spouse_y2"
+      ],
+      "Ich hatte Angst, dass ich in stecken bleibe und alle ohne mich nach Hause gehen würden!2": [
+            "fall27_Penny_spouse_y2_sv1"
+      ],
+      "*kicher* Ich wusste, dass du den Weg hierher finden würdest.": [
+            "fall27_Emily_spouse_y2"
+      ],
+      "Hah! Nichts davon ist echt.": [
+            "fall27_Haley_spouse_y2"
+      ],
+      ".... richtig, @? Es ist nicht echt... richtig?2": [
+            "fall27_Haley_spouse_y2_sv1"
+      ],
+      "Hey, du hast es an den unheimlichen Händen vorbei geschafft.": [
+            "fall27_Alex_spouse_y2"
+      ],
+      "Ich glaube, ich höre in der Nähe jemanden um Hilfe rufen.": [
+            "fall27_Alex_spouse_y2_sv1"
+      ],
+      "Hey, könntest du... mir zur Hand gehen? Hehehe...": [
+            "fall27_Sebastian_spouse_y2"
+      ],
+      "Diese Grabsteine würden auf der Farm gut aussehen, meinst du nicht?": [
+            "fall27_Sebastian_spouse_y2_sv1"
+      ],
+      "Mein kleiner Bruder und ich sind hier ziemlich weit gekommen, aber wir sind stecken geblieben.": [
+            "fall27_Sam_spouse_y2"
+      ],
+      "Geh du vor und finde den Schatz für uns!": [
+            "fall27_Sam_spouse_y2_sv1"
+      ],
+      "Ich habe mich schon gefragt, wann ich dich sehen würde.": [
+            "fall27_Harvey_spouse_y2"
+      ],
+      "Lass dich nicht stören. Ich mache nur eine kurze Verschnaufpause.": [
+            "fall27_Harvey_spouse_y2_sv1"
+      ],
+      "Mich schaudert es bei dem Gedanken, was passieren würde, wenn die loskämen...%noturn": [
+            "fall27_Elliott_spouse_y2"
+      ],
+      "Fürchte dich nicht! Ich würde dieses verfluchte Ungeheuer durchbohren, bevor es dich auch nur anrühren könnte.": [
+            "fall27_Elliott_spouse_y2_sv1"
+      ],
+      "Ich habe Marnie überredet, mich mit Jas in das Labyrinth gehen zu lassen. Ich glaube, sie ist alt genug.": [
+            "fall27_Shane_spouse_y2"
+      ],
+      "Wir gehen aber sehr langsam. Geht ohne uns weiter!": [
+            "fall27_Shane_spouse_y2_sv1"
+      ],
+      "Hast du die Dekoration an unserem Haus gesehen? Die gefällt mir nicht...": [
+            "fall27_Abigail_y2"
+      ],
+      "Freust du dich darauf, dass es bald ruhiger wird? Der Winter steht vor der Tür.": [
+            "fall27_Robin_y2"
+      ],
+      "Wusstest du, dass eine Studie im Journal für anthropologische Physiologie herausgefunden hat, dass die Kadenz, das Tempo und die Tonart von Musik einen messbaren Einfluss auf den Cortisolspiegel haben können?": [
+            "fall27_Demetrius_y2"
+      ],
+      "Äh... Gibt es zum Brombeerkuchen auch Vanilleeis?": [
+            "fall27_Demetrius_y2_sv1"
+      ],
+      "Wenn ich mit dem Essen fertig bin, stürze ich mich kopfüber in dieses Labyrinth!": [
+            "fall27_Maru_y2"
+      ],
+      "Das ist mein Platz": [
+            "fall27_Sebastian_y2"
+      ],
+      "Ah, es ist Bauer @! Ich habe heute Abend eine große Auswahl an Waren. Schau mal rein!": [
+            "fall27_Pierre_y2_male_farmer"
+      ],
+      "Ah, es ist Bäuerin @! Ich habe heute Abend eine große Auswahl an Waren. Schautmal rein!": [
+            "fall27_Pierre_y2_female_farmer"
+      ],
+      "Ich sollte einen Teller Essen für meinen Mann machen. Er hat den ganzen Abend im Laden gearbeitet.": [
+            "fall27_Caroline_y2"
+      ],
+      "Haha! Eine weitere schöne Kreation, mein alter Freund.": [
+            "fall27_Linus_y2"
+      ],
+      "Ich glaube, ich habe ein Mädchen schreien hören... Sie braucht meine Hilfe!": [
+            "fall27_Alex_y2"
+      ],
+      "Wenn ich nicht in diesem verfluchten Stuhl säße, würde ich in diesem Labyrinth um jeden herum Runden laufen!": [
+            "fall27_George_y2"
+      ],
+      "Kannst du mir bitte die Zucchiniküchlein reichen?": [
+            "fall27_Evelyn_y2"
+      ],
+      "Guten Abend, @. Wieder einmal sind wir mit einem Geisterlabyrinth beglückt worden, das der Exzentriker, der draußen im Wald lebt, heimlich gebaut hat.": [
+            "fall27_Lewis_y2"
+      ],
+      "Ich habe gehört, dass es dieses Jahr größer ist. Viel Glück, falls du dich hineinwagst...": [
+            "fall27_Lewis_y2_sv1"
+      ],
+      "Ich habe es bereits durch das Labyrinth geschafft... jetzt ist es Zeit, sich mit einem Kürbisbier zurückzulehnen!": [
+            "fall27_Clint_y2"
+      ],
+      "...Ich versuche mein Bestes, um die Spinnenplage hinter mir zu ignorieren.": [
+            "fall27_Clint_y2_sv1"
+      ],
+      "Ooooh. Du hast auch den geheimen Eingang gefunden!": [
+            "fall27_Emily_y2"
+      ],
+      "Ich war eine Weile im Labyrinth, aber dann bekam ich Hunger.": [
+            "fall27_Penny_y2"
+      ],
+      "Meine Mutter scheint sich zu amüsieren.": [
+            "fall27_Penny_y2_sv1"
+      ],
+      "Gib mir noch eine Flasche Kürbisbier rüber!... *hic*": [
+            "fall27_Pam_y2"
+      ],
+      "Hast du meine Schwester gesehen?": [
+            "fall27_Haley_y2"
+      ],
+      "Emily! Kannst du mich hören?": [
+            "fall27_Haley_y2_sv1"
+      ],
+      "Sam nahm Vincent mit in das Labyrinth. Ich hoffe, es geht ihnen gut...": [
+            "fall27_Jodi_y2"
+      ],
+      "Diese Dinger sehen gar nicht so hart aus.": [
+            "fall27_Kent_y2"
+      ],
+      "Bin ich Sam? Heh, heh, heh...1": [
+            "fall27_Sam_y2"
+      ],
+      "Geht es hier lang? Oder vielleicht hier drüben?": [
+            "fall27_Leah_y2"
+      ],
+      "Ich hoffe, Jas geht es da drinnen gut.": [
+            "fall27_Marnie_y2"
+      ],
+      "Hattest du ein erfolgreiches Jahr als Bauer, @?": [
+            "fall27_Marnie_y2_sv1"
+      ],
+      "Oh bedauernswerter Schuft... in welcher fauligen Grotte liegt dein Reich?%noturn": [
+            "fall27_Elliott_y2"
+      ],
+      "Manchmal muss man in den Abgrund starren, um eine träge Muse zu wecken...": [
+            "fall27_Elliott_y2_sv1"
+      ],
+      "Das Schnitzen von Kürbissen ist ein Talent von mir. Normalerweise schnitze ich die meisten Kürbisse für alle in der Stadt.": [
+            "fall27_Gus_y2"
+      ],
+      "Alles, was ich dafür verlange, ist, dass du die Kerne aufbewahrst... Streu ein bisschen Zimtzucker drüber und du hast einen goldenen Snack!": [
+            "fall27_Gus_y2_sv1"
+      ],
+      "Dieser Ort ist sehr seltsam...": [
+            "fall27_Dwarf_y2"
+      ],
+      "Die Prüfungen gehen weiter... Jeder Magier muss einen Lehrling haben...": [
+            "fall27_Wizard_y2"
+      ],
+      "Ich muss leider sagen, dass ich in dieser Sache ziemlich verwirrt bin...": [
+            "fall27_Harvey_y2"
+      ],
+      "Du musst in meiner Nähe bleiben, Jas. Lauf nicht weg!%noturn": [
+            "fall27_Shane_y2"
+      ],
+      "Ich habe gehört, dass es zu Hause regnet. Bist du deshalb hierher gekommen?": [
+            "fall27_Sandy_y2"
+      ],
+      "Gehen wir hier lang!%noturn": [
+            "fall27_Jas_y2"
+      ],
+      "Ich würde aufpassen, Junge... etwas Schreckliches ist in diesem Labyrinth...": [
+            "fall27_Willy_y2_male_farmer"
+      ],
+      "Ich würde aufpassen, Kleine... etwas Schreckliches ist in diesem Labyrinth...": [
+            "fall27_Willy_y2_female_farmer"
+      ],
+      "Haben wir das Labyrinth überwunden? Wo ist mein Preis?": [
+            "fall27_Vincent_y2"
+      ],
+      "Ich habe dieses Jahr mehr Monster gefangen. Achte auf deinen Abstand zu den Käfigen.": [
+            "fall27_Marlon_y2"
+      ],
+      "Dies ist ein Labyrinth in einem Labyrinth... Mir dreht sich der Kopf...": [
+            "fall27_Leo_y2"
+      ],
+      "Wa-Was tust du hier?": [
+            "fall27_Krobus_y2"
+      ]
+}

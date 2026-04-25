@@ -1,0 +1,10 @@
+{
+    "Hey, @.": "SebastianRoom_27_Sebastian_Sebastian_event1",
+    "Sam and I were about to play 'Solarion Chronicles: The Game'... Why don't you join us?  It's better with three players anyway.": "SebastianRoom_27_Sebastian_Sebastian_event2",
+    "Okay, here we go... Let me draw the scenario card.": "SebastianRoom_27_Sebastian_Sebastian_event3",
+    "Hmm... It looks like today's quest will take us into the Necromancer's Tower... to try and reclaim the Solarion Staff from the clutches of Dreadlord Xarth.": "SebastianRoom_27_Sebastian_Sebastian_event4",
+    "Cool... @, are you ready to choose your character?": "SebastianRoom_27_Sebastian_Sam_event1",
+    "Hey! That's what I was going to pick!": "SebastianRoom_27_Sebastian_Sebastian_event5",
+    "I guess I'll be the healer then.": "SebastianRoom_27_Sebastian_Sebastian_event5_sv1",
+    "Cool. Warrior's my favorite anyway.": "SebastianRoom_27_Sebastian_Sam_event2"
+}

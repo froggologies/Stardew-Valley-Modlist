@@ -1,0 +1,12 @@
+{
+    "はぁ…サンプルの準備って、ほんといやになっちゃう…": "Hospital_7_Maru_Maru_event1",
+    "ああっ！やっちゃった…": "Hospital_7_Maru_Maru_event2",
+    "サンプルがぜんぶダメになっちゃった…ハーヴィー先生に殺されちゃう…": "Hospital_7_Maru_Maru_event3",
+    "どうしよう、@？": "Hospital_7_Maru_Maru_event4",
+    "どうしたんだい？なにか割れる音が聞こえたけど。": "Hospital_7_Maru_Harvey_event1",
+    "うっかりサンプルを落としちゃったんです…ごめんなさい。": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "入ってきた@が大きな音を立ててドアをしめたせいで、サンプルを落としちゃったんです。": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "自分のミスを人のせいにするのは感心しないな、マル。": "Hospital_7_Maru_Harvey_event2",
+    "ハァ…もう一度患者さんを呼びもどして、サンプルを採取しなおさないと…": "Hospital_7_Maru_Harvey_event3",
+    "これじゃ、来月もまた赤字かもな…": "Hospital_7_Maru_Harvey_event3_sv1"
+}

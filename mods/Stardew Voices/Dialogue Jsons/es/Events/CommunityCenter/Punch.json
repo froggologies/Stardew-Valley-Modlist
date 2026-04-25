@@ -1,0 +1,16 @@
+{
+    "¡Ja!": "response_CommunityCenter_Punch_Morris_textAboveHeadEvent1",
+    "Eso no significa nada. Haré una rebaja del 75% y todos mis clientes volverán arrastrándose y pidiéndome perdón. ¡Ya lo verás!": "response_CommunityCenter_Punch_Morris_event2",
+    "No... Esta vez no, Morris.": "response_CommunityCenter_Punch_Pierre_event1",
+    "Creo que es hora de solucionar esto de una vez.": "response_CommunityCenter_Punch_Pierre_event1_sv1",
+    "¿Ah, sí? ¿Y qué propones?": "response_CommunityCenter_Punch_Morris_event3",
+    "¡Ja! Qué primitivo...": "response_CommunityCenter_Punch_Morris_event4",
+    "¡Si te da miedo pelear contra mí, trae a uno de tus empleados! ¿O es que todos los empleados de Joja son igual de cobardes?": "response_CommunityCenter_Punch_Pierre_event2",
+    "Insúltame todo lo que quieras... ¡Pero NO te atrevas a manchar el nombre de Joja!": "response_CommunityCenter_Punch_Morris_event5",
+    "¡Pierre!": "response_CommunityCenter_Punch_Caroline_textAboveHeadEvent1",
+    "¡Ja! ¡Qué bueno!": "response_CommunityCenter_Punch_George_textAboveHeadEvent1",
+    "¡Eres aún más flojo que tu selección de productos frescos!": "response_CommunityCenter_Punch_Morris_event6",
+    "Y tu forma de dar puñetazos es muy Joja...": "response_CommunityCenter_Punch_Pierre_event3",
+    "¡Mucha cantidad, poca calidad!": "response_CommunityCenter_Punch_Pierre_event3_sv1",
+    "¡A por él!": "response_CommunityCenter_Punch_George_textAboveHeadEvent2"
+}

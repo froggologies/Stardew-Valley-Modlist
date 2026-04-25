@@ -1,0 +1,15 @@
+{
+    "よう@。なにか食おうとしてたとこだったんだ。": "SamHouse_46_Sam_Sam_event1",
+    "ほら、お前もなんか食べてけよ。": "SamHouse_46_Sam_Sam_event2",
+    "おっと…やっちまった。": "SamHouse_46_Sam_Sam_event3",
+    "いまの音はなあに？": "SamHouse_46_Sam_Jodi_event1",
+    "まあ…": "SamHouse_46_Sam_Jodi_event2",
+    "なんてひどい！なにがあったの？": "SamHouse_46_Sam_Jodi_event3",
+    "…教えてやれよ、@。": "SamHouse_46_Sam_Sam_event4",
+    "正直に言ってくれてありがとう、@。それくらいなら大したことないわ。": "SamHouse_46_Sam_Jodi_event4_prereq_1",
+    "サム、なんですって？！あなた、いったいどうしちゃったの？！": "SamHouse_46_Sam_Jodi_event4_prereq_2",
+    "ごめんな、母さん。オレが片づけるよ。": "SamHouse_46_Sam_Sam_event5",
+    "ありがとう、おねがいね。": "SamHouse_46_Sam_Jodi_event5",
+    "おい、怒ってるからな。なんであんなウソつくんだよ？": "SamHouse_46_Sam_Sam_endDialogue6_prereq_1",
+    "さっきは悪かったな。": "SamHouse_46_Sam_Sam_endDialogue6_prereq_2"
+}

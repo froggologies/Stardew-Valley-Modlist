@@ -1,0 +1,16 @@
+{
+    "GCMC.BasicSettings": "BasicSettings",
+    "GCMC.Enable": "Enable",
+    "GCMC.Enable.Desc": "Enable Predict Reaction To Gift.",
+    "GCMC.Distance": "Distance",
+    "GCMC.Distance.Desc": "Display the distance of the reaction.",
+    "GCMC.WaitingTime": "WaitingTime(seconds)",
+    "GCMC.WaitingTime.Desc": "NPC's waiting time when triggering a reaction",
+    "GCMC.RequireGiftLog": "Requires Gift Log",
+    "GCMC.RequireGiftLog.Desc": "The gift reaction will not be displayed without a gift log.",
+    "GCMC.UnknownBubble": "Show Unknown",
+    "GCMC.UnknownBubble.Desc": "If a gift log is required, gifts that have not been given will display a question mark.",
+    "GCMC.Compatibility": "Compatibility",
+    "GCMC.GiftWeekLimit": "GiftWeekLimit",
+    "GCMC.GiftWeekLimit.Desc": "This parameter will not affect the weekly gift limit for game NPCs.\nIf you are using other mods that modify the weekly gift limit, the display of Enable Predict Reaction To Gift may not behave as expected. In that case, please manually adjust the actual modified value here."
+}

@@ -1,0 +1,8 @@
+{
+    "Eh bien, je crois que ça suffit pour aujourd’hui. Vous deux, allez jouer dehors.": "response_Forest_fieldTripEnd_Penny_event1",
+    "S’occuper de ces enfants demande beaucoup de travail...": "response_Forest_fieldTripEnd_Penny_event2",
+    "Mais ça ne me dérange pas vraiment. J’aime les voir apprendre plein de choses... et j’espère pouvoir les aider à devenir de bonnes personnes.": "response_Forest_fieldTripEnd_Penny_event2_sv1",
+    "Est-ce que tu aimerais avoir des enfants un jour, @ ?": "response_Forest_fieldTripEnd_Penny_event3",
+    "Eh bien, je suis contente que tu sois venu, @. Je pense que les enfants ont passé un excellent moment.": "response_Forest_fieldTripEnd_Penny_event4",
+    "Merci d’avoir fait de mon étude de la nature un véritable succès.": "response_Forest_fieldTripEnd_Penny_endDialogue5"
+}

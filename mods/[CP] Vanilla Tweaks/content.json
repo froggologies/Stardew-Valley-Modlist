@@ -1,0 +1,1047 @@
+{
+	"Format": "1.19.0",
+	
+	"ConfigSchema": {
+
+// CATEGORY ON/OFF CONFIGS
+
+		
+		"AnimalArtisanGoodsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"ArtifactsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"CropsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"CropGrowthCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"FishCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"FoodCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"ForageCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"GemsGeodesCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"MineralsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"MiningNodesCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"OresCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"OtherCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"RingsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"SaplingsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"SeedBagsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"ShoesCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+		"WeaponsCategoryEnabled": 
+		{
+			"AllowValues": "true, false",
+			"Default": "true"
+		},
+
+// MISC CONFIGS
+
+		
+		"Enable1.5Items": {
+			"AllowValues": "true, false", 
+			"Default": "false"
+		},
+		"SeedBagStyle": {
+			"AllowValues": "SunnyCrops, VanillaTweaks", 
+			"Default": "VanillaTweaks"
+		},
+		"SeasonalSeedBags": {
+			"AllowValues": "Seasonal, NonSeasonal", 
+			"Default": "NonSeasonal"
+		},
+		"BreadDesign": {
+			"AllowValues": "Baguette, Loaf", 
+			"Default": "Baguette"
+		},
+		"AncientSeedDesign": {
+			"AllowValues": "SunnyCrops, VanillaTweaks", 
+			"Default": "VanillaTweaks"
+		},
+		"HoneyDesign": {
+			"AllowValues": "Label, NoLabel", 
+			"Default": "Label"
+		},
+		
+// INDIVIDUAL TOGGLES
+		
+
+		"AnimalArtisanGoodsRedesign": 
+		{
+			"AllowValues": "Cheese, Duck Egg, Goat Cheese, Golden Egg, Honey, Large Brown Egg, Large White Egg, Large Milk, Large Goat Milk, Mead, Oil, Ostrich Egg, Small Brown Egg, Small White Egg, Small Milk, Small Goat Milk, Truffle Oil, Void Egg",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Cheese, Duck Egg, Goat Cheese, Golden Egg, Honey, Large Brown Egg, Large White Egg, Large Milk, Large Goat Milk, Mead, Oil, Ostrich Egg, Small Brown Egg, Small White Egg, Small Milk, Small Goat Milk, Truffle Oil, Void Egg"
+		},
+		"Spacer01":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"ArtifactsRedesign": 
+		{
+			"AllowValues": "Amphibian Fossil, Anchor, Ancient Doll, Ancient Drum, Ancient Seed, Ancient Sword, Arrowhead, Bone Flute, Chewing Stick, Chicken Statue, Chipped Amphora, Dinosaur Egg, Dried Starfish, Dwarf Gadget, Dwarf Scroll I, Dwarf Scroll II, Dwarf Scroll III, Dwarf Scroll IV, Dwarvish Helm, Elvish Jewelry, Glass Shards, Golden Mask, Golden Relic, Library Book, Nautilus Fossil, Ornamental Fan, Palm Fossil, Prehistoric Handaxe, Prehistoric Rib, Prehistoric Scapula, Prehistoric Skull, Prehistoric Tibia, Prehistoric Tool, Prehistoric Vertebra, Rare Disc, Rusty Cog, Rusty Spoon, Rusty Spur, Skeletal Hand, Skeletal Tail, Strange Doll, Strange Doll 2, Trilobite",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Amphibian Fossil, Anchor, Ancient Doll, Ancient Drum, Ancient Seed, Ancient Sword, Arrowhead, Bone Flute, Chewing Stick, Chicken Statue, Chipped Amphora, Dinosaur Egg, Dried Starfish, Dwarf Gadget, Dwarf Scroll I, Dwarf Scroll II, Dwarf Scroll III, Dwarf Scroll IV, Dwarvish Helm, Elvish Jewelry, Glass Shards, Golden Mask, Golden Relic, Library Book, Nautilus Fossil, Ornamental Fan, Palm Fossil, Prehistoric Handaxe, Prehistoric Rib, Prehistoric Scapula, Prehistoric Skull, Prehistoric Tibia, Prehistoric Tool, Prehistoric Vertebra, Rare Disc, Rusty Cog, Rusty Spoon, Rusty Spur, Skeletal Hand, Skeletal Tail, Strange Doll, Strange Doll 2, Trilobite"
+		},
+		"Spacer02":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"CropsRedesign": 
+		{
+			"AllowValues": "Amaranth, Ancient Fruit, Apple, Apricot, Artichoke, Banana, Bok Choy, Cauliflower, Cherry, Coconut, Coffee Bean, Cranberry, Eggplant, Garlic, Ginger, Hops, Hot Pepper, Melon, Orange, Parsnip, Peach, Pineapple, Pomegranate, Poppy, Potato, Pumpkin, Red Cabbage, Strawberry, Tomato, Unmilled Rice, Wheat, Yam",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Amaranth, Ancient Fruit, Apple, Apricot, Artichoke, Banana, Bok Choy, Cauliflower, Cherry, Coconut, Coffee Bean, Cranberry, Eggplant, Garlic, Ginger, Hops, Hot Pepper, Melon, Orange, Parsnip, Peach, Pineapple, Pomegranate, Poppy, Potato, Pumpkin, Red Cabbage, Strawberry, Tomato, Unmilled Rice, Wheat, Yam"
+		},
+		"Spacer03":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"CropsRedesignVanillaTweaksStyle": 
+		{
+			"AllowValues": "Beet, Blue Jazz, Blueberry, Cactus Fruit, Corn, Fairy Rose, Grapes, Green Bean, Kale, Mango, Qi Bean, Qi Fruit, Radish, Rhubarb, Starfruit, Summer Spangle, Sunflower, Sweet Gem Berry, Taro Root, Tea Leaves, Tulip",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Beet, Blue Jazz, Blueberry, Cactus Fruit, Corn, Fairy Rose, Grapes, Green Bean, Kale, Mango, Qi Bean, Qi Fruit, Radish, Rhubarb, Starfruit, Summer Spangle, Sunflower, Sweet Gem Berry, Taro Root, Tea Leaves, Tulip"
+		},
+		"CropsRedesignSunnyCropsStyle": 
+		{
+			"AllowValues": "Beet, Blue Jazz, Blueberry, Cactus Fruit, Corn, Fairy Rose, Grapes, Green Bean, Kale, Mango, Qi Bean, Qi Fruit, Radish, Rhubarb, Starfruit, Summer Spangle, Sunflower, Sweet Gem Berry, Taro Root, Tea Leaves, Tulip",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": ""
+		},
+		"Spacer04":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"CropGrowthRedesign": 
+		{
+			"AllowValues": "Ancient Fruit, Cactus, Fairy Rose, Pineapple, Poppy, Pumpkin, Qi Fruit, Rhubarb, Sunflower, Sweet Gem Berry, Tulip",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Ancient Fruit, Cactus, Fairy Rose, Pineapple, Poppy, Pumpkin, Qi Fruit, Rhubarb, Sunflower, Sweet Gem Berry, Tulip"
+		},
+		"Spacer05":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"FishRedesign": {
+			"AllowValues": "Albacore, Anchovy, Blobfish, Bream, Bullhead, Carp, Catfish, Chub, Dorado, Eel, Flounder, Ghostfish, Halibut, Herring, Ice Pip, Largemouth Bass, Lava Eel, Lingcod, Lionfish, Midnight Carp, Midnight Squid, Octopus, Perch, Pike, Pufferfish, Rainbow Trout, Red Mullet, Red Snapper, Salmon, Sandfish, Sardine, Scorpion Carp, Sea Cucumber, Shad, Slimejack, Smallmouth Bass, Spook Fish, Squid, Stingray, Stonefish, Sturgeon, Sunfish, Super Cucumber, Tiger Trout, Tilapia, Tuna, Void Salmon, Walleye, Woodskip, Angler, Ms Angler, Crimsonfish, Son of Crimsonfish, Glacierfish, Glacierfish Jr, Legend, Legend II, Mutant Carp, Radioactive Carp, Clam, Cockle, Crab, Crayfish, Lobster, Mussel, Oyster, Shrimp, Snail",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Albacore, Anchovy, Blobfish, Bream, Bullhead, Carp, Catfish, Chub, Dorado, Eel, Flounder, Ghostfish, Halibut, Herring, Ice Pip, Largemouth Bass, Lava Eel, Lingcod, Lionfish, Midnight Carp, Midnight Squid, Octopus, Perch, Pike, Pufferfish, Rainbow Trout, Red Mullet, Red Snapper, Salmon, Sandfish, Sardine, Scorpion Carp, Sea Cucumber, Shad, Slimejack, Smallmouth Bass, Spook Fish, Squid, Stingray, Stonefish, Sturgeon, Sunfish, Super Cucumber, Tiger Trout, Tilapia, Tuna, Void Salmon, Walleye, Woodskip, Angler, Ms Angler, Crimsonfish, Son of Crimsonfish, Glacierfish, Glacierfish Jr, Legend, Legend II, Mutant Carp, Radioactive Carp, Clam, Cockle, Crab, Crayfish, Lobster, Mussel, Oyster, Shrimp, Snail"
+		},
+		"Spacer06":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"FoodRedesign": {
+			"AllowValues": "Algae Soup, Artichoke Dip, Autumn's Bounty, Baked Fish, Banana Pudding, Bean Hotpot, Blackberry Cobbler, Blueberry Tart, Bread, Bruschetta, Bug Steak, Carp Surprise, Cheese Cauliflower, Chocolate Cake, Chowder, Coleslaw, Complete Breakfast, Cookie, Crab Cakes, Cranberry Candy, Cranberry Sauce, Crispy Bass, Dish O' The Sea, Eggplant Parmesan, Escargot, Farmer's Lunch, Fiddlehead Risotto, Fish Stew, Fish Taco, Fried Calamari, Fried Eel, Fried Egg, Fried Mushroom, Fruit Salad, Ginger Ale, Glazed Yams, Hashbrowns, Icecream, Lobster Bisque, Lucky Lunch, Maki Roll, Mango Sticky Rice, Maple Bar, Miners Treat, Omelet, Pale Broth, Pancakes, Parsnip Soup, Pepper Poppers, Pina Colada, Pink Cake, Pizza, Plum Pudding, Poi, Poppyseed Muffin, Pumpkin Pie, Pumpkin Soup, Radish Salad, Red Plate, Rhubarb Pie, Rice Pudding, Roasted Hazelnuts, Roots Platter, Salad, Salmon Dinner, Sashimi, Shrimp Cocktail, Spaghetti, Spicy Eel, Stirfry, Strange Bun, Stuffing, Super Meal, Survival Burger, Tom Kha Soup, Tortilla, Tropical Curry, Trout Soup, Vegetable Medley",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Algae Soup, Artichoke Dip, Autumn's Bounty, Baked Fish, Banana Pudding, Bean Hotpot, Blackberry Cobbler, Blueberry Tart, Bread, Bruschetta, Bug Steak, Carp Surprise, Cheese Cauliflower, Chocolate Cake, Chowder, Coleslaw, Complete Breakfast, Cookie, Crab Cakes, Cranberry Candy, Cranberry Sauce, Crispy Bass, Dish O' The Sea, Eggplant Parmesan, Escargot, Farmer's Lunch, Fiddlehead Risotto, Fish Stew, Fish Taco, Fried Calamari, Fried Eel, Fried Egg, Fried Mushroom, Fruit Salad, Ginger Ale, Glazed Yams, Hashbrowns, Icecream, Lobster Bisque, Lucky Lunch, Maki Roll, Mango Sticky Rice, Maple Bar, Miners Treat, Omelet, Pale Broth, Pancakes, Parsnip Soup, Pepper Poppers, Pina Colada, Pink Cake, Pizza, Plum Pudding, Poi, Poppyseed Muffin, Pumpkin Pie, Pumpkin Soup, Radish Salad, Red Plate, Rhubarb Pie, Rice Pudding, Roasted Hazelnuts, Roots Platter, Salad, Salmon Dinner, Sashimi, Shrimp Cocktail, Spaghetti, Spicy Eel, Stirfry, Strange Bun, Stuffing, Super Meal, Survival Burger, Tom Kha Soup, Tortilla, Tropical Curry, Trout Soup, Vegetable Medley"
+		},
+		"Spacer07":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"ForageRedesign": {
+			"AllowValues": "Cave Carrot, Common Mushroom, Coral, Crystal Fruit, Fiddlehead Fern, Hazelnut, Holly, Leek, Magma Cap, False Magma Cap, Purple Mushroom, Salmonberry, Sap, Snow Yam, Spice Berry, Spring Onion, Sweet Pea, Wild Horseradish, Wild Plum, Winter Root",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Cave Carrot, Common Mushroom, Coral, Crystal Fruit, Fiddlehead Fern, Hazelnut, Holly, Leek, Magma Cap, False Magma Cap, Purple Mushroom, Salmonberry, Sap, Snow Yam, Spice Berry, Spring Onion, Sweet Pea, Wild Horseradish, Wild Plum, Winter Root"
+		},
+		"Spacer08":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"ForageRedesignVanillaTweaksStyle": 
+		{
+			"AllowValues": "Blackberry, Chanterelle, Crocus, Daffodil, Dandelion, Morel, Nautilus Shell, Rainbow Shell, Red Mushroom, Sea Urchin, Seaweed",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Blackberry, Chanterelle, Crocus, Daffodil, Dandelion, Morel, Nautilus Shell, Rainbow Shell, Red Mushroom, Sea Urchin, Seaweed"
+		},
+		"ForageRedesignSunnyCropsStyle": 
+		{
+			"AllowValues": "Blackberry, Chanterelle, Crocus, Daffodil, Dandelion, Morel, Nautilus Shell, Rainbow Shell, Red Mushroom, Sea Urchin, Seaweed",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": ""
+		},
+		"Spacer09":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"GemsGeodesRedesign": 
+		{
+			"AllowValues": "Amethyst, Aquamarine, Diamond, Emerald, Jade, Ruby, Topaz, Prismatic Shard, Geode, Frozen Geode, Magma Geode, Omni Geode",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Amethyst, Aquamarine, Diamond, Emerald, Jade, Ruby, Topaz, Prismatic Shard, Geode, Frozen Geode, Magma Geode, Omni Geode"
+		},
+		"Spacer10":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"MineralsRedesign": {
+			"AllowValues": "Aerinite, Alamite, Baryte, Basalt, Bixite, Calcite, Celestine, Dolomite, Earth Crystal, Esperite, Fairy Stone, Fire Opal, Fire Quartz, Fluorapatite, Frozen Tear, Geminite, Ghost Crystal, Granite, Helvite, Hematite, Jagoite, Jamborite, Jasper, Kyanite, Lemon Stone, Limestone, Lunarite, Malachite, Marble, Mudstone, Nekoite, Neptunite, Obsidian, Ocean Stone, Opal, Orpiment, Petrified Slime, Pyrite, Quartz, Sandstone, Slate, Soapstone, Star Shards, Thunder Egg, Tigerseye",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Aerinite, Alamite, Baryte, Basalt, Bixite, Calcite, Celestine, Dolomite, Earth Crystal, Esperite, Fairy Stone, Fire Opal, Fire Quartz, Fluorapatite, Frozen Tear, Geminite, Ghost Crystal, Granite, Helvite, Hematite, Jagoite, Jamborite, Jasper, Kyanite, Lemon Stone, Limestone, Lunarite, Malachite, Marble, Mudstone, Nekoite, Neptunite, Obsidian, Ocean Stone, Opal, Orpiment, Petrified Slime, Pyrite, Quartz, Sandstone, Slate, Soapstone, Star Shards, Thunder Egg, Tigerseye"
+		},
+		"Spacer11":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"MiningNodesRedesign": {
+			"AllowValues": "Amethyst, Aquamarine, Cinder Shard, Copper, Diamond, Emerald, Gem, Geode, Frozen Geode, Magma Geode, Gold, Iridium, Iridium Crab, Iron, Jade, Mystic, Ruby, Topaz, Radioactive, Mussel",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Amethyst, Aquamarine, Cinder Shard, Copper, Diamond, Emerald, Gem, Geode, Frozen Geode, Magma Geode, Gold, Iridium, Iridium Crab, Iron, Jade, Mystic, Ruby, Topaz, Radioactive, Mussel"
+		},
+		"Spacer12":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"OresRedesign": {
+			"AllowValues": "Coal, Copper Bar, Copper Ore, Gold Bar, Gold Ore, Iridium Bar, Iridium Ore, Iron Bar, Iron Ore, Radioactive Bar, Radioactive Ore, Refined Quartz",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Coal, Copper Bar, Copper Ore, Gold Bar, Gold Ore, Iridium Bar, Iridium Ore, Iron Bar, Iron Ore, Radioactive Bar, Radioactive Ore, Refined Quartz"
+		},
+		"Spacer13":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"OtherRedesign": {
+			"AllowValues": "Golden Coconut, Golden Pumpkin, Jack O' Lantern, Stardrop",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Golden Coconut, Golden Pumpkin, Jack O' Lantern, Stardrop"
+		},
+		"Spacer14":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"RingsRedesign": {
+			"AllowValues": "Amethyst Ring, Aquamarine Ring, Burglar's Ring, Crabshell Ring, Emerald Ring, Glow Ring, Glowstone Ring, Hot Java Ring, Immunity Band, Iridium Band, Jade Ring, Jukebox Ring, Lucky Ring, Magnet Ring, Napalm Ring, Phoenix Ring, Protection Ring, Ring of Yoba, Ruby Ring, Savage Ring, Slime Charmer Ring, Small Glow Ring, Small Magnet Ring, Soul Sapper Ring, Sturdy Ring, Thorns Ring, Topaz Ring, Vampire Ring, Warrior Ring, Wedding Ring",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Amethyst Ring, Aquamarine Ring, Burglar's Ring, Crabshell Ring, Emerald Ring, Glow Ring, Glowstone Ring, Hot Java Ring, Immunity Band, Iridium Band, Jade Ring, Jukebox Ring, Lucky Ring, Magnet Ring, Napalm Ring, Phoenix Ring, Protection Ring, Ring of Yoba, Ruby Ring, Savage Ring, Slime Charmer Ring, Small Glow Ring, Small Magnet Ring, Soul Sapper Ring, Sturdy Ring, Thorns Ring, Topaz Ring, Vampire Ring, Warrior Ring, Wedding Ring"
+		},
+		"Spacer15":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"SaplingsRedesign": {
+			"AllowValues": "Apple, Apricot, Banana, Cherry, Mango, Orange, Peach, Pomegranate",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Apple, Apricot, Banana, Cherry, Mango, Orange, Peach, Pomegranate"
+		},
+		"Spacer16":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"SeedBagsRedesign": {
+			"AllowValues": "Ancient Fruit, Fiber, Mixed Seeds, Rice Shoot, Seasonal Wild Seeds, Sunflower, Sweet Gem Berry, Taro Tuber, Tea Sapling, Wild Seeds, Regular Seed Bags",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Ancient Fruit, Fiber, Mixed Seeds, Rice Shoot, Seasonal Wild Seeds, Sunflower, Sweet Gem Berry, Taro Tuber, Tea Sapling, Wild Seeds, Regular Seed Bags"
+		},
+		"Spacer17":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"ShoesRedesign": {
+			"AllowValues": "Cinderclown Shoes, Combat Boots, Cowboy Boots, Crystal Shoes, Dark Boots, Dragonscale Boots, Emily's Magic Boots, Firewalker Boots, Genie Shoes, Leather Boots, Leprechaun Shoes, Mermaid Boots, Rubber Boots, Sneakers, Space Boots, Thermal Boots, Tundra Boots, Work Boots",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Cinderclown Shoes, Combat Boots, Cowboy Boots, Crystal Shoes, Dark Boots, Dragonscale Boots, Emily's Magic Boots, Firewalker Boots, Genie Shoes, Leather Boots, Leprechaun Shoes, Mermaid Boots, Rubber Boots, Sneakers, Space Boots, Thermal Boots, Tundra Boots, Work Boots"
+		},
+		"Spacer18":
+		{
+			"AllowValues": "spacer",
+			"Default": "spacer,"
+		},
+		"WeaponsRedesign": {
+			"AllowValues": "Scythe, Golden Scythe, Slingshot, Master Slingshot, Claymore, Cutlass, Dark Sword, Dragontooth Cutlass, Dwarf Sword, Forest Sword, Galaxy Sword, Infinity Blade, Insect Head, Iron Edge, Lava Katana, Neptune's Glaive, Obsidian Edge, Ossified Blade, Pirate's Sword, Rusty Sword, Silver Saber, Steel Falchion, Steel Smallsword, Tempered Broadsword, Templar's Blade, Wooden Blade, Yeti Tooth, Broken Trident, Burglar's Shank, Carving Knife, Crystal Dagger, Dragontooth Shiv, Dwarf Dagger, Elf Blade, Galaxy Dagger, Infinity Dagger, Iridium Needle, Iron Dirk, Shadow Dagger, Wicked Kris, Wind Spire, Dragontooth Club, Dwarf Hammer, Femur, Galaxy Hammer, Infinity Gavel, Kudgel, Lead Rod, The Slammer, Wood Club, Wood Mallet",
+			"AllowMultiple": true, 
+			"AllowBlank": true,
+			"Default": "Scythe, Golden Scythe, Slingshot, Master Slingshot, Claymore, Cutlass, Dark Sword, Dragontooth Cutlass, Dwarf Sword, Forest Sword, Galaxy Sword, Infinity Blade, Insect Head, Iron Edge, Lava Katana, Neptune's Glaive, Obsidian Edge, Ossified Blade, Pirate's Sword, Rusty Sword, Silver Saber, Steel Falchion, Steel Smallsword, Tempered Broadsword, Templar's Blade, Wooden Blade, Yeti Tooth, Broken Trident, Burglar's Shank, Carving Knife, Crystal Dagger, Dragontooth Shiv, Dwarf Dagger, Elf Blade, Galaxy Dagger, Infinity Dagger, Iridium Needle, Iron Dirk, Shadow Dagger, Wicked Kris, Wind Spire, Dragontooth Club, Dwarf Hammer, Femur, Galaxy Hammer, Infinity Gavel, Kudgel, Lead Rod, The Slammer, Wood Club, Wood Mallet"
+		}
+	},
+
+	"DynamicTokens":
+	[
+
+// FORAGE SC vs VT TOKENS
+
+		{
+			"Name": "BlackberryStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Blackberry": true
+			}
+		},
+		{
+			"Name": "BlackberryStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Blackberry": true
+			}
+		},
+		{
+			"Name": "ChanterelleStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Chanterelle": true
+			}
+		},
+		{
+			"Name": "ChanterelleStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Chanterelle": true
+			}
+		},
+		{
+			"Name": "CrocusStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Crocus": true
+			}
+		},
+		{
+			"Name": "CrocusStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Crocus": true
+			}
+		},
+		{
+			"Name": "DaffodilStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Daffodil": true
+			}
+		},
+		{
+			"Name": "DaffodilStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Daffodil": true
+			}
+		},
+		{
+			"Name": "DandelionStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Dandelion": true
+			}
+		},
+		{
+			"Name": "DandelionStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Dandelion": true
+			}
+		},
+		{
+			"Name": "MorelStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Morel": true
+			}
+		},
+		{
+			"Name": "MorelStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Morel": true
+			}
+		},
+		{
+			"Name": "NautilusShellStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Nautilus Shell": true
+			}
+		},
+		{
+			"Name": "NautilusShellStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Nautilus Shell": true
+			}
+		},
+		{
+			"Name": "RainbowShellStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Rainbow Shell": true
+			}
+		},
+		{
+			"Name": "RainbowShellStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Rainbow Shell": true
+			}
+		},
+		{
+			"Name": "RedMushroomStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Red Mushroom": true
+			}
+		},
+		{
+			"Name": "RedMushroomStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Red Mushroom": true
+			}
+		},
+		{
+			"Name": "SeaUrchinStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Sea Urchin": true
+			}
+		},
+		{
+			"Name": "SeaUrchinStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Sea Urchin": true
+			}
+		},
+		{
+			"Name": "SeaweedStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"ForageRedesignVanillaTweaksStyle |contains= Seaweed": true
+			}
+		},
+		{
+			"Name": "SeaweedStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"ForageRedesignSunnyCropsStyle |contains= Seaweed": true
+			}
+		},
+
+		// CROPS SC vs VT TOKENS
+		
+		{
+			"Name": "BeetStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Beet": true
+			}
+		},
+		{
+			"Name": "BeetStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Beet": true
+			}
+		},
+		{
+			"Name": "BlueberryStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Blueberry": true
+			}
+		},
+		{
+			"Name": "BlueberryStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Blueberry": true
+			}
+		},
+		{
+			"Name": "BlueJazzStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Blue Jazz": true
+			}
+		},
+		{
+			"Name": "BlueJazzStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Blue Jazz": true
+			}
+		},
+		{
+			"Name": "CactusFruitStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Cactus Fruit": true
+			}
+		},
+		{
+			"Name": "CactusFruitStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Cactus Fruit": true
+			}
+		},
+		{
+			"Name": "CauliflowerStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Cauliflower": true
+			}
+		},
+		{
+			"Name": "CauliflowerStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Cauliflower": true
+			}
+		},
+		{
+			"Name": "CornStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Corn": true
+			}
+		},
+		{
+			"Name": "CornStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Corn": true
+			}
+		},
+		{
+			"Name": "FairyRoseStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Fairy Rose": true
+			}
+		},
+		{
+			"Name": "FairyRoseStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Fairy Rose": true
+			}
+		},
+		{
+			"Name": "GrapesStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Grapes": true
+			}
+		},
+		{
+			"Name": "GrapesStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Grapes": true
+			}
+		},
+		{
+			"Name": "GreenBeanStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Green Bean": true
+			}
+		},
+		{
+			"Name": "GreenBeanStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Green Bean": true
+			}
+		},
+		{
+			"Name": "KaleStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Kale": true
+			}
+		},
+		{
+			"Name": "KaleStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Kale": true
+			}
+		},
+		{
+			"Name": "MangoStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Mango": true
+			}
+		},
+		{
+			"Name": "MangoStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Mango": true
+			}
+		},
+		{
+			"Name": "QiBeanStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Qi Bean": true
+			}
+		},
+		{
+			"Name": "QiBeanStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Qi Bean": true
+			}
+		},
+		{
+			"Name": "QiFruitStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Qi Fruit": true
+			}
+		},
+		{
+			"Name": "QiFruitStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Qi Fruit": true
+			}
+		},
+		{
+			"Name": "RadishStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Radish": true
+			}
+		},
+		{
+			"Name": "RadishStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Radish": true
+			}
+		},
+		{
+			"Name": "RhubarbStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Rhubarb": true
+			}
+		},
+		{
+			"Name": "RhubarbStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Rhubarb": true
+			}
+		},
+		{
+			"Name": "StarfruitStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Starfruit": true
+			}
+		},
+		{
+			"Name": "StarfruitStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Starfruit": true
+			}
+		},
+		{
+			"Name": "SummerSpangleStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Summer Spangle": true
+			}
+		},
+		{
+			"Name": "SummerSpangleStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Summer Spangle": true
+			}
+		},
+		{
+			"Name": "SunflowerStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Sunflower": true
+			}
+		},
+		{
+			"Name": "SunflowerStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Sunflower": true
+			}
+		},
+		{
+			"Name": "SweetGemBerryStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Sweet Gem Berry": true
+			}
+		},
+		{
+			"Name": "SweetGemBerryStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Sweet Gem Berry": true
+			}
+		},
+		{
+			"Name": "TaroRootStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Taro Root": true
+			}
+		},
+		{
+			"Name": "TaroRootStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Taro Root": true
+			}
+		},
+		{
+			"Name": "TeaLeavesStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Tea Leaves": true
+			}
+		},
+		{
+			"Name": "TeaLeavesStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Tea Leaves": true
+			}
+		},
+		{
+			"Name": "TulipStyle",
+			"Value": "VanillaTweaks",
+			"When":
+			{
+				"CropsRedesignVanillaTweaksStyle |contains= Tulip": true
+			}
+		},
+		{
+			"Name": "TulipStyle",
+			"Value": "SunnyCrops",
+			"When":
+			{
+				"CropsRedesignSunnyCropsStyle |contains= Tulip": true
+			}
+		}
+	],
+	
+	"Changes": [
+		
+		{
+			"LogName": "Artisan Goods Code",
+			"Action": "Include",
+			"FromFile": "Code/AnimalArtisanGoods.json",
+			"When": 
+			{
+				"AnimalArtisanGoodsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Artifacts Code",
+			"Action": "Include",
+			"FromFile": "Code/Artifacts.json",
+			"When": 
+			{
+				"ArtifactsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Crops Code",
+			"Action": "Include",
+			"FromFile": "Code/Crops.json",
+			"When": 
+			{
+				"CropsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Crop Growth Code",
+			"Action": "Include",
+			"FromFile": "Code/CropGrowth.json",
+			"When": 
+			{
+				"CropGrowthCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Fish Code",
+			"Action": "Include",
+			"FromFile": "Code/Fish.json",
+			"When": 
+			{
+				"FishCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Food Code",
+			"Action": "Include",
+			"FromFile": "Code/Food.json",
+			"When": 
+			{
+				"FoodCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Forage Code",
+			"Action": "Include",
+			"FromFile": "Code/Forage.json",
+			"When": 
+			{
+				"ForageCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Gems and Geodes Code",
+			"Action": "Include",
+			"FromFile": "Code/GemsGeodes.json",
+			"When": 
+			{
+				"GemsGeodesCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Minerals Code",
+			"Action": "Include",
+			"FromFile": "Code/Minerals.json",
+			"When": 
+			{
+				"MineralsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Mining Nodes Code",
+			"Action": "Include",
+			"FromFile": "Code/MiningNodes.json",
+			"When": 
+			{
+				"MiningNodesCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Ores Code",
+			"Action": "Include",
+			"FromFile": "Code/Ores.json",
+			"When": 
+			{
+				"OresCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Other Code",
+			"Action": "Include",
+			"FromFile": "Code/Other.json",
+			"When": 
+			{
+				"OtherCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Rings Code",
+			"Action": "Include",
+			"FromFile": "Code/Rings.json",
+			"When": 
+			{
+				"RingsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Saplings Code",
+			"Action": "Include",
+			"FromFile": "Code/Saplings.json",
+			"When": 
+			{
+				"SaplingsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Seed Bags Code",
+			"Action": "Include",
+			"FromFile": "Code/SeedBags.json",
+			"When": 
+			{
+				"SeedBagsCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Shoes Code",
+			"Action": "Include",
+			"FromFile": "Code/Shoes.json",
+			"When": 
+			{
+				"ShoesCategoryEnabled": true
+			}
+		},
+		{
+			"LogName": "Weapons Code",
+			"Action": "Include",
+			"FromFile": "Code/Weapons.json",
+			"When": 
+			{
+				"WeaponsCategoryEnabled": true
+			}
+		}
+	]
+}

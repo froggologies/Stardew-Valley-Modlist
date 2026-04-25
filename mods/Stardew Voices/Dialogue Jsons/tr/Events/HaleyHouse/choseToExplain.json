@@ -1,0 +1,10 @@
+{
+    "Şüpheliyim...": "response_HaleyHouse_choseToExplain_Haley_textAboveHeadEvent1",
+    "Yalancı!": "response_HaleyHouse_choseToExplain_Haley_textAboveHeadEvent2",
+    "Evet, doğru!": "response_HaleyHouse_choseToExplain_Maru_textAboveHeadEvent1",
+    "Gerçekten buna inanmamızı mı bekliyorsun? Sadece kendini daha derin bir çukura sokuyorsun...": "response_HaleyHouse_choseToExplain_Emily_event1",
+    "...Bir karara vardık... değil mi, kızlar?": "response_HaleyHouse_choseToExplain_Haley_event3",
+    "...Evet.": "response_HaleyHouse_choseToExplain_Penny_event1",
+    "Kesinlikle.": "response_HaleyHouse_choseToExplain_Leah_event1",
+    "Bundan sonra seni takmayacağız bile!": "response_HaleyHouse_choseToExplain_Maru_event2"
+}

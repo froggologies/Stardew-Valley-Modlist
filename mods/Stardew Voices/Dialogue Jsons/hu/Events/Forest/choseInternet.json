@@ -1,0 +1,11 @@
+{
+    "Te lennél 'Mr. K'? Én... én azt hittem ez csak egy gazdag fazon, aki tényleg szereti a művészetemet.": "response_Forest_choseInternet_Leah_event1",
+    "Fúj, ne nevezz így!": "response_Forest_choseInternet_Leah_event2",
+    "Korábban sose támogattad a művészetemet... és most, hogy kissé sikeres lettem máris visszakívánsz engem? Undorító vagy.": "response_Forest_choseInternet_Leah_event2_sv1",
+    "Ó te jó ég!": "response_Forest_choseInternet_Leah_event3",
+    "Nos, túl fogja élni... de ez elég erőszakos volt, @.": "response_Forest_choseInternet_Leah_event4_male_farmer",
+    "Jól van... de ez elég erőszakos volt, @.": "response_Forest_choseInternet_Leah_event4_female_farmer",
+    "Menjünk innét. Nem hinném, hogy Kel többé zavarni fog minket.": "response_Forest_choseInternet_Leah_event5",
+    "Legközelebb keressünk egy félreesőbb helyet...": "response_Forest_choseInternet_Leah_event6",
+    "Nos, a piknik nem pont úgy sült el, ahogy én szerettem volna.": "response_Forest_choseInternet_Leah_endDialogue7"
+}

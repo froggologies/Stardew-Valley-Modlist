@@ -1,0 +1,21 @@
+{
+    "Grrr... Parece que esos malditos mapaches han vuelto. Alimañas inmundas...": "Town_502969_2400_George_event1",
+    "Ah, has venido en el momento adecuado, muchacho.": "Town_502969_2400_George_event2_male_farmer",
+    "Ah, has venido en el momento adecuado, muchacha.": "Town_502969_2400_George_event2_female_farmer",
+    "¿Puedes hacerle un favor a este viejo? ¿Puedes ir por mí a espantar a esos mapaches que hay tras la esquina? No paran de venir a molestar.": "Town_502969_2400_George_event2_sv1",
+    "Gracias. Asegúrate de pegarles tal susto que no vuelvan nunca más.": "Town_502969_2400_George_event2_sv2",
+    "Era yo... Lo siento.": "Town_502969_2400_Linus_event1",
+    "Encuentro mucha comida fresca y caliente en esos cubos... Cosas que se van a echar a perder si yo no las recojo.": "Town_502969_2400_Linus_event2",
+    "¿Crees que lo que hago está mal?": "Town_502969_2400_Linus_event3",
+    "Será asqueroso para ti, a lo mejor. Para mí es una manera de vivir. Y aún no me he puesto enfermo nunca. Solo me como lo que parece fresco.": "Town_502969_2400_Linus_event3__Sí__es_asqueroso___response",
+    "Gracias, @. Sabía que serías alguien de mente abierta. Yo no me siento mal por lo que hago. No hago daño a nadie.": "Town_502969_2400_Linus_event3__No__Es_una_lástima_que_la_comida_se_eche_a_perder___response",
+    "Yo no creo en la propiedad privada. Además, ¿qué quieres que haga? Necesito esta comida para sobrevivir. Ten corazón.": "Town_502969_2400_Linus_event3__Sí__es_ilegal__Es_propiedad_privada_de_George___response",
+    "**suspiro** No todos estamos hechos para este mundo, @. No sabes lo que es ser alguien como yo. No hago daño a nadie, solo quiero vivir la vida a mi manera. ¿Tan mal está eso?'": "Town_502969_2400_Linus_event3__No__pero_deberías_conseguir_trabajo_y_dejar_de_vivir_a_costa_de_los_demás___response",
+    "Puedes irte a casa. Prometo no rebuscar más en el cubo de George.": "Town_502969_2400_Linus_event4",
+    "Puedes decirle que has espantado a los mapaches para siempre.": "Town_502969_2400_Linus_event4_sv1",
+    "Espera.": "Town_502969_2400_Gus_event1",
+    "Sé lo que hacías, Linus.": "Town_502969_2400_Gus_event2",
+    "Si necesitas comida... solo tienes que pedirla. No quiero que nadie en Pueblo Pelícano pase hambre.": "Town_502969_2400_Gus_event3",
+    "Toma. Tengo una cesta llena de buñuelos de calabacín para ti. ¡Asegúrate de mojarlos en mi salsa marinara picante!": "Town_502969_2400_Gus_event4",
+    "Vamos... Acéptalos.": "Town_502969_2400_Gus_event4_sv1"
+}

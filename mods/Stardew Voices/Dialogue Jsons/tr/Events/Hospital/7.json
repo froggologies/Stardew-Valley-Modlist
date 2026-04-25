@@ -1,0 +1,12 @@
+{
+    "*iç çeker*... Bu örnekleri hazırlamaktan çok sıkıldım...": "Hospital_7_Maru_Maru_event1",
+    "Ay, olamaz ya!..": "Hospital_7_Maru_Maru_event2",
+    "Örnek mahvoldu... Harvey beni öldürecek...": "Hospital_7_Maru_Maru_event3",
+    "@, sence ne yapmalıyım?": "Hospital_7_Maru_Maru_event4",
+    "Ne oldu? Bir şeyin kırıldığını duydum.": "Hospital_7_Maru_Harvey_event1",
+    "Kazara örneklerden birini yere düşürdüm, özür dilerim.": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@ geldi ve kapıyı öyle şiddetli çarptı ki, elimdeki örneği yere düşürdüm.": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "Kendi hatalarını başkalarının üzerine atmamalısın, Maru.": "Hospital_7_Maru_Harvey_event2",
+    "*iç çeker*... Bu örneği almak için şimdi hastayı tekrar çağırmam gerekecek.": "Hospital_7_Maru_Harvey_event3",
+    "Bu bizi en az bir ay geriye götürdü...": "Hospital_7_Maru_Harvey_event3_sv1"
+}

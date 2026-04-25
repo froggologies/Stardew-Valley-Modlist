@@ -1,0 +1,11 @@
+{
+    "Démétrius, je ne t’ai pas dit de manger des tomates. Je t'ai dit de manger des fruits.": "ScienceHouse_25_Robin_Robin_event1",
+    "Je ne comprends pas. Les tomates sont des fruits !": "ScienceHouse_25_Robin_Demetrius_event1",
+    "Quand une personne normale demande de manger des fruits, elle ne parle JAMAIS de tomates. Peu importe la classification scientifique.": "ScienceHouse_25_Robin_Robin_event2",
+    "@ ! Je suis content que tu sois là. Tu vas pouvoir m’aider à mettre fin à cette discussion.": "ScienceHouse_25_Robin_Demetrius_event2",
+    "Comment classifies-tu une tomate ?": "ScienceHouse_25_Robin_Demetrius_event3",
+    "Je veux juste que tu comprennes mon point de vue.": "ScienceHouse_25_Robin_Demetrius_event4",
+    "C’est difficile pour moi de savoir exactement quelles hypothèses je dois conclure quand tu me dis de faire quelque chose.": "ScienceHouse_25_Robin_Demetrius_event4_sv1",
+    "Mais je vais essayer de faire des efforts.": "ScienceHouse_25_Robin_Demetrius_event5",
+    "Merci pour ton aide, @.": "ScienceHouse_25_Robin_Demetrius_event6"
+}

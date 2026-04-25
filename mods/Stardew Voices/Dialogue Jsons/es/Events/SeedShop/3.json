@@ -1,0 +1,14 @@
+{
+    "¡Ey! Esperaba que pasaras por aquí. Quiero enseñarte algo.": "SeedShop_3_abbySpiritBoard_Abigail_event1",
+    "¿Ves esto? Es una ouija. ¿Has usado una alguna vez?": "SeedShop_3_abbySpiritBoard_Abigail_event2",
+    "Pon las manos sobre el tablero conmigo...": "SeedShop_3_abbySpiritBoard_Abigail_event3",
+    "Ahora los espíritus nos guiarán a...": "SeedShop_3_abbySpiritBoard_Abigail_event4",
+    "¡MIRA! ¡Se está moviendo!": "SeedShop_3_abbySpiritBoard_Abigail_event5",
+    "Está escribiendo... «Me»...": "SeedShop_3_abbySpiritBoard_Abigail_event6",
+    "Ahora... «<»...": "SeedShop_3_abbySpiritBoard_Abigail_event7",
+    "¡Guau, mira cómo se mueve! Está deletreando algo... «%firstnameletter»...": "SeedShop_3_abbySpiritBoard_Abigail_event8",
+    "¿Me < %firstnameletter...?": "SeedShop_3_abbySpiritBoard_Abigail_event8_sv1",
+    "¡Ups, he tirado el tablero sin querer! Je, je...": "SeedShop_3_abbySpiritBoard_Abigail_event9",
+    "Solo es un juego tonto, no significa nada.": "SeedShop_3_abbySpiritBoard_Abigail_event9_sv1",
+    "Yo, um, tengo cosas que hacer. Vas a tener que marcharte... Lo siento.": "SeedShop_3_abbySpiritBoard_Abigail_event10"
+}

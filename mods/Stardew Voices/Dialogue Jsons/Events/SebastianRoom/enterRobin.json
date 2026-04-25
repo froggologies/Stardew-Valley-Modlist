@@ -1,0 +1,14 @@
+{
+  "That was an instant message from Sam... I guess he wants to hang out...": "response_SebastianRoom_enterRobin_Sebastian_event1",
+  "Ugh, I don't really feel like going out today.": "response_SebastianRoom_enterRobin_Sebastian_event1_sv1",
+  "Oh, hi @.": "response_SebastianRoom_enterRobin_Robin_event1",
+  "Sebby, I know you don't like it when I come in here... but I ran into Abigail at the store and she said she was looking for you.": "response_SebastianRoom_enterRobin_Robin_event2",
+  "Did you tell her I'm working?": "response_SebastianRoom_enterRobin_Sebastian_event2",
+  "I did... but she said she'd probably stop by anyway.": "response_SebastianRoom_enterRobin_Robin_event3",
+  "*sigh*... No one takes my job seriously.": "response_SebastianRoom_enterRobin_Sebastian_event3",
+  "No one ever bothers Maru when she's working at the clinic... does everyone think I'm just surfing the web all day?": "response_SebastianRoom_enterRobin_Sebastian_event3_sv1",
+  "Well, I'm trying to save up so I can move out of here. Probably to the city or something.": "response_SebastianRoom_enterRobin_Sebastian_event4",
+  "You know, if I'd gone to college I'd probably be making six figures right now... but I just don't want to be part of that corporate rat race, you know?": "response_SebastianRoom_enterRobin_Sebastian_event5",
+  "Well, and I guess I just feel more comfortable hidden behind the computer than dealing with people face-to-face.": "response_SebastianRoom_enterRobin_Sebastian_event5_sv1",
+  "Well, I should get back to work... I need to get this module finished by tomorrow.": "response_SebastianRoom_noFriends_Sebastian_event2"
+}

@@ -1,0 +1,5 @@
+{
+    "Эй, а было весело!": "response_SeedShop_beatGame_Abigail_event1",
+    "Ну спасибо, @. А ты умеешь обращаться с джойстиком! И чего это я удивляюсь...": "response_SeedShop_beatGame_Abigail_event1_sv1_male_farmer",
+    "Спасибо, @. Я и не знала, что ты так управляешься с джойстиком! Но ты, похоже, в этом деле ветеран.": "response_SeedShop_beatGame_Abigail_event1_sv1_female_farmer"
+}

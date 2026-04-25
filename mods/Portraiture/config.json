@@ -1,0 +1,15 @@
+{
+  "changeKey": "P",
+  "menuKey": "None",
+  "fixPortraitKey": "None",
+  "styleChangeKey": "None",
+  "ShowPortraitsAboveBox": false,
+  "MaxAbovePortraitPercent": 80,
+  "SideLoadHDPWhenNotInstalled": false,
+  "SideLoadHDPWhenInstalled": false,
+  "HPDOption": true,
+  "active": "1oxnes and talkohlooeys' Seasonal Portraits",
+  "presets": {
+    "Presets": []
+  }
+}

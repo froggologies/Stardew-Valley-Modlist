@@ -1,0 +1,205 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Cheese",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/Cheese.png",
+			"ToArea": { "X": 256, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Cheese": true
+			}
+		},
+        {
+			"LogName": "Duck Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/DuckEgg.png",
+			"ToArea": { "X": 160, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Duck Egg": true
+			}
+		},
+        {
+			"LogName": "Goat Cheese",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/GoatCheese.png",
+			"ToArea": { "X": 288, "Y": 272, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Goat Cheese": true
+			}
+		},
+        {
+			"LogName": "Golden Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/GoldenEgg.png",
+			"ToArea": { "X": 256, "Y": 608, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"AnimalArtisanGoodsRedesign |contains= Golden Egg": true
+			}
+		},
+        {
+			"LogName": "Honey",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/Honey_{{HoneyDesign}}.png",
+			"ToArea": { "X": 64, "Y": 224, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Honey": true
+			}
+		},
+        {
+			"LogName": "Large Brown Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/LargeBrownEgg.png",
+			"ToArea": { "X": 224, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Large Brown Egg": true
+			}
+		},
+        {
+			"LogName": "Large White Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/LargeWhiteEgg.png",
+			"ToArea": { "X": 96, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Large White Egg": true
+			}
+		},
+        {
+			"LogName": "Large Milk",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/LargeMilk.png",
+			"ToArea": { "X": 288, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Large Milk": true
+			}
+		},
+        {
+			"LogName": "Large Goat Milk",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/LargeGoatMilk.png",
+			"ToArea": { "X": 96, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Large Goat Milk": true
+			}
+		},
+        {
+			"LogName": "Mead",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/Mead.png",
+			"ToArea": { "X": 48, "Y": 304, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Mead": true
+			}
+		},
+        {
+			"LogName": "Oil",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/Oil.png",
+			"ToArea": { "X": 112, "Y": 160, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Oil": true
+			}
+		},
+        {
+			"LogName": "Ostrich Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/OstrichEgg.png",
+			"ToArea": { "X": 16, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"AnimalArtisanGoodsRedesign |contains= Ostrich Egg": true
+			}
+		},
+        {
+			"LogName": "Small Brown Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/SmallBrownEgg.png",
+			"ToArea": { "X": 192, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Small Brown Egg": true
+			}
+		},
+        {
+			"LogName": "Small Milk",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/SmallMilk.png",
+			"ToArea": { "X": 256, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Small Milk": true
+			}
+		},
+        {
+			"LogName": "Small Goat Milk",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/SmallGoatMilk.png",
+			"ToArea": { "X": 64, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Small Goat Milk": true
+			}
+		},
+        {
+			"LogName": "Small White Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/SmallWhiteEgg.png",
+			"ToArea": { "X": 128, "Y": 112, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Small White Egg": true
+			}
+		},
+        {
+			"LogName": "Truffle Oil",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/TruffleOil.png",
+			"ToArea": { "X": 0, "Y": 288, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Truffle Oil": true
+			}
+		},
+        {
+			"LogName": "Void Egg",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/AnimalArtisanGoods/VoidEgg.png",
+			"ToArea": { "X": 272, "Y": 192, "Width": 16, "Height": 16 },
+			"When": 
+			{
+				"AnimalArtisanGoodsRedesign |contains= Void Egg": true
+			}
+		}
+    ]
+}

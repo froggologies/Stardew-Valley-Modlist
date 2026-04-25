@@ -1,0 +1,16 @@
+{
+    "Sí... Me dan miedo.": "response_Railroad_afraid_Harvey_event1",
+    "Pero no voy a dejar que eso me impida hacer lo que quiero... Ni experimentar esto contigo.": "response_Railroad_afraid_Harvey_event1_sv1",
+    "Intentaré no pasar demasiado miedo.": "response_Railroad_afraid_Harvey_event1_sv2",
+    "Es... Estamos muy alto... *Glups*": "response_Railroad_afraid_Harvey_event2",
+    "Quería impresionarte con esto... Pero mira cómo estoy. Soy un cobarde hecho un flan.": "response_Railroad_afraid_Harvey_event3",
+    "Bueno, tú tienes valor suficiente para los dos, @... Y por... Por eso me gustas.1": "response_Railroad_afraid_Harvey_event4",
+    "Vale, voy a abrir los ojos y a mirar abajo... No me sueltes la mano.": "response_Railroad_afraid_Harvey_event5",
+    "Yo... Creo que puedo hacerlo.": "response_Railroad_afraid_Harvey_event6",
+    "¡Eh, es increíble! ¡Creo que veo al alcalde Lewis de pie en la plaza!": "response_Railroad_afraid_Harvey_event7",
+    "Oh, no... Casi se nos ha acabado el tiempo.": "response_Railroad_afraid_Harvey_event8",
+    "Um... ¿@? Hace ya un tiempo que nos conocemos y... Yo... Eh...1": "response_Railroad_afraid_Harvey_event9",
+    "...1": "response_Railroad_afraid_Harvey_event10",
+    "Ups... Se nos ha acabado el tiempo hace media hora. Será mejor que aterricemos.": "response_Railroad_afraid_Harvey_event11",
+    "No recuerdo la última vez que pasé un día tan maravilloso.": "response_Railroad_afraid_Harvey_endDialogue12"
+}

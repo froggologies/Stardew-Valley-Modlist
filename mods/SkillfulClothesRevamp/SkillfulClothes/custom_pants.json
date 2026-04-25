@@ -1,0 +1,552 @@
+
+{
+  "FarmerPants": [
+    {
+    "IncreaseSkillLevel": {
+      "Skill": "Farming",
+      "Amount": 1
+    }
+  },
+  {
+    "MultiplyExperience": {
+      "Skill": "Farming",
+      "Multiplier": 1.15
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "Prairie Friend:",
+      "iconName": "Heart",
+      "Effect": [
+        "LovingRancher",
+        {
+          "IncreaseSkillLevel": {
+            "Skill": "Farming",
+            "Amount": 3
+          }
+        }
+      ]
+    }
+  }
+],
+  "Shorts": [
+    {
+    "IncreaseSkillLevel": {
+      "Skill": "Foraging",
+      "Amount": 1
+    }
+  },
+  {
+    "MultiplyExperience": {
+      "Skill": "Foraging",
+      "Multiplier": 1.15
+    }
+  }
+],
+  "Dress": [
+    {
+    "IncreaseSkillLevel": {
+      "Skill": "Mining",
+      "Amount": 1
+    }
+  },
+  {
+    "MultiplyExperience": {
+      "Skill": "Mining",
+      "Multiplier": 1.15
+    }
+  }
+  ],
+  "Skirt": [
+    {
+    "IncreaseSkillLevel": {
+      "Skill": "Fishing",
+      "Amount": 1
+    }
+  },
+  {
+    "MultiplyExperience": {
+      "Skill": "Fishing",
+      "Multiplier": 1.15
+    }
+  }
+],
+  "DinosaurPants": [
+    {
+    "IncreaseDefense": {
+      "Amount": 3
+    }
+  },
+  {
+    "IncreaseSpeed": {
+      "Amount": -1
+    }
+  },
+  {
+    "IncreaseAttack": {
+      "Amount": 4
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "Eonic Tribute:",
+      "iconName": "Fire",
+      "Effect": [
+        {
+          "IncreaseSpeed": {
+          "Amount": 3
+        }
+        },
+        {
+          "IncreaseAttackMultiplier": {
+          "Amount": 120
+        }
+        }
+      ]
+      }
+  }
+],
+"SimpleDress": [
+  {
+  "IncreaseAttack": {
+    "Amount": 1
+  }
+  },
+  {
+  "IncreaseCritChance": {
+    "Amount": 10
+  }
+}
+],
+"BaggyPants": [
+  {
+  "IncreaseSkillLevel": {
+    "Skill": "Combat",
+    "Amount": 2
+  }
+},
+{
+  "MultiplyExperience": {
+    "Skill": "Combat",
+    "Multiplier": 1.2
+  }
+},
+{
+  "SetBonusDesc": {
+    "setBonus": "Ruler of Infinity:",
+    "iconName": "Crown",
+    "Effect": [
+      "Mercenery",
+      {
+        "ItemHeldEffect": {
+          "ItemId": "Infinity Blade",
+          "Effect": [
+          {
+            "Locational": {
+              "Location": "UndergroundPlaces",
+              "Effect": [
+                {
+                  "IncreaseSpeed": {
+                    "Amount": 4
+                  }
+                }
+              ]
+            }
+          }
+          ]
+           }
+         },
+         {
+          "ItemHeldEffect": {
+            "ItemId": "Infinity Dagger",
+            "Effect": [
+            {
+              "Locational": {
+                "Location": "UndergroundPlaces",
+                "Effect": [
+                  {
+                    "IncreaseSpeed": {
+                      "Amount": 4
+                    }
+                  }
+                ]
+              }
+            }
+            ]
+             }
+           },
+           {
+            "ItemHeldEffect": {
+              "ItemId": "Infinity Gavel",
+              "Effect": [
+              {
+                "Locational": {
+                  "Location": "UndergroundPlaces",
+                  "Effect": [
+                    {
+                      "IncreaseSpeed": {
+                        "Amount": 4
+                      }
+                    }
+                  ]
+                }
+              }
+              ]
+               }
+             }
+    ]
+    }
+}
+],
+"LuauSkirt": [
+  {
+    "DodgeChance": {
+      "Chance": 5
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "One With Nature:",
+      "iconName": "Swirl",
+      "Effect": [
+          "ProfessionalForager",
+          {
+            "IncreaseSpeed": {
+              "Amount": 2
+            }
+          },
+    		"BeeKeeper",
+          {
+            "Sapping": {
+              "Chance": 10
+            }
+          }
+      ]
+      }
+  }
+],
+"PleatedSkirt": [
+  {
+      "IncreaseDefense": {
+        "Amount": -1
+      }
+  },
+  {
+    "IncreaseSpeed": {
+      "Amount": 1
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "Why Go Alone?:",
+      "iconName": "Heart",
+      "Effect": [
+        {
+          "TrinketEffect": {
+            "Trinket": 2
+          }
+        },
+        {
+          "TrinketEffect": {
+            "Trinket": 4
+          }
+        },
+        {
+          "TrinketEffect": {
+            "Trinket": 5
+          }
+        },
+        {
+          "IncreaseSpeed": {
+            "Amount": 1
+          }
+        }
+      ]
+      }
+  }
+],
+"RelaxedFitPants": [
+  {
+      "IncreaseDefense": {
+        "Amount": 2
+      }
+  },
+  {
+    "IncreaseAttack": {
+      "Amount": 1
+    }
+},
+{
+  "SetBonusDesc": {
+    "setBonus": "Running River:",
+    "iconName": "Blue",
+    "Effect": [
+      {
+        "IncreaseSpeed": {
+        "Amount": 3
+      }
+      },
+      {
+        "IncreaseSkillLevel": {
+          "Skill": "Fishing",
+          "Amount": 3
+        }
+      }
+    ]
+    }
+}
+],
+"RelaxedFitShorts": [
+  {
+      "IncreaseDefense": {
+        "Amount": 1
+      }
+  },
+  {
+    "IncreaseAttack": {
+      "Amount": 2
+    }
+}
+],
+  "GeniePants": [
+    {
+    "IncreaseSkillLevel": {
+      "Skill": "Luck",
+      "Amount": 1
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "Salem's Fallout:",
+      "iconName": "Lightning",
+      "Effect": [
+        {
+          "TrinketEffect": {
+            "Trinket": 3
+          }
+        },
+        {
+          "TrinketEffect": {
+            "Trinket": 6
+          }
+        },
+          {
+            "IncreaseSpeed": {
+              "Amount": 2
+            }
+          },
+          {
+            "IncreaseMagnetism": {
+              "Amount": 20
+            }
+          }
+      ]
+      }
+  }
+],
+  "PrismaticPants": [
+{
+    "IncreaseMaxHealth": {
+      "Amount": 30
+    }
+  },
+  {
+    "Glow": {
+      "Radius": 3,
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 0,
+        "A": 0
+      }
+    }
+  },
+{
+  "SetBonusDesc": {
+    "setBonus": "Prismatic:",
+    "iconName": "Iridium",
+    "Effect": [
+      {
+        "Ring": {
+          "Ring": "BurglarsRing"
+        }
+      },
+      {
+        "Ring": {
+          "Ring": "ProtectiveRing"
+        }
+      },
+      {
+        "StaminaRegen": {
+          "SecondsToStandStill": 3,
+          "RegenIntervalSeconds": 1,
+          "RegenAmount": 1
+        }
+      },    
+      {
+        "HealthRegen": {
+          "SecondsToStandStill": 3,
+          "RegenIntervalSeconds": 1,
+          "RegenAmount": 1
+        }
+      }
+    ]
+    }
+  }
+],
+  "PrismaticGeniePants": [
+{
+    "IncreaseStaminaMax": {
+      "Amount": 30
+    }
+  },
+  {
+    "Glow": {
+      "Radius": 3,
+      "Color": {
+        "B": 0,
+        "G": 0,
+        "R": 0,
+        "A": 0
+      }
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "Truly Magic:",
+      "iconName": "Stardrop",
+      "Effect": [
+        {
+          "IncreaseSpeed": {
+            "Amount": 2
+          }
+        },
+        {
+          "IncreaseSkillLevel": {
+            "Skill": "Luck",
+            "Amount": 2
+          }
+        },
+        {
+          "TrinketEffect": {
+            "Trinket": 1
+          }
+        }
+      ]
+      }
+  }
+],
+  "GrassSkirt": [
+    {
+    "Sapping": {
+	"Chance": 5
+    }
+    },
+    {
+    "IncreaseSkillLevel": {
+      "Skill": "Foraging",
+      "Amount": 1
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "setBonus": "Squawk Proud:",
+      "iconName": "Chicken",
+      "Effect": [
+          "LovingRancher",
+          {
+            "IncreaseSkillLevel": {
+              "Skill": "Farming",
+              "Amount": 3
+            }
+          },
+          {
+            "NPCEffect": {
+              "NPC": "Shane",
+              "Amount": 70,
+              "Type": 0
+            }
+          }
+      ]
+      }
+  }
+],
+"15": [
+  {
+ "IncreasePopularityAdvanced": {
+     "Amount": 17
+      }
+},
+  "LewisDisapproves",
+  {
+    "SetBonusDesc": {
+      "setBonus": "Clown Around:",
+      "iconName": "Heart",
+      "Effect": [
+        {
+          "NPCEffect": {
+            "NPC": "Lewis",
+            "Amount": -400,
+            "Type": 2
+          }
+        },
+        {
+ "IncreasePopularityAdvanced": {
+     "Amount": 17
+      }
+}
+      ]
+      }
+  }
+],
+  "TightPants": [
+    {
+      "IncreaseDefense": {
+        "Amount": 1
+      }
+  },
+  {
+    "IncreaseAttack": {
+      "Amount": 1
+    }
+  },
+  {
+    "IncreaseSpeed": {
+      "Amount": 1
+    }
+  },
+  {
+    "IncreaseAttackMultiplier": {
+      "Amount": 10
+    }
+  },
+  {
+    "SetBonusDesc": {
+      "hat": "DarkBallcap",
+      "shirt": "1185",
+      "pants": "9",
+      "setBonus": "Street Smarts:",
+      "iconName": "DustSprite",
+      "Effect": [
+        {
+          "IncreaseSpeed": {
+          "Amount": 2
+        }
+        },
+        {
+          "OnKill": {
+            "UniqueEff": 0,
+            "Amount": 15
+          }
+        },
+        {
+          "OnKill": {
+            "UniqueEff": 1,
+            "Amount": 15
+          }
+        }
+      ]
+      }
+  }
+  ]
+}

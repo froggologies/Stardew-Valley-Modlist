@@ -1,0 +1,206 @@
+{
+      "Alex": {
+            "야, 굉장한데! 나 이런 거 너무 좋아!": [
+                  "AlexGiftTaste_1"
+            ],
+            "이거 멋진데! 고마워.": [
+                  "AlexGiftTaste_2"
+            ],
+            "음... 그래. 고마워.": [
+                  "AlexGiftTaste_3"
+            ],
+            "장난해? 이거 쓰레기잖아.": [
+                  "AlexGiftTaste_4"
+            ],
+            "고마워!": [
+                  "AlexGiftTaste_5"
+            ]
+      },
+      "Elliott": {
+            "@, 이거 정말 아름다운 선물인걸! 고마워!": [
+                  "ElliottGiftTaste_1"
+            ],
+            "날 위한 거야? 훌륭해!": [
+                  "ElliottGiftTaste_2"
+            ],
+            "흠... 난 이거 그렇게 좋아하진 않아.": [
+                  "ElliottGiftTaste_3"
+            ],
+            "이 물건이 주는 기분이 너무 끔찍한걸. 버려야겠어.": [
+                  "ElliottGiftTaste_4"
+            ],
+            "오, 선물! 고마워!": [
+                  "ElliottGiftTaste_5"
+            ]
+      },
+      "Harvey": {
+            "나 주는 거야? 이거 진짜 좋아하는 건데! 내 마음을 읽은 거 같아.": [
+                  "HarveyGiftTaste_1"
+            ],
+            "정말 괜찮은 선물이네. 고마워!": [
+                  "HarveyGiftTaste_2"
+            ],
+            "음... 이거 건강한 거 맞아?": [
+                  "HarveyGiftTaste_3"
+            ],
+            "...나 이거에 알러지 있는 거 같아.": [
+                  "HarveyGiftTaste_4"
+            ],
+            "고마워. 친절하구나.": [
+                  "HarveyGiftTaste_5"
+            ]
+      },
+      "Sam": {
+            "오예! 이거 내가 제일 좋아하는 거야!": [
+                  "SamGiftTaste_1"
+            ],
+            "고마워! 나 진짜 이거 좋아하는데.": [
+                  "SamGiftTaste_2"
+            ],
+            "음.. 이건... 흥미롭네.": [
+                  "SamGiftTaste_3"
+            ],
+            "넌 정말 뭘 모르는구나, 그치?": [
+                  "SamGiftTaste_4"
+            ],
+            "날 위해서 가져왔다고? 고마워!": [
+                  "SamGiftTaste_5"
+            ]
+      },
+      "Sebastian": {
+            "나 이거 진짜 사랑하는데. 어떻게 알았어?": [
+                  "SebastianGiftTaste_1"
+            ],
+            "고마워, 이거 마음에 들어.": [
+                  "SebastianGiftTaste_2"
+            ],
+            "...?": [
+                  "SebastianGiftTaste_3"
+            ],
+            "...이거 너무 싫다.": [
+                  "SebastianGiftTaste_4"
+            ],
+            "...고마워.": [
+                  "SebastianGiftTaste_5"
+            ]
+      },
+      "Shane": {
+            "우와, @! 내가 이거 제일 좋아하는 거 어떻게 알았어?": [
+                  "ShaneGiftTaste_1"
+            ],
+            "이거 정말 좋다! 고마워!": [
+                  "ShaneGiftTaste_2"
+            ],
+            "나 이거 정말 안 좋아하는데.": [
+                  "ShaneGiftTaste_3"
+            ],
+            "왜 나한테 네 쓰레기를 주는 거야?": [
+                  "ShaneGiftTaste_4"
+            ],
+            "오, 날 위해 뭔가 준비했다고? 고마워!": [
+                  "ShaneGiftTaste_5"
+            ]
+      },
+      "Abigail": {
+            "나 진지하게 이거 사랑해! @, 너가 최고야!": [
+                  "AbigailGiftTaste_1"
+            ],
+            "야, 나 배고픈 거 어떻게 알았어? 맛있어 보여!": [
+                  "AbigailGiftTaste_2"
+            ],
+            "이걸로 뭘 어떻게 해야 해?": [
+                  "AbigailGiftTaste_3"
+            ],
+            "무슨 생각을 한 거야? 이거 끔찍해!": [
+                  "AbigailGiftTaste_4"
+            ],
+            "선물을 가져왔다고? 고마워.": [
+                  "AbigailGiftTaste_5"
+            ]
+      },
+      "Emily": {
+            "이 선물 굉장해! 너무 고마워!": [
+                  "EmilyGiftTaste_1"
+            ],
+            "고마워! 선물에서 긍정적인 에너지가 느껴져.": [
+                  "EmilyGiftTaste_2"
+            ],
+            "미안해, @. 나 이건 안 좋아해.": [
+                  "EmilyGiftTaste_3"
+            ],
+            "이 선물 부정적인 에너지가 너무 강해. 견디기 힘들다.": [
+                  "EmilyGiftTaste_4"
+            ],
+            "고마워!": [
+                  "EmilyGiftTaste_5"
+            ]
+      },
+      "Haley": {
+            "어머나, 내가 제일 좋아하는 거!!": [
+                  "HaleyGiftTaste_1"
+            ],
+            "앗... 날 위해서? 고마워!": [
+                  "HaleyGiftTaste_2"
+            ],
+            "으...정말 멍청한 선물이다.": [
+                  "HaleyGiftTaste_3"
+            ],
+            "더러워!": [
+                  "HaleyGiftTaste_4"
+            ],
+            "고마워. 나 선물 너무 좋아해.": [
+                  "HaleyGiftTaste_5"
+            ]
+      },
+      "Leah": {
+            "오! 딱 내가 원하던 거야! 고마워!": [
+                  "LeahGiftTaste_1"
+            ],
+            "정말 괜찮은 선물이다! 고마워!": [
+                  "LeahGiftTaste_2"
+            ],
+            "흠... 그래, 다들 취향이 다른 거겠지.": [
+                  "LeahGiftTaste_3"
+            ],
+            "이 선물 좀 최악이다, 그치?": [
+                  "LeahGiftTaste_4"
+            ],
+            "고마워.": [
+                  "LeahGiftTaste_5"
+            ]
+      },
+      "Maru": {
+            "그거...? 오, @! 이거 아주 대단해!": [
+                  "MaruGiftTaste_1"
+            ],
+            "멋진 선물이야! 고마워!": [
+                  "MaruGiftTaste_2"
+            ],
+            "오... 그거 나 주는 거야? 일단 여기에 둘게...": [
+                  "MaruGiftTaste_3"
+            ],
+            "우웩! 내가 좋아할 거라 생각한 거야?": [
+                  "MaruGiftTaste_4"
+            ],
+            "고마워.": [
+                  "MaruGiftTaste_5"
+            ]
+      },
+      "Penny": {
+            "고마워요! 나 이거 정말 사랑하는데!": [
+                  "PennyGiftTaste_1"
+            ],
+            "고마워요! 특별해 보이네요.": [
+                  "PennyGiftTaste_2"
+            ],
+            "어, 날 위한 건가요? ...고마워요": [
+                  "PennyGiftTaste_3"
+            ],
+            "으...미안한데, 나 이거 끔찍하게 싫어해요.": [
+                  "PennyGiftTaste_4"
+            ],
+            "고마워요, 좋아 보이네요.": [
+                  "PennyGiftTaste_5"
+            ]
+      }
+}

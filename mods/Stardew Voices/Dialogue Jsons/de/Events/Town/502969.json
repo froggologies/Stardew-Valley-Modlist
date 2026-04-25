@@ -1,0 +1,21 @@
+{
+    "Grr... Die Waschbären sind wohl wieder unterwegs. Diese Strolche...": "Town_502969_2400_George_event1",
+    "Ah, du kommst gerade rechtzeitig, Junge.": "Town_502969_2400_George_event2_male_farmer",
+    "Ah, du kommst gerade rechtzeitig, Fräulein.": "Town_502969_2400_George_event2_female_farmer",
+    "Könntest du einem alten Mann einen Gefallen tun? Könntest du um die Ecke gehen und diese Waschbären für mich verjagen? Sie haben ein ganz schönes Durcheinander verursacht.": "Town_502969_2400_George_event2_sv1",
+    "Danke. Und jag ihnen einen ordentlichen Schrecken ein, damit sie nie mehr zurückkommen.": "Town_502969_2400_George_event2_sv2",
+    "Ich war es... Es tut mir leid.": "Town_502969_2400_Linus_event1",
+    "Ich habe eine Menge frisches, noch warmes Essen in diesen Tonnen gefunden... Dinge, die verschwendet wären, wenn ich sie nicht nähme.": "Town_502969_2400_Linus_event2",
+    "Findest du, ich mache hier irgendwas Schlechtes?": "Town_502969_2400_Linus_event3",
+    "Vielleicht für dich. Für mich ist es ein Weg zu leben. Und ich bin bisher nicht krank geworden. Ich esse nur Dinge, die frisch aussehen.": "Town_502969_2400_Linus_event3__Ja__es_ist_ekelhaft___response",
+    "Danke, @. Ich wusste, dass du Verständnis zeigst. Ich fühle mich gut bei dem, was ich mache. Ich verletze niemanden.": "Town_502969_2400_Linus_event3__Nein__Es_wäre_eine_Schande__das_Essen_zu_verschwenden___response",
+    "Ich glaube nicht an 'privates Eigentum'. Außerdem, was soll ich sonst machen? Ich brauche dieses Essen, um zu überleben. Hab ein Herz.": "Town_502969_2400_Linus_event3__Ja__es_ist_illegal__Das_hier_ist_Georges_privates_Eigentum___response",
+    "**Seufz** Nicht jeder ist für diese Welt gemacht, @. Du weißt nicht, wie es ist, wie ich zu sein. Ich verletze niemanden, ich will einfach nur mein Leben auf meine Weise leben. Ist das so falsch?'": "Town_502969_2400_Linus_event3__Nein__aber_du_solltest_dir_einen_Job_besorgen_und_aufhören__von_anderen_zu_schmarotzen___response",
+    "Du kannst nach Hause gehen, Ich verspreche dir, ich werde nicht mehr in Georges Tonne rumwühlen.": "Town_502969_2400_Linus_event4",
+    "Du kannst ihm sagen, dass du die Waschbären ein für alle Mal verscheucht hast.": "Town_502969_2400_Linus_event4_sv1",
+    "Warte.": "Town_502969_2400_Gus_event1",
+    "Ich weiß, was du getan hast, Linus.": "Town_502969_2400_Gus_event2",
+    "Wenn du etwas zu essen brauchst... frag einfach. Ich will nicht, dass jemand in Pelikan hungern muss.": "Town_502969_2400_Gus_event3",
+    "Hier. Ich habe einen Korb voller Zucchinipuffer für dich. Aber tunke sie auf jeden Fall in meine würzige Marinarasauce!": "Town_502969_2400_Gus_event4",
+    "Komm schon... nimm ihn.": "Town_502969_2400_Gus_event4_sv1"
+}

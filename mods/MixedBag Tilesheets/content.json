@@ -1,0 +1,95 @@
+{
+	"Format": "2.4.0",
+	"ConfigSchema": {
+		"RoundedCorners": {
+			"AllowValues": "true, false",
+			"Default": "false",
+			"Section": "Pathways"
+			},
+		"BlueSpring": {
+			"AllowValues": "true, false",
+			"Default": "false",
+			"Section": "Starblue"
+			},
+		"LightDirt": {
+			"AllowValues": "true, false",
+			"Default": "false",
+			"Section": "Wittily"
+			}
+	},
+	"DynamicTokens": [
+		{
+			"Name": "Variant",
+			"Value": "Vanilla"
+		},
+		{
+			"Name": "Variant",
+			"Value": "Earthy",
+			"When": { "HasMod": "DaisyNiko.EarthyRecolour" }
+		},
+		{
+			"Name": "Variant",
+			"Value": "Starblue",
+			"When": { "HasMod": "Lita.StarblueValleyUnofficial" }
+		},
+		{
+			"Name": "Variant",
+			"Value": "VPR",
+			"When": { "HasMod": "grapeponta.VibrantPastoralRecolor" }
+		},
+		{
+			"Name": "Variant",
+			"Value": "Wittily",
+			"When": { "HasMod": "Acerbicon.Recolor" }
+		},
+		{
+			"Name": "RCVariant",
+			"Value": "{{Variant}}"
+		}
+	],
+	"Changes": [
+	//Asset Load
+        {
+            "Action": "Include",
+            "FromFile": "Data/grasspath.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/dirtpath.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/rndpath.json"
+        },
+		//Config
+			{
+				"Action": "Include",
+				"FromFile": "Data/rounded.json",
+				"When": { "RoundedCorners": true }
+			},
+			{
+				"Action": "Include",
+				"FromFile": "Data/starblue.json",
+				"When": {
+					"HasMod": "Lita.StarblueValleyUnofficial",
+					"BlueSpring": true
+					}
+			},
+			{
+				"Action": "Include",
+				"FromFile": "Data/vpr.json",
+				"When": {
+					"HasMod": "grapeponta.VibrantPastoralRecolor, VibrantPastoral.C",
+					"VibrantPastoral.C/GreenFall": true
+					}
+			},
+			{
+				"Action": "Include",
+				"FromFile": "Data/wittily.json",
+				"When": {
+					"HasMod": "Acerbicon.Recolor",
+					"LightDirt": true
+					}
+			}
+	]
+}

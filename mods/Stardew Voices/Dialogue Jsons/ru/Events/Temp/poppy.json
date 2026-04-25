@@ -1,0 +1,20 @@
+{
+    "Всем привет. Мы из города Пеликана... Э-э... Мы — «Пеликаны» .": "response_Temp_poppy_Sam_event1",
+    "Эта песня о фермерах, шахтерах и лесорубах.": "response_Temp_poppy_Sam_event2",
+    "Эта песня о городе посреди моря.": "response_Temp_poppy_Sam_event2_sv1",
+    "Эта песня о поездах.": "response_Temp_poppy_Sam_event2_sv2",
+    "Поехали...": "response_Temp_poppy_Sam_event2_sv3",
+    "Ого! Электроника — просто улет!": "response_Temp_poppy_Emily_event1_prereq_1",
+    "У-у-у! Это было круто!": "response_Temp_poppy_Emily_event1_prereq_2",
+    "Вышло просто отлично! Вы создали новую классику хонки-тонка!": "response_Temp_poppy_Leah_event1_prereq_1",
+    "Отличная работа, ребята!": "response_Temp_poppy_Leah_event1_prereq_2",
+    "Брейкдаун в конце был очень хорош.": "response_Temp_poppy_Shane_event1_prereq_1",
+    "Бас был отличный.": "response_Temp_poppy_Shane_event1_prereq_2",
+    "Всем спасибо!": "response_Temp_poppy_Sam_event3",
+    "Но по-настоящему ваших аплодисментов заслуживает @! Без его": "response_Temp_poppy_Sam_event3_sv1_male_farmer",
+    "ее}помощи мы бы никогда не решили, какую музыку будем играть!": "response_Temp_poppy_Sam_event3_sv1_female_farmer",
+    "Выходит, ты тоже почетный член группы!": "response_Temp_poppy_Penny_event1",
+    "Ах да, и не забудьте захватить с собой наши демо-кассеты, когда будете уходить... Всего по 10 з.!": "response_Temp_poppy_Sam_event4",
+    "Все прошло отлично! Спасибо, что ты здесь с нами.": "response_Temp_poppy_Sam_event5",
+    "Хей. Концерт прошел на ура! Еще раз спасибо тебе, @.": "response_Temp_poppy_Sam_endDialogue6"
+}

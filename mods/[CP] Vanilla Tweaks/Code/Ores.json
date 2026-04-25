@@ -1,0 +1,139 @@
+{
+    "Changes": 
+    [
+        {
+			"LogName": "Coal",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/Coal.png",
+			"ToArea": {"X": "352", "Y": "240", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Coal": true
+			}
+		},
+        {
+			"LogName": "Copper Bar",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/CopperBar.png",
+			"ToArea": {"X": "352", "Y": "208", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Copper Bar": true
+			}
+		},
+        {
+			"LogName": "Copper Ore",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/CopperOre.png",
+			"ToArea": {"X": "288", "Y": "240", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Copper Ore": true
+			}
+		},
+        {
+			"LogName": "Gold Bar",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/GoldBar.png",
+			"ToArea": {"X": "0", "Y": "224", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Gold Bar": true
+			}
+		},
+        {
+			"LogName": "Gold Ore",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/GoldOre.png",
+			"ToArea": {"X": "0", "Y": "256", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Gold Ore": true
+			}
+		},
+        {
+			"LogName": "Iridium Bar",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/IridiumBar.png",
+			"ToArea": {"X": "16", "Y": "224", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Iridium Bar": true
+			}
+		},
+        {
+			"LogName": "Iridium Ore",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/IridiumOre.png",
+			"ToArea": {"X": "32", "Y": "256", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Iridium Ore": true
+			}
+		},
+        {
+			"LogName": "Iron Bar",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/IronBar.png",
+			"ToArea": {"X": "368", "Y": "208", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Iron Bar": true
+			}
+		},
+        {
+			"LogName": "Iron Ore",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/IronOre.png",
+			"ToArea": {"X": "320", "Y": "240", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Iron Ore": true
+			}
+		},
+        {
+			"LogName": "Radioactive Bar",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/RadioactiveBar.png",
+			"ToArea": {"X": "352", "Y": "592", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"OresRedesign |contains= Radioactive Bar": true
+			}
+		},
+        {
+			"LogName": "Radioactive Ore",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/RadioactiveOre.png",
+			"ToArea": {"X": "336", "Y": "592", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"Enable1.5Items": true,
+				"OresRedesign |contains= Radioactive Ore": true
+			}
+		},
+        {
+			"LogName": "Refined Quartz",
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Ores/RefinedQuartz.png",
+			"ToArea": {"X": "32", "Y": "224", "Width": "16", "Height": "16"},
+			"When": 
+			{
+				"OresRedesign |contains= Refined Quartz": true
+			}
+		}
+    ]
+}

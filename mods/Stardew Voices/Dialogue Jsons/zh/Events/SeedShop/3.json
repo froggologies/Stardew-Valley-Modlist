@@ -1,0 +1,14 @@
+{
+    "嘿！我正想着你什么时候来呢。我想给你看一样东西。": "SeedShop_3_abbySpiritBoard_Abigail_event1",
+    "你看到了吗？这个就是通灵板。你以前用过吗？": "SeedShop_3_abbySpiritBoard_Abigail_event2",
+    "把咱俩的手一起放到板子上……": "SeedShop_3_abbySpiritBoard_Abigail_event3",
+    "现在，灵魂将把我们领向……": "SeedShop_3_abbySpiritBoard_Abigail_event4",
+    "快看！在动诶！": "SeedShop_3_abbySpiritBoard_Abigail_event5",
+    "第一个字母是……“我” ……": "SeedShop_3_abbySpiritBoard_Abigail_event6",
+    "下一个是……“<”……": "SeedShop_3_abbySpiritBoard_Abigail_event7",
+    "哇，快看它动的多带劲！它写着……“%firstnameletter”……": "SeedShop_3_abbySpiritBoard_Abigail_event8",
+    "我 < %firstnameletter……？": "SeedShop_3_abbySpiritBoard_Abigail_event8_sv1",
+    "哎呀，一不留神把板子打翻了！嘻嘻……": "SeedShop_3_abbySpiritBoard_Abigail_event9",
+    "这就是个蠢游戏，没什么意义的啦。": "SeedShop_3_abbySpiritBoard_Abigail_event9_sv1",
+    "我，呃，还有事要做。你得走了……对不起了。": "SeedShop_3_abbySpiritBoard_Abigail_event10"
+}

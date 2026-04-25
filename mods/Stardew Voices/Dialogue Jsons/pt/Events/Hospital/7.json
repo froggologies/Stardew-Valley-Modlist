@@ -1,0 +1,12 @@
+{
+    "Droga! Estou de saco cheio de preparar estas amostras!...": "Hospital_7_Maru_Maru_event1",
+    "Argh! Ah, não!...": "Hospital_7_Maru_Maru_event2",
+    "A amostra toda está arruinada. Harvey vai me matar...": "Hospital_7_Maru_Maru_event3",
+    "@, o que devo fazer?": "Hospital_7_Maru_Maru_event4",
+    "O que houve? Ouvi alguma coisa quebrando.": "Hospital_7_Maru_Harvey_event1",
+    "Eu acidentalmente deixei cair uma das amostras. Sinto muito.": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@ entrou e bateu a porta tão alto que deixei cair essa mostra.": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "Você não deveria culpar os outros por seus problemas, Maru.": "Hospital_7_Maru_Harvey_event2",
+    "Aaah... Eu provavelmente vou ter que chamar o paciente de volta para colher outra amostra.": "Hospital_7_Maru_Harvey_event3",
+    "Isto provavelmente vai nos deixar mais um mês no vermelho...": "Hospital_7_Maru_Harvey_event3_sv1"
+}

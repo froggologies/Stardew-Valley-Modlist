@@ -1,0 +1,18 @@
+{
+    "哦，哥们儿，你好。": "Saloon_96_Gus_Gus_event1_male_farmer",
+    "您好，@。": "Saloon_96_Gus_Gus_event1_female_farmer",
+    "*唉*……正在查看上个月的营收……情况不是很好，@。": "Saloon_96_Gus_Gus_event2",
+    "最麻烦的是……我不想说，因为她是我的朋友……但，都怪潘姆！她已经好几个星期没付账了！": "Saloon_96_Gus_Gus_event2_sv1",
+    "……我知道她会辩解，但我不想伤害她的自尊心。": "Saloon_96_Gus_Gus_event2_sv2",
+    "@，你得帮帮我！": "Saloon_96_Gus_Gus_event3",
+    "嘿！": "Saloon_96_Gus_Pam_event1",
+    "格斯……我快渴死了，给我拿点儿喝的。": "Saloon_96_Gus_Pam_event1_sv1",
+    "额……好吧，潘姆。": "Saloon_96_Gus_Gus_event4",
+    "@，你有什么事儿吗？": "Saloon_96_Gus_Pam_event2",
+    "……": "Saloon_96_Gus_Pam_event3",
+    "*唉*……好吧，我觉得我最好还是把帐给结了。": "Saloon_96_Gus_Pam_event3_sv1",
+    "谢谢你，潘姆！": "Saloon_96_Gus_Gus_event5",
+    "还要谢谢你，@。": "Saloon_96_Gus_Gus_event6",
+    "潘姆，我现在就给你拿喝的。": "Saloon_96_Gus_Gus_event7",
+    "谢谢你的帮助，@。有了这些钱，酒吧就得救了。": "Saloon_96_Gus_Gus_endDialogue8"
+}

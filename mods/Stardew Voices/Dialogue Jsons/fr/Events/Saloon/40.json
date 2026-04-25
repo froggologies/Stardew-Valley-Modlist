@@ -1,0 +1,11 @@
+{
+    "Bonjour. Je vais venir prendre ta commande tout de suite.": "Saloon_40_2200_Gus_event1",
+    "Bonjour, @ ! Quelle bonne surprise !": "Saloon_40_2200_Elliott_event1",
+    "Je suis venu pour me détendre un peu après une séance d’écriture de huit heures.": "Saloon_40_2200_Elliott_event1_sv1",
+    "Barman ! Deux de ta meilleure bière, s’il te plaît !": "Saloon_40_2200_Elliott_event2_male_farmer",
+    "Barmaid ! Apporte-moi ta meilleure bière et du vin pour la dame !": "Saloon_40_2200_Elliott_event2_female_farmer",
+    "...": "Saloon_40_2200_Gus_event2",
+    "Voilà.": "Saloon_40_2200_Gus_event3",
+    "Attends. Je veux porter un toast ! À...": "Saloon_40_2200_Elliott_event3",
+    "*Hic*... Elle est forte...": "Saloon_40_2200_Elliott_event4"
+}

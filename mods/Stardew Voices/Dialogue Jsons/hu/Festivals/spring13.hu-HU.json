@@ -1,0 +1,322 @@
+{
+      "Tojásfesztivál": [
+            "spring13_name"
+      ],
+      "Váó, ezt nézzétek, mennyi tojás!": [
+            "spring13_afterEggHunt_Lewis_event1",
+            "spring13_afterEggHunt_y2_Lewis_event1"
+      ],
+      "És most, az idei tojásvadászat győztese...": [
+            "spring13_afterEggHunt_Lewis_event2",
+            "spring13_afterEggHunt_y2_Lewis_event2"
+      ],
+      "Itt a jutalmad! Gratulálok!": [
+            "spring13_afterEggHunt_Lewis_event3"
+      ],
+      "Nos, ennyi volt az idei Tojásfesztivál. Mindenkinek köszönöm a részvételt!": [
+            "spring13_afterEggHunt_Lewis_event4",
+            "spring13_AbbyWin_Lewis_event2",
+            "spring13_afterEggHunt_y2_Lewis_event4"
+      ],
+      "Itt a jutalmad, Abigail. Gratulálok!": [
+            "spring13_AbbyWin_Lewis_event1"
+      ],
+      "És elérkezett az idő a mai ünnepség fénypontjához... Az idei tavaszi Tojásvadászathoz!": [
+            "spring13_mainEvent_Lewis_event1",
+            "spring13_mainEvent_y2_Lewis_event1"
+      ],
+      "Csillapodjatok le gyerekek! Minden energiátokra szükség lesz, ha ti szeretnétek megtalálni a legtöbb tojást, és haza kívánjátok vinni az exkluzív ajándékot.": [
+            "spring13_mainEvent_Lewis_event2",
+            "spring13_mainEvent_y2_Lewis_event2"
+      ],
+      "Nos... Mindenki készen áll?": [
+            "spring13_mainEvent_Lewis_event3",
+            "spring13_mainEvent_y2_Lewis_event3"
+      ],
+      "Kezdődjék a tojásvadászat!": [
+            "spring13_mainEvent_Lewis_event4",
+            "spring13_mainEvent_y2_Lewis_event4"
+      ],
+      "Íme a jutalom! Gratulálok!": [
+            "spring13_afterEggHunt_y2_Lewis_event3"
+      ],
+      "A begyűjtött tojásaik összeadásával... Jas és Vincent!": [
+            "spring13_Event_cs_1862"
+      ],
+      "Menj innét, amíg tart a tojásvadászat addig vetélytársak vagyunk!": [
+            "spring13_Abigail_spouse"
+      ],
+      "Sose volt túl sok barátom a városban, szóval az ilyen események számomra untatóak. De az étel jó.": [
+            "spring13_Leah_spouse"
+      ],
+      "Próbálok lépést tartani Pennyvel. Te sok tojást találtál?": [
+            "spring13_Maru_spouse"
+      ],
+      "Maru próbál győzködni, hogy egyek meg egy fűszeres tojást. Nem hiszem, hogy bírná a gyomrom...": [
+            "spring13_Penny_spouse"
+      ],
+      "Tojást akartam enni, de rájöttem, hogy tavaszi diétán vagyok.": [
+            "spring13_Haley_spouse"
+      ],
+      "Szurkolni fogok neked a tojásvadászaton.": [
+            "spring13_Sebastian_spouse"
+      ],
+      "A skacok továbbra is a régiek. Te jól szórakozol?": [
+            "spring13_Sam_spouse"
+      ],
+      "Uhhh... Azt hiszem túl sok főtt tojást ettem...": [
+            "spring13_Alex_spouse"
+      ],
+      "Hogy van mindenki? Én csak pihenek egy kicsit. Remélem találkozunk a tojásvadászaton!": [
+            "spring13_Harvey_spouse"
+      ],
+      "Örülök, hogy ilyen nyugodtnak látlak, kedvesem.": [
+            "spring13_Elliott_spouse"
+      ],
+      "A tojások keresése olyan, mintha kincsre vadásznál.": [
+            "spring13_Abigail"
+      ],
+      "A tavasz az év legszorgosabb időszaka... szóval jó, hogy egy napot pihenhetek és a barátaimmal lehetek.": [
+            "spring13_Robin"
+      ],
+      "Tojás... milyen fura ehető dolog.": [
+            "spring13_Demetrius"
+      ],
+      "Mindig is örülök az ilyen összejöveteleknek... ettől a völgy egy igazi közösségnek tűnik.": [
+            "spring13_Maru"
+      ],
+      "Régen rothadt tojásokkal dobálóztunk...": [
+            "spring13_Sebastian"
+      ],
+      "Lewis polgármester ennek hamar véget vetett.": [
+            "spring13_Sebastian_sv1"
+      ],
+      "Senki se beszél hozzám igazán... Én csak a fűszeres tojásokért jöttem.": [
+            "spring13_Linus"
+      ],
+      "Micsoda! Hogy kerülsz ide?": [
+            "spring13_Pierre"
+      ],
+      "Ne nyúlj semmihez.": [
+            "spring13_Pierre_sv1"
+      ],
+      "Abby mindig is szerette a tojásvadászatot, már egészen pici lány kora óta.": [
+            "spring13_Caroline"
+      ],
+      "Próbálok minden nap legalább három tojást megenni.": [
+            "spring13_Alex"
+      ],
+      "A lábaimnak szüksége van a proteinre.": [
+            "spring13_Alex_sv1"
+      ],
+      "Minek örül annyira mindenki? Hmm...": [
+            "spring13_George"
+      ],
+      "Tojások... miért pont tojások?": [
+            "spring13_George_sv1"
+      ],
+      "Amióta az eszemet tudom, azóta létezik ez az ünnep.": [
+            "spring13_Evelyn"
+      ],
+      "A hagyományok kötik össze a múltat és a jelent... ez megnyugtató.": [
+            "spring13_Evelyn_sv1"
+      ],
+      "Jól szórakozol, @?": [
+            "spring13_Lewis"
+      ],
+      "Van még kaja?": [
+            "spring13_Clint"
+      ],
+      "A gyerekek már hetek óta várják ezt a fesztivált.": [
+            "spring13_Penny"
+      ],
+      "Hehe... Valami jót tettem bele a puncsba.": [
+            "spring13_Pam"
+      ],
+      "Csitt... ez köztünk marad, kölyök.": [
+            "spring13_Pam_sv1"
+      ],
+      "Hajnal óta tojásokat festek... ez a kedvenc időszakom ebben az évszakban.": [
+            "spring13_Emily"
+      ],
+      "Ez az ünnep nem rossz... de én igazából a Virágtáncot várom.": [
+            "spring13_Haley"
+      ],
+      "Vincent szereti ezt az ünnepet... olyan nagy öröm boldognak látni őt.": [
+            "spring13_Jodi"
+      ],
+      "Az igazat megvallva nem nagyon rajongom a tojásokért.": [
+            "spring13_Kent"
+      ],
+      "Még a rossz lábam ellenére se hagynék ki egy városi ünnepet.": [
+            "spring13_Marlon"
+      ],
+      "*szimat*... daj... az ojjom... allejgia...": [
+            "spring13_Sam"
+      ],
+      "Mmmm... Ez a gyümölcsös puncs szokatlanul jó.": [
+            "spring13_Leah"
+      ],
+      "A csirkéink túlóráztak a fesztivál miatt.": [
+            "spring13_Shane"
+      ],
+      "Ma a legjobbat érdemlik... egy nagy tál édes sárga kukoricát!": [
+            "spring13_Shane_sv1"
+      ],
+      "Üdvözlünk a Tojásfesztiválon... hála a temérdek csirkéinknek.": [
+            "spring13_Marnie"
+      ],
+      "A munkaszünet hosszú távon jót tesz a kreativitásnak.": [
+            "spring13_Elliott"
+      ],
+      "Remélem mindenki élvezi az ételeket... Napokig főztem, hogy minden kész legyen.": [
+            "spring13_Gus"
+      ],
+      "Sült tojás, főtt tojás, buggyantott tojás, fűszeres tojás, rántott tojás, csokis tojás... válogass!": [
+            "spring13_Gus_sv1"
+      ],
+      "Azt mondod, hogy odafent esik? *meghökken*": [
+            "spring13_Dwarf"
+      ],
+      "Eső... Számunkra szinte rejtély. Egyesek közülünk egész életüket úgy élik le, hogy sose tapasztalják meg.": [
+            "spring13_Dwarf_sv1"
+      ],
+      "Hmm... És milyen lenne a nyers gyíktojás egy kis füstölt velővel?": [
+            "spring13_Wizard"
+      ],
+      "A tojások fontos részét képezik a kiegyensúlyozott diétának.": [
+            "spring13_Harvey"
+      ],
+      "Hoppá... Azt hiszem egy ideig nem kéne doktorosdit játszanom.1": [
+            "spring13_Harvey_sv1"
+      ],
+      "Úgy hallottam, hogy odahaza esik. Ezért jöttél ide?": [
+            "spring13_Sandy"
+      ],
+      "Nekem valójában kissé hiányzik az eső...": [
+            "spring13_Sandy_sv1"
+      ],
+      "Remélem találni fogok pár tojást, mielőtt Vincent mindent felkapkodja...": [
+            "spring13_Jas"
+      ],
+      "Mikor kezdődik már a tojásvadászat?! Annyira izgatott vagyok!!": [
+            "spring13_Vincent"
+      ],
+      "Néha olyan jól elrejtek egy tojást, hogy senki se találja meg...": [
+            "spring13_Willy"
+      ],
+      "Nos, egészen nyárig. Akkor a forró levegőtől rothadt szaga lesz... Hehe.": [
+            "spring13_Willy_sv1"
+      ],
+      "Ah, a csatornák ma egész jól folynak. Szép párás lesz itt a levegő... pont ahogyan szeretem.": [
+            "spring13_???"
+      ],
+      "A tojásvadászat gondolata kissé fura... De azt hiszem a tojások nem a családtagjaimhoz tartoznak...": [
+            "spring13_Leo"
+      ],
+      "Na, mindegy, azt hiszem csatlakozok!": [
+            "spring13_Leo_sv1"
+      ],
+      "Szerinted túl öreg vagyok a tojásvadászathoz?": [
+            "spring13_Abigail_y2"
+      ],
+      "Hmmph... pont olyan vagy, mint anyám!": [
+            "spring13_Abigail_y2__Igen__response"
+      ],
+      "Igen, szerintem sem. Ha jól szórakozom, miért hagynám abba?'": [
+            "spring13_Abigail_y2__Nem__response"
+      ],
+      "Jó érzés a szabadban lenni a hosszú, hideg tél után, ugye?": [
+            "spring13_Robin_y2"
+      ],
+      "Hé @, kóstoltad már a ponty ikrás pitémet?": [
+            "spring13_Demetrius_y2"
+      ],
+      "...Tessék? De ez a 'tojás' fesztivál, nem?": [
+            "spring13_Demetrius_y2_sv1"
+      ],
+      "Szerinted idén meg fogod nyerni a tojásvadászatot?": [
+            "spring13_Maru_y2"
+      ],
+      "Tudod mi a helyzet? Nekem kissé hiányzik a tél... valahogy egyszerűbb minden.": [
+            "spring13_Sebastian_y2"
+      ],
+      "Később beosonok egy kicsit, és eszek valamit. Éppenséggel azzal a pompás pitével szemezgetek!": [
+            "spring13_Linus_y2"
+      ],
+      "Próbálsz alkudozni, mi? Hah! Értékelem a leleményességedet.": [
+            "spring13_Pierre_y2"
+      ],
+      "Talán kicsit unalmas lehet, de ezek a fesztiválok nagyon jók arra, hogy beszélgessünk és ismerkedjünk a szomszédainkkal.": [
+            "spring13_Caroline_y2"
+      ],
+      "Vajon mi történne a karjaimmal és a lábaimmal, ha naponta harminc tojást ennék?": [
+            "spring13_Alex_y2"
+      ],
+      "Evelyn tojást és póréhagymát készített nekem reggelire, úgyhogy jó a kedvem.": [
+            "spring13_George_y2"
+      ],
+      "Vannak tojók a farmodon?": [
+            "spring13_Evelyn_y2"
+      ],
+      "Ó, remek! Biztos finom tojásokat raknak...": [
+            "spring13_Evelyn_y2__Igen__response"
+      ],
+      "Jó ötlet tavasszal csirkéket nevelni, nem gondolod?'": [
+            "spring13_Evelyn_y2__Nem__response"
+      ],
+      "Jaj ne... *nyel*... Idén főleg saláta van...": [
+            "spring13_Clint_y2"
+      ],
+      "Remélem Vincent idén fog találni tojást...": [
+            "spring13_Penny_y2"
+      ],
+      "Jót tenne neki, ha kicsit sikerülne versengenie.": [
+            "spring13_Penny_y2_sv1"
+      ],
+      "Hé... Ha már tojásokkal etetnél engem, szükségem lenne némi csípős szószra is, kölyök!": [
+            "spring13_Pam_y2"
+      ],
+      "Idén kis nadrágokat és kalapokat varrtam a tojásoknak. Olyan cukik!": [
+            "spring13_Emily_y2"
+      ],
+      "Ó! Még fotózkodnom kell a nyuszis standnál. Jól áll a hajam?": [
+            "spring13_Haley_y2"
+      ],
+      "Úgy tűnik Kent mindig kissé feszült az ilyen nagy gyűléseken...": [
+            "spring13_Jodi_y2"
+      ],
+      "Vadásztál már ragacstojásokra? Nos, az ám az igazi kihívás...": [
+            "spring13_Marlon_y2"
+      ],
+      "Hmm... A puncs nem olyan jó, mint tavaly. Hiányzik belőle valami!": [
+            "spring13_Leah_y2"
+      ],
+      "Pár tojást ma reggel tojtak ki. Érzed? Még mindig melegek!": [
+            "spring13_Shane_y2"
+      ],
+      "A tyúkok tojják a tojásokat, de a kakasoknak is nagyon fontos szerepük van... ők védik meg a tyúkokat és akadályozzák meg azt, hogy egymásnak essenek!": [
+            "spring13_Marnie_y2"
+      ],
+      "Így boldogabbak a tyúkok és jobbak a tojások is...": [
+            "spring13_Marnie_y2_sv1"
+      ],
+      "Légy óvatos, nehogy véletlenül egy holló tojását vedd el. Életük hátralévő részéig haragban lesznek veled!": [
+            "spring13_Elliott_y2"
+      ],
+      "Shh... senkinek se szólj, de idén valami mást csináltam... Kacsatojást használtam a mártáshoz!": [
+            "spring13_Gus_y2"
+      ],
+      "A tojások nagyon jók, de nem javaslom, hogy naponta harmincat egyél!": [
+            "spring13_Harvey_y2"
+      ],
+      "Mindent megteszek, hogy idén én legyek a győztes!": [
+            "spring13_Jas_y2"
+      ],
+      "Egy nagy tojásban akarok lakni!": [
+            "spring13_Vincent_y2"
+      ],
+      "Aye... esős napokon harcsákat találhatsz ezekben a vizekben. Nagy kihívás kifogni őket, de megéri a próbálkozást!": [
+            "spring13_Willy_y2"
+      ]
+}

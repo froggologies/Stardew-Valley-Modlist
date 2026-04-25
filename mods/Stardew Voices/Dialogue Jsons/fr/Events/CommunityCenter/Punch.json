@@ -1,0 +1,16 @@
+{
+    "Ha !": "response_CommunityCenter_Punch_Morris_textAboveHeadEvent1",
+    "Ça n’a pas d’importance. Je ferai un rabais de 75 % et tous mes clients reviendront en implorant mon pardon. Tu verras !": "response_CommunityCenter_Punch_Morris_event2",
+    "Non... Pas cette fois, Morris.": "response_CommunityCenter_Punch_Pierre_event1",
+    "Je pense qu’il est temps que nous réglions ça une bonne fois pour toutes.": "response_CommunityCenter_Punch_Pierre_event1_sv1",
+    "Oh ? Et comment proposes-tu de faire ça ?": "response_CommunityCenter_Punch_Morris_event3",
+    "Ha ! Primitif...": "response_CommunityCenter_Punch_Morris_event4",
+    "Si tu as trop peur de te battre avec moi, amène avec toi un de tes collègues de travail ! Ou est-ce que tous les employés de Joja sont des lâches comme toi ?": "response_CommunityCenter_Punch_Pierre_event2",
+    "Insulte-moi autant que tu veux... mais n’essaie pas de discréditer le nom Joja !": "response_CommunityCenter_Punch_Morris_event5",
+    "Pierre !": "response_CommunityCenter_Punch_Caroline_textAboveHeadEvent1",
+    "Ha ! Pas mal !": "response_CommunityCenter_Punch_George_textAboveHeadEvent1",
+    "Tu es encore plus médiocre que ta sélection de produits frais !": "response_CommunityCenter_Punch_Morris_event6",
+    "Et la façon dont tu te bats est comme Joja...": "response_CommunityCenter_Punch_Pierre_event3",
+    "La quantité avant la qualité !": "response_CommunityCenter_Punch_Pierre_event3_sv1",
+    "Attrapez-le !": "response_CommunityCenter_Punch_George_textAboveHeadEvent2"
+}

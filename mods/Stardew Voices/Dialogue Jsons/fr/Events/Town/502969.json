@@ -1,0 +1,20 @@
+{
+    "Grrr... On dirait que ces atroces ratons laveurs sont de retour. Satanées vermines...": "Town_502969_2400_George_event1",
+    "Ah, tu arrives au bon moment, mon petit.": "Town_502969_2400_George_event2_male_farmer",
+    "Ah, tu arrives au bon moment, ma petite.": "Town_502969_2400_George_event2_female_farmer",
+    "Pourrais-tu rendre service à un vieil homme ? Pourrais-tu aller au bout de la rue et chasser ces ratons laveurs pour les faire partir.": "Town_502969_2400_George_event2_sv1",
+    "Merci. N’oublie pas, donne-leur une bonne frayeur pour qu’ils ne reviennent jamais.": "Town_502969_2400_George_event2_sv2",
+    "C'est moi... Je suis désolé.": "Town_502969_2400_Linus_event1",
+    "Je trouve beaucoup de nourriture dans ces boîtes de conserve... des choses qui vont être périmées si je ne les prends pas.": "Town_502969_2400_Linus_event2",
+    "Tu crois que c’est mal ce que je fais ?": "Town_502969_2400_Linus_event3",
+    "Dégoûtant pour toi, peut-être. Pour moi, c’est un mode de vie. Et je ne suis jamais tombé malade. Je ne mange que des choses qui ont l’air encore fraîches.": "Town_502969_2400_Linus_event3__Oui__c’est_dégoûtant___response",
+    "Merci, @. Je savais que tu étais une personne à l’esprit ouvert. J’aime ma façon de vivre. Je ne fais de mal à personne.": "Town_502969_2400_Linus_event3__Non__C’est_dommage_que_la_nourriture_soit_gaspillée_comme_ça___response",
+    "Je ne crois pas en la \\": "Town_502969_2400_Linus_event3__Oui__c’est_illégal__C’est_la_propriété_privée_de_George___response",
+    "Tu peux rentrer chez toi. Je te promets de ne plus fouiller dans les poubelles de George.": "Town_502969_2400_Linus_event4",
+    "Tu peux lui dire que tu as effrayé les ratons laveurs pour de bon.": "Town_502969_2400_Linus_event4_sv1",
+    "Attends.": "Town_502969_2400_Gus_event1",
+    "Je sais ce que tu faisais, Linus.": "Town_502969_2400_Gus_event2",
+    "Si tu as besoin de nourriture... il suffit de demander. Je ne veux pas que quiconque à Pélican Ville ait faim.": "Town_502969_2400_Gus_event3",
+    "Tiens. J’ai un panier de beignets de courgettes. C’est délicieux avec une bonne sauce marinara épicée !": "Town_502969_2400_Gus_event4",
+    "Vas-y, prends-les.": "Town_502969_2400_Gus_event4_sv1"
+}

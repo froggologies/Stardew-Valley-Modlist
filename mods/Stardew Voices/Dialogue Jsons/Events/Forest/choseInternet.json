@@ -1,0 +1,11 @@
+{
+    "You're 'Mr. K'? I... I thought it was just a rich guy who truly loved my art.": "response_Forest_choseInternet_Leah_event1",
+    "Ew, don't call me that!": "response_Forest_choseInternet_Leah_event2",
+    "You never supported my art before... now that I've had some success you want me back? You make me sick.": "response_Forest_choseInternet_Leah_event2_sv1",
+    "Oh my God!": "response_Forest_choseInternet_Leah_event3",
+    "Well, he's fine... but that was pretty violent, @.": "response_Forest_choseInternet_Leah_event4_male_farmer",
+    "She's fine... but that was pretty violent, @.": "response_Forest_choseInternet_Leah_event4_female_farmer",
+    "Let's get out of here. I don't think Kel will be bothering us anymore.": "response_Forest_choseInternet_Leah_event5",
+    "Let's find a more secluded spot this time...": "response_Forest_choseInternet_Leah_event6",
+    "Well, the picnic didn't pan out like I wanted it to.": "response_Forest_choseInternet_Leah_endDialogue7"
+}

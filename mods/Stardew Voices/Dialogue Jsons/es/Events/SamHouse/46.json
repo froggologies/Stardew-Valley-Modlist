@@ -1,0 +1,15 @@
+{
+    "Ah. Hola, @. Estaba a punto de picar algo.": "SamHouse_46_Sam_Sam_event1",
+    "Espera, toma un poco tú también.": "SamHouse_46_Sam_Sam_event2",
+    "Oh, no... ¡Qué desastre!": "SamHouse_46_Sam_Sam_event3",
+    "¿Qué ha sido ese ruido?": "SamHouse_46_Sam_Jodi_event1",
+    "*Glups*": "SamHouse_46_Sam_Jodi_event2",
+    "¡Es terrible! ¿Qué ha pasado?": "SamHouse_46_Sam_Jodi_event3",
+    "Díselo, @...": "SamHouse_46_Sam_Sam_event4",
+    "Gracias por decirme la verdad, @. No es para tanto.": "SamHouse_46_Sam_Jodi_event4_prereq_1",
+    "¡¿Que has hecho QUÉ, Sam?! ¡¿Pero qué mosca te ha picado?!": "SamHouse_46_Sam_Jodi_event4_prereq_2",
+    "Lo siento, mamá. Ya lo limpio yo.": "SamHouse_46_Sam_Sam_event5",
+    "Gracias, cielo.": "SamHouse_46_Sam_Jodi_event5",
+    "Estoy muy enfadado contigo. No sé por qué has tenido que mentir así.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_1",
+    "Siento lo de antes.": "SamHouse_46_Sam_Sam_endDialogue6_prereq_2"
+}

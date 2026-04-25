@@ -1,0 +1,12 @@
+{
+    "*sigh*... I'm so sick of preparing these samples...": "Hospital_7_Maru_Maru_event1",
+    "Agh! Oh no!...": "Hospital_7_Maru_Maru_event2",
+    "The whole sample is ruined... Harvey's going to kill me...": "Hospital_7_Maru_Maru_event3",
+    "@, what should I do?": "Hospital_7_Maru_Maru_event4",
+    "What happened? I heard something break.": "Hospital_7_Maru_Harvey_event1",
+    "I accidentally dropped one of the samples... I'm so sorry.": "Hospital_7_Maru_Maru_event5_prereq_1",
+    "@ came in and slammed the door so loud I dropped this sample.": "Hospital_7_Maru_Maru_event5_prereq_2",
+    "You shouldn't blame others for your own problems, Maru.": "Hospital_7_Maru_Harvey_event2",
+    "*sigh*... I'll have to call the patient back in to recollect this sample.": "Hospital_7_Maru_Harvey_event3",
+    "This'll probably put us in the red for another month...": "Hospital_7_Maru_Harvey_event3_sv1"
+}
